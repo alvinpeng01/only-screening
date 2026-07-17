@@ -28,9 +28,11 @@ it in SOURCES.  Listing shape:
    screenings: [{date:"YYYY-MM-DD", time:"HH:MM", url:"<ticket link>"}, ...]}
 """
 
-import argparse, html, json, re, subprocess, sys, time, urllib.parse
+import argparse, html, json, os, re, subprocess, sys, time, urllib.parse
 from datetime import date, timedelta
 from pathlib import Path
+
+TMDB_KEY = os.environ.get("TMDB_KEY", "")   # set to enable TMDB metadata (else Wikipedia)
 
 DATA = Path(__file__).with_name("data.js")
 DATA_JSON = Path(__file__).with_name("data.json")   # machine-readable mirror, for --enrich
@@ -272,12 +274,20 @@ def paradise():
         raw = html.unescape(mv["movie_name"])
         yr = mv.get("release_year")
         rt = mv.get("runtime")
+        # The API omits posters, but each film's detail page carries the real
+        # one-sheet as og:image — pull it from the source rather than Wikipedia.
+        poster = ""
+        page = get(f"https://paradiseonbloor.com/film/{slug(raw)}/")
+        pm = re.search(r'og:image"\s+content="([^"]+)"', page)
+        if pm and "nightjar" in pm.group(1):
+            poster = html.unescape(pm.group(1))
         out.append({"theatre": "paradise", "title": clean_title(raw),
                     "year": int(yr) if yr and str(yr).isdigit() else year_from(raw),
                     "director": "", "runtime": int(rt) if rt and str(rt).isdigit() else None,
-                    "country": "", "lang": "", "why": "", "poster": "",
+                    "country": "", "lang": "", "why": "", "poster": poster,
                     "tags": tags_from(raw), "screenings": screenings})
-        print(f"    · {clean_title(raw)} — {len(screenings)} showtime(s)", file=sys.stderr)
+        print(f"    · {clean_title(raw)} — {len(screenings)} showtime(s)"
+              f"{' [poster]' if poster else ''}", file=sys.stderr)
     return out
 
 def tiff():
@@ -456,6 +466,9 @@ def carry_forward(movies):
         for fld in ("year", "director", "runtime", "country", "lang", "why", "poster"):
             if not m.get(fld) and prev.get(fld):
                 m[fld] = prev[fld]; carried = carried + 1
+        # preserve a rating already fetched (skip cached misses so they retry)
+        if "rating" not in m and prev.get("rating") is not None:
+            m["rating"], m["rating_count"] = prev["rating"], prev.get("rating_count")
         # union any tags the old record had
         for tg in prev.get("tags", []):
             if tg not in m["tags"]:
@@ -490,6 +503,7 @@ def emit(movies):
         lines.append(f'    tags: {js(m["tags"])},')
         lines.append(f'    why: {js(m["why"])},')
         lines.append(f'    poster: {js(m["poster"] or None)}, art: {js(m["art"])},')
+        lines.append(f'    rating: {js(m.get("rating"))}, ratingCount: {js(m.get("rating_count"))},')
         lines.append("    screenings: [")
         for s in m["screenings"]:
             lines.append(f'      {{ theatre: {js(s["theatre"])}, dates: {js(s["dates"])}, '
@@ -498,6 +512,69 @@ def emit(movies):
         lines.append("  },")
     lines += ["];", ""]
     return "\n".join(lines)
+
+
+# ===========================================================================
+# TMDB — clean metadata API (activates when TMDB_KEY is set; else Wikipedia).
+# ===========================================================================
+def tmdb_get(path, **params):
+    params["api_key"] = TMDB_KEY
+    return json.loads(get("https://api.themoviedb.org/3" + path + "?" +
+                          urllib.parse.urlencode(params)))
+
+def tmdb_enrich(m):
+    """Fill missing core fields from TMDB. Returns whether anything was filled."""
+    if not TMDB_KEY:
+        return False
+    try:
+        res = tmdb_get("/search/movie", query=m["title"], year=m.get("year") or "")
+        hits = res.get("results") or []
+        if not hits and m.get("year"):
+            hits = (tmdb_get("/search/movie", query=m["title"]).get("results") or [])
+        if not hits:
+            return False
+        d = tmdb_get(f"/movie/{hits[0]['id']}", append_to_response="credits")
+    except Exception:
+        return False
+    filled = []
+    if not m["poster"] and d.get("poster_path"):
+        m["poster"] = "https://image.tmdb.org/t/p/w500" + d["poster_path"]; filled.append("poster")
+    if not m["director"]:
+        dirs = [c["name"] for c in d.get("credits", {}).get("crew", []) if c.get("job") == "Director"]
+        if dirs: m["director"] = ", ".join(dirs[:2]); filled.append("director")
+    if not m["runtime"] and d.get("runtime"):
+        m["runtime"] = d["runtime"]; filled.append("runtime")
+    if not m["country"] and d.get("production_countries"):
+        m["country"] = ", ".join(c["name"].replace("United States of America", "USA")
+                                 for c in d["production_countries"][:2]); filled.append("country")
+    if not m["lang"] and d.get("spoken_languages"):
+        m["lang"] = ", ".join(l.get("english_name") or l.get("name")
+                              for l in d["spoken_languages"][:2]); filled.append("lang")
+    if not m["why"] and d.get("overview"):
+        o = d["overview"].strip(); m["why"] = (o[:217] + "…") if len(o) > 220 else o; filled.append("why")
+    if not m["year"] and d.get("release_date"):
+        m["year"] = int(d["release_date"][:4]); filled.append("year")
+    if not m["tags"] and d.get("genres"):
+        m["tags"] = [g["name"] for g in d["genres"][:3]]
+    if filled:
+        print(f"    + {m['title']} (TMDB): {', '.join(filled)}", file=sys.stderr)
+    return bool(filled)
+
+
+# ===========================================================================
+# LETTERBOXD — community rating (out of 5) scraped from each film's page.
+# ===========================================================================
+def letterboxd_rating(title, year):
+    """(rating_out_of_5, count) or (None, None). Tries the plain slug, then a
+    year-suffixed slug for disambiguation (Letterboxd has no public API)."""
+    base = slug(title)
+    for cand in ([f"{base}-{year}", base] if year else [base]):
+        h = get(f"https://letterboxd.com/film/{cand}/", t=15)
+        m = re.search(r'"aggregateRating".*?"ratingValue"\s*:\s*([\d.]+)'
+                      r'.*?"ratingCount"\s*:\s*(\d+)', h, re.S)
+        if m:
+            return round(float(m.group(1)), 2), int(m.group(2))
+    return None, None
 
 
 # ===========================================================================
@@ -520,14 +597,30 @@ def _infobox_row(h, label_re):
     m = re.search(label_re + r"\s*(?:</\w+>\s*){1,3}<td[^>]*>(.*?)</td>", h, re.S | re.I)
     return _strip_tags(m.group(1)) if m else ""
 
+def wiki_search(q):
+    """Top article title for a query, resilient to Wikipedia's search rate-limit
+    (which returns an error JSON rather than an empty body, so get()'s
+    empty-retry doesn't catch it — back off and retry here)."""
+    u = ("https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=%s"
+         "&srlimit=1&format=json&maxlag=5" % urllib.parse.quote(q))
+    for attempt in range(4):
+        raw = get(u)
+        try:
+            d = json.loads(raw)
+        except Exception:
+            time.sleep(1.5 * (attempt + 1)); continue
+        if "error" in d:                       # ratelimited / maxlag → back off
+            time.sleep(1.5 * (attempt + 1)); continue
+        hits = d.get("query", {}).get("search", [])
+        return hits[0]["title"] if hits else None
+    return None
+
 def wiki_film_page(title, year):
     """Resolve (article_html, article_title) for a film, or (None, None)."""
     for q in (f"{title} {year} film" if year else None, f"{title} film", title):
         if not q: continue
-        u = ("https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=%s"
-             "&srlimit=1&format=json" % urllib.parse.quote(q))
-        try: art = json.loads(get(u))["query"]["search"][0]["title"]
-        except Exception: continue
+        art = wiki_search(q)
+        if not art: continue
         h = get("https://en.wikipedia.org/wiki/" + urllib.parse.quote(art.replace(" ", "_")))
         if 'infobox' in h:
             return h, art
@@ -576,26 +669,44 @@ def wiki_enrich(m):
 
 CORE_FIELDS = ("poster", "director", "runtime", "country", "lang", "why", "year")
 
+def enrich_one(m):
+    """Fill missing metadata (TMDB when a key is set, else Wikipedia) and, once,
+    attach a Letterboxd rating. Returns whether anything new was filled."""
+    changed = False
+    if not all(m.get(f) for f in CORE_FIELDS):
+        if tmdb_enrich(m): changed = True                 # no-op unless TMDB_KEY set
+        if not all(m.get(f) for f in CORE_FIELDS):        # Wikipedia fills the rest
+            try:
+                if wiki_enrich(m): changed = True
+            except Exception as e:
+                print(f"    ! {m['title']}: {e}", file=sys.stderr)
+    if "rating" not in m:                                 # attempt Letterboxd exactly once
+        val, cnt = letterboxd_rating(m["title"], m.get("year"))
+        m["rating"], m["rating_count"] = val, cnt
+        if val is not None:
+            changed = True
+            print(f"    ★ {m['title']}: {val} ({cnt})", file=sys.stderr)
+    return changed
+
 def enrich_pass(movies):
-    """Fill missing core fields on every incomplete film. Returns how many films
-    gained at least one field. Re-runnable (safe to call repeatedly)."""
-    need = [m for m in movies if not all(m.get(f) for f in CORE_FIELDS)]
-    print(f"Enriching {len(need)} incomplete film(s) from Wikipedia …")
+    """Fill missing metadata + ratings on every incomplete film. Re-runnable."""
+    need = [m for m in movies
+            if not all(m.get(f) for f in CORE_FIELDS) or "rating" not in m]
+    src = "TMDB" if TMDB_KEY else "Wikipedia"
+    print(f"Enriching {len(need)} film(s) ({src} metadata + Letterboxd ratings) …")
     changed = 0
     for i, m in enumerate(need, 1):
-        try:
-            if wiki_enrich(m): changed += 1
-        except Exception as e:
-            print(f"    ! {m['title']}: {e}", file=sys.stderr)
-        time.sleep(0.25)                      # be polite; avoids Wikipedia throttling
+        if enrich_one(m): changed += 1
+        time.sleep(0.2)
         if i % 25 == 0:
             print(f"    … {i}/{len(need)}", file=sys.stderr)
     return changed
 
 def coverage(movies):
     n = len(movies) or 1
-    return " · ".join(f"{f}:{round(100*sum(1 for m in movies if m.get(f))/n)}%"
-                      for f in CORE_FIELDS)
+    stats = " · ".join(f"{f}:{round(100*sum(1 for m in movies if m.get(f))/n)}%"
+                       for f in CORE_FIELDS)
+    return stats + f" · rating:{round(100*sum(1 for m in movies if m.get('rating'))/n)}%"
 
 def write_all(movies, dry=False):
     out = emit(movies)

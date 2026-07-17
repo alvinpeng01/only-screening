@@ -27,6 +27,10 @@ jobs:
           python-version: "3.12"
 
       - name: Rebuild + enrich listings
+        env:
+          # Optional: add a repo secret named TMDB_KEY to use TMDB for metadata
+          # (faster/more complete than Wikipedia). Without it, Wikipedia is used.
+          TMDB_KEY: ${{ secrets.TMDB_KEY }}
         run: |
           python3 update.py --all
           python3 update.py --enrich --passes 4

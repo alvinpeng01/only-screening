@@ -1,0 +1,5 @@
+# Generated data files: never line-merge them. A line-level merge of two
+# divergent large JSON files silently corrupts the data — take one whole side
+# and let the next `update.py` run regenerate cleanly instead.
+data.js  -merge -diff
+data.json -merge -diff

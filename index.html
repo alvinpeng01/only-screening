@@ -4,6 +4,11 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Only Screening — a Toronto repertory film index</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <link rel="alternate icon" href="favicon-64.png" sizes="64x64" type="image/png" />
+  <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+  <meta name="theme-color" content="#14141a" />
+  <meta name="description" content="What's playing at Toronto's repertory and arthouse cinemas — Revue, Fox, Paradise, TIFF Lightbox, and Carlton — with posters, live showtimes, and ticket links." />
   <style>
     :root {
       --bg: #101014;
@@ -94,6 +99,12 @@
       background: rgba(10,10,12,.85); color: var(--accent-ink);
       font-family: var(--mono); font-size: 10px; letter-spacing: .06em;
       padding: 4px 8px; border-top: 1px solid var(--rule-strong); border-left: 1px solid var(--rule-strong);
+    }
+    .poster .rating {
+      position: absolute; top: 0; left: 0;
+      background: rgba(10,10,12,.85); color: var(--accent-ink);
+      font-family: var(--mono); font-size: 11px; font-weight: 600; letter-spacing: .04em;
+      padding: 4px 8px; border-bottom: 1px solid var(--rule-strong); border-right: 1px solid var(--rule-strong);
     }
     .card-body { padding-top: 12px; }
     .card-body h3 {
@@ -388,6 +399,7 @@
         return `<article class="card" data-id="${m.id}" tabindex="0" role="button" aria-label="${esc(m.title)}">
           <div class="poster">
             ${posterHTML(m)}
+            ${m.rating ? `<span class="rating" title="Letterboxd — ${m.ratingCount ? m.ratingCount.toLocaleString() + ' ratings' : ''}">★ ${m.rating.toFixed(1)}</span>` : ""}
             <span class="venues">${vc > 1 ? vc + " venues" : (theatreById[m.screenings[0].theatre]?.name.split(" ")[0] ?? "")}</span>
           </div>
           <div class="card-body">
@@ -445,11 +457,15 @@
         </div>`;
       }).join("");
 
+      const ratingCell = m.rating
+        ? `★ ${m.rating.toFixed(2)} / 5 <a href="https://letterboxd.com/search/films/${encodeURIComponent(m.title)}/" target="_blank" rel="noopener" style="color:var(--ink-faint)">Letterboxd${m.ratingCount ? " · " + m.ratingCount.toLocaleString() : ""}</a>`
+        : "";
       const specRows = [
-        ["Director", m.director], ["Year", m.year], ["Runtime", fmtRuntime(m.runtime)],
-        ["Country", m.country], ["Language", m.lang], ["Notes", (m.tags||[]).join(", ")],
+        ["Rating", ratingCell], ["Director", m.director], ["Year", m.year],
+        ["Runtime", fmtRuntime(m.runtime)], ["Country", m.country], ["Language", m.lang],
+        ["Notes", (m.tags||[]).join(", ")],
       ].filter(([, v]) => v)
-       .map(([k, v]) => `<tr><th>${k}</th><td>${esc(v)}</td></tr>`).join("");
+       .map(([k, v]) => `<tr><th>${k}</th><td>${k === "Rating" ? v : esc(v)}</td></tr>`).join("");
 
       document.getElementById("modal").innerHTML = `
         <button class="modal-close" aria-label="Close">&times;</button>

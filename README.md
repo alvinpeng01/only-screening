@@ -59,22 +59,31 @@ adapter in the `SOURCES` table.
   fetches the next 8 days, one request per day.
 
 **Metadata enrichment:** after scraping, `--all` fills any missing
-poster / director / runtime / country / language / synopsis / year from each
-film's Wikipedia article (infobox + REST summary), so Fox, Paradise, and Carlton
-films end up as rich as Revue's and TIFF's.
+poster / director / runtime / country / language / synopsis / year and attaches a
+**Letterboxd rating** to each film. Posters come from the theatres first (all five
+now expose them); metadata comes from **TMDB** when a key is set, otherwise
+Wikipedia (infobox + REST summary).
+
+- **TMDB (recommended).** Get a free key at themoviedb.org → Settings → API, then
+  `export TMDB_KEY=…` before running (or add a repo secret named `TMDB_KEY` for the
+  GitHub Action). Faster and more complete than Wikipedia, and it doesn't get
+  rate-limited in CI. Without a key, Wikipedia is used automatically.
+- **Letterboxd rating** is scraped from each film's page (no key; there's no public
+  API). Matched by URL slug, with a year-suffix fallback.
 
 Each rebuild also writes `data.json` (a machine-readable mirror). You can top up
-metadata **without re-scraping every theatre**:
+metadata + ratings **without re-scraping every theatre**:
 
 ```
-python3 update.py --enrich              # one Wikipedia pass over incomplete films
+python3 update.py --enrich              # one pass over incomplete films
 python3 update.py --enrich --passes 3   # repeat until nothing new fills
 ```
 
 Both `--all` and `--enrich` print a coverage line (e.g.
-`poster:98% · director:88% · runtime:85% …`). Films that stay sparse are the
-non-film events on these calendars (repertory Q&As, festival passes, "public
-hours") that simply have no film metadata to find.
+`poster:100% · director:92% · … · rating:88%`). Earned metadata and ratings are
+**carried forward** across rebuilds (matched by title), so nightly re-scrapes never
+lose them. Films that stay sparse are the non-film events on these calendars
+(repertory Q&As, festival passes, "public hours") with no film metadata to find.
 
 **Add another theatre** by writing a function that returns a list of listings and
 registering it in `SOURCES`. Each listing looks like:
