@@ -437,6 +437,34 @@ def group(listings):
         m["art"] = PALETTE[i % len(PALETTE)]
     return ordered
 
+def carry_forward(movies):
+    """Preserve metadata already earned in a previous build. Re-scraping rebuilds
+    the movie list from scratch, so without this every rebuild would drop the
+    poster/director/etc. that enrichment filled in — and CI (Wikipedia-throttled)
+    could never rebuild them. Matched by normalized title."""
+    if not DATA_JSON.exists():
+        return movies
+    try:
+        old = {norm(m["title"]): m for m in json.loads(DATA_JSON.read_text())}
+    except Exception:
+        return movies
+    carried = 0
+    for m in movies:
+        prev = old.get(norm(m["title"]))
+        if not prev:
+            continue
+        for fld in ("year", "director", "runtime", "country", "lang", "why", "poster"):
+            if not m.get(fld) and prev.get(fld):
+                m[fld] = prev[fld]; carried = carried + 1
+        # union any tags the old record had
+        for tg in prev.get("tags", []):
+            if tg not in m["tags"]:
+                m["tags"].append(tg)
+        m["tags"] = m["tags"][:3]
+    if carried:
+        print(f"Carried forward {carried} field(s) from the previous build.")
+    return movies
+
 def js(v):  # JSON is valid JS; keeps quotes/apostrophes safe
     return json.dumps(v, ensure_ascii=False)
 
@@ -598,7 +626,7 @@ def main():
             print(f"Fetching {tid} …", file=sys.stderr)
             try: listings += adapter()
             except Exception as e: print(f"  {tid} failed: {e}", file=sys.stderr)
-        movies = group(listings)
+        movies = carry_forward(group(listings))
         print(f"\n{len(movies)} unique films · "
               f"{sum(len(m['screenings']) for m in movies)} showtimes · {len(SOURCES)} theatres")
         if a.all:
