@@ -1,3586 +1,119 @@
 [
  {
-  "id": "varsity-blues",
-  "title": "Varsity Blues",
-  "year": 1999,
-  "director": "Brian Robbins",
-  "runtime": 106,
+  "id": "thelma-louise",
+  "title": "Thelma & Louise",
+  "year": 1991,
+  "director": "Ridley Scott",
+  "runtime": 130,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/varsity_blues_tmdb-g2jx2xmx7drbc6j9mljebghr7mg-683x1024.jpg",
+  "why": "Rewind & Replay...Taking a break from their dreary lives, close friends Thelma and Louise embark on a short weekend trip that ends in unforeseen incriminating circumstances. As fugitives, both women rediscover the streng",
+  "poster": "https://omniwebticketing6.com/imaginecinemas/files-circuit/images/posters/Thelma%20%26%20Louise.png",
   "tags": [],
   "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-10"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1024134~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#2b3a2f",
-   "#e0b34d"
-  ]
- },
- {
-  "id": "nick-and-norah-s-infinite-playlist",
-  "title": "Nick and Norah's Infinite Playlist",
-  "year": 2008,
-  "director": "Peter Sollett",
-  "runtime": 89,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/p175989_p_v8_aq-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-29"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1024132~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a2b2b",
-   "#c94f4f"
-  ]
- },
- {
-  "id": "buddy",
-  "title": "Buddy",
-  "year": 2026,
-  "director": "Casper Kelly",
-  "runtime": 95,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/buddy_tmdb-pcw0mnheym8vig7my6vwqnjhkmw-691x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-18"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1024122~fc639be0-110c-4035-a588-842aceff5ef6&"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "15:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/buddy-2026/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-20"
-    ],
-    "time": "15:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/buddy-2026/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-23"
-    ],
-    "time": "15:15",
-    "format": "",
-    "url": "https://revuecinema.ca/films/buddy-2026/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-24"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://revuecinema.ca/films/buddy-2026/"
-   }
-  ],
-  "art": [
-   "#1f2a44",
-   "#f0f0f0"
-  ]
- },
- {
-  "id": "house-of-wax",
-  "title": "House of Wax",
-  "year": 2005,
-  "director": "Jaume Collet-Serra",
-  "runtime": 113,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/house_of_wax_tmdb-aclsgw1daqkrvosyc3yuttbttpt-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-10-29"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1023815~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a2440",
-   "#4dd6c4"
-  ]
- },
- {
-  "id": "trick-r-treat",
-  "title": "Trick 'R Treat",
-  "year": 2007,
-  "director": "Michael Dougherty",
-  "runtime": 82,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/screenshot_2026-07-13_at_8.45.38_am-679x1024.png",
-  "tags": [
-   "Restoration",
-   "Premiere"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "23:59",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1023813~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#123a3a",
-   "#7fd4e0"
-  ]
- },
- {
-  "id": "butch-cassidy-and-the-sundance-kid",
-  "title": "Butch Cassidy and the Sundance Kid",
-  "year": 1969,
-  "director": "George Roy Hill",
-  "runtime": 111,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/butch_cassidy_and_the_sundance_kid_tmdb-gfmmykf1ym3ogzeno50nzqad1dx-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-20"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1023802~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#2a3550",
-   "#e88b6a"
-  ]
- },
- {
-  "id": "an-american-werewolf-in-london",
-  "title": "An American Werewolf in London",
-  "year": 1981,
-  "director": "John Landis",
-  "runtime": 97,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/an_american_werewolf_in_london_tmdb-hvequasjmcqaolkkfeyschz8ukg-683x1024.jpg",
-  "tags": [
-   "35mm"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-10-25"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1023804~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#40183a",
-   "#f24d94"
-  ]
- },
- {
-  "id": "ninotchka",
-  "title": "Ninotchka",
-  "year": 1939,
-  "director": "Ernst Lubitsch",
-  "runtime": 110,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/ninotchka_tmdb-v4mkgnqzyodywbdnbz64mf9tvel-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-13"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1023760~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#24303a",
-   "#9ab0c4"
-  ]
- },
- {
-  "id": "no-country-for-old-men",
-  "title": "No Country for Old Men",
-  "year": 2007,
-  "director": "Ethan Coen",
-  "runtime": 122,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/no_country_for_old_men_tmdb-ub7rdzby43wvu8skghhtwgytdbx-683x1024.jpg",
-  "tags": [
-   "4K",
-   "Restoration"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-21"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1023750~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a3218",
-   "#d9c06a"
-  ]
- },
- {
-  "id": "ice-cream-man",
-  "title": "Ice Cream Man",
-  "year": 2026,
-  "director": "Eli Roth",
-  "runtime": 86,
-  "country": "Japan",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/ice_cream_man_tmdb-c987gxfjxqyoxzezkctks1ontwh-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-07"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1023736~fc639be0-110c-4035-a588-842aceff5ef6&"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-08"
-    ],
-    "time": "21:00",
-    "format": "",
-    "url": "https://revuecinema.ca/films/ice-cream-man-2026/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "13:00",
-    "format": "",
-    "url": "https://revuecinema.ca/films/ice-cream-man-2026/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-10"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/ice-cream-man-2026/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-11"
-    ],
-    "time": "16:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/ice-cream-man-2026/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-12"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/ice-cream-man-2026/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/ice-cream-man-2026/"
-   }
-  ],
-  "art": [
-   "#101b2a",
-   "#e0562a"
-  ]
- },
- {
-  "id": "trick-or-treat",
-  "title": "Trick or Treat",
-  "year": 1986,
-  "director": "Charles Martin Smith",
-  "runtime": 97,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/trick_or_treat_tmdb-yccrgbfuoeckscwxqeka1veps7o-683x1024.jpg",
-  "tags": [
-   "35mm"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1023691~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a2a1a",
-   "#f0a83c"
-  ]
- },
- {
-  "id": "phenomena",
-  "title": "Phenomena",
-  "year": 1985,
-  "director": "Dario Argento",
-  "runtime": 110,
-  "country": "Italy",
-  "lang": "Italian",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/phenomena_tmdb-dhk14s8ogqkbf6re3hlkv2ubhjx.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-22"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1023689~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#2a3324",
-   "#d4b26a"
-  ]
- },
- {
-  "id": "the-wrong-girls",
-  "title": "The Wrong Girls",
-  "year": 2026,
-  "director": "Dylan Meyer",
-  "runtime": 99,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/the_wrong_girls_tmdb-ldymh3iztmskofd1wdotmttfezg-683x1024.jpg",
-  "tags": [
-   "Premiere"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-11"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1023682~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#2b3a2f",
-   "#e0b34d"
-  ]
- },
- {
-  "id": "star-trek-the-motion-picture",
-  "title": "Star Trek: The Motion Picture",
-  "year": 1979,
-  "director": "Robert Wise",
-  "runtime": 131,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/star_trek_the_motion_picture_tmdb-wfiafnwh6cmkxz4vraw8cptabtk-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-08"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1023675~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a2b2b",
-   "#c94f4f"
-  ]
- },
- {
-  "id": "foxy-brown",
-  "title": "Foxy Brown",
-  "year": 1974,
-  "director": "Jack Hill",
-  "runtime": 94,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/foxy_brown_tmdb-laeedcbgeqnxl9l7n7i4936eri8-690x1024.jpg",
-  "tags": [
-   "4K",
-   "Restoration"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-19"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1023569~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#1f2a44",
-   "#f0f0f0"
-  ]
- },
- {
-  "id": "paranormal-activity",
-  "title": "Paranormal Activity",
-  "year": 2007,
-  "director": "Oren Peli",
-  "runtime": 86,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/paranormal_activity_tmdb-tmclkepjeo4zu564gf3krwioukw-683x1024.jpg",
-  "tags": [
-   "35mm"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-10-13"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1023561~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a2440",
-   "#4dd6c4"
-  ]
- },
- {
-  "id": "the-raid-the-raid-2",
-  "title": "The Raid + the Raid 2",
-  "year": 2014,
-  "director": "Gareth Evans",
-  "runtime": 150,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/the_raid_2_berandal_tmdb-mlguklidldphyjz1qbxi0fmyyik-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-15"
-    ],
-    "time": "20:55",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1022842~fc639be0-110c-4035-a588-842aceff5ef6&"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-15"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=822729~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#123a3a",
-   "#7fd4e0"
-  ]
- },
- {
-  "id": "reel-fear-the-evolution-of-found-footage-horror",
-  "title": "Reel Fear: The Evolution of Found Footage Horror",
-  "year": null,
-  "director": "Various",
-  "runtime": 90,
-  "country": "Various",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/images_(9).jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-10-13"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1022839~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#2a3550",
-   "#e88b6a"
-  ]
- },
- {
-  "id": "the-crowd",
-  "title": "The Crowd",
-  "year": 1928,
-  "director": "King Vidor",
-  "runtime": 98,
-  "country": "USA",
-  "lang": "No Language",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/the_crowd_tmdb-jftzhlczle2dolqwy0menoipjxc-683x1024.jpg",
-  "tags": [
-   "Premiere"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-27"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1022807~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#40183a",
-   "#f24d94"
-  ]
- },
- {
-  "id": "ocean-s-twelve",
-  "title": "Ocean's Twelve",
-  "year": 2004,
-  "director": "Steven Soderbergh",
-  "runtime": 125,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/ocean's_twelve_tmdb-pe5anff7nf6ah7v3vrezq1ksovi-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-12"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1022805~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#24303a",
-   "#9ab0c4"
-  ]
- },
- {
-  "id": "he-who-gets-slapped",
-  "title": "He Who Gets Slapped",
-  "year": 1924,
-  "director": "Victor Sjöström",
-  "runtime": 72,
-  "country": "USA",
-  "lang": "No Language",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/he_who_gets_slapped_tmdb-ue7ce11y6vejzxkzekcbkl6o9dp-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-11-29"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1022810~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a3218",
-   "#d9c06a"
-  ]
- },
- {
-  "id": "faust",
-  "title": "Faust",
-  "year": 1926,
-  "director": "F. W. Murnau",
-  "runtime": 116,
-  "country": "Germany",
-  "lang": "No Language",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/faust_–_eine_deutsche_volkssage_tmdb-rn703hmfxmkzfyezsxvftufhkxe.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-10-25"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=829540~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#101b2a",
-   "#e0562a"
-  ]
- },
- {
-  "id": "the-burning",
-  "title": "The Burning",
-  "year": 1981,
-  "director": "Tony Maylam",
-  "runtime": 91,
-  "country": "Canada",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/the_burning_tmdb-d8as1gtcahlc5rirarnuud85gja-683x1024.jpg",
-  "tags": [
-   "35mm"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-17"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1022747~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a2a1a",
-   "#f0a83c"
-  ]
- },
- {
-  "id": "big-trouble-in-little-china",
-  "title": "Big Trouble in Little China",
-  "year": 1986,
-  "director": "John Carpenter",
-  "runtime": 100,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/big_trouble_in_little_china_tmdb-rcy3cfjfwvbsyivcfoqmcmah5r2-683x1024.jpg",
-  "tags": [
-   "35mm"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-14"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1022745~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#2a3324",
-   "#d4b26a"
-  ]
- },
- {
-  "id": "withdrawal",
-  "title": "Withdrawal",
-  "year": 2025,
-  "director": "Aaron Strand",
-  "runtime": 93,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/withdrawal_tmdb-7heo5tqacruwkkoweyxybmgni7b-1024x576.jpg",
-  "tags": [
-   "Premiere"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-19"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1022055~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#2b3a2f",
-   "#e0b34d"
-  ]
- },
- {
-  "id": "the-samurai-and-the-prisoner",
-  "title": "The Samurai and the Prisoner",
-  "year": 2026,
-  "director": "Kiyoshi Kurosawa",
-  "runtime": 147,
-  "country": "Japan",
-  "lang": "Japanese",
-  "why": "Kiyoshi Kurosawa’s latest is an elegant series of mysteries set in the court of a samurai nobleman.",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/mv5bytg0mwvmmtatzwzkns00zjm3ltkxodgtmdqzzjjiywnjzduzxkeyxkfqcgc@._v1_-691x1024.jpg",
-  "tags": [
-   "Drama",
-   "Mystery + Thriller"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-05"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1022048~fc639be0-110c-4035-a588-842aceff5ef6&"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-07"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://revuecinema.ca/films/revue-event-the-samurai-and-the-prisoner/"
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-08-07"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkcwNzY0VDI="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-08-07"
-    ],
-    "time": "21:15",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkcwNzkxVDM="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-08-08"
-    ],
-    "time": "19:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkcwODczVDM="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-08-08"
-    ],
-    "time": "13:15",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkcwODExVDM="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "15:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkcwOTMzVDI="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkcwOTYzVDM="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-08-11"
-    ],
-    "time": "19:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkcxMTczVDM="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-08-12"
-    ],
-    "time": "20:00",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkcxMjgwVDM="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "19:15",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkcxMzcxVDE="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkcxMzQwVDE="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-08-12"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkcxMjQwVDI="
-   }
-  ],
-  "art": [
-   "#3a2b2b",
-   "#c94f4f"
-  ]
- },
- {
-  "id": "corey-feldman-vs-the-world",
-  "title": "Corey Feldman vs. the World",
-  "year": 2025,
-  "director": "Marcie Hume",
-  "runtime": 98,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/corey_feldman_vs._the_world_tmdb-mvvu7w5m0f4kcgwoh3m5dpollxy-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-05"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1022051~fc639be0-110c-4035-a588-842aceff5ef6&"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-06"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/revue-event-corey-feldman-vs-the-world-2025/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-07"
-    ],
-    "time": "19:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/revue-event-corey-feldman-vs-the-world-2025/"
-   }
-  ],
-  "art": [
-   "#1f2a44",
-   "#f0f0f0"
-  ]
- },
- {
-  "id": "armageddon-road",
-  "title": "Armageddon Road",
-  "year": 2026,
-  "director": "Karen Lam",
-  "runtime": 85,
-  "country": "Canada",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/armageddon_road_tmdb-kw4xpfmtp0m2afwgcodclxyqork-683x1024.jpg",
-  "tags": [
-   "Premiere"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-03"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1022045~fc639be0-110c-4035-a588-842aceff5ef6&"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-04"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://revuecinema.ca/films/revue-event-armageddon-road-toronto-theatrical-premiere-with-director-cast-and-crew-in-attendance/"
-   }
-  ],
-  "art": [
-   "#3a2440",
-   "#4dd6c4"
-  ]
- },
- {
-  "id": "paper-moon",
-  "title": "Paper Moon",
-  "year": 1973,
-  "director": "Peter Bogdanovich",
-  "runtime": 102,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/paper_moon_tmdb-3ghg0ktcbwhkdxjj3rdk8gjbcd6-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "19:45",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1020047~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#123a3a",
-   "#7fd4e0"
-  ]
- },
- {
-  "id": "juno",
-  "title": "Juno",
-  "year": 2007,
-  "director": "Jason Reitman",
-  "runtime": 96,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/juno_tmdb-jnin2tvhpvfd6p9iojldi3mnycn-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-24"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1019988~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#2a3550",
-   "#e88b6a"
-  ]
- },
- {
-  "id": "girlfriends",
-  "title": "Girlfriends",
-  "year": 1978,
-  "director": "Claudia Weill",
-  "runtime": 88,
-  "country": "USA",
-  "lang": "French",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/girlfriends_tmdb-qoexb0pawoo5kpk2ugiwnthcgew-672x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-03"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1019990~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#40183a",
-   "#f24d94"
-  ]
- },
- {
-  "id": "yacht-rock-the-complete-web-series",
-  "title": "Yacht Rock: The Complete Web Series",
-  "year": 2025,
-  "director": "J. D. Ryznar",
-  "runtime": 90,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/dragon_sounds_-_revue_lobby-1024x771.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-27"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1019845~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#24303a",
-   "#9ab0c4"
-  ]
- },
- {
-  "id": "d-e-b-s",
-  "title": "D.E.B.S.",
-  "year": 2004,
-  "director": "Angela Robinson",
-  "runtime": 91,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/d.e.b.s._tmdb-cmwltcg5avbyeh5w6svsfowboaf-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-27"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=865754~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a3218",
-   "#d9c06a"
-  ]
- },
- {
-  "id": "the-hunger-games",
-  "title": "The Hunger Games",
-  "year": 2012,
-  "director": "Gary Ross",
-  "runtime": 142,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/the_hunger_games_tmdb-yxcboivdcxo71zi7cuwbrxdftq8-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-20"
-    ],
-    "time": "18:15",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1019407~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#101b2a",
-   "#e0562a"
-  ]
- },
- {
-  "id": "trailer-trash-ozploitation",
-  "title": "Trailer Trash: Ozploitation",
-  "year": null,
-  "director": "Various",
-  "runtime": 110,
-  "country": "Australia",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/522208901_1188693503285078_6065687512560654517_n-1024x429.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-20"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1019365~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a2a1a",
-   "#f0a83c"
-  ]
- },
- {
-  "id": "the-butterfly-effect",
-  "title": "The Butterfly Effect",
-  "year": 2004,
-  "director": "J. Mackye Gruber",
-  "runtime": 113,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/the_butterfly_effect_tmdb-ea5iv7twmh18fokorggmtcg85gx-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-08"
-    ],
-    "time": "12:00",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1019327~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#2a3324",
-   "#d4b26a"
-  ]
- },
- {
-  "id": "all-the-beauty-and-the-bloodshed",
-  "title": "All the Beauty and the Bloodshed",
-  "year": 2022,
-  "director": "Laura Poitras",
-  "runtime": 122,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/all_the_beauty_and_the_bloodshed_tmdb-cvo51xxtiuhc5w5zgfsigifauao-692x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-16"
-    ],
-    "time": "19:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1018661~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#2b3a2f",
-   "#e0b34d"
-  ]
- },
- {
-  "id": "laura-taler-2-films-30-years-the-village-trilogy-matryoshka-",
-  "title": "Laura Taler 2 Films 30 Years: the village trilogy + Matryoshka Crush",
-  "year": null,
-  "director": "Laura Taler",
-  "runtime": 70,
-  "country": "Canada",
-  "lang": "No Dialogue",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/03_taler_villagetrilogy-1024x768.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-10"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1018581~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a2b2b",
-   "#c94f4f"
-  ]
- },
- {
-  "id": "putney-swope",
-  "title": "Putney Swope",
-  "year": 1969,
-  "director": "Robert Downey Sr.",
-  "runtime": 85,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/putney_swope_tmdb-77hzrjyrgcuytrz6xyc8cv2jpdy-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-01"
-    ],
-    "time": "15:00",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1018663~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#1f2a44",
-   "#f0f0f0"
-  ]
- },
- {
-  "id": "come-what-may",
-  "title": "Come What May",
-  "year": 2026,
-  "director": "Lahna Turner",
-  "runtime": 131,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/come_what_may_tmdb-cnbggnejfkpekf98qcuzuciuon7-693x1024.jpg",
-  "tags": [
-   "Premiere",
-   "Q&A"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-22"
-    ],
-    "time": "17:45",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1018665~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a2440",
-   "#4dd6c4"
-  ]
- },
- {
-  "id": "modern-whore",
-  "title": "Modern Whore",
-  "year": 2025,
-  "director": "Nicole Bazuin",
-  "runtime": 80,
-  "country": "Canada",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/modern_whore_tmdb-a5kcksj7ziygvso3rpt75tpeflj-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "15:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1018579~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#123a3a",
-   "#7fd4e0"
-  ]
- },
- {
-  "id": "michael",
-  "title": "Michael",
-  "year": 2026,
-  "director": "Antoine Fuqua",
-  "runtime": 128,
-  "country": "USA",
-  "lang": "Spanish",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/michael_tmdb-zm0kabojlt9er5y7vdil2deowml-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-29"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1018598~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#2a3550",
-   "#e88b6a"
-  ]
- },
- {
-  "id": "project-hail-mary",
-  "title": "Project Hail Mary",
-  "year": 2026,
-  "director": "Christopher Miller",
-  "runtime": 157,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/project_hail_mary_tmdb-yihdxomyb5ktesivtfndmy5idmf-683x1024.jpg",
-  "tags": [
-   "70mm"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "18:00",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1018532~fc639be0-110c-4035-a588-842aceff5ef6&"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-25"
-    ],
-    "time": "14:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/to-70-and-beyond-project-hail-mary-presented-on-70mm/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "11:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/to-70-and-beyond-project-hail-mary-presented-on-70mm/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-27"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/to-70-and-beyond-project-hail-mary-presented-on-70mm/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-29"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/to-70-and-beyond-project-hail-mary-presented-on-70mm/"
-   }
-  ],
-  "art": [
-   "#40183a",
-   "#f24d94"
-  ]
- },
- {
-  "id": "teenage-sex-and-death-at-camp-miasma",
-  "title": "Teenage Sex and Death at Camp Miasma",
-  "year": 2026,
-  "director": "Jane Schoenbrun",
-  "runtime": 112,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/teenage_sex_and_death_at_camp_miasma_tmdb-nlsfnxifiestqsewxjxss8rvauz-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-21"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1018309~fc639be0-110c-4035-a588-842aceff5ef6&"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-22"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/teenage-sex-and-death-at-camp-miasma-first-run-screenings-special-dumpster-raccoon-event/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-23"
-    ],
-    "time": "13:00",
-    "format": "",
-    "url": "https://revuecinema.ca/films/teenage-sex-and-death-at-camp-miasma-first-run-screenings-special-dumpster-raccoon-event/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-24"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/teenage-sex-and-death-at-camp-miasma-first-run-screenings-special-dumpster-raccoon-event/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-25"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/teenage-sex-and-death-at-camp-miasma-first-run-screenings-special-dumpster-raccoon-event/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-26"
-    ],
-    "time": "15:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/teenage-sex-and-death-at-camp-miasma-first-run-screenings-special-dumpster-raccoon-event/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-27"
-    ],
-    "time": "15:00",
-    "format": "",
-    "url": "https://revuecinema.ca/films/teenage-sex-and-death-at-camp-miasma-first-run-screenings-special-dumpster-raccoon-event/"
-   }
-  ],
-  "art": [
-   "#24303a",
-   "#9ab0c4"
-  ]
- },
- {
-  "id": "psycho-beach-party",
-  "title": "Psycho Beach Party",
-  "year": 2000,
-  "director": "Robert Lee King",
-  "runtime": 97,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/psycho_beach_party_tmdb-28mzkfdyvzmvx9nhdrjq3g2h7it-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-25"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1018307~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a3218",
-   "#d9c06a"
-  ]
- },
- {
-  "id": "maximum-overdrive",
-  "title": "Maximum Overdrive",
-  "year": 1986,
-  "director": "Stephen King",
-  "runtime": 98,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/maximum_overdrive_tmdb-8pgyesuatpnms8lhs4nvwidjkbg-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-23"
-    ],
-    "time": "19:15",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1017624~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#101b2a",
-   "#e0562a"
-  ]
- },
- {
-  "id": "clash-of-the-titans",
-  "title": "Clash of the Titans",
-  "year": 1981,
-  "director": "Desmond Davis",
-  "runtime": 118,
-  "country": "USA",
-  "lang": "Spanish",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/clash_of_the_titans_tmdb-5jclodnljh6alc3kmyoic21nlob-682x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-04"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1017415~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a2a1a",
-   "#f0a83c"
-  ]
- },
- {
-  "id": "the-piano-teacher",
-  "title": "The Piano Teacher",
-  "year": 2001,
-  "director": "Michael Haneke",
-  "runtime": 131,
-  "country": "Germany",
-  "lang": "German",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/la_pianiste_tmdb-gnhkyqnp1rnqehkivhjzbpb4mop-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-25"
-    ],
-    "time": "18:15",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1017268~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#2a3324",
-   "#d4b26a"
-  ]
- },
- {
-  "id": "burnt-offerings",
-  "title": "Burnt Offerings",
-  "year": 1976,
-  "director": "Dan Curtis",
-  "runtime": 116,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/burnt_offerings_tmdb-2ipg69lxojgmx7f7qxjqzuoiusd-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-10-15"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1017166~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#2b3a2f",
-   "#e0b34d"
-  ]
- },
- {
-  "id": "the-women",
-  "title": "The Women",
-  "year": 1939,
-  "director": "George Cukor",
-  "runtime": 133,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/the_women_tmdb-wmtbdi60uvt7eclz301xee8maoo.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-17"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1017158~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a2b2b",
-   "#c94f4f"
-  ]
- },
- {
-  "id": "charade",
-  "title": "Charade",
-  "year": 1963,
-  "director": "Stanley Donen",
-  "runtime": 113,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/charade_tmdb-qqapjc5fqidtky65jbakzpiotas.jpg",
-  "tags": [
-   "4K",
-   "Restoration"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-12"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1017104~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#1f2a44",
-   "#f0f0f0"
-  ]
- },
- {
-  "id": "sick-puppy",
-  "title": "Sick Puppy",
-  "year": 2025,
-  "director": "Jay Reid",
-  "runtime": 105,
-  "country": "Canada",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/sick_puppy_tmdb-igeetptozn6d4qthwpjprnl1stk-692x1024.jpg",
-  "tags": [
-   "Premiere"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-15"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1017102~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a2440",
-   "#4dd6c4"
-  ]
- },
- {
-  "id": "scream-scream-7-double-feature",
-  "title": "Scream + Scream 7 Double Feature",
-  "year": 1996,
-  "director": "Kevin Williamson",
-  "runtime": 114,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/scream_7_tmdb-jjyuk0edliw8vosnlfwwcclpbh5-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-10-23"
-    ],
-    "time": "22:00",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1016903~fc639be0-110c-4035-a588-842aceff5ef6&"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-10-23"
-    ],
-    "time": "19:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=823376~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#123a3a",
-   "#7fd4e0"
-  ]
- },
- {
-  "id": "obsession",
-  "title": "Obsession",
-  "year": 2026,
-  "director": "Curry Barker",
-  "runtime": 108,
-  "country": "United Kingdom",
-  "lang": "English",
-  "why": "Come see the breakout horror hit of the year on the big screen one last time! After breaking the mysterious “One Wish Willow” to win his crush’s heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price. Written and directed by […]",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/obsession_tmdb-6x4qfybsg3bpwdg2xikqr04kfja-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1016866~fc639be0-110c-4035-a588-842aceff5ef6&"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "13:00",
-    "format": "",
-    "url": "https://revuecinema.ca/films/obsession/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-20"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/obsession/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-21"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/obsession/"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "21:15",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=641004~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-25"
-    ],
-    "time": "21:15",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640318~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-27"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640319~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-28"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640320~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-30"
-    ],
-    "time": "21:40",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640321~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#2a3550",
-   "#e88b6a"
-  ]
- },
- {
-  "id": "the-way-we-were",
-  "title": "The Way We Were",
-  "year": 1973,
-  "director": "Sydney Pollack",
-  "runtime": 118,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/the_way_we_were_tmdb-o5x563ze56ii4inscbxtndkt28i-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-26"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1016832~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#40183a",
-   "#f24d94"
-  ]
- },
- {
-  "id": "saving-face",
-  "title": "Saving Face",
-  "year": 2004,
-  "director": "Alice Wu",
-  "runtime": 97,
-  "country": "USA",
-  "lang": "Mandarin",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/saving_face_tmdb-7xbbgkki4nemou9iwianxpjkkhe-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-27"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1016835~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#24303a",
-   "#9ab0c4"
-  ]
- },
- {
-  "id": "matilda",
-  "title": "Matilda",
-  "year": 1996,
-  "director": "Danny DeVito",
-  "runtime": 98,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/matilda_tmdb-wyodpwinsbevsmwstnrh06ddoyk-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-26"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1016829~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a3218",
-   "#d9c06a"
-  ]
- },
- {
-  "id": "wallace-gromit-the-curse-of-the-were-rabbit",
-  "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
-  "year": 2005,
-  "director": "Nick Park",
-  "runtime": 85,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/wallace_&_gromit_the_curse_of_the_were-rabbit_tmdb-cmq2lnd7sbe6pcf6zf5qxrkzbrg-682x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1016376~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#101b2a",
-   "#e0562a"
-  ]
- },
- {
-  "id": "the-secret-garden",
-  "title": "The Secret Garden",
-  "year": 1993,
-  "director": "Agnieszka Holland",
-  "runtime": 101,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/the_secret_garden_tmdb-zf6h5dj7wvg7lqmo9dhhghvejzj-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-08"
-    ],
-    "time": "15:00",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1016385~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a2a1a",
-   "#f0a83c"
-  ]
- },
- {
-  "id": "cannibal-holocaust",
-  "title": "Cannibal Holocaust",
-  "year": 1980,
-  "director": "Ruggero Deodato",
-  "runtime": 95,
-  "country": "Italy",
-  "lang": "Italian",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/cannibal_holocaust_tmdb-otxzzmh53tsn7yyfqsz3rwh1ymd-683x1024.jpg",
-  "tags": [
-   "Restoration",
-   "Premiere"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-05"
-    ],
-    "time": "23:59",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1016387~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#2a3324",
-   "#d4b26a"
-  ]
- },
- {
-  "id": "situations",
-  "title": "Situations",
-  "year": 2025,
-  "director": "Greg Vrotsos",
-  "runtime": 102,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/situations_tmdb-lxzaiynsn9sejaorp6kzqkoogk-683x1024.jpg",
-  "tags": [
-   "Premiere"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "18:00",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1015672~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#2b3a2f",
-   "#e0b34d"
-  ]
- },
- {
-  "id": "prisoners",
-  "title": "Prisoners",
-  "year": 2013,
-  "director": "Denis Villeneuve",
-  "runtime": 153,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/prisoners_tmdb-jss3a3ep2kybvmmiwaz3lvk49b1-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-10-10"
-    ],
-    "time": "18:00",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1015674~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a2b2b",
-   "#c94f4f"
-  ]
- },
- {
-  "id": "i-want-your-sex",
-  "title": "I Want Your Sex",
-  "year": 2026,
-  "director": "Gregg Araki",
-  "runtime": 90,
-  "country": "USA",
-  "lang": "English",
-  "why": "Gregg Araki, known for films like “Mysterious Skin” and “Nowhere,” returns to direct his first full-length feature in over ten years with the boundary-pushing and irreverent film “I Want Your Sex,” which was a breakout at Sundance. “This unconventional rom-com feels like a natural extension of the queer indie pioneer’s sex-positive sensibility, even as he […]",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/i_want_your_sex_tmdb-8qljmluni7priho7giwiyijjco5-683x1024.jpg",
-  "tags": [
-   "Premiere"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-31"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1015680~fc639be0-110c-4035-a588-842aceff5ef6&"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-01"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/i-want-your-sex/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-02"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://revuecinema.ca/films/i-want-your-sex/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-03"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://revuecinema.ca/films/i-want-your-sex/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-04"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/i-want-your-sex/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-05"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/i-want-your-sex/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-06"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://revuecinema.ca/films/i-want-your-sex/"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-31"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=637943~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-01"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=637944~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-02"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=637945~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-03"
-    ],
-    "time": "21:15",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=637946~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-05"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=637948~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-06"
-    ],
-    "time": "21:15",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=637949~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-07"
-    ],
-    "time": "21:15",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=637950~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-08"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=637951~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=637952~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
    {
     "theatre": "paradise",
     "dates": [
-     "2026-07-20"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/569107/"
-   }
-  ],
-  "art": [
-   "#1f2a44",
-   "#f0f0f0"
-  ]
- },
- {
-  "id": "halloween-h20-twenty-years-later",
-  "title": "Halloween H20: Twenty Years Later",
-  "year": 1998,
-  "director": "Steve Miner",
-  "runtime": 86,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/halloween_h20_20_years_later_tmdb-lqlxum3ok59sgjkrh2zjj2m3img-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-10-31"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1015642~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a2440",
-   "#4dd6c4"
-  ]
- },
- {
-  "id": "behind-the-mask-the-rise-of-leslie-vernon",
-  "title": "Behind the Mask: The Rise of Leslie Vernon",
-  "year": 2006,
-  "director": "Scott Glosserman",
-  "runtime": 91,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/behind_the_mask_the_rise_of_leslie_vernon_tmdb-vie8a3z219zsw81easm58b6vfen-683x1024.jpg",
-  "tags": [
-   "35mm"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-10-21"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1015676~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#123a3a",
-   "#7fd4e0"
-  ]
- },
- {
-  "id": "dreams-in-nightmares",
-  "title": "Dreams in Nightmares",
-  "year": 2024,
-  "director": "Shatara Michelle Ford",
-  "runtime": 128,
-  "country": "France",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/dreams_in_nightmares_tmdb-axv801kxhjvpkcz8mjvyqelyqbm-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-29"
-    ],
-    "time": "12:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1015367~fc639be0-110c-4035-a588-842aceff5ef6&"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-31"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/revue-event-dreams-in-nightmares/"
-   }
-  ],
-  "art": [
-   "#2a3550",
-   "#e88b6a"
-  ]
- },
- {
-  "id": "butthole-surfers-the-hole-truth-and-nothing-butt",
-  "title": "Butthole Surfers: The Hole Truth and Nothing Butt",
-  "year": 2025,
-  "director": "Tom Stern",
-  "runtime": 106,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/butthole_surfers_the_hole_truth_and_nothing_butt_tmdb-lqy0rfgjmpijsmv9huytrpe5l0h-691x1024.jpg",
-  "tags": [
-   "Premiere"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-16"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1015184~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#40183a",
-   "#f24d94"
-  ]
- },
- {
-  "id": "medium-cool",
-  "title": "Medium Cool",
-  "year": 1969,
-  "director": "Haskell Wexler",
-  "runtime": 111,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/medium_cool_tmdb-uiru2wjqh5x7q0hu3obn0vbrmnt-674x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-02"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1015181~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#24303a",
-   "#9ab0c4"
-  ]
- },
- {
-  "id": "we-re-all-going-to-the-world-s-fair",
-  "title": "We're All Going to the World's Fair",
-  "year": 2022,
-  "director": "Jane Schoenbrun",
-  "runtime": 86,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
      "2026-07-17"
     ],
-    "time": "19:00",
+    "time": "18:00",
     "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1014429~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a3218",
-   "#d9c06a"
-  ]
- },
- {
-  "id": "i-saw-the-tv-glow",
-  "title": "I Saw the Tv Glow",
-  "year": 2024,
-  "director": "Jane Schoenbrun",
-  "runtime": 100,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/i_saw_the_tv_glow_tmdb-hs4gykypn1rfl4gixyc02scyfaj-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-17"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1014431~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#101b2a",
-   "#e0562a"
-  ]
- },
- {
-  "id": "run-lola-run",
-  "title": "Run Lola Run",
-  "year": 1998,
-  "director": "Tom Tykwer",
-  "runtime": 80,
-  "country": "Germany",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/lola_rennt_tmdb-v0giii4btilvhnhjajet3wwy3fa-683x1024.jpg",
-  "tags": [
-   "Restoration"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-22"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1014382~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a2a1a",
-   "#f0a83c"
-  ]
- },
- {
-  "id": "american-nightmare",
-  "title": "American Nightmare",
-  "year": 1983,
-  "director": "Don McBrearty",
-  "runtime": 88,
-  "country": "Canada",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/AmNight-682x1024.jpg",
-  "tags": [
-   "16mm"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-15"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1014380~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#2a3324",
-   "#d4b26a"
-  ]
- },
- {
-  "id": "the-departed",
-  "title": "The Departed",
-  "year": 2006,
-  "director": "Martin Scorsese",
-  "runtime": 151,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/the_departed_tmdb-nt97ifvt2j1ymqmeq20qblg61t-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-14"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1014218~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#2b3a2f",
-   "#e0b34d"
-  ]
- },
- {
-  "id": "whip-it",
-  "title": "Whip It",
-  "year": 2009,
-  "director": "Drew Barrymore",
-  "runtime": 111,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/whip_it_tmdb-iruviw0dxs0fzi1icsdyfx02i8s-683x1024.jpg",
-  "tags": [
-   "35mm"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-23"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1012858~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a2b2b",
-   "#c94f4f"
-  ]
- },
- {
-  "id": "kingdom-of-heaven",
-  "title": "Kingdom of Heaven",
-  "year": 2005,
-  "director": "Ridley Scott",
-  "runtime": 144,
-  "country": "Spain",
-  "lang": "Latin",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/kingdom_of_heaven_tmdb-rnabe4twbmef71sgscqabpgksxh-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1012855~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#1f2a44",
-   "#f0f0f0"
-  ]
- },
- {
-  "id": "sunshine",
-  "title": "Sunshine",
-  "year": 2007,
-  "director": "Danny Boyle",
-  "runtime": 108,
-  "country": "United Kingdom",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/sunshine_tmdb-okggej8qvm0umclz43vj31fzpp7-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-06"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1012752~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a2440",
-   "#4dd6c4"
-  ]
- },
- {
-  "id": "sweet-charity",
-  "title": "Sweet Charity",
-  "year": 1969,
-  "director": "Bob Fosse",
-  "runtime": 153,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/sweet_charity_tmdb-wyysaxhu1xgzkna7josvgwrosb2-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-16"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1012654~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#123a3a",
-   "#7fd4e0"
-  ]
- },
- {
-  "id": "lenny",
-  "title": "Lenny",
-  "year": 1974,
-  "director": "Bob Fosse",
-  "runtime": 111,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/lenny_tmdb-avhk4pgdz3yqrzqlu65icjne6vn-683x1024.jpg",
-  "tags": [
-   "Restoration",
-   "Premiere"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-23"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1012656~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#2a3550",
-   "#e88b6a"
-  ]
- },
- {
-  "id": "all-that-jazz",
-  "title": "All That Jazz",
-  "year": 1979,
-  "director": "Bob Fosse",
-  "runtime": 123,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/all_that_jazz_tmdb-culcedj4srlljefgn4xkd6k3c5t-683x1024.jpg",
-  "tags": [
-   "4K",
-   "Restoration"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-30"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1012658~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#40183a",
-   "#f24d94"
-  ]
- },
- {
-  "id": "eve-s-bayou",
-  "title": "Eve's Bayou",
-  "year": 1997,
-  "director": "Kasi Lemmons",
-  "runtime": 108,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/images_(2).jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-16"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1012645~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#24303a",
-   "#9ab0c4"
-  ]
- },
- {
-  "id": "going-on-30",
-  "title": "Going on 30",
-  "year": 2004,
-  "director": "Gary Winick",
-  "runtime": 98,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/13_going_on_30_tmdb-inzdsifhscmtrildnyhln8ukesg-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-30"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1012648~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a3218",
-   "#d9c06a"
-  ]
- },
- {
-  "id": "walking-and-talking",
-  "title": "Walking and Talking",
-  "year": 1996,
-  "director": "Nicole Holofcener",
-  "runtime": 86,
-  "country": "Germany",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/walking_and_talking_tmdb-m8jmjqufgwgt7gse8aoduactye-683x1024.jpg",
-  "tags": [
-   "35mm"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1011134~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#101b2a",
-   "#e0562a"
-  ]
- },
- {
-  "id": "coyote-vs-acme",
-  "title": "Coyote vs Acme",
-  "year": 2026,
-  "director": "Dave Green",
-  "runtime": 101,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/coyote_vs_acme_tmdb-7znmjp6z6mdap4louacykgsbuqv-683x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-28"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1011119~fc639be0-110c-4035-a588-842aceff5ef6&"
+    "url": "https://paradiseonbloor.com/purchase/568299/"
    },
    {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-29"
-    ],
-    "time": "15:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/coyote-vs-acme/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-30"
-    ],
-    "time": "19:15",
-    "format": "",
-    "url": "https://revuecinema.ca/films/coyote-vs-acme/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-31"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://revuecinema.ca/films/coyote-vs-acme/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://revuecinema.ca/films/coyote-vs-acme/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-02"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://revuecinema.ca/films/coyote-vs-acme/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-03"
-    ],
-    "time": "15:15",
-    "format": "",
-    "url": "https://revuecinema.ca/films/coyote-vs-acme/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-06"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://revuecinema.ca/films/coyote-vs-acme/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-07"
-    ],
-    "time": "13:00",
-    "format": "",
-    "url": "https://revuecinema.ca/films/coyote-vs-acme/"
-   }
-  ],
-  "art": [
-   "#3a2a1a",
-   "#f0a83c"
-  ]
- },
- {
-  "id": "zardoz",
-  "title": "Zardoz",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "In the future, Earth is ruled by Eternals, an advanced and secret sect of beings who reign over a savage group called Brutals. The Eternals have created a god named Zardoz to intimidate the Brutals, making them believe that killing is their natural state. However, Zed (Sean Connery), a Brutal warrior, challenges that assumption when […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/zardoz_tmdb-6qvqhjhvm7wwpb2ljvpivsnraiv_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "21:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=634986~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-29"
-    ],
-    "time": "21:15",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=634987~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#2a3324",
-   "#d4b26a"
-  ]
- },
- {
-  "id": "vivaldi-et-moi-primavera",
-  "title": "Vivaldi Et Moi (Primavera)",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Set in 18th-century Venice’s famed Ospedale della Pietà orphanage for girls, Vivaldi Et Moi follows Cecilia (Tecla Insolia), a gifted young violinist whose fiery spirit cannot be contained. Yearning to uncover her origins and chafing against the orphanage’s strict rules, she’s offered escape through an arranged marriage to a wealthy patron (Stefano Accorsi). But when a […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/primavera_tmdb-lu2sf3dryggzhlvoc9yznsktlfo_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
+    "theatre": "carlton",
     "dates": [
      "2026-07-24"
     ],
-    "time": "18:30",
+    "time": "12:40",
     "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640991~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=10863403&aud=6&ptime=12:40&ptype=G"
    },
    {
-    "theatre": "fox",
+    "theatre": "carlton",
     "dates": [
-     "2026-07-26"
-    ],
-    "time": "15:15",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640992~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-27"
-    ],
-    "time": "15:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640994~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-28"
-    ],
-    "time": "15:45",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640995~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#2b3a2f",
-   "#e0b34d"
-  ]
- },
- {
-  "id": "the-matrix",
-  "title": "The Matrix",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Join us for our “Shout Louder!” limited series, where we will screen the best films that aren’t afraid to wear their beliefs on their sleeves and engage in political themes, because film is political.“The Matrix” has become a focal point for political discourse, with the term “redpilling” linked to QAnon and discussions about conformity to […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/sl_matrix.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-02"
-    ],
-    "time": "21:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640592~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-05"
-    ],
-    "time": "21:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640593~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#3a2b2b",
-   "#c94f4f"
-  ]
- },
- {
-  "id": "the-invite",
-  "title": "The Invite",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Joe and Angela’s marriage is on thin ice. When they invite their enigmatic upstairs neighbours for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/the_invite_tmdb-amxsk5cavz907gdedgyirznjiwu_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-17"
+     "2026-07-24"
     ],
     "time": "15:40",
     "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636915~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=10863403&aud=6&ptime=15:40&ptype=G"
    },
    {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-17"
-    ],
-    "time": "18:20",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636916~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636917~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "18:40",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636918~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "12:45",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636919~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "18:20",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636920~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-20"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636921~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-21"
-    ],
-    "time": "15:50",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636922~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-21"
-    ],
-    "time": "21:20",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640588~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-22"
-    ],
-    "time": "15:50",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636923~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-22"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636924~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-23"
-    ],
-    "time": "15:50",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636925~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-23"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640589~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
+    "theatre": "carlton",
     "dates": [
      "2026-07-24"
     ],
-    "time": "15:50",
+    "time": "18:40",
     "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640997~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=10863403&aud=6&ptime=18:40&ptype=G"
    },
    {
-    "theatre": "fox",
+    "theatre": "carlton",
     "dates": [
-     "2026-07-25"
+     "2026-07-24"
     ],
-    "time": "18:30",
+    "time": "21:40",
     "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640999~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=10863403&aud=6&ptime=21:40&ptype=G"
+   }
+  ],
+  "art": [
+   "#2b3a2f",
+   "#e0b34d"
+  ]
+ },
+ {
+  "id": "dark-star",
+  "title": "Dark Star",
+  "year": 1974,
+  "director": "John Carpenter",
+  "runtime": 83,
+  "country": "USA",
+  "lang": "English",
+  "why": "Dark Star is a 1974 American independent science fiction comedy film produced, scored and directed by John Carpenter and co-written with Dan O'Bannon. It follows the crew of the deteriorating starship Dark Star, twent…",
+  "poster": "https://upload.wikimedia.org/wikipedia/en/9/98/DarkStarposter.jpg",
+  "tags": [],
+  "screenings": [
    {
-    "theatre": "fox",
+    "theatre": "paradise",
     "dates": [
-     "2026-07-30"
+     "2026-07-17"
     ],
-    "time": "15:50",
+    "time": "21:00",
     "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=641001~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+    "url": "https://paradiseonbloor.com/purchase/571260/"
+   }
+  ],
+  "art": [
+   "#3a2b2b",
+   "#c94f4f"
+  ]
+ },
+ {
+  "id": "wall-e",
+  "title": "WALL·E",
+  "year": 2008,
+  "director": "Andrew Stanton",
+  "runtime": 98,
+  "country": "USA",
+  "lang": "English",
+  "why": "WALL-E is a 2008 American animated romantic science fiction film directed by Andrew Stanton, who co-wrote the screenplay with Jim Reardon, based on a story by Stanton and Pete Docter. Produced by Pixar Animation Studi…",
+  "poster": "https://upload.wikimedia.org/wikipedia/en/4/4c/WALL-E_poster.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-07-18"
+    ],
+    "time": "14:30",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/583459/"
    }
   ],
   "art": [
    "#1f2a44",
    "#f0f0f0"
-  ]
- },
- {
-  "id": "the-sandlot",
-  "title": "The Sandlot",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "When Scottie Smalls (Thomas Guiry) moves to a new neighbourhood, he manages to make friends with a group of kids who play baseball at the sandlot. Together they go on a series of funny and touching adventures. The boys run into trouble when Smalls borrows a ball from his stepdad that gets hit over a […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/the_sandlot_tmdb-7pyqz0vieuw8qtvuginumjdwmnj_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-30"
-    ],
-    "time": "13:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=642003~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#3a2440",
-   "#4dd6c4"
-  ]
- },
- {
-  "id": "a-silent-voice",
-  "title": "A Silent Voice",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "After transferring into a new school, a deaf girl, Shoko Nishimiya, is bullied by the popular Shoya Ishida. As Shoya continues to bully Shoko, the class turns its back on him. Shoko transfers and Shoya grows up as an outcast. Alone and depressed, the regretful Shoya finds Shoko to make amends. “A Silent Voice” is […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/screen_shot_2026-07-16_at_3.11.06_pm_thumb.png",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-28"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640327~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#123a3a",
-   "#7fd4e0"
-  ]
- },
- {
-  "id": "sisterhood-of-the-travelling-pants",
-  "title": "Sisterhood of the Travelling Pants",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Gather your friends to don your pajamas for a summer slumber party! Based on the best-selling novels by Ann Brashares, inseparable best friends Carmen, Tibby, Lena, and Bridget spend their first ever summer apart, but stay in touch passing along letters and a pair of pants that mysteriously fit them all perfectly. Rife with sun-soaked […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/the_sisterhood_of_the_traveling_pants_tmdb-wnshlut6izez2af3izrlb2mx0pr_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-23"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=633297~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#2a3550",
-   "#e88b6a"
-  ]
- },
- {
-  "id": "sheep-in-the-box",
-  "title": "Sheep in the Box",
-  "year": null,
-  "director": "Hirokazu Kore-eda",
-  "runtime": null,
-  "country": "Japan",
-  "lang": "Japanese",
-  "why": "“a thoughtful, poignant, sometimes funny and whimsical reflection on the future of humankind’s coexistence with intelligent machines.”Lee Marshall, Screen Daily From Hirokazu Koreeda, the visionary behind “Shoplifters” and “Monster,” comes the heartfelt drama “Sheep in the Box.” This film made a remarkable debut at the prestigious main competition of the 2026 Cannes Film Festival. In a […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/tmdb-9rociyyt8q76fhgl3nm5ofuc6tq_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-31"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=637956~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-01"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=637957~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-02"
-    ],
-    "time": "15:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=637958~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-03"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=637959~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-04"
-    ],
-    "time": "15:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=637960~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-05"
-    ],
-    "time": "15:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=637961~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-06"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=637962~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-07"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=637963~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-08"
-    ],
-    "time": "13:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=637964~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "15:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=637965~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-31"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwzMTY0VDI="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-31"
-    ],
-    "time": "21:15",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwzMTkxVDE="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-31"
-    ],
-    "time": "15:45",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwzMTM0VDI="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-31"
-    ],
-    "time": "12:45",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwzMUw0VDI="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-08-01"
-    ],
-    "time": "13:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkcwMTEzVDE="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-08-01"
-    ],
-    "time": "15:00",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkcwMTMwVDI="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-08-01"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkcwMTYzVDI="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-08-01"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkcwMTkzVDI="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-08-02"
-    ],
-    "time": "14:00",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkcwMjIwVDE="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-08-02"
-    ],
-    "time": "16:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkcwMjQzVDI="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-08-02"
-    ],
-    "time": "19:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkcwMjczVDI="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-08-02"
-    ],
-    "time": "12:00",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkcwMkwwVDM="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-08-04"
-    ],
-    "time": "18:15",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkcwNDYxVDQ="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-08-05"
-    ],
-    "time": "16:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkcwNTQzVDQ="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-08-05"
-    ],
-    "time": "19:45",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkcwNTc0VDE="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-08-05"
-    ],
-    "time": "21:00",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkcwNTkwVDM="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-08-06"
-    ],
-    "time": "15:45",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkcwNjM0VDI="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-08-06"
-    ],
-    "time": "18:40",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkcwNjY0VDI="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-08-06"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkcwNjkzVDI="
-   }
-  ],
-  "art": [
-   "#40183a",
-   "#f24d94"
   ]
  },
  {
@@ -3591,41 +124,14 @@
   "runtime": 114,
   "country": "United Kingdom",
   "lang": "English",
-  "why": "A mysterious boat returns to a village 30 years after vanishing. Two men join its crew hoping for better fortune. After one voyage, they find themselves transported back in time, mistaken for the original crew.",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/rose_of_nevada_tmdb-rqhgjvd5hv0ojj4cev31ztertpk_thumb.jpg",
+  "why": "35mm print!\r\n\r\nShot on 16mm with all sound built in post-production, Mark Jenkin’s Rose of Nevada is an uncanny meditation on time, memory, and disappearance from one of Britain’s most distinctive auteurs.",
+  "poster": "https://images.ctfassets.net/22n7d68fswlw/7iKvUe65kSt5OeA3VecmjE/5f230d4d9ee269bbbb7a90aa9216194b/Rose-Of-Nevada_Poster.jpg",
   "tags": [
    "Drama",
    "Experimental + Avant-Garde",
    "Science Fiction + Fantasy"
   ],
   "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-17"
-    ],
-    "time": "21:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=635614~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "21:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=635615~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-20"
-    ],
-    "time": "21:15",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=635616~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
    {
     "theatre": "paradise",
     "dates": [
@@ -3745,831 +251,20 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
-  ]
- },
- {
-  "id": "the-rocky-horror-picture-show",
-  "title": "The Rocky Horror Picture Show",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Join Excited Mental State: Toronto’s Only Rocky Horror Shadowcast who are just shivering with antici….PATION at making this the best Rocky Horror night of your life! Dress up in your best Rocky Horror-inspired outfits and get ready to “Time Warp” to the eerie castle of Dr. Frank-N-Furter (Tim Curry) along with sweethearts Brad (Barry Bostwick) […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2025/10/the_rocky_horror_picture_show_tmdb-3pye6zqdbuji7zrnzzqzcktwdmn_thumb.jpg",
-  "tags": [
-   "Shadowcast"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-31"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=631825~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#3a3218",
-   "#d9c06a"
-  ]
- },
- {
-  "id": "tekkonkinkreet",
-  "title": "Tekkonkinkreet",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Black, a boy who seeks to bend the city to his will through strength, and White, his innocent counterpart, are two orphaned street kids living in the slums of Treasure Town. When real estate developers threaten to transform Treasure Town into a massive theme park, its very existence is put at risk. Determined to protect […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/tekon_kv-1_web_coming-soon_01a_thumb.jpg",
-  "tags": [
-   "Restoration"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-11"
-    ],
-    "time": "21:15",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640622~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "21:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640623~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#101b2a",
-   "#e0562a"
-  ]
- },
- {
-  "id": "se7en",
-  "title": "Se7en",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Two cops (Brad Pitt and Morgan Freeman) track a brilliant and elusive killer who orchestrates a string of horrific murders, each kill targeting a practitioner of one of the Seven Deadly Sins. Gwyneth Paltrow also stars in this acclaimed thriller set in a dour, drizzly city sick with pain and blight. Director David Fincher guides […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/se7en_tmdb-191nkfp0ehp3uivwqgpbfmi4lv9_thumb.jpg",
-  "tags": [
-   "Restoration"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=634915~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-22"
-    ],
-    "time": "21:15",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=634916~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#3a2a1a",
-   "#f0a83c"
-  ]
- },
- {
-  "id": "legally-blonde",
-  "title": "Legally Blonde",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Start practicing your bend and snap because it’s going to be an epic night at the Fox with another Reel Drag event! Hosted by Rosie and Canada’s Drag Race star Tara Nova! Elle Woods (Reese Witherspoon) has it all. She’s the president of her sorority and beloved on campus. She dates the cutest boy on […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/vajayjays_flicks_posters_2_thumb.png",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-14"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640627~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#2a3324",
-   "#d4b26a"
-  ]
- },
- {
-  "id": "persepolis",
-  "title": "Persepolis",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Join us for our “Shout Louder!” limited series, where we will screen the best films that aren’t afraid to wear their beliefs on their sleeves and engage in political themes, because film is political. Marjane Satrapi’s acclaimed memoirs not only changed perceptions of Iran, but also the world as a whole. Through her fearless voice […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/sl-persepolis.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-01"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640590~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-04"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640591~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#2b3a2f",
-   "#e0b34d"
-  ]
- },
- {
-  "id": "network",
-  "title": "Network",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Join us for our “Shout Louder!” limited series, where we will screen the best films that aren’t afraid to wear their beliefs on their sleeves and engage in political themes, because film is political. This media satire, directed by Sidney Lumet and written by Paddy Chayefsky, examines the corrupted soul of corporate-dominated America, anticipating today’s […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/sl_network.jpg",
-  "tags": [
-   "Restoration"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-12"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640594~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#3a2b2b",
-   "#c94f4f"
-  ]
- },
- {
-  "id": "mishima-a-life-in-four-chapters",
-  "title": "Mishima: A Life in Four Chapters",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Paul Schrader’s (“First Reformed”) visually stunning, collagelike portrait of acclaimed Japanese author and playwright Yukio Mishima (played by Ken Ogata) investigates the inner turmoil and contradictions of a man who attempted an impossible harmony between self, art, and society. Taking place on Mishima’s last day, when he famously committed public seppuku, the film is punctuated […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/mishima_a_life_in_four_chapters_tmdb-4kixse4swujo0euqpolshno5glh_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "15:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=637858~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-21"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=637859~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#1f2a44",
-   "#f0f0f0"
-  ]
- },
- {
-  "id": "michael-mann-s-manhunter-the-final-cut",
-  "title": "Michael Mann's Manhunter: The Final Cut",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "A retired criminal profiler (William Petersen) reluctantly returns to the FBI to help track down a serial killer of families and is forced to consult an expert—the imprisoned Dr. Hannibal Lecktor (Brian Cox in a subtly chilling performance). The third feature written and directed by Michael Mann is a gripping adaptation of the first of […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/c1d156f04d7b1ab58ebe86767f78c1b8_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-14"
-    ],
-    "time": "18:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=641061~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-15"
-    ],
-    "time": "21:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=641062~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-16"
-    ],
-    "time": "20:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=641063~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-18"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=641064~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
    "#3a2440",
    "#4dd6c4"
-  ]
- },
- {
-  "id": "malcolm-x",
-  "title": "Malcolm X",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Join us for our “Shout Louder!” limited series, where we will screen the best films that aren’t afraid to wear their beliefs on their sleeves and engage in political themes, because film is political. This is a passionate monument to a man whose life continues to serve as a model of principled resistance.One of the […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/malcolm-x.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-17"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640595~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#123a3a",
-   "#7fd4e0"
-  ]
- },
- {
-  "id": "the-iron-giant",
-  "title": "The Iron Giant",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "This month’s Klassic Kidz selection is a truly special film that didn’t receive the accolades it deserved when it was released, but has since become an animation fan favourite. Nine-year-old Hogarth Hughes always dreamed of having a pet, but not one made out of metal and as tall as a building. After discovering a giant […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/the_iron_giant_tmdb-exrgvhypilrkrjmqlwaary3cvvg_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-25"
-    ],
-    "time": "13:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=635617~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "13:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636654~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#2a3550",
-   "#e88b6a"
-  ]
- },
- {
-  "id": "hadestown-the-musical",
-  "title": "Hadestown: The Musical",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "The live theater capture of the hit musical Hadestown, which won eight Tony Awards in 2019 including Best Musical and the 2020 Grammy Award for Best Musical Theater Album, featuring the five original principals of the Broadway company. The genre-defying new musical blends modern American folk music with New Orleans-inspired jazz to reimagine a sweeping […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/hadestown_the_musical_tmdb-egoietwjdqncnbbsugojn2g3msn_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-25"
-    ],
-    "time": "15:15",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640323~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-27"
-    ],
-    "time": "18:15",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640324~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-29"
-    ],
-    "time": "15:15",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640325~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#40183a",
-   "#f24d94"
-  ]
- },
- {
-  "id": "bridesmaids",
-  "title": "Bridesmaids",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Celebrate the 15th anniversary of Bridesmaids with an interactive screening hosted by programming collective grlish. Finally rewear that overpriced bridesmaid’s dress and revisit the nuptial romp, with free rein to recite your favourite quotes in a Rocky-Horror style shout-along game. Written by Kristen Wiig and Annie Mumulo, this Oscar-nominated raunch-com features comedy juggernauts Maya Rudolph, […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/bridesmaids_fox_11x17_thumb.png",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-19"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=641714~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#24303a",
-   "#9ab0c4"
-  ]
- },
- {
-  "id": "grease",
-  "title": "Grease",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Grease is the word and you gotta sing along! Celebrate summer by taking a trip to Rydell High and singing your heart out along with Danny, Sandy, and the gang! You know the words … and in case you forget a few, don’t sweat it daddy-o, because all the lyrics will be right up there […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/grease_sing_along_resize_thumb.jpg",
-  "tags": [
-   "Sing-Along"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-29"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=635595~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#3a3218",
-   "#d9c06a"
-  ]
- },
- {
-  "id": "female-prisoner-701-scorpion",
-  "title": "Female Prisoner #701: Scorpion",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Join us for our “Shout Louder!” limited series, where we will screen the best films that aren’t afraid to wear their beliefs on their sleeves and engage in political themes, because film is political. The four-film Female Prisoner Scorpion cycle charts the vengeance of Nami Matsushima (Meiko Kaji), who becomes an avatar of survival and […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/tmdb-q3a9mow4ksc7xpoiabtucoairl_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-08"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=641997~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#101b2a",
-   "#e0562a"
-  ]
- },
- {
-  "id": "call-of-my-life",
-  "title": "Call of My Life",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Join us at the Fox Theatre for a special screening of the highest-grossing Nollywood film of 2026, “Call of My Life”, featuring a Q&A with director Dammy Twitch and producer Blessing Uzzi! “Call of My Life” follows Soluchi (Uzoamaka Power), a hopeless romantic and call-centre agent still carrying the scars of heartbreak after being jilted […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/call_of_my_life_tmdb-a2mu4enyixeqc9z1qh3hiqllv0y_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "18:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=639116~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#3a2a1a",
-   "#f0a83c"
-  ]
- },
- {
-  "id": "women-talking",
-  "title": "Women Talking",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "The Book and Film Club presents: Women Talking! Based on the best-selling novel by Miriam Toews, “Women Talking” follows a group of women in an isolated religious colony as they struggle to reconcile their faith with a series of sexual assaults committed by the colony’s men. This year, the Book and Film Club will be […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/women-talking.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-08"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=631828~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#2a3324",
-   "#d4b26a"
-  ]
- },
- {
-  "id": "la-captive",
-  "title": "La Captive",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Battle of the Sexes is a series featuring films directed by women about men and films directed by men about women. Through titles like American Psycho, La Captive, Marnie, and Birth, our speakers will interrogate how films reinforce or distort gender roles. The series is hosted by Gabrielle Marceau from In the Mood Magazine. “Enigmatic […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/la_captive_tmdb-h7m7jy1tzlr5il0jzpteyw0ecnt_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-27"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=629271~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#2b3a2f",
-   "#e0b34d"
-  ]
- },
- {
-  "id": "marnie",
-  "title": "Marnie",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Battle of the Sexes is a series featuring films directed by women about men and films directed by men about women. Through titles like American Psycho, La Captive, Marnie, and Birth, our speakers will interrogate how films reinforce or distort gender roles. The series is hosted by Gabrielle Marceau from In the Mood Magazine. “Marnie […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/marnie_tmdb-nrry4vo2a3py7wizbpz11palogp_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-30"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=629269~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#3a2b2b",
-   "#c94f4f"
-  ]
- },
- {
-  "id": "birth",
-  "title": "Birth",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Battle of the Sexes is a series featuring films directed by women about men and films directed by men about women. Through titles like American Psycho, La Captive, Marnie, and Birth, our speakers will interrogate how films reinforce or distort gender roles. The series is hosted by Gabrielle Marceau from In the Mood Magazine. “Jonathan […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/birth_tmdb-z70iq61wqhxetaz8ar2od8pkim_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-01"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=629274~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#1f2a44",
-   "#f0f0f0"
-  ]
- },
- {
-  "id": "battle-of-algiers",
-  "title": "Battle of Algiers",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Join us for our “Shout Louder!” limited series, where we will screen the best films that aren’t afraid to wear their beliefs on their sleeves and engage in political themes, because film is political. One of the most influential political films in history, The Battle of Algiers, by Gillo Pontecorvo, vividly re-creates a key year […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/tmdb-2p3aftohfvp6oevmqlnl1zlkoql_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-16"
-    ],
-    "time": "14:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=641999~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#3a2440",
-   "#4dd6c4"
-  ]
- },
- {
-  "id": "2026-cat-video-fest",
-  "title": "2026 Cat Video Fest",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "“Watching silly cat videos is good for you.” – The Wall Street Journal Cat Video Fest is back at Fox Theatre! Oscilloscope Laboratories presents CatVideoFest 2026, a compilation of the latest and best cat videos culled from countless hours of unique submissions and sourced animations, music videos, and classic internet powerhouses. Each year, across the […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/screen_shot_2026-05-29_at_3.44.09_pm_thumb.png",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-07"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=634989~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-08"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=634990~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "13:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=634993~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=634995~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#123a3a",
-   "#7fd4e0"
-  ]
- },
- {
-  "id": "thelma-louise",
-  "title": "Thelma & Louise",
-  "year": 1991,
-  "director": "",
-  "runtime": 130,
-  "country": "",
-  "lang": "",
-  "why": "Rewind & Replay...Taking a break from their dreary lives, close friends Thelma and Louise embark on a short weekend trip that ends in unforeseen incriminating circumstances. As fugitives, both women rediscover the streng",
-  "poster": "https://omniwebticketing6.com/imaginecinemas/files-circuit/images/posters/Thelma%20%26%20Louise.png",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-07-17"
-    ],
-    "time": "18:00",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/568299/"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "12:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=10863403&aud=6&ptime=12:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "15:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=10863403&aud=6&ptime=15:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "18:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=10863403&aud=6&ptime=18:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "21:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=10863403&aud=6&ptime=21:40&ptype=G"
-   }
-  ],
-  "art": [
-   "#2a3550",
-   "#e88b6a"
-  ]
- },
- {
-  "id": "dark-star",
-  "title": "Dark Star",
-  "year": 1974,
-  "director": "",
-  "runtime": 83,
-  "country": "",
-  "lang": "",
-  "why": "",
-  "poster": "",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-07-17"
-    ],
-    "time": "21:00",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/571260/"
-   }
-  ],
-  "art": [
-   "#40183a",
-   "#f24d94"
-  ]
- },
- {
-  "id": "wall-e",
-  "title": "WALL·E",
-  "year": 2008,
-  "director": "",
-  "runtime": 98,
-  "country": "",
-  "lang": "",
-  "why": "",
-  "poster": "",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "14:30",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/583459/"
-   }
-  ],
-  "art": [
-   "#24303a",
-   "#9ab0c4"
   ]
  },
  {
   "id": "true-romance",
   "title": "True Romance",
   "year": 1993,
-  "director": "",
+  "director": "Tony Scott",
   "runtime": 121,
-  "country": "",
-  "lang": "",
-  "why": "",
-  "poster": "",
+  "country": "USA",
+  "lang": "English",
+  "why": "True Romance is a 1993 American romantic crime drama film directed by Tony Scott and written by Quentin Tarantino. It stars Christian Slater and Patricia Arquette, with Dennis Hopper, Val Kilmer, Gary Oldman, Brad Pit…",
+  "poster": "https://upload.wikimedia.org/wikipedia/en/d/d6/True_romance.jpg",
   "tags": [],
   "screenings": [
    {
@@ -4583,20 +278,20 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#123a3a",
+   "#7fd4e0"
   ]
  },
  {
   "id": "the-right-stuff",
   "title": "The Right Stuff",
   "year": 1983,
-  "director": "",
+  "director": "Philip Kaufman",
   "runtime": 193,
-  "country": "",
-  "lang": "",
-  "why": "",
-  "poster": "",
+  "country": "USA",
+  "lang": "English",
+  "why": "The Right Stuff is a 1983 American epic historical drama film written and directed by Philip Kaufman and based on the 1979 book of the same name by Tom Wolfe. The film follows the Navy, Marine, and Air Force test pilo…",
+  "poster": "https://upload.wikimedia.org/wikipedia/en/d/d4/Right_stuff_ver1.jpg",
   "tags": [],
   "screenings": [
    {
@@ -4610,8 +305,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#2a3550",
+   "#e88b6a"
   ]
  },
  {
@@ -4622,8 +317,8 @@
   "runtime": 88,
   "country": "",
   "lang": "",
-  "why": "",
-  "poster": "",
+  "why": "Audre Lorde was an American writer, professor, philosopher, intersectional feminist, poet, and civil rights activist. She was a self-described \"Black, lesbian, feminist, socialist, mother, warrior, poet\" who dedicated…",
+  "poster": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Audre_Lorde.jpg",
   "tags": [],
   "screenings": [
    {
@@ -4637,8 +332,37 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#40183a",
+   "#f24d94"
+  ]
+ },
+ {
+  "id": "i-want-your-sex",
+  "title": "I Want Your Sex",
+  "year": 2026,
+  "director": "Gregg Araki",
+  "runtime": 90,
+  "country": "USA",
+  "lang": "English",
+  "why": "I Want Your Sex is a 2026 American erotic comedy thriller film directed by Gregg Araki and written by Karley Sciortino and Araki. It stars Olivia Wilde, Cooper Hoffman, Mason Gooding, Chase Sui Wonders, Johnny Knoxvil…",
+  "poster": "https://upload.wikimedia.org/wikipedia/en/8/89/I_Want_Your_Sex_%28film%29_poster.jpg",
+  "tags": [
+   "Premiere"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-07-20"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/569107/"
+   }
+  ],
+  "art": [
+   "#24303a",
+   "#9ab0c4"
   ]
  },
  {
@@ -4664,8 +388,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a3218",
+   "#d9c06a"
   ]
  },
  {
@@ -4691,8 +415,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#101b2a",
+   "#e0562a"
   ]
  },
  {
@@ -4718,8 +442,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#3a2a1a",
+   "#f0a83c"
   ]
  },
  {
@@ -4907,8 +631,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2a3324",
+   "#d4b26a"
   ]
  },
  {
@@ -4934,8 +658,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#2b3a2f",
+   "#e0b34d"
   ]
  },
  {
@@ -4961,8 +685,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2b2b",
+   "#c94f4f"
   ]
  },
  {
@@ -4988,8 +712,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#1f2a44",
+   "#f0f0f0"
   ]
  },
  {
@@ -5015,8 +739,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#3a2440",
+   "#4dd6c4"
   ]
  },
  {
@@ -5045,8 +769,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#123a3a",
+   "#7fd4e0"
   ]
  },
  {
@@ -5072,8 +796,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#2a3550",
+   "#e88b6a"
   ]
  },
  {
@@ -5099,8 +823,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#40183a",
+   "#f24d94"
   ]
  },
  {
@@ -5126,8 +850,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#24303a",
+   "#9ab0c4"
   ]
  },
  {
@@ -5162,8 +886,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a3218",
+   "#d9c06a"
   ]
  },
  {
@@ -5189,8 +913,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#101b2a",
+   "#e0562a"
   ]
  },
  {
@@ -5216,8 +940,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#3a2a1a",
+   "#f0a83c"
   ]
  },
  {
@@ -5261,8 +985,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2a3324",
+   "#d4b26a"
   ]
  },
  {
@@ -5297,8 +1021,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#2b3a2f",
+   "#e0b34d"
   ]
  },
  {
@@ -5326,8 +1050,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2b2b",
+   "#c94f4f"
   ]
  },
  {
@@ -5398,19 +1122,19 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#1f2a44",
+   "#f0f0f0"
   ]
  },
  {
   "id": "the-samurai-and-the-prisoner-with-kiyoshi-kurosawa",
   "title": "The Samurai and the Prisoner with Kiyoshi Kurosawa",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "",
+  "year": 2026,
+  "director": "Kiyoshi Kurosawa",
+  "runtime": 147,
+  "country": "Japan",
+  "lang": "Japanese",
+  "why": "The Samurai and the Prisoner is a 2026 Japanese historical drama mystery film written and directed by Kiyoshi Kurosawa and based on the novel of same name by Honobu Yonezawa. It stars Masahiro Motoki, Masaki Suda, Yur…",
   "poster": "https://images.ctfassets.net/22n7d68fswlw/2bdqxXmZDOGRnxnoFjDuJx/5c3d48e7563e4c0274398c7b869895db/Samurai-and-the-Prisoner_Poster.jpg",
   "tags": [
    "Drama",
@@ -5428,19 +1152,19 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#3a2440",
+   "#4dd6c4"
   ]
  },
  {
   "id": "after-hours",
   "title": "After Hours",
-  "year": null,
+  "year": 1985,
   "director": "Martin Scorsese",
-  "runtime": null,
+  "runtime": 97,
   "country": "USA",
   "lang": "English",
-  "why": "",
+  "why": "After Hours is a 1985 American neo-noir black comedy film directed by Martin Scorsese, written by Joseph Minion, and produced by Amy Robinson, Griffin Dunne, and Robert F. Colesberry. Dunne stars as Paul Hackett, an o…",
   "poster": "https://images.ctfassets.net/22n7d68fswlw/3RevtwTNk9afuHI0d9BJ4B/c25ca4ff4769cbbc558a2e5055e41e92/After-Hours_Poster.jpg",
   "tags": [
    "Comedy",
@@ -5458,19 +1182,19 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#123a3a",
+   "#7fd4e0"
   ]
  },
  {
   "id": "assault-on-precinct-13",
   "title": "Assault on Precinct 13",
-  "year": null,
+  "year": 2005,
   "director": "John Carpenter",
-  "runtime": null,
+  "runtime": 109,
   "country": "USA",
   "lang": "English",
-  "why": "",
+  "why": "Assault on Precinct 13 is a 2005 action thriller film directed by Jean-François Richet and written by James DeMonaco. A remake of the 1976 film of the same name, it follows the staff and inmates of the eponymous Preci…",
   "poster": "https://images.ctfassets.net/22n7d68fswlw/1fLzGCccw2W75zflLBEOe9/45ab23ec3156ff481253e160ac4b4903/Assault-on-Precinct-13_Poster.jpg",
   "tags": [
    "Mystery + Thriller",
@@ -5488,16 +1212,16 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#2a3550",
+   "#e88b6a"
   ]
  },
  {
   "id": "barrio-triste",
   "title": "Barrio Triste",
-  "year": null,
+  "year": 2025,
   "director": "STILLZ",
-  "runtime": null,
+  "runtime": 88,
   "country": "Colombia,USA",
   "lang": "Spanish",
   "why": "Music video director STILLZ makes a stunning feature debut with a trippy, found footage–style descent into ’90s Medellín. Backed by ARCA’s electrifying score, Barrio Triste follows four teens as they document their own r",
@@ -5564,19 +1288,19 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#40183a",
+   "#f24d94"
   ]
  },
  {
   "id": "batman-begins",
   "title": "Batman Begins",
-  "year": null,
+  "year": 2005,
   "director": "Christopher Nolan",
-  "runtime": null,
+  "runtime": 140,
   "country": "USA,United Kingdom",
   "lang": "English",
-  "why": "",
+  "why": "Batman Begins is a 2005 superhero film based on the DC Comics character Batman. Directed by Christopher Nolan, who co-wrote the screenplay with David S. Goyer, the film stars Christian Bale as Bruce Wayne / Batman, wi…",
   "poster": "https://images.ctfassets.net/22n7d68fswlw/6N9bxmukauRsR36NizGGUp/13102c6e399654176066378e5da4d246/Batman-Begins-One-Sheet.jpg",
   "tags": [
    "Action + Adventure",
@@ -5603,19 +1327,19 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#24303a",
+   "#9ab0c4"
   ]
  },
  {
   "id": "beetlejuice",
   "title": "Beetlejuice",
-  "year": null,
+  "year": 1988,
   "director": "Tim Burton",
-  "runtime": null,
+  "runtime": 92,
   "country": "USA",
   "lang": "English",
-  "why": "",
+  "why": "Beetlejuice is a 1988 American gothic comedy horror film directed by Tim Burton from a screenplay by Michael McDowell and Warren Skaaren based on a story by McDowell and Larry Wilson. The film stars Michael Keaton as …",
   "poster": "https://images.ctfassets.net/22n7d68fswlw/4zX04TzkZxK4slb9tnuzYR/10df11a7c21f205cc5228806c89b773a/Beetlejuice_Poster.jpg",
   "tags": [
    "Science Fiction + Fantasy",
@@ -5634,8 +1358,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a3218",
+   "#d9c06a"
   ]
  },
  {
@@ -5664,8 +1388,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#101b2a",
+   "#e0562a"
   ]
  },
  {
@@ -5693,8 +1417,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#3a2a1a",
+   "#f0a83c"
   ]
  },
  {
@@ -5723,8 +1447,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2a3324",
+   "#d4b26a"
   ]
  },
  {
@@ -5753,8 +1477,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#2b3a2f",
+   "#e0b34d"
   ]
  },
  {
@@ -5825,8 +1549,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2b2b",
+   "#c94f4f"
   ]
  },
  {
@@ -5856,8 +1580,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#1f2a44",
+   "#f0f0f0"
   ]
  },
  {
@@ -5887,8 +1611,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#3a2440",
+   "#4dd6c4"
   ]
  },
  {
@@ -5927,8 +1651,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#123a3a",
+   "#7fd4e0"
   ]
  },
  {
@@ -6953,8 +2677,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#2a3550",
+   "#e88b6a"
   ]
  },
  {
@@ -6983,8 +2707,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#40183a",
+   "#f24d94"
   ]
  },
  {
@@ -7014,8 +2738,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#24303a",
+   "#9ab0c4"
   ]
  },
  {
@@ -7044,8 +2768,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a3218",
+   "#d9c06a"
   ]
  },
  {
@@ -7074,8 +2798,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#101b2a",
+   "#e0562a"
   ]
  },
  {
@@ -7104,8 +2828,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#3a2a1a",
+   "#f0a83c"
   ]
  },
  {
@@ -7134,8 +2858,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2a3324",
+   "#d4b26a"
   ]
  },
  {
@@ -7173,8 +2897,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#2b3a2f",
+   "#e0b34d"
   ]
  },
  {
@@ -7222,8 +2946,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2b2b",
+   "#c94f4f"
   ]
  },
  {
@@ -7252,8 +2976,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#1f2a44",
+   "#f0f0f0"
   ]
  },
  {
@@ -7281,8 +3005,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#3a2440",
+   "#4dd6c4"
   ]
  },
  {
@@ -7319,8 +3043,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#123a3a",
+   "#7fd4e0"
   ]
  },
  {
@@ -7382,8 +3106,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#2a3550",
+   "#e88b6a"
   ]
  },
  {
@@ -7751,8 +3475,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#40183a",
+   "#f24d94"
   ]
  },
  {
@@ -7778,8 +3502,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#24303a",
+   "#9ab0c4"
   ]
  },
  {
@@ -7808,8 +3532,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a3218",
+   "#d9c06a"
   ]
  },
  {
@@ -7838,8 +3562,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#101b2a",
+   "#e0562a"
   ]
  },
  {
@@ -7868,8 +3592,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#3a2a1a",
+   "#f0a83c"
   ]
  },
  {
@@ -7899,8 +3623,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2a3324",
+   "#d4b26a"
   ]
  },
  {
@@ -7939,8 +3663,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#2b3a2f",
+   "#e0b34d"
   ]
  },
  {
@@ -7978,8 +3702,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2b2b",
+   "#c94f4f"
   ]
  },
  {
@@ -8008,8 +3732,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#1f2a44",
+   "#f0f0f0"
   ]
  },
  {
@@ -8035,8 +3759,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#3a2440",
+   "#4dd6c4"
   ]
  },
  {
@@ -8064,8 +3788,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#123a3a",
+   "#7fd4e0"
   ]
  },
  {
@@ -8165,8 +3889,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#2a3550",
+   "#e88b6a"
   ]
  },
  {
@@ -8195,8 +3919,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#40183a",
+   "#f24d94"
   ]
  },
  {
@@ -8321,8 +4045,197 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#24303a",
+   "#9ab0c4"
+  ]
+ },
+ {
+  "id": "sheep-in-the-box",
+  "title": "Sheep in the Box",
+  "year": null,
+  "director": "Hirokazu Kore-eda",
+  "runtime": null,
+  "country": "Japan",
+  "lang": "Japanese",
+  "why": "",
+  "poster": "https://images.ctfassets.net/22n7d68fswlw/3WChkPEJ3gyI07bqbXyPWk/fb88fc8fdbd0e2d983373ab1deff6a42/Sheep-In-The-Box_Poster.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-07-31"
+    ],
+    "time": "18:45",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkwzMTY0VDI="
+   },
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-07-31"
+    ],
+    "time": "21:15",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkwzMTkxVDE="
+   },
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-07-31"
+    ],
+    "time": "15:45",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkwzMTM0VDI="
+   },
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-07-31"
+    ],
+    "time": "12:45",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkwzMUw0VDI="
+   },
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-08-01"
+    ],
+    "time": "13:30",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkcwMTEzVDE="
+   },
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-08-01"
+    ],
+    "time": "15:00",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkcwMTMwVDI="
+   },
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-08-01"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkcwMTYzVDI="
+   },
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-08-01"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkcwMTkzVDI="
+   },
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-08-02"
+    ],
+    "time": "14:00",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkcwMjIwVDE="
+   },
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-08-02"
+    ],
+    "time": "16:30",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkcwMjQzVDI="
+   },
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-08-02"
+    ],
+    "time": "19:30",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkcwMjczVDI="
+   },
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-08-02"
+    ],
+    "time": "12:00",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkcwMkwwVDM="
+   },
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-08-04"
+    ],
+    "time": "18:15",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkcwNDYxVDQ="
+   },
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-08-05"
+    ],
+    "time": "16:30",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkcwNTQzVDQ="
+   },
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-08-05"
+    ],
+    "time": "19:45",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkcwNTc0VDE="
+   },
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-08-05"
+    ],
+    "time": "21:00",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkcwNTkwVDM="
+   },
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-08-06"
+    ],
+    "time": "15:45",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkcwNjM0VDI="
+   },
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-08-06"
+    ],
+    "time": "18:40",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkcwNjY0VDI="
+   },
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-08-06"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkcwNjkzVDI="
+   }
+  ],
+  "art": [
+   "#3a3218",
+   "#d9c06a"
   ]
  },
  {
@@ -8351,8 +4264,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#101b2a",
+   "#e0562a"
   ]
  },
  {
@@ -8382,8 +4295,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2a1a",
+   "#f0a83c"
   ]
  },
  {
@@ -8458,8 +4371,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2a3324",
+   "#d4b26a"
   ]
  },
  {
@@ -8487,8 +4400,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2b3a2f",
+   "#e0b34d"
   ]
  },
  {
@@ -8518,8 +4431,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#3a2b2b",
+   "#c94f4f"
   ]
  },
  {
@@ -8549,8 +4462,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#1f2a44",
+   "#f0f0f0"
   ]
  },
  {
@@ -8589,8 +4502,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#3a2440",
+   "#4dd6c4"
   ]
  },
  {
@@ -8629,8 +4542,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#123a3a",
+   "#7fd4e0"
   ]
  },
  {
@@ -8656,8 +4569,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#2a3550",
+   "#e88b6a"
   ]
  },
  {
@@ -8705,8 +4618,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#40183a",
+   "#f24d94"
   ]
  },
  {
@@ -8732,8 +4645,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#24303a",
+   "#9ab0c4"
   ]
  },
  {
@@ -8762,8 +4675,128 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#3a3218",
+   "#d9c06a"
+  ]
+ },
+ {
+  "id": "the-samurai-and-the-prisoner",
+  "title": "The Samurai and the Prisoner",
+  "year": null,
+  "director": "Kiyoshi Kurosawa",
+  "runtime": null,
+  "country": "Japan",
+  "lang": "Japanese",
+  "why": "Kiyoshi Kurosawa’s latest is an elegant series of mysteries set in the court of a samurai nobleman.",
+  "poster": "https://images.ctfassets.net/22n7d68fswlw/2bdqxXmZDOGRnxnoFjDuJx/5c3d48e7563e4c0274398c7b869895db/Samurai-and-the-Prisoner_Poster.jpg",
+  "tags": [
+   "Drama",
+   "Mystery + Thriller"
+  ],
+  "screenings": [
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-08-07"
+    ],
+    "time": "18:45",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkcwNzY0VDI="
+   },
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-08-07"
+    ],
+    "time": "21:15",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkcwNzkxVDM="
+   },
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-08-08"
+    ],
+    "time": "19:30",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkcwODczVDM="
+   },
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-08-08"
+    ],
+    "time": "13:15",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkcwODExVDM="
+   },
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-08-09"
+    ],
+    "time": "15:30",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkcwOTMzVDI="
+   },
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-08-09"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkcwOTYzVDM="
+   },
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-08-11"
+    ],
+    "time": "19:30",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkcxMTczVDM="
+   },
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-08-12"
+    ],
+    "time": "20:00",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkcxMjgwVDM="
+   },
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-08-13"
+    ],
+    "time": "19:15",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkcxMzcxVDE="
+   },
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-08-13"
+    ],
+    "time": "16:00",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkcxMzQwVDE="
+   },
+   {
+    "theatre": "tiff",
+    "dates": [
+     "2026-08-12"
+    ],
+    "time": "16:00",
+    "format": "",
+    "url": "https://am.ticketmaster.com/tiff/ism/NkcxMjQwVDI="
+   }
+  ],
+  "art": [
+   "#101b2a",
+   "#e0562a"
   ]
  },
  {
@@ -8774,7 +4807,7 @@
   "runtime": null,
   "country": "Portugal",
   "lang": "Portuguese",
-  "why": "",
+  "why": "John Sturgill Simpson is an American country music singer-songwriter and actor. Simpson's style has been met with critical favor and frequent comparisons to outlaw country.",
   "poster": "https://images.ctfassets.net/22n7d68fswlw/5BSrqh9gdNzoeyvZ5tsSaN/22844b3bd5a576c672dedae4de93381d/The-Sound-of-the-Shaking-Earth_Still_01.jpg",
   "tags": [
    "Drama"
@@ -8791,16 +4824,16 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2a1a",
+   "#f0a83c"
   ]
  },
  {
   "id": "the-summer-of-schoenbrun-i-saw-the-tv-glow",
   "title": "The Summer of Schoenbrun: I Saw the TV Glow",
-  "year": null,
+  "year": 2024,
   "director": "Jane Schoenbrun",
-  "runtime": null,
+  "runtime": 100,
   "country": "USA",
   "lang": "English",
   "why": "Part of Summer of Schoenbrun! In anticipation of Jane Schoenbrun’s upcoming film Teenage Sex and Death at Camp Miasma, we're screening the director’s previous two features, We're All Going to the World's Fair (2021) and ",
@@ -8821,19 +4854,19 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#2a3324",
+   "#d4b26a"
   ]
  },
  {
   "id": "theater-camp",
   "title": "Theater Camp",
-  "year": null,
+  "year": 2023,
   "director": "Molly Gordon, Nick Lieberman",
-  "runtime": null,
+  "runtime": 93,
   "country": "USA",
   "lang": "English",
-  "why": "",
+  "why": "Theater Camp is a 2023 American mockumentary comedy film directed by Molly Gordon and Nick Lieberman in both of their feature directorial debuts from a screenplay by Gordon, Lieberman, Ben Platt, and Noah Galvin. A fe…",
   "poster": "https://images.ctfassets.net/22n7d68fswlw/37byr7BmkVtOrFFAh14zZE/b27ba8496dbb8958ddf404daff123ab7/Theater-Camp_Artwork_02.jpg",
   "tags": [
    "Comedy"
@@ -8850,19 +4883,19 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2b3a2f",
+   "#e0b34d"
   ]
  },
  {
   "id": "waiting-for-guffman",
   "title": "Waiting for Guffman",
-  "year": null,
+  "year": 1996,
   "director": "Christopher Guest",
-  "runtime": null,
+  "runtime": 84,
   "country": "USA",
   "lang": "English",
-  "why": "",
+  "why": "Waiting for Guffman is a 1996 American mockumentary comedy film written by Christopher Guest and Eugene Levy, and directed by Guest. The film's ensemble cast includes Guest, Levy, Catherine O'Hara, Fred Willard, Bob B…",
   "poster": "https://images.ctfassets.net/22n7d68fswlw/3pCnJZ6FrnbgvNghRujzKU/77fd431f0a986c046c9961512b730b6e/poster-waiting-for-guffman.jpg",
   "tags": [
    "Comedy"
@@ -8879,19 +4912,19 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2b2b",
+   "#c94f4f"
   ]
  },
  {
   "id": "white-nights",
   "title": "White Nights",
-  "year": null,
+  "year": 1985,
   "director": "Luchino Visconti",
-  "runtime": null,
+  "runtime": 136,
   "country": "Italy",
   "lang": "Italian",
-  "why": "",
+  "why": "White Nights is a 1985 American musical drama film directed by Taylor Hackford and starring Mikhail Baryshnikov, Gregory Hines, Jerzy Skolimowski, Helen Mirren and Isabella Rossellini. It was choreographed by Twyla Th…",
   "poster": "https://images.ctfassets.net/22n7d68fswlw/EaHBEczgdLlMCrBVPMX57/829868b00f5662f68ed960b1f78b6585/White-Nights_Poster.jpg",
   "tags": [
    "Drama",
@@ -8918,18 +4951,18 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#1f2a44",
+   "#f0f0f0"
   ]
  },
  {
   "id": "backrooms-everything-must-go-edition",
   "title": "Backrooms: Everything Must Go Edition",
-  "year": null,
-  "director": "",
+  "year": 2026,
+  "director": "Kane Parsons",
   "runtime": 120,
-  "country": "",
-  "lang": "",
+  "country": "USA",
+  "lang": "English",
   "why": "A strange doorway appears in the basement of a furniture showroom. Stars Renate Reinsve, Chiwetel Ejiofor, Mark Duplass",
   "poster": "https://omniwebticketing6.com/imaginecinemas/files-circuit/images/posters/backrooms.png",
   "tags": [],
@@ -9170,18 +5203,18 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2440",
+   "#4dd6c4"
   ]
  },
  {
   "id": "casino",
   "title": "Casino",
-  "year": null,
-  "director": "",
+  "year": 1995,
+  "director": "Martin Scorsese",
   "runtime": 179,
-  "country": "",
-  "lang": "",
+  "country": "USA, France",
+  "lang": "English",
   "why": "Rewind & Replay...In Las Vegas, two best friends--a casino executive and a Mafia enforcer--compete for a gambling empire and a fast-living, fast-loving socialite. Stars Robert De Niro, Sharon Stone, Joe Pesci",
   "poster": "https://omniwebticketing6.com/imaginecinemas/files-circuit/images/posters/Casino.png",
   "tags": [],
@@ -9359,8 +5392,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#123a3a",
+   "#7fd4e0"
   ]
  },
  {
@@ -9593,8 +5626,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#2a3550",
+   "#e88b6a"
   ]
  },
  {
@@ -9845,8 +5878,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#40183a",
+   "#f24d94"
   ]
  },
  {
@@ -9989,8 +6022,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#24303a",
+   "#9ab0c4"
   ]
  },
  {
@@ -10151,8 +6184,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a3218",
+   "#d9c06a"
   ]
  },
  {
@@ -10403,8 +6436,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#101b2a",
+   "#e0562a"
   ]
  },
  {
@@ -10655,8 +6688,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2a1a",
+   "#f0a83c"
   ]
  },
  {
@@ -10781,8 +6814,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#2a3324",
+   "#d4b26a"
   ]
  },
  {
@@ -10871,8 +6904,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2b3a2f",
+   "#e0b34d"
   ]
  },
  {
@@ -10925,8 +6958,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2b2b",
+   "#c94f4f"
   ]
  },
  {
@@ -10979,8 +7012,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#1f2a44",
+   "#f0f0f0"
   ]
  },
  {
@@ -11033,8 +7066,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2440",
+   "#4dd6c4"
   ]
  }
 ]
