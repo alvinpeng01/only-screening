@@ -1,0 +1,44 @@
+name: Update listings
+
+# Refreshes data.js from the theatres each morning and commits the result,
+# which republishes the GitHub Pages site. Also runnable on demand from the
+# Actions tab ("Run workflow").
+on:
+  schedule:
+    - cron: "15 11 * * *"   # 11:15 UTC ≈ 07:15 America/Toronto
+  workflow_dispatch:
+
+# Allow the job to push the regenerated data back to the repo.
+permissions:
+  contents: write
+
+concurrency:
+  group: update-listings
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rebuild + enrich listings
+        run: |
+          python3 update.py --all
+          python3 update.py --enrich --passes 4
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain data.js data.json)" ]; then
+            git add data.js data.json
+            git commit -m "chore: refresh listings ($(date -u +%Y-%m-%d))"
+            git push
+          else
+            echo "No listing changes."
+          fi

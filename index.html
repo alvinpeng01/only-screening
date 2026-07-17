@@ -1,0 +1,500 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Only Screening — a Toronto repertory film index</title>
+  <style>
+    :root {
+      --bg: #101014;
+      --surface: #16161b;
+      --ink: #e9e7e2;
+      --ink-soft: #a8a49c;
+      --ink-faint: #6e6a63;
+      --rule: #2a2a30;
+      --rule-strong: #3d3d44;
+      --accent: #c9a35c;
+      --accent-ink: #e4c98d;
+      --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+      --sans: ui-sans-serif, -apple-system, "Helvetica Neue", Arial, sans-serif;
+      --mono: ui-monospace, "SF Mono", Menlo, monospace;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; }
+    body {
+      background: var(--bg); color: var(--ink);
+      font-family: var(--sans); line-height: 1.5;
+      -webkit-font-smoothing: antialiased; min-height: 100vh;
+    }
+    a { color: inherit; }
+    .wrap { max-width: 1200px; margin: 0 auto; padding: 0 24px; }
+
+    /* ---------- Masthead ---------- */
+    header.site { padding: 30px 0 0; }
+    .masthead { text-align: center; padding-bottom: 18px; }
+    .masthead h1 {
+      font-family: var(--serif); font-weight: 400; letter-spacing: .01em;
+      font-size: clamp(34px, 5vw, 52px); margin: 0; line-height: 1.05;
+    }
+    .masthead h1 em { font-style: italic; }
+    .masthead .folio {
+      display: flex; justify-content: center; gap: 18px; margin-top: 10px;
+      font-size: 11px; letter-spacing: .22em; text-transform: uppercase;
+      color: var(--ink-faint);
+    }
+    .rule-double { border-top: 1px solid var(--rule-strong); border-bottom: 1px solid var(--rule-strong); height: 4px; }
+
+    /* ---------- Controls ---------- */
+    .controls {
+      display: flex; align-items: baseline; gap: 26px; flex-wrap: wrap;
+      padding: 16px 0 14px; border-bottom: 1px solid var(--rule);
+    }
+    .tabs { display: flex; gap: 22px; flex-wrap: wrap; }
+    .tab {
+      background: none; border: 0; padding: 2px 0; cursor: pointer;
+      font-family: var(--sans); font-size: 13px; letter-spacing: .04em;
+      color: var(--ink-soft); border-bottom: 1px solid transparent;
+    }
+    .tab:hover { color: var(--ink); }
+    .tab.active { color: var(--accent-ink); border-bottom-color: var(--accent); }
+    .controls .right { margin-left: auto; display: flex; align-items: baseline; gap: 20px; }
+    .searchbox { display: inline-flex; align-items: baseline; gap: 8px; }
+    .searchbox input {
+      background: none; border: 0; border-bottom: 1px solid var(--rule-strong);
+      color: var(--ink); font-size: 13px; padding: 2px 0; width: 190px; outline: none;
+      font-family: var(--sans);
+    }
+    .searchbox input:focus { border-bottom-color: var(--accent); }
+    .searchbox input::placeholder { color: var(--ink-faint); }
+    select#sort {
+      appearance: none; -webkit-appearance: none; background: none; border: 0;
+      border-bottom: 1px solid var(--rule-strong); border-radius: 0;
+      color: var(--ink-soft); font-size: 13px; padding: 2px 16px 2px 0; cursor: pointer;
+      background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='9' height='9' viewBox='0 0 24 24' fill='none' stroke='%236e6a63' stroke-width='3'><path d='M6 9l6 6 6-6'/></svg>");
+      background-repeat: no-repeat; background-position: right 2px center;
+    }
+    .lbl { font-size: 10px; letter-spacing: .18em; text-transform: uppercase; color: var(--ink-faint); }
+    .count-line { padding: 12px 0 0; font-size: 12px; color: var(--ink-faint); font-style: italic; font-family: var(--serif); }
+
+    /* ---------- Grid ---------- */
+    .grid {
+      display: grid; gap: 34px 26px; padding: 26px 0 70px;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    }
+    .card { cursor: pointer; }
+    .poster {
+      position: relative; aspect-ratio: 2 / 3; overflow: hidden;
+      background: #000; border: 1px solid var(--rule-strong);
+    }
+    .poster img, .poster svg { width: 100%; height: 100%; display: block; object-fit: cover; }
+    .poster img.real { position: absolute; inset: 0; }
+    .card:hover .poster { border-color: var(--accent); }
+    .poster .venues {
+      position: absolute; bottom: 0; right: 0;
+      background: rgba(10,10,12,.85); color: var(--accent-ink);
+      font-family: var(--mono); font-size: 10px; letter-spacing: .06em;
+      padding: 4px 8px; border-top: 1px solid var(--rule-strong); border-left: 1px solid var(--rule-strong);
+    }
+    .card-body { padding-top: 12px; }
+    .card-body h3 {
+      font-family: var(--serif); font-weight: 400; font-size: 17.5px;
+      line-height: 1.22; margin: 0 0 5px; letter-spacing: .002em;
+    }
+    .card:hover h3 { color: var(--accent-ink); }
+    .fact { font-size: 12px; color: var(--ink-soft); line-height: 1.55; }
+    .fact .sep { color: var(--ink-faint); padding: 0 3px; }
+    .byline { font-size: 12px; color: var(--ink-faint); font-style: italic; font-family: var(--serif); }
+    .genres { font-size: 10px; letter-spacing: .14em; text-transform: uppercase; color: var(--ink-faint); margin-top: 5px; }
+    .next {
+      margin-top: 9px; padding-top: 7px; border-top: 1px solid var(--rule);
+      font-family: var(--mono); font-size: 11.5px; color: var(--accent-ink); letter-spacing: .02em;
+    }
+    .next .at { color: var(--ink-faint); }
+
+    .empty { grid-column: 1 / -1; text-align: center; padding: 90px 0; color: var(--ink-soft); font-family: var(--serif); font-style: italic; font-size: 17px; }
+
+    /* ---------- Modal ---------- */
+    .overlay {
+      position: fixed; inset: 0; z-index: 50; background: rgba(8,8,10,.82);
+      display: none; align-items: flex-start; justify-content: center;
+      padding: 46px 20px; overflow-y: auto;
+    }
+    .overlay.open { display: flex; }
+    .modal {
+      background: var(--surface); border: 1px solid var(--rule-strong);
+      max-width: 780px; width: 100%; position: relative;
+    }
+    .modal-close {
+      position: absolute; top: 12px; right: 14px; z-index: 2;
+      background: none; border: 0; color: var(--ink-soft); font-size: 22px;
+      cursor: pointer; line-height: 1; padding: 6px;
+    }
+    .modal-close:hover { color: var(--ink); }
+    .modal-top { display: flex; }
+    .modal-poster { width: 38%; flex: none; background: #000; position: relative; border-right: 1px solid var(--rule-strong); }
+    .modal-poster img, .modal-poster svg { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .modal-poster img.real { position: absolute; inset: 0; }
+    .modal-info { padding: 28px 30px 22px; flex: 1; min-width: 0; }
+    .modal-info h2 {
+      font-family: var(--serif); font-weight: 400; font-size: 29px;
+      line-height: 1.12; margin: 0 0 14px;
+    }
+    .modal-info .why {
+      font-family: var(--serif); font-size: 14.5px; line-height: 1.6;
+      color: var(--ink-soft); margin: 0 0 18px;
+    }
+    table.specs { width: 100%; border-collapse: collapse; font-size: 12.5px; }
+    table.specs th, table.specs td { text-align: left; padding: 6px 0; border-top: 1px solid var(--rule); vertical-align: top; }
+    table.specs th {
+      width: 92px; font-weight: 400; font-size: 10px; letter-spacing: .16em;
+      text-transform: uppercase; color: var(--ink-faint); padding-right: 12px;
+    }
+    table.specs td { color: var(--ink); }
+
+    .showtimes { padding: 0 30px 26px; }
+    .showtimes h4 {
+      font-size: 10px; letter-spacing: .2em; text-transform: uppercase;
+      color: var(--ink-faint); font-weight: 400;
+      margin: 22px 0 4px; padding-bottom: 8px; border-bottom: 1px solid var(--rule-strong);
+    }
+    .vgroup { margin-top: 14px; }
+    .vhead { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
+    .vhead .vname { font-family: var(--serif); font-size: 16px; text-decoration: none; }
+    a.vname:hover { color: var(--accent-ink); }
+    .vhead .vwhere { font-size: 11px; color: var(--ink-faint); letter-spacing: .06em; text-transform: uppercase; }
+    .dayrow {
+      display: flex; align-items: baseline; gap: 16px;
+      padding: 8px 0; border-top: 1px solid var(--rule);
+    }
+    .vgroup .dayrow:first-of-type { margin-top: 8px; }
+    .dayrow.extra { display: none; }
+    .vgroup.expanded .dayrow.extra { display: flex; }
+    .dr-date {
+      font-family: var(--mono); font-size: 12.5px; color: var(--ink-soft);
+      min-width: 104px; flex: none; letter-spacing: .01em;
+    }
+    .dr-times { display: flex; flex-wrap: wrap; gap: 6px 16px; }
+    .tpill {
+      font-family: var(--mono); font-size: 12.5px; color: var(--ink);
+      text-decoration: none; white-space: nowrap;
+    }
+    a.tpill { border-bottom: 1px solid var(--rule-strong); }
+    a.tpill:hover { color: var(--accent-ink); border-bottom-color: var(--accent); }
+    .tpill .f {
+      color: var(--accent-ink); font-size: 9.5px; letter-spacing: .06em;
+      text-transform: uppercase; margin-left: 4px;
+    }
+    .more {
+      background: none; border: 0; cursor: pointer;
+      font-family: var(--mono); font-size: 11px; letter-spacing: .08em;
+      color: var(--ink-faint); padding: 10px 0 2px;
+    }
+    .more:hover { color: var(--accent-ink); }
+
+    footer.site { border-top: 1px solid var(--rule); padding: 22px 0 56px; font-size: 12px; color: var(--ink-faint); }
+    footer.site a { color: var(--ink-soft); }
+
+    @media (max-width: 600px) {
+      .modal-top { flex-direction: column; }
+      .modal-poster { width: 100%; aspect-ratio: 16 / 10; border-right: 0; border-bottom: 1px solid var(--rule-strong); }
+      .grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 26px 16px; }
+      .controls .right { margin-left: 0; }
+    }
+  </style>
+</head>
+<body>
+  <header class="site">
+    <div class="wrap">
+      <div class="masthead">
+        <h1>Only <em>Screening</em></h1>
+        <div class="folio">
+          <span>Toronto</span><span>·</span><span>A Repertory Film Index</span><span>·</span><span id="today-line"></span>
+        </div>
+      </div>
+      <div class="rule-double"></div>
+      <div class="controls">
+        <div class="tabs" id="filters"></div>
+        <div class="right">
+          <label class="searchbox">
+            <span class="lbl">Search</span>
+            <input id="search" type="text" placeholder="title, director, genre…" autocomplete="off" />
+          </label>
+          <label>
+            <span class="lbl">Sort</span>
+            <select id="sort">
+              <option value="showtime">Next showtime</option>
+              <option value="title">Title A–Z</option>
+              <option value="venues">Most theatres</option>
+              <option value="year">Newest</option>
+            </select>
+          </label>
+        </div>
+      </div>
+      <div class="count-line" id="count"></div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="grid" id="grid"></section>
+  </main>
+
+  <div class="overlay" id="overlay">
+    <div class="modal" id="modal"></div>
+  </div>
+
+  <footer class="site">
+    <div class="wrap">
+      Listings are read daily from each theatre's own site by <code>update.py</code>.
+      Inspired by <a href="https://tothemovies.ca" target="_blank" rel="noopener">tothemovies.ca</a>.
+    </div>
+  </footer>
+
+  <script>
+    // Cache-bust data.js hourly so the daily rebuild is always picked up.
+    document.write('<script src="data.js?v=' + new Date().toISOString().slice(0, 13) + '"><\/script>');
+  </script>
+  <script>
+    // ---- Generated poster art (fallback when a film has no poster) ----------
+    function posterSVG(m) {
+      const [c1, c2] = m.art || ["#222", "#888"];
+      const initials = m.title.split(/\s+/).slice(0, 3).map(w => w[0]).join("").toUpperCase();
+      let seed = 0; for (const ch of m.id) seed = (seed * 31 + ch.charCodeAt(0)) >>> 0;
+      const rand = () => (seed = (seed * 1103515245 + 12345) & 0x7fffffff) / 0x7fffffff;
+      let dots = "";
+      for (let i = 0; i < 26; i++) {
+        const x = rand() * 300, y = rand() * 450, r = 0.6 + rand() * 2.2;
+        dots += `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${r.toFixed(1)}" fill="${c2}" opacity="${(0.06 + rand()*0.14).toFixed(2)}"/>`;
+      }
+      const gid = "g_" + m.id.replace(/[^a-z0-9]/gi, "");
+      return `<svg viewBox="0 0 300 450" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" role="img" aria-label="${esc(m.title)} poster">
+        <defs><linearGradient id="${gid}" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stop-color="${c1}"/><stop offset="1" stop-color="${shade(c1,-22)}"/>
+        </linearGradient></defs>
+        <rect width="300" height="450" fill="url(#${gid})"/>${dots}
+        <circle cx="150" cy="188" r="66" fill="none" stroke="${c2}" stroke-width="2" opacity="0.5"/>
+        <text x="150" y="188" text-anchor="middle" dominant-baseline="central"
+              font-family="Georgia, serif" font-size="58" font-weight="700" fill="${c2}">${initials}</text>
+        <rect x="0" y="0" width="300" height="450" fill="none" stroke="${c2}" stroke-width="8" opacity="0.12"/>
+      </svg>`;
+    }
+    function posterHTML(m) {
+      const art = posterSVG(m);
+      if (!m.poster) return art;
+      return `${art}<img class="real" src="${esc(m.poster)}" alt="${esc(m.title)} poster" loading="lazy" onerror="this.remove()" />`;
+    }
+
+    // ---- utilities ----------------------------------------------------------
+    function esc(s) { return String(s ?? "").replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+    function shade(hex, pct) {
+      const n = parseInt(hex.slice(1), 16);
+      let r = (n >> 16) & 255, g = (n >> 8) & 255, b = n & 255;
+      const f = pct / 100;
+      r = Math.round(Math.min(255, Math.max(0, r + 255 * f)));
+      g = Math.round(Math.min(255, Math.max(0, g + 255 * f)));
+      b = Math.round(Math.min(255, Math.max(0, b + 255 * f)));
+      return "#" + ((1 << 24) + (r << 16) + (g << 8) + b).toString(16).slice(1);
+    }
+    const theatreById = Object.fromEntries(THEATRES.map(t => [t.id, t]));
+    function fmtRuntime(min) { return min ? `${Math.floor(min/60)} h ${String(min%60).padStart(2,"0")} min` : ""; }
+    function fmtDate(iso) {
+      const [y, mo, d] = iso.split("-").map(Number);
+      return new Date(y, mo - 1, d).toLocaleDateString("en-CA", { weekday: "short", month: "short", day: "numeric" });
+    }
+    function fmtTime(t) {
+      let [h, m] = t.split(":").map(Number);
+      const ap = h >= 12 ? "PM" : "AM"; h = h % 12 || 12;
+      return `${h}:${String(m).padStart(2,"0")} ${ap}`;
+    }
+    function venueCount(m) { return new Set(m.screenings.map(s => s.theatre)).size; }
+    function screeningTimes(m) {
+      const out = [];
+      for (const s of m.screenings)
+        for (const d of s.dates) {
+          const [y, mo, dd] = d.split("-").map(Number);
+          const [h, mi] = s.time.split(":").map(Number);
+          out.push(new Date(y, mo - 1, dd, h, mi).getTime());
+        }
+      return out.sort((a, b) => a - b);
+    }
+    function nextShowtimeKey(m, now) {
+      const ts = screeningTimes(m);
+      const up = ts.find(t => t >= now);
+      return up != null ? up : (ts[ts.length - 1] ?? Infinity) + 1e13;
+    }
+    function nextShowtimeLabel(m, now) {
+      const ts = screeningTimes(m);
+      const next = ts.find(t => t >= now) ?? ts[0];
+      if (next == null) return "";
+      const dt = new Date(next);
+      const iso = `${dt.getFullYear()}-${String(dt.getMonth()+1).padStart(2,"0")}-${String(dt.getDate()).padStart(2,"0")}`;
+      const today = new Date(now); today.setHours(0,0,0,0);
+      const diff = Math.round((new Date(dt).setHours(0,0,0,0) - today.getTime()) / 86400000);
+      const timeStr = fmtTime(`${dt.getHours()}:${String(dt.getMinutes()).padStart(2,"0")}`);
+      const day = diff === 0 ? "Tonight" : diff === 1 ? "Tomorrow" : fmtDate(iso);
+      return { day, timeStr };
+    }
+    function dotJoin(parts, sep) { return parts.filter(Boolean).join(sep ?? " · "); }
+
+    // ---- state --------------------------------------------------------------
+    let activeTheatre = "all";
+    let query = "";
+    let sortBy = "showtime";
+    const NOW = Date.now();
+
+    function matches(m) {
+      if (activeTheatre !== "all" && !m.screenings.some(s => s.theatre === activeTheatre)) return false;
+      if (query) {
+        const hay = [m.title, m.director, (m.tags||[]).join(" "), m.country, m.lang].join(" ").toLowerCase();
+        if (!hay.includes(query)) return false;
+      }
+      return true;
+    }
+
+    // ---- render -------------------------------------------------------------
+    function renderFilters() {
+      const el = document.getElementById("filters");
+      const tabs = [`<button class="tab ${activeTheatre==='all'?'active':''}" data-t="all">All theatres</button>`];
+      for (const t of THEATRES) {
+        if (!MOVIES.some(m => m.screenings.some(s => s.theatre === t.id))) continue;
+        tabs.push(`<button class="tab ${activeTheatre===t.id?'active':''}" data-t="${t.id}">${esc(t.name)}</button>`);
+      }
+      el.innerHTML = tabs.join("");
+      el.querySelectorAll(".tab").forEach(c =>
+        c.addEventListener("click", () => { activeTheatre = c.dataset.t; render(); }));
+    }
+
+    function render() {
+      renderFilters();
+      const comparators = {
+        showtime: (a, b) => nextShowtimeKey(a, NOW) - nextShowtimeKey(b, NOW) || a.title.localeCompare(b.title),
+        title:    (a, b) => a.title.localeCompare(b.title),
+        venues:   (a, b) => venueCount(b) - venueCount(a) || a.title.localeCompare(b.title),
+        year:     (a, b) => (b.year||0) - (a.year||0) || a.title.localeCompare(b.title),
+      };
+      const list = MOVIES.filter(matches).sort(comparators[sortBy] || comparators.showtime);
+      const grid = document.getElementById("grid");
+      const nShow = MOVIES.reduce((n, m) => n + screeningTimes(m).length, 0);
+      document.getElementById("count").textContent =
+        `${list.length} films now listed · ${nShow} screenings across ${THEATRES.length} theatres`;
+
+      if (!list.length) {
+        grid.innerHTML = `<div class="empty">Nothing matches — clear the search or choose another theatre.</div>`;
+        return;
+      }
+      grid.innerHTML = list.map(m => {
+        const vc = venueCount(m);
+        const nx = nextShowtimeLabel(m, NOW);
+        const facts = dotJoin([m.year, m.country, fmtRuntime(m.runtime)]);
+        return `<article class="card" data-id="${m.id}" tabindex="0" role="button" aria-label="${esc(m.title)}">
+          <div class="poster">
+            ${posterHTML(m)}
+            <span class="venues">${vc > 1 ? vc + " venues" : (theatreById[m.screenings[0].theatre]?.name.split(" ")[0] ?? "")}</span>
+          </div>
+          <div class="card-body">
+            <h3>${esc(m.title)}</h3>
+            ${facts ? `<div class="fact">${esc(facts)}</div>` : ""}
+            ${m.director ? `<div class="byline">directed by ${esc(m.director)}</div>` : ""}
+            ${(m.tags||[]).length ? `<div class="genres">${m.tags.map(esc).join(" · ")}</div>` : ""}
+            ${nx ? `<div class="next">${esc(nx.day)} ${esc(nx.timeStr)}<span class="at"> · ${vc>1 ? "several venues" : esc(theatreById[m.screenings[0].theatre]?.name ?? "")}</span></div>` : ""}
+          </div>
+        </article>`;
+      }).join("");
+      grid.querySelectorAll(".card").forEach(c => {
+        c.addEventListener("click", () => openModal(c.dataset.id));
+        c.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); openModal(c.dataset.id); } });
+      });
+    }
+
+    // ---- modal --------------------------------------------------------------
+    function openModal(id) {
+      const m = MOVIES.find(x => x.id === id);
+      if (!m) return;
+      const byTheatre = {};
+      for (const s of m.screenings) (byTheatre[s.theatre] ||= []).push(s);
+
+      const DAYS_VISIBLE = 3;
+      const venuesHTML = Object.entries(byTheatre).map(([tid, screenings], vi) => {
+        const t = theatreById[tid] || { name: tid, hood: "", kind: "", book: "" };
+        // group this venue's screenings by calendar day
+        const byDate = {};
+        for (const s of screenings)
+          for (const d of s.dates)
+            (byDate[d] ||= []).push({ time: s.time, format: s.format, url: s.url });
+        const dates = Object.keys(byDate).sort();
+        const dayRows = dates.map((d, di) => {
+          const times = byDate[d]
+            .sort((a, b) => a.time.localeCompare(b.time))
+            .map(x => {
+              const href = x.url || t.book || "";
+              const label = `${fmtTime(x.time)}${x.format ? `<span class="f">${esc(x.format)}</span>` : ""}`;
+              return href
+                ? `<a class="tpill" href="${esc(href)}" target="_blank" rel="noopener">${label}</a>`
+                : `<span class="tpill">${label}</span>`;
+            }).join("");
+          return `<div class="dayrow${di >= DAYS_VISIBLE ? " extra" : ""}"><span class="dr-date">${fmtDate(d)}</span><span class="dr-times">${times}</span></div>`;
+        }).join("");
+        const nameEl = t.book
+          ? `<a class="vname" href="${esc(t.book)}" target="_blank" rel="noopener">${esc(t.name)}</a>`
+          : `<span class="vname">${esc(t.name)}</span>`;
+        const moreBtn = dates.length > DAYS_VISIBLE
+          ? `<button class="more" data-count="${dates.length}">Show all ${dates.length} dates ↓</button>`
+          : "";
+        return `<div class="vgroup">
+          <div class="vhead">${nameEl}<span class="vwhere">${esc(dotJoin([t.hood, t.kind]))}</span></div>
+          ${dayRows}${moreBtn}
+        </div>`;
+      }).join("");
+
+      const specRows = [
+        ["Director", m.director], ["Year", m.year], ["Runtime", fmtRuntime(m.runtime)],
+        ["Country", m.country], ["Language", m.lang], ["Notes", (m.tags||[]).join(", ")],
+      ].filter(([, v]) => v)
+       .map(([k, v]) => `<tr><th>${k}</th><td>${esc(v)}</td></tr>`).join("");
+
+      document.getElementById("modal").innerHTML = `
+        <button class="modal-close" aria-label="Close">&times;</button>
+        <div class="modal-top">
+          <div class="modal-poster">${posterHTML(m)}</div>
+          <div class="modal-info">
+            <h2>${esc(m.title)}</h2>
+            ${m.why ? `<p class="why">${esc(m.why)}</p>` : ""}
+            ${specRows ? `<table class="specs">${specRows}</table>` : ""}
+          </div>
+        </div>
+        <div class="showtimes">
+          <h4>Screenings</h4>
+          ${venuesHTML}
+        </div>`;
+      const modalEl = document.getElementById("modal");
+      modalEl.querySelector(".modal-close").addEventListener("click", closeModal);
+      modalEl.querySelectorAll(".more").forEach(btn => btn.addEventListener("click", () => {
+        const vg = btn.closest(".vgroup");
+        const open = vg.classList.toggle("expanded");
+        btn.textContent = open ? "Show fewer ↑" : `Show all ${btn.dataset.count} dates ↓`;
+      }));
+      document.getElementById("overlay").classList.add("open");
+      document.body.style.overflow = "hidden";
+    }
+    function closeModal() {
+      document.getElementById("overlay").classList.remove("open");
+      document.body.style.overflow = "";
+    }
+    document.getElementById("overlay").addEventListener("click", e => {
+      if (e.target.id === "overlay") closeModal();
+    });
+    document.addEventListener("keydown", e => { if (e.key === "Escape") closeModal(); });
+
+    // ---- controls -----------------------------------------------------------
+    document.getElementById("search").addEventListener("input", e => {
+      query = e.target.value.trim().toLowerCase(); render();
+    });
+    document.getElementById("sort").addEventListener("change", e => {
+      sortBy = e.target.value; render();
+    });
+    document.getElementById("today-line").textContent =
+      new Date().toLocaleDateString("en-CA", { weekday: "long", month: "long", day: "numeric", year: "numeric" });
+
+    render();
+  </script>
+</body>
+</html>

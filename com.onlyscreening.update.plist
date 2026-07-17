@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  macOS launchd job: runs the updater once a day at 06:15.
+
+  INSTALL
+    1. Edit the two absolute paths below if you move the project.
+    2. cp com.onlyscreening.update.plist ~/Library/LaunchAgents/
+    3. launchctl load ~/Library/LaunchAgents/com.onlyscreening.update.plist
+    To run it immediately once:
+       launchctl start com.onlyscreening.update
+    To stop scheduling:
+       launchctl unload ~/Library/LaunchAgents/com.onlyscreening.update.plist
+
+  Logs land in the project folder as update.log / update.err.
+-->
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.onlyscreening.update</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/Library/Frameworks/Python.framework/Versions/3.12/bin/python3</string>
+    <string>/Users/alvinpeng/Developer/only-screening/update.py</string>
+    <string>--all</string>
+  </array>
+
+  <key>WorkingDirectory</key>
+  <string>/Users/alvinpeng/Developer/only-screening</string>
+
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key><integer>6</integer>
+    <key>Minute</key><integer>15</integer>
+  </dict>
+
+  <key>StandardOutPath</key>
+  <string>/Users/alvinpeng/Developer/only-screening/update.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/alvinpeng/Developer/only-screening/update.err</string>
+</dict>
+</plist>

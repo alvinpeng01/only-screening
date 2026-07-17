@@ -1,0 +1,13 @@
+# Local backup of the original hand-curated demo data
+data.curated-backup.js
+
+# Updater logs (created by the scheduled job)
+update.log
+update.err
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
