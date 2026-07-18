@@ -275,11 +275,16 @@ def paradise():
         yr = mv.get("release_year")
         rt = mv.get("runtime")
         # The API omits posters, but each film's detail page carries the real
-        # one-sheet as og:image — pull it from the source rather than Wikipedia.
+        # one-sheet as og:image — pull it from the source as a fallback for
+        # whatever TMDB doesn't match (local one-off events, etc).
+        # NOTE: /movies/{slug}/ is the real permalink; /film/{slug}/ 404s for
+        # slugs with stripped special characters (e.g. "wall-e") and the 404
+        # page's own og:image is the theatre's logo — a bug that once slipped
+        # through because the logo is *also* hosted on the same S3 bucket.
         poster = ""
-        page = get(f"https://paradiseonbloor.com/film/{slug(raw)}/")
+        page = get(f"https://paradiseonbloor.com/movies/{slug(raw)}/")
         pm = re.search(r'og:image"\s+content="([^"]+)"', page)
-        if pm and "nightjar" in pm.group(1):
+        if pm and "nightjar" in pm.group(1) and "logo" not in pm.group(1).lower():
             poster = html.unescape(pm.group(1))
         out.append({"theatre": "paradise", "title": clean_title(raw),
                     "year": int(yr) if yr and str(yr).isdigit() else year_from(raw),
@@ -463,17 +468,25 @@ def carry_forward(movies):
         prev = old.get(norm(m["title"]))
         if not prev:
             continue
+        tmdb_ok = prev.get("_tmdb_matched") is True
         for fld in ("year", "director", "runtime", "country", "lang", "why", "poster"):
-            if not m.get(fld) and prev.get(fld):
-                m[fld] = prev[fld]; carried = carried + 1
+            if prev.get(fld) and (tmdb_ok or not m.get(fld)):
+                # TMDB-confirmed fields are authoritative and override a fresh
+                # (possibly wrong) theatre-scraped value; otherwise only fill gaps.
+                if m.get(fld) != prev[fld]:
+                    m[fld] = prev[fld]; carried = carried + 1
+        if prev.get("_tmdb_matched") is not None:
+            m["_tmdb_matched"] = prev["_tmdb_matched"]
+        if tmdb_ok and prev.get("tags"):
+            m["tags"] = prev["tags"]                      # keep TMDB's merged tag set
+        else:
+            for tg in prev.get("tags", []):                # otherwise just union
+                if tg not in m["tags"]:
+                    m["tags"].append(tg)
+            m["tags"] = m["tags"][:3]
         # preserve a rating already fetched (skip cached misses so they retry)
         if "rating" not in m and prev.get("rating") is not None:
             m["rating"], m["rating_count"] = prev["rating"], prev.get("rating_count")
-        # union any tags the old record had
-        for tg in prev.get("tags", []):
-            if tg not in m["tags"]:
-                m["tags"].append(tg)
-        m["tags"] = m["tags"][:3]
     if carried:
         print(f"Carried forward {carried} field(s) from the previous build.")
     return movies
@@ -522,10 +535,18 @@ def tmdb_get(path, **params):
     return json.loads(get("https://api.themoviedb.org/3" + path + "?" +
                           urllib.parse.urlencode(params)))
 
-def tmdb_enrich(m):
-    """Fill missing core fields from TMDB. Returns whether anything was filled."""
+def tmdb_primary(m):
+    """Authoritative TMDB pass, tried once per film and cached via
+    `_tmdb_matched`. TMDB is treated as the ground truth for poster and
+    metadata — it OVERWRITES existing values (theatre pages have proven
+    unreliable: e.g. Paradise's 404 page's og:image is the theatre's own logo,
+    which silently passed as a "poster"). Wikipedia/theatre data still act as
+    the fallback for the films TMDB genuinely has no record of.
+
+    Returns True (matched, overwrote fields), False (searched, no match —
+    won't be retried), or None (network/API error — untried, retried later)."""
     if not TMDB_KEY:
-        return False
+        return None
     try:
         res = tmdb_get("/search/movie", query=m["title"], year=m.get("year") or "")
         hits = res.get("results") or []
@@ -534,31 +555,40 @@ def tmdb_enrich(m):
         if not hits:
             return False
         d = tmdb_get(f"/movie/{hits[0]['id']}", append_to_response="credits")
-    except Exception:
-        return False
+    except Exception as e:
+        print(f"    ! TMDB {m['title']}: {e}", file=sys.stderr)
+        return None
     filled = []
-    if not m["poster"] and d.get("poster_path"):
-        m["poster"] = "https://image.tmdb.org/t/p/w500" + d["poster_path"]; filled.append("poster")
-    if not m["director"]:
-        dirs = [c["name"] for c in d.get("credits", {}).get("crew", []) if c.get("job") == "Director"]
-        if dirs: m["director"] = ", ".join(dirs[:2]); filled.append("director")
-    if not m["runtime"] and d.get("runtime"):
+    if d.get("poster_path"):
+        new = "https://image.tmdb.org/t/p/w500" + d["poster_path"]
+        if new != m.get("poster"): m["poster"] = new; filled.append("poster")
+    dirs = [c["name"] for c in d.get("credits", {}).get("crew", []) if c.get("job") == "Director"]
+    if dirs:
+        new = ", ".join(dirs[:2])
+        if new != m.get("director"): m["director"] = new; filled.append("director")
+    if d.get("runtime") and d["runtime"] != m.get("runtime"):
         m["runtime"] = d["runtime"]; filled.append("runtime")
-    if not m["country"] and d.get("production_countries"):
-        m["country"] = ", ".join(c["name"].replace("United States of America", "USA")
-                                 for c in d["production_countries"][:2]); filled.append("country")
-    if not m["lang"] and d.get("spoken_languages"):
-        m["lang"] = ", ".join(l.get("english_name") or l.get("name")
-                              for l in d["spoken_languages"][:2]); filled.append("lang")
-    if not m["why"] and d.get("overview"):
-        o = d["overview"].strip(); m["why"] = (o[:217] + "…") if len(o) > 220 else o; filled.append("why")
-    if not m["year"] and d.get("release_date"):
+    if d.get("production_countries"):
+        new = ", ".join(c["name"].replace("United States of America", "USA")
+                        for c in d["production_countries"][:2])
+        if new != m.get("country"): m["country"] = new; filled.append("country")
+    if d.get("spoken_languages"):
+        new = ", ".join(l.get("english_name") or l.get("name") for l in d["spoken_languages"][:2])
+        if new != m.get("lang"): m["lang"] = new; filled.append("lang")
+    if d.get("overview"):
+        o = d["overview"].strip()
+        new = (o[:217] + "…") if len(o) > 220 else o
+        if new != m.get("why"): m["why"] = new; filled.append("why")
+    if not m.get("year") and d.get("release_date"):     # don't clobber a known year
         m["year"] = int(d["release_date"][:4]); filled.append("year")
-    if not m["tags"] and d.get("genres"):
-        m["tags"] = [g["name"] for g in d["genres"][:3]]
+    if d.get("genres"):
+        fmt_tags = [t for t in m.get("tags", []) if t not in
+                    {g["name"] for g in d["genres"]}]      # keep e.g. "35mm", drop dupes
+        genres = [g["name"] for g in d["genres"]]
+        m["tags"] = (fmt_tags + genres)[:3]
     if filled:
         print(f"    + {m['title']} (TMDB): {', '.join(filled)}", file=sys.stderr)
-    return bool(filled)
+    return True
 
 
 # ===========================================================================
@@ -670,16 +700,22 @@ def wiki_enrich(m):
 CORE_FIELDS = ("poster", "director", "runtime", "country", "lang", "why", "year")
 
 def enrich_one(m):
-    """Fill missing metadata (TMDB when a key is set, else Wikipedia) and, once,
-    attach a Letterboxd rating. Returns whether anything new was filled."""
+    """TMDB is tried once per film (cached in `_tmdb_matched`) and is
+    authoritative for poster/metadata when it has a match. Wikipedia only fills
+    whatever's still missing — either TMDB found nothing, or no TMDB_KEY is
+    set. Letterboxd rating is also attempted once. Returns whether anything
+    new was filled."""
     changed = False
-    if not all(m.get(f) for f in CORE_FIELDS):
-        if tmdb_enrich(m): changed = True                 # no-op unless TMDB_KEY set
-        if not all(m.get(f) for f in CORE_FIELDS):        # Wikipedia fills the rest
-            try:
-                if wiki_enrich(m): changed = True
-            except Exception as e:
-                print(f"    ! {m['title']}: {e}", file=sys.stderr)
+    if m.get("_tmdb_matched") is None:
+        result = tmdb_primary(m)          # True / False / None(retry later)
+        if result is not None:
+            m["_tmdb_matched"] = result
+            if result: changed = True
+    if not all(m.get(f) for f in CORE_FIELDS):            # Wikipedia fills the rest
+        try:
+            if wiki_enrich(m): changed = True
+        except Exception as e:
+            print(f"    ! {m['title']}: {e}", file=sys.stderr)
     if "rating" not in m:                                 # attempt Letterboxd exactly once
         val, cnt = letterboxd_rating(m["title"], m.get("year"))
         m["rating"], m["rating_count"] = val, cnt
@@ -691,7 +727,9 @@ def enrich_one(m):
 def enrich_pass(movies):
     """Fill missing metadata + ratings on every incomplete film. Re-runnable."""
     need = [m for m in movies
-            if not all(m.get(f) for f in CORE_FIELDS) or "rating" not in m]
+            if m.get("_tmdb_matched") is None
+            or not all(m.get(f) for f in CORE_FIELDS)
+            or "rating" not in m]
     src = "TMDB" if TMDB_KEY else "Wikipedia"
     print(f"Enriching {len(need)} film(s) ({src} metadata + Letterboxd ratings) …")
     changed = 0
