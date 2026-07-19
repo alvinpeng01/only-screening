@@ -7,9 +7,13 @@
   "runtime": 106,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/varsity_blues_tmdb-g2jx2xmx7drbc6j9mljebghr7mg-683x1024.jpg",
-  "tags": [],
+  "why": "In small-town Texas, high school football is a religion, 17-year-old schoolboys carry the hopes of an entire community onto the gridiron every Friday night. When star quarterback Lance Harbor suffers an injury, the Co…",
+  "poster": "https://image.tmdb.org/t/p/w500/g2jX2Xmx7drbc6J9MLJEBghR7Mg.jpg",
+  "tags": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -24,7 +28,10 @@
   "art": [
    "#2b3a2f",
    "#e0b34d"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.11,
+  "rating_count": 37888
  },
  {
   "id": "nick-and-norah-s-infinite-playlist",
@@ -34,9 +41,13 @@
   "runtime": 89,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/p175989_p_v8_aq-683x1024.jpg",
-  "tags": [],
+  "why": "Nick cannot stop obsessing over his ex-girlfriend, Tris, until Tris' friend Norah suddenly shows interest in him at a club. Thus begins an odd night filled with ups and downs as the two keep running into Tris and her …",
+  "poster": "https://image.tmdb.org/t/p/w500/cndxWgZEHnSUtytrMjal97ye34E.jpg",
+  "tags": [
+   "Comedy",
+   "Music",
+   "Romance"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -51,7 +62,10 @@
   "art": [
    "#3a2b2b",
    "#c94f4f"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "buddy",
@@ -59,11 +73,14 @@
   "year": 2026,
   "director": "Casper Kelly",
   "runtime": 95,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/buddy_tmdb-pcw0mnheym8vig7my6vwqnjhkmw-691x1024.jpg",
-  "tags": [],
+  "country": "USA, Israel",
+  "lang": "English, Spanish",
+  "why": "Remember BUDDY—the bright orange unicorn and star of that classic childrens' television show who brought joy and life lessons into your living room?  Inside the colorful world of \"It's Buddy!\", a group of children spe…",
+  "poster": "https://image.tmdb.org/t/p/w500/pCW0Mnheym8vIG7mY6vWqnjHkMW.jpg",
+  "tags": [
+   "Horror",
+   "Comedy"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -114,7 +131,10 @@
   "art": [
    "#1f2a44",
    "#f0f0f0"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.54,
+  "rating_count": 873
  },
  {
   "id": "house-of-wax",
@@ -124,9 +144,13 @@
   "runtime": 113,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/house_of_wax_tmdb-aclsgw1daqkrvosyc3yuttbttpt-683x1024.jpg",
-  "tags": [],
+  "why": "A group of unwitting teens are stranded near a strange wax museum and soon must fight to survive and keep from becoming the next exhibit.",
+  "poster": "https://image.tmdb.org/t/p/w500/aCLSgw1DaqkRvosYc3YUttBTtpT.jpg",
+  "tags": [
+   "Horror",
+   "Thriller",
+   "Mystery"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -141,7 +165,10 @@
   "art": [
    "#3a2440",
    "#4dd6c4"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.0,
+  "rating_count": 348499
  },
  {
   "id": "trick-r-treat",
@@ -151,11 +178,12 @@
   "runtime": 82,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/screenshot_2026-07-13_at_8.45.38_am-679x1024.png",
+  "why": "Four interwoven stories that occur on Halloween: an everyday high school principal has a secret life as a serial killer; a college virgin might have just met the one guy for her; a group of teenagers pull a mean prank…",
+  "poster": "https://image.tmdb.org/t/p/w500/w0nmol4g7n6MFfhfphV7GzHHYjB.jpg",
   "tags": [
    "Restoration",
-   "Premiere"
+   "Premiere",
+   "Horror"
   ],
   "screenings": [
    {
@@ -171,7 +199,10 @@
   "art": [
    "#123a3a",
    "#7fd4e0"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.41,
+  "rating_count": 248455
  },
  {
   "id": "butch-cassidy-and-the-sundance-kid",
@@ -180,10 +211,12 @@
   "director": "George Roy Hill",
   "runtime": 111,
   "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/butch_cassidy_and_the_sundance_kid_tmdb-gfmmykf1ym3ogzeno50nzqad1dx-683x1024.jpg",
-  "tags": [],
+  "lang": "English, Spanish",
+  "why": "As the west rapidly becomes civilized, a pair of outlaws in 1890s Wyoming find themselves pursued by a posse and decide to flee to South America in hopes of evading the law.",
+  "poster": "https://image.tmdb.org/t/p/w500/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg",
+  "tags": [
+   "Western"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -198,7 +231,10 @@
   "art": [
    "#2a3550",
    "#e88b6a"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.17,
+  "rating_count": 198937
  },
  {
   "id": "an-american-werewolf-in-london",
@@ -206,12 +242,14 @@
   "year": 1981,
   "director": "John Landis",
   "runtime": 97,
-  "country": "USA",
+  "country": "United Kingdom, USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/an_american_werewolf_in_london_tmdb-hvequasjmcqaolkkfeyschz8ukg-683x1024.jpg",
+  "why": "American tourists David and Jack are savagely attacked by an unidentified animal while hiking on the Yorkshire Moors. After retiring to the home of a beautiful nurse to recuperate, David soon begins experiencing distu…",
+  "poster": "https://image.tmdb.org/t/p/w500/hVEqUASJmCQaolkKFEySCHZ8uKG.jpg",
   "tags": [
-   "35mm"
+   "35mm",
+   "Comedy",
+   "Horror"
   ],
   "screenings": [
    {
@@ -227,7 +265,10 @@
   "art": [
    "#40183a",
    "#f24d94"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.83,
+  "rating_count": 306416
  },
  {
   "id": "ninotchka",
@@ -236,10 +277,13 @@
   "director": "Ernst Lubitsch",
   "runtime": 110,
   "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/ninotchka_tmdb-v4mkgnqzyodywbdnbz64mf9tvel-683x1024.jpg",
-  "tags": [],
+  "lang": "English, Russian",
+  "why": "A stern Russian woman sent to Paris on official business finds herself attracted to a man who represents everything she is supposed to detest.",
+  "poster": "https://image.tmdb.org/t/p/w500/v4MkgNqZyodYwBDNbZ64MF9tVEL.jpg",
+  "tags": [
+   "Comedy",
+   "Romance"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -254,21 +298,25 @@
   "art": [
    "#24303a",
    "#9ab0c4"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.96,
+  "rating_count": 33518
  },
  {
   "id": "no-country-for-old-men",
   "title": "No Country for Old Men",
   "year": 2007,
-  "director": "Ethan Coen",
+  "director": "Joel Coen, Ethan Coen",
   "runtime": 122,
   "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/no_country_for_old_men_tmdb-ub7rdzby43wvu8skghhtwgytdbx-683x1024.jpg",
+  "lang": "English, Spanish",
+  "why": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey…",
+  "poster": "https://image.tmdb.org/t/p/w500/uB7RDZby43Wvu8SKGHHTwGyTDBX.jpg",
   "tags": [
    "4K",
-   "Restoration"
+   "Restoration",
+   "Crime"
   ],
   "screenings": [
    {
@@ -284,7 +332,10 @@
   "art": [
    "#3a3218",
    "#d9c06a"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.31,
+  "rating_count": 2261933
  },
  {
   "id": "ice-cream-man",
@@ -292,11 +343,14 @@
   "year": 2026,
   "director": "Eli Roth",
   "runtime": 86,
-  "country": "Japan",
+  "country": "USA, Canada",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/ice_cream_man_tmdb-c987gxfjxqyoxzezkctks1ontwh-683x1024.jpg",
-  "tags": [],
+  "why": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
+  "poster": "https://image.tmdb.org/t/p/w500/c987gxFjXqYOxZEZKcTkS1ONTWH.jpg",
+  "tags": [
+   "Horror",
+   "Thriller"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -365,7 +419,10 @@
   "art": [
    "#101b2a",
    "#e0562a"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 2.49,
+  "rating_count": 17626
  },
  {
   "id": "trick-or-treat",
@@ -375,10 +432,12 @@
   "runtime": 97,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/trick_or_treat_tmdb-yccrgbfuoeckscwxqeka1veps7o-683x1024.jpg",
+  "why": "Eddie Weinbauer, a metalhead teen who is bullied at school, looks to his heavy metal superstar idol, Sammi Curr, for guidance. When Curr is killed in a hotel fire, Eddie becomes the recipient of the only copy of his u…",
+  "poster": "https://image.tmdb.org/t/p/w500/ycCrGbfuOEcKSCwxQeKA1VEPs7O.jpg",
   "tags": [
-   "35mm"
+   "35mm",
+   "Horror",
+   "Comedy"
   ],
   "screenings": [
    {
@@ -394,7 +453,10 @@
   "art": [
    "#3a2a1a",
    "#f0a83c"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.19,
+  "rating_count": 17358
  },
  {
   "id": "phenomena",
@@ -403,10 +465,13 @@
   "director": "Dario Argento",
   "runtime": 110,
   "country": "Italy",
-  "lang": "Italian",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/phenomena_tmdb-dhk14s8ogqkbf6re3hlkv2ubhjx.jpg",
-  "tags": [],
+  "lang": "German, English",
+  "why": "A young girl, with an amazing ability to communicate with insects, is transferred to an exclusive Swiss boarding school, where her unusual capability might help solve a string of murders.",
+  "poster": "https://image.tmdb.org/t/p/w500/dhk14s8ogQkbf6re3HLKV2UBHjx.jpg",
+  "tags": [
+   "Horror",
+   "Thriller"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -421,7 +486,10 @@
   "art": [
    "#2a3324",
    "#d4b26a"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.63,
+  "rating_count": 86426
  },
  {
   "id": "the-wrong-girls",
@@ -431,10 +499,11 @@
   "runtime": 99,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/the_wrong_girls_tmdb-ldymh3iztmskofd1wdotmttfezg-683x1024.jpg",
+  "why": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
+  "poster": "https://image.tmdb.org/t/p/w500/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
   "tags": [
-   "Premiere"
+   "Premiere",
+   "Comedy"
   ],
   "screenings": [
    {
@@ -450,7 +519,10 @@
   "art": [
    "#2b3a2f",
    "#e0b34d"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "star-trek-the-motion-picture",
@@ -460,9 +532,13 @@
   "runtime": 131,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/star_trek_the_motion_picture_tmdb-wfiafnwh6cmkxz4vraw8cptabtk-683x1024.jpg",
-  "tags": [],
+  "why": "When an unidentified alien destroys three powerful Klingon cruisers, Captain James T. Kirk returns to the newly transformed U.S.S. Enterprise to take command.",
+  "poster": "https://image.tmdb.org/t/p/w500/wfiAfNwH6CMKxz4vRaW8CPTabtk.jpg",
+  "tags": [
+   "Science Fiction",
+   "Adventure",
+   "Mystery"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -477,7 +553,10 @@
   "art": [
    "#3a2b2b",
    "#c94f4f"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.21,
+  "rating_count": 79483
  },
  {
   "id": "foxy-brown",
@@ -487,11 +566,12 @@
   "runtime": 94,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/foxy_brown_tmdb-laeedcbgeqnxl9l7n7i4936eri8-690x1024.jpg",
+  "why": "A voluptuous black woman takes a job as a high-class prostitute in order to get revenge on the mobsters who murdered her boyfriend.",
+  "poster": "https://image.tmdb.org/t/p/w500/lAeEDcBgEqnxl9l7n7i4936ERi8.jpg",
   "tags": [
    "4K",
-   "Restoration"
+   "Restoration",
+   "Action"
   ],
   "screenings": [
    {
@@ -507,7 +587,10 @@
   "art": [
    "#1f2a44",
    "#f0f0f0"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.44,
+  "rating_count": 28689
  },
  {
   "id": "paranormal-activity",
@@ -517,10 +600,12 @@
   "runtime": 86,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/paranormal_activity_tmdb-tmclkepjeo4zu564gf3krwioukw-683x1024.jpg",
+  "why": "After a young, middle-class couple moves into what seems like a typical suburban house, they become increasingly disturbed by a presence that may or may not be demonic but is certainly the most active in the middle of…",
+  "poster": "https://image.tmdb.org/t/p/w500/tmclkEpjeo4Zu564gf3KrwIOuKw.jpg",
   "tags": [
-   "35mm"
+   "35mm",
+   "Horror",
+   "Mystery"
   ],
   "screenings": [
    {
@@ -536,7 +621,10 @@
   "art": [
    "#3a2440",
    "#4dd6c4"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 2.9,
+  "rating_count": 468302
  },
  {
   "id": "the-raid-the-raid-2",
@@ -544,11 +632,15 @@
   "year": 2014,
   "director": "Gareth Evans",
   "runtime": 150,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/the_raid_2_berandal_tmdb-mlguklidldphyjz1qbxi0fmyyik-683x1024.jpg",
-  "tags": [],
+  "country": "Indonesia, USA",
+  "lang": "Arabic, Indonesian",
+  "why": "After fighting his way through an apartment building populated by an army of dangerous criminals and escaping with his life, SWAT team member Rama goes undercover, joining a powerful Indonesian crime syndicate to prot…",
+  "poster": "https://image.tmdb.org/t/p/w500/mlGuKlIDLdPhYjz1QBXi0FmyYik.jpg",
+  "tags": [
+   "Action",
+   "Crime",
+   "Thriller"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -572,17 +664,20 @@
   "art": [
    "#123a3a",
    "#7fd4e0"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "reel-fear-the-evolution-of-found-footage-horror",
   "title": "Reel Fear: The Evolution of Found Footage Horror",
-  "year": null,
+  "year": 2015,
   "director": "Various",
   "runtime": 90,
   "country": "Various",
   "lang": "English",
-  "why": "",
+  "why": "Be My Cat: A Film for Anne is a 2015 English-language Romanian found footage psychological horror film directed, produced, written, and starring Adrian Țofei, about an aspiring filmmaker who goes to extreme levels to …",
   "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/images_(9).jpg",
   "tags": [],
   "screenings": [
@@ -599,7 +694,10 @@
   "art": [
    "#2a3550",
    "#e88b6a"
-  ]
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "the-crowd",
@@ -609,10 +707,12 @@
   "runtime": 98,
   "country": "USA",
   "lang": "No Language",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/the_crowd_tmdb-jftzhlczle2dolqwy0menoipjxc-683x1024.jpg",
+  "why": "John, an ambitious but undisciplined New York City office worker, meets and marries Mary. They start a family, struggle to cope with marital stress, financial setbacks, and tragedy, all while lost amid the anonymous, …",
+  "poster": "https://image.tmdb.org/t/p/w500/jftzHLCZLE2DOLQWY0mENOIPjxc.jpg",
   "tags": [
-   "Premiere"
+   "Premiere",
+   "Drama",
+   "Romance"
   ],
   "screenings": [
    {
@@ -628,7 +728,10 @@
   "art": [
    "#40183a",
    "#f24d94"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.09,
+  "rating_count": 14003
  },
  {
   "id": "ocean-s-twelve",
@@ -637,10 +740,13 @@
   "director": "Steven Soderbergh",
   "runtime": 125,
   "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/ocean's_twelve_tmdb-pe5anff7nf6ah7v3vrezq1ksovi-683x1024.jpg",
-  "tags": [],
+  "lang": "French, Italian",
+  "why": "Despite pulling off one of the biggest heists in Las Vegas history and splitting the $160 million take, each of the infamous Ocean's crew have tried to go straight, lay low and live a legit life... but that's proven t…",
+  "poster": "https://image.tmdb.org/t/p/w500/pE5anFf7nf6ah7V3VRezQ1KSovi.jpg",
+  "tags": [
+   "Thriller",
+   "Crime"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -655,7 +761,10 @@
   "art": [
    "#24303a",
    "#9ab0c4"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "he-who-gets-slapped",
@@ -665,9 +774,13 @@
   "runtime": 72,
   "country": "USA",
   "lang": "No Language",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/he_who_gets_slapped_tmdb-ue7ce11y6vejzxkzekcbkl6o9dp-683x1024.jpg",
-  "tags": [],
+  "why": "After a baron steals his scientific discoveries, runs away with his wife, and slaps him in public, a man joins a Parisian circus sideshow as a clown whose act consists of being slapped repeatedly and becomes infatuate…",
+  "poster": "https://image.tmdb.org/t/p/w500/ue7ce11Y6vEjZXKZeKCBKl6O9Dp.jpg",
+  "tags": [
+   "Drama",
+   "Thriller",
+   "Romance"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -682,7 +795,10 @@
   "art": [
    "#3a3218",
    "#d9c06a"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.99,
+  "rating_count": 10948
  },
  {
   "id": "faust",
@@ -692,9 +808,13 @@
   "runtime": 116,
   "country": "Germany",
   "lang": "No Language",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/faust_–_eine_deutsche_volkssage_tmdb-rn703hmfxmkzfyezsxvftufhkxe.jpg",
-  "tags": [],
+  "why": "God and Satan wager on the soul of a learned and prayerful alchemist as part of their eternal war over Earth.",
+  "poster": "https://image.tmdb.org/t/p/w500/rN703hMFxmkZfyEzsXvFtuFhkXE.jpg",
+  "tags": [
+   "Fantasy",
+   "Drama",
+   "Horror"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -709,7 +829,10 @@
   "art": [
    "#101b2a",
    "#e0562a"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.13,
+  "rating_count": 38459
  },
  {
   "id": "the-burning",
@@ -717,12 +840,13 @@
   "year": 1981,
   "director": "Tony Maylam",
   "runtime": 91,
-  "country": "Canada",
+  "country": "USA, Canada",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/the_burning_tmdb-d8as1gtcahlc5rirarnuud85gja-683x1024.jpg",
+  "why": "A caretaker at a summer camp is burned when a prank goes tragically wrong. After several years of intensive treatment at hospital, he is released back into society, albeit missing some social skills. What follows is a…",
+  "poster": "https://image.tmdb.org/t/p/w500/d8as1GtCAhlc5rirarnUUd85gJA.jpg",
   "tags": [
-   "35mm"
+   "35mm",
+   "Horror"
   ],
   "screenings": [
    {
@@ -738,7 +862,10 @@
   "art": [
    "#3a2a1a",
    "#f0a83c"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.11,
+  "rating_count": 47636
  },
  {
   "id": "big-trouble-in-little-china",
@@ -747,11 +874,13 @@
   "director": "John Carpenter",
   "runtime": 100,
   "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/big_trouble_in_little_china_tmdb-rcy3cfjfwvbsyivcfoqmcmah5r2-683x1024.jpg",
+  "lang": "Cantonese, English",
+  "why": "Truck driver Jack Burton gets embroiled in a supernatural battle when his best friend Wang Chi's green-eyed fiancée is kidnapped by henchmen of the sorcerer Lo Pan, who must marry a girl with green eyes in order to re…",
+  "poster": "https://image.tmdb.org/t/p/w500/rCy3CFJfWVBSyiVcFOQMcMAh5R2.jpg",
   "tags": [
-   "35mm"
+   "35mm",
+   "Action",
+   "Adventure"
   ],
   "screenings": [
    {
@@ -767,7 +896,10 @@
   "art": [
    "#2a3324",
    "#d4b26a"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.71,
+  "rating_count": 241885
  },
  {
   "id": "withdrawal",
@@ -777,10 +909,12 @@
   "runtime": 93,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/withdrawal_tmdb-7heo5tqacruwkkoweyxybmgni7b-1024x576.jpg",
+  "why": "Artistic lovers, Viv and Jay, have become trapped in a vicious cycle of codependent heroin  addiction. But when Viv’s wealthy parents hire an interventionist to take Viv to rehab, the couple  decides to set off on the…",
+  "poster": "https://image.tmdb.org/t/p/w500/qDAAB2akFNWgdR0gbbKWPqJ2NAl.jpg",
   "tags": [
-   "Premiere"
+   "Premiere",
+   "Drama",
+   "Romance"
   ],
   "screenings": [
    {
@@ -796,7 +930,10 @@
   "art": [
    "#2b3a2f",
    "#e0b34d"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.73,
+  "rating_count": 307
  },
  {
   "id": "the-samurai-and-the-prisoner",
@@ -948,9 +1085,12 @@
   "runtime": 98,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/corey_feldman_vs._the_world_tmdb-mvvu7w5m0f4kcgwoh3m5dpollxy-683x1024.jpg",
-  "tags": [],
+  "why": "With unprecedented access, this years-in-the-making vérité documentary embeds with Corey Feldman as he mounts a surreal rock tour with a band of lingerie-clad \"angels\". The tour goes horribly awry, forcing Feldman to …",
+  "poster": "https://image.tmdb.org/t/p/w500/mvvu7W5m0f4KCgWoH3M5dPolLXY.jpg",
+  "tags": [
+   "Documentary",
+   "Music"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -983,7 +1123,10 @@
   "art": [
    "#1f2a44",
    "#f0f0f0"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.55,
+  "rating_count": 1746
  },
  {
   "id": "armageddon-road",
@@ -993,10 +1136,12 @@
   "runtime": 85,
   "country": "Canada",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/armageddon_road_tmdb-kw4xpfmtp0m2afwgcodclxyqork-683x1024.jpg",
+  "why": "A hopeless romantic with big dreams, Steve is an ex-con hired to chauffeur a mob boss' girlfriend for a night. He's blissfully unaware that his passenger has died and is now possessed by one of the Four Horsemen of th…",
+  "poster": "https://image.tmdb.org/t/p/w500/kW4xPFmtP0m2AFwgcOdClxyQork.jpg",
   "tags": [
-   "Premiere"
+   "Premiere",
+   "Adventure",
+   "Comedy"
   ],
   "screenings": [
    {
@@ -1021,7 +1166,10 @@
   "art": [
    "#3a2440",
    "#4dd6c4"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "paper-moon",
@@ -1031,9 +1179,13 @@
   "runtime": 102,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/paper_moon_tmdb-3ghg0ktcbwhkdxjj3rdk8gjbcd6-683x1024.jpg",
-  "tags": [],
+  "why": "During the Great Depression, a con man finds himself saddled with a young girl who may or may not be his daughter, and the two forge an unlikely partnership.",
+  "poster": "https://image.tmdb.org/t/p/w500/3GHG0kTcBWHKdXjj3RdK8GjBCd6.jpg",
+  "tags": [
+   "Comedy",
+   "Crime",
+   "Drama"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -1048,7 +1200,10 @@
   "art": [
    "#123a3a",
    "#7fd4e0"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.39,
+  "rating_count": 116991
  },
  {
   "id": "juno",
@@ -1058,9 +1213,13 @@
   "runtime": 96,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/juno_tmdb-jnin2tvhpvfd6p9iojldi3mnycn-683x1024.jpg",
-  "tags": [],
+  "why": "Faced with an unplanned pregnancy, sixteen year old high-schooler, Juno MacGuff, makes an unusual decision regarding her unborn child.",
+  "poster": "https://image.tmdb.org/t/p/w500/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg",
+  "tags": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -1075,7 +1234,10 @@
   "art": [
    "#2a3550",
    "#e88b6a"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.74,
+  "rating_count": 1614589
  },
  {
   "id": "girlfriends",
@@ -1084,10 +1246,13 @@
   "director": "Claudia Weill",
   "runtime": 88,
   "country": "USA",
-  "lang": "French",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/girlfriends_tmdb-qoexb0pawoo5kpk2ugiwnthcgew-672x1024.jpg",
-  "tags": [],
+  "lang": "English, Italian",
+  "why": "A photographer and her best friend are roommates. She is stuck with small-change shooting jobs and dreams of success. When her roommate decides to get married and leave, she feels hurt and has to learn how to deal wit…",
+  "poster": "https://image.tmdb.org/t/p/w500/qoExB0pawOo5kPK2UGiwnthcGEw.jpg",
+  "tags": [
+   "Drama",
+   "Comedy"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -1102,7 +1267,10 @@
   "art": [
    "#40183a",
    "#f24d94"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.9,
+  "rating_count": 29932
  },
  {
   "id": "yacht-rock-the-complete-web-series",
@@ -1112,7 +1280,7 @@
   "runtime": 90,
   "country": "USA",
   "lang": "English",
-  "why": "",
+  "why": "Mamma Mia! is a 2008 jukebox musical romantic comedy film directed by Phyllida Lloyd and written by Catherine Johnson, based on her book from the 1999 musical. The film features an ensemble cast, including Meryl Stree…",
   "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/dragon_sounds_-_revue_lobby-1024x771.jpg",
   "tags": [],
   "screenings": [
@@ -1129,7 +1297,10 @@
   "art": [
    "#24303a",
    "#9ab0c4"
-  ]
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "d-e-b-s",
@@ -1139,9 +1310,13 @@
   "runtime": 91,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/d.e.b.s._tmdb-cmwltcg5avbyeh5w6svsfowboaf-683x1024.jpg",
-  "tags": [],
+  "why": "The star of a team of teenage crime fighters falls for the alluring villainess she must bring to justice.",
+  "poster": "https://image.tmdb.org/t/p/w500/cMwLTcG5aVBYeh5W6SVSfowboAf.jpg",
+  "tags": [
+   "Action",
+   "Comedy",
+   "Romance"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -1156,7 +1331,10 @@
   "art": [
    "#3a3218",
    "#d9c06a"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "the-hunger-games",
@@ -1166,9 +1344,13 @@
   "runtime": 142,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/the_hunger_games_tmdb-yxcboivdcxo71zi7cuwbrxdftq8-683x1024.jpg",
-  "tags": [],
+  "why": "In a dystopian society where the Capitol forces each district to send two young tributes to fight to the death in a televised spectacle, a girl volunteers to take her sister’s place, setting the stage for a struggle o…",
+  "poster": "https://image.tmdb.org/t/p/w500/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg",
+  "tags": [
+   "Science Fiction",
+   "Adventure",
+   "Action"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -1183,17 +1365,20 @@
   "art": [
    "#101b2a",
    "#e0562a"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.82,
+  "rating_count": 3209348
  },
  {
   "id": "trailer-trash-ozploitation",
   "title": "Trailer Trash: Ozploitation",
-  "year": null,
+  "year": 1982,
   "director": "Various",
   "runtime": 110,
   "country": "Australia",
   "lang": "English",
-  "why": "",
+  "why": "Turkey Shoot is a 1982 Australian dystopian action film directed by Brian Trenchard-Smith. Its ensemble cast—an eclectic mix of international stars, Australian soap opera veterans and character actors—is led by Steve …",
   "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/522208901_1188693503285078_6065687512560654517_n-1024x429.jpg",
   "tags": [],
   "screenings": [
@@ -1210,19 +1395,25 @@
   "art": [
    "#3a2a1a",
    "#f0a83c"
-  ]
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "the-butterfly-effect",
   "title": "The Butterfly Effect",
   "year": 2004,
-  "director": "J. Mackye Gruber",
+  "director": "Eric Bress, J. Mackye Gruber",
   "runtime": 113,
-  "country": "USA",
+  "country": "Canada, USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/the_butterfly_effect_tmdb-ea5iv7twmh18fokorggmtcg85gx-683x1024.jpg",
-  "tags": [],
+  "why": "A young man struggles to access sublimated childhood memories. He finds a technique that allows him to travel back into the past, to occupy his childhood body and change history. However, he soon finds that every chan…",
+  "poster": "https://image.tmdb.org/t/p/w500/ea5iv7TWMh18fOKoRGgmtcg85Gx.jpg",
+  "tags": [
+   "Science Fiction",
+   "Thriller"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -1237,7 +1428,10 @@
   "art": [
    "#2a3324",
    "#d4b26a"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.6,
+  "rating_count": 670114
  },
  {
   "id": "all-the-beauty-and-the-bloodshed",
@@ -1247,9 +1441,11 @@
   "runtime": 122,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/all_the_beauty_and_the_bloodshed_tmdb-cvo51xxtiuhc5w5zgfsigifauao-692x1024.jpg",
-  "tags": [],
+  "why": "The life of internationally renowned artist and activist Nan Goldin is told through her slideshows, intimate interviews, ground-breaking photography, and rare footage of her personal fight to hold the Sackler family a…",
+  "poster": "https://image.tmdb.org/t/p/w500/cvO51xxtIUHc5w5ZgFsigiFaUaO.jpg",
+  "tags": [
+   "Documentary"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -1264,7 +1460,10 @@
   "art": [
    "#2b3a2f",
    "#e0b34d"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.23,
+  "rating_count": 65276
  },
  {
   "id": "laura-taler-2-films-30-years-the-village-trilogy-matryoshka-",
@@ -1291,7 +1490,10 @@
   "art": [
    "#3a2b2b",
    "#c94f4f"
-  ]
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "putney-swope",
@@ -1301,9 +1503,11 @@
   "runtime": 85,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/putney_swope_tmdb-77hzrjyrgcuytrz6xyc8cv2jpdy-683x1024.jpg",
-  "tags": [],
+  "why": "Swope—the only black man on the executive board of an advertising firm—is accidentally put in charge after the death of the chairman.",
+  "poster": "https://image.tmdb.org/t/p/w500/77hzrjyRGCuytrz6xYc8Cv2JPDy.jpg",
+  "tags": [
+   "Comedy"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -1318,21 +1522,25 @@
   "art": [
    "#1f2a44",
    "#f0f0f0"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.67,
+  "rating_count": 15515
  },
  {
   "id": "come-what-may",
   "title": "Come What May",
   "year": 2026,
-  "director": "Lahna Turner",
+  "director": "David Gantz, Lahna Turner",
   "runtime": 131,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/come_what_may_tmdb-cnbggnejfkpekf98qcuzuciuon7-693x1024.jpg",
+  "why": "Come What May tells the full story of Ralphie May through the comics who stood beside him, the friends who knew him best, and the people who watched him burn bright at the center of comedy.",
+  "poster": "https://image.tmdb.org/t/p/w500/cNbgGnEJfKpEKf98QcUzuCIUOn7.jpg",
   "tags": [
    "Premiere",
-   "Q&A"
+   "Q&A",
+   "Documentary"
   ],
   "screenings": [
    {
@@ -1348,7 +1556,10 @@
   "art": [
    "#3a2440",
    "#4dd6c4"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "modern-whore",
@@ -1358,9 +1569,11 @@
   "runtime": 80,
   "country": "Canada",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/modern_whore_tmdb-a5kcksj7ziygvso3rpt75tpeflj-683x1024.jpg",
-  "tags": [],
+  "why": "Modern Whore is a hybrid documentary that reimagines popular depictions of sex work through the lived experiences of writer, performer, and sex worker, Andrea Werhun.",
+  "poster": "https://image.tmdb.org/t/p/w500/a5KCKSJ7ZiygvSO3rpt75tPeflj.jpg",
+  "tags": [
+   "Documentary"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -1375,7 +1588,10 @@
   "art": [
    "#123a3a",
    "#7fd4e0"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.6,
+  "rating_count": 883
  },
  {
   "id": "michael",
@@ -1384,10 +1600,13 @@
   "director": "Antoine Fuqua",
   "runtime": 128,
   "country": "USA",
-  "lang": "Spanish",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/michael_tmdb-zm0kabojlt9er5y7vdil2deowml-683x1024.jpg",
-  "tags": [],
+  "lang": "English",
+  "why": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to…",
+  "poster": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+  "tags": [
+   "Music",
+   "Drama"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -1402,20 +1621,25 @@
   "art": [
    "#2a3550",
    "#e88b6a"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.61,
+  "rating_count": 1614260
  },
  {
   "id": "project-hail-mary",
   "title": "Project Hail Mary",
   "year": 2026,
-  "director": "Christopher Miller",
+  "director": "Phil Lord, Christopher Miller",
   "runtime": 157,
   "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/project_hail_mary_tmdb-yihdxomyb5ktesivtfndmy5idmf-683x1024.jpg",
+  "lang": "Mandarin, English",
+  "why": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the myster…",
+  "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
   "tags": [
-   "70mm"
+   "70mm",
+   "Science Fiction",
+   "Adventure"
   ],
   "screenings": [
    {
@@ -1467,7 +1691,10 @@
   "art": [
    "#40183a",
    "#f24d94"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.31,
+  "rating_count": 3642849
  },
  {
   "id": "teenage-sex-and-death-at-camp-miasma",
@@ -1475,11 +1702,14 @@
   "year": 2026,
   "director": "Jane Schoenbrun",
   "runtime": 112,
-  "country": "USA",
+  "country": "United Kingdom, USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/teenage_sex_and_death_at_camp_miasma_tmdb-nlsfnxifiestqsewxjxss8rvauz-683x1024.jpg",
-  "tags": [],
+  "why": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress …",
+  "poster": "https://image.tmdb.org/t/p/w500/nLsFnXifieSTqSeWxjXSS8RvaUZ.jpg",
+  "tags": [
+   "Horror",
+   "Comedy"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -1548,7 +1778,10 @@
   "art": [
    "#24303a",
    "#9ab0c4"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.89,
+  "rating_count": 6601
  },
  {
   "id": "psycho-beach-party",
@@ -1556,11 +1789,14 @@
   "year": 2000,
   "director": "Robert Lee King",
   "runtime": 97,
-  "country": "USA",
+  "country": "Australia, USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/psycho_beach_party_tmdb-28mzkfdyvzmvx9nhdrjq3g2h7it-683x1024.jpg",
-  "tags": [],
+  "why": "Chicklet is a sixteen-year old tomboy who's desperate to be part of the in-crowd of Malibu beach surfers. She's the typical American girl - except for one little problem: her personality is split into more slices than…",
+  "poster": "https://image.tmdb.org/t/p/w500/28mzKFDyVzMVx9nhDrJQ3G2H7It.jpg",
+  "tags": [
+   "Comedy",
+   "Horror"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -1575,7 +1811,10 @@
   "art": [
    "#3a3218",
    "#d9c06a"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.36,
+  "rating_count": 15580
  },
  {
   "id": "maximum-overdrive",
@@ -1585,9 +1824,13 @@
   "runtime": 98,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/maximum_overdrive_tmdb-8pgyesuatpnms8lhs4nvwidjkbg-683x1024.jpg",
-  "tags": [],
+  "why": "When a comet passes close to the earth, machines all over the world come alive and go on homicidal rampages. A group of people at a desolate truck stop are held hostage by a gang of murderous 18-wheelers. The frighten…",
+  "poster": "https://image.tmdb.org/t/p/w500/8pGYesuatPnMS8lhS4NvwiDjKbG.jpg",
+  "tags": [
+   "Horror",
+   "Action",
+   "Science Fiction"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -1602,7 +1845,10 @@
   "art": [
    "#101b2a",
    "#e0562a"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 2.53,
+  "rating_count": 48663
  },
  {
   "id": "clash-of-the-titans",
@@ -1610,11 +1856,15 @@
   "year": 1981,
   "director": "Desmond Davis",
   "runtime": 118,
-  "country": "USA",
-  "lang": "Spanish",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/clash_of_the_titans_tmdb-5jclodnljh6alc3kmyoic21nlob-682x1024.jpg",
-  "tags": [],
+  "country": "United Kingdom, USA",
+  "lang": "English, Portuguese",
+  "why": "To win the right to marry his love, the beautiful princess Andromeda, and fulfil his destiny, half-God-half-mortal Perseus must complete various tasks including taming Pegasus, capturing Medusa's head and battling the…",
+  "poster": "https://image.tmdb.org/t/p/w500/5JCLODNLJH6alc3KmyoiC21Nlob.jpg",
+  "tags": [
+   "Adventure",
+   "Fantasy",
+   "Action"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -1629,7 +1879,10 @@
   "art": [
    "#3a2a1a",
    "#f0a83c"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.38,
+  "rating_count": 40232
  },
  {
   "id": "the-piano-teacher",
@@ -1637,11 +1890,14 @@
   "year": 2001,
   "director": "Michael Haneke",
   "runtime": 131,
-  "country": "Germany",
-  "lang": "German",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/la_pianiste_tmdb-gnhkyqnp1rnqehkivhjzbpb4mop-683x1024.jpg",
-  "tags": [],
+  "country": "France, Austria",
+  "lang": "French, German",
+  "why": "Erika Kohut, a sexually repressed piano teacher living with her domineering mother, meets a young man who starts romantically pursuing her.",
+  "poster": "https://image.tmdb.org/t/p/w500/gNHKYQnP1RnqEhkivHJzBPb4MOP.jpg",
+  "tags": [
+   "Drama",
+   "Romance"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -1656,7 +1912,10 @@
   "art": [
    "#2a3324",
    "#d4b26a"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.05,
+  "rating_count": 380934
  },
  {
   "id": "burnt-offerings",
@@ -1664,11 +1923,15 @@
   "year": 1976,
   "director": "Dan Curtis",
   "runtime": 116,
-  "country": "USA",
+  "country": "Italy, USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/burnt_offerings_tmdb-2ipg69lxojgmx7f7qxjqzuoiusd-683x1024.jpg",
-  "tags": [],
+  "why": "A family moves into a large old mansion in the countryside which seems to have a mysterious and sinister power over its new residents.",
+  "poster": "https://image.tmdb.org/t/p/w500/2ipG69lXOjGMX7F7qxJQzUoiUsd.jpg",
+  "tags": [
+   "Horror",
+   "Thriller",
+   "Mystery"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -1683,7 +1946,10 @@
   "art": [
    "#2b3a2f",
    "#e0b34d"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.32,
+  "rating_count": 18561
  },
  {
   "id": "the-women",
@@ -1692,10 +1958,13 @@
   "director": "George Cukor",
   "runtime": 133,
   "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/the_women_tmdb-wmtbdi60uvt7eclz301xee8maoo.jpg",
-  "tags": [],
+  "lang": "English, French",
+  "why": "A happily married woman lets her catty friends talk her into divorce when her husband strays.",
+  "poster": "https://image.tmdb.org/t/p/w500/wMTbDI60uvt7ecLZ301XEE8mAOo.jpg",
+  "tags": [
+   "Comedy",
+   "Drama"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -1710,7 +1979,10 @@
   "art": [
    "#3a2b2b",
    "#c94f4f"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.82,
+  "rating_count": 18352
  },
  {
   "id": "charade",
@@ -1718,13 +1990,14 @@
   "year": 1963,
   "director": "Stanley Donen",
   "runtime": 113,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/charade_tmdb-qqapjc5fqidtky65jbakzpiotas.jpg",
+  "country": "United Kingdom, USA",
+  "lang": "English, French",
+  "why": "After Regina Lampert falls for the dashing Peter Joshua on a skiing holiday in the French Alps, she discovers upon her return to Paris that her husband has been murdered. Soon, she and Peter are giving chase to three …",
+  "poster": "https://image.tmdb.org/t/p/w500/qqaPjC5FQidtKY65jbAKZPiOTaS.jpg",
   "tags": [
    "4K",
-   "Restoration"
+   "Restoration",
+   "Comedy"
   ],
   "screenings": [
    {
@@ -1740,7 +2013,10 @@
   "art": [
    "#1f2a44",
    "#f0f0f0"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.04,
+  "rating_count": 210633
  },
  {
   "id": "sick-puppy",
@@ -1750,10 +2026,11 @@
   "runtime": 105,
   "country": "Canada",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/sick_puppy_tmdb-igeetptozn6d4qthwpjprnl1stk-692x1024.jpg",
+  "why": "When Charlie's serial killer husband decides to finally quit for her, she's thrilled, but soon finds herself committing violent acts to protect the man she loves, even from himself.",
+  "poster": "https://image.tmdb.org/t/p/w500/iGeetPTOZN6D4QThWPJPRnl1STK.jpg",
   "tags": [
-   "Premiere"
+   "Premiere",
+   "Horror"
   ],
   "screenings": [
    {
@@ -1769,7 +2046,10 @@
   "art": [
    "#3a2440",
    "#4dd6c4"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.01,
+  "rating_count": 226
  },
  {
   "id": "scream-scream-7-double-feature",
@@ -1779,7 +2059,7 @@
   "runtime": 114,
   "country": "USA",
   "lang": "English",
-  "why": "",
+  "why": "Scream is a 1996 American slasher film directed by Wes Craven and written by Kevin Williamson. It stars David Arquette, Neve Campbell, Courteney Cox, Matthew Lillard, Rose McGowan, Skeet Ulrich, and Drew Barrymore. Se…",
   "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/scream_7_tmdb-jjyuk0edliw8vosnlfwwcclpbh5-683x1024.jpg",
   "tags": [],
   "screenings": [
@@ -1805,7 +2085,10 @@
   "art": [
    "#123a3a",
    "#7fd4e0"
-  ]
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "obsession",
@@ -1813,11 +2096,14 @@
   "year": 2026,
   "director": "Curry Barker",
   "runtime": 108,
-  "country": "United Kingdom",
+  "country": "USA, United Kingdom",
   "lang": "English",
-  "why": "Come see the breakout horror hit of the year on the big screen one last time! After breaking the mysterious “One Wish Willow” to win his crush’s heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price. Written and directed by […]",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/obsession_tmdb-6x4qfybsg3bpwdg2xikqr04kfja-683x1024.jpg",
-  "tags": [],
+  "why": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+  "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+  "tags": [
+   "Horror",
+   "Thriller"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -1904,7 +2190,10 @@
   "art": [
    "#2a3550",
    "#e88b6a"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.35,
+  "rating_count": 202
  },
  {
   "id": "the-way-we-were",
@@ -1913,10 +2202,13 @@
   "director": "Sydney Pollack",
   "runtime": 118,
   "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/the_way_we_were_tmdb-o5x563ze56ii4inscbxtndkt28i-683x1024.jpg",
-  "tags": [],
+  "lang": "English, French",
+  "why": "Opposites attract when, during their college days, Katie Morosky, a politically active Jew, meets Hubbell Gardiner, a feckless WASP. Years later, in the wake of World War II, they meet once again and, despite their ob…",
+  "poster": "https://image.tmdb.org/t/p/w500/o5x563ze56iI4iNsCBxTnDkt28i.jpg",
+  "tags": [
+   "Drama",
+   "Romance"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -1931,7 +2223,10 @@
   "art": [
    "#40183a",
    "#f24d94"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.7,
+  "rating_count": 42815
  },
  {
   "id": "saving-face",
@@ -1940,10 +2235,14 @@
   "director": "Alice Wu",
   "runtime": 97,
   "country": "USA",
-  "lang": "Mandarin",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/saving_face_tmdb-7xbbgkki4nemou9iwianxpjkkhe-683x1024.jpg",
-  "tags": [],
+  "lang": "English, Mandarin",
+  "why": "A Chinese-American lesbian and her traditionalist mother are reluctant to go public with secret loves that clash against cultural expectations.",
+  "poster": "https://image.tmdb.org/t/p/w500/7XbbgkKi4nEMOu9iwiANXpjKKhe.jpg",
+  "tags": [
+   "Comedy",
+   "Romance",
+   "Drama"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -1958,7 +2257,10 @@
   "art": [
    "#24303a",
    "#9ab0c4"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.04,
+  "rating_count": 103063
  },
  {
   "id": "matilda",
@@ -1968,9 +2270,13 @@
   "runtime": 98,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/matilda_tmdb-wyodpwinsbevsmwstnrh06ddoyk-683x1024.jpg",
-  "tags": [],
+  "why": "Matilda Wormwood is an brilliant and intelligent little girl. Unfortunately, her parents, Harry and Zinnia, fail to see that fact. As time passes, she finally starts school and has a kind teacher, loyal friends, and a…",
+  "poster": "https://image.tmdb.org/t/p/w500/wYoDpWInsBEVSmWStnRH06ddoyk.jpg",
+  "tags": [
+   "Comedy",
+   "Family",
+   "Fantasy"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -1985,19 +2291,26 @@
   "art": [
    "#3a3218",
    "#d9c06a"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.78,
+  "rating_count": 1129988
  },
  {
   "id": "wallace-gromit-the-curse-of-the-were-rabbit",
   "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
   "year": 2005,
-  "director": "Nick Park",
+  "director": "Steve Box, Nick Park",
   "runtime": 85,
-  "country": "USA",
+  "country": "United Kingdom, USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/wallace_&_gromit_the_curse_of_the_were-rabbit_tmdb-cmq2lnd7sbe6pcf6zf5qxrkzbrg-682x1024.jpg",
-  "tags": [],
+  "why": "Cheese-loving eccentric Wallace and his cunning canine pal Gromit run a business ridding the town of garden pests. Using only humane methods, which turns their home into a halfway house for evicted vermin, the pair st…",
+  "poster": "https://image.tmdb.org/t/p/w500/cMQ2lNd7sBe6PCf6zF5QxrKzbRG.jpg",
+  "tags": [
+   "Adventure",
+   "Animation",
+   "Comedy"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -2012,7 +2325,10 @@
   "art": [
    "#101b2a",
    "#e0562a"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.88,
+  "rating_count": 349144
  },
  {
   "id": "the-secret-garden",
@@ -2022,9 +2338,13 @@
   "runtime": 101,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/the_secret_garden_tmdb-zf6h5dj7wvg7lqmo9dhhghvejzj-683x1024.jpg",
-  "tags": [],
+  "why": "A young British girl born and reared in India loses her neglectful parents in an earthquake. She is returned to England to live at her uncle's castle. Her uncle is very distant due to the loss of his wife ten years be…",
+  "poster": "https://image.tmdb.org/t/p/w500/zf6h5dJ7wVG7LqMO9dhHGHVejzj.jpg",
+  "tags": [
+   "Drama",
+   "Family",
+   "Fantasy"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -2039,7 +2359,10 @@
   "art": [
    "#3a2a1a",
    "#f0a83c"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.71,
+  "rating_count": 101097
  },
  {
   "id": "cannibal-holocaust",
@@ -2047,13 +2370,14 @@
   "year": 1980,
   "director": "Ruggero Deodato",
   "runtime": 95,
-  "country": "Italy",
-  "lang": "Italian",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/cannibal_holocaust_tmdb-otxzzmh53tsn7yyfqsz3rwh1ymd-683x1024.jpg",
+  "country": "Colombia, Italy",
+  "lang": "English, Spanish",
+  "why": "A New York University professor returns from a rescue mission to the Amazon rainforest with the footage shot by a lost team of documentarians who were making a film about the area's local cannibal tribes.",
+  "poster": "https://image.tmdb.org/t/p/w500/otxZzMh53TsN7yYFqSZ3rwH1yMd.jpg",
   "tags": [
    "Restoration",
-   "Premiere"
+   "Premiere",
+   "Horror"
   ],
   "screenings": [
    {
@@ -2069,7 +2393,10 @@
   "art": [
    "#2a3324",
    "#d4b26a"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 2.61,
+  "rating_count": 116820
  },
  {
   "id": "situations",
@@ -2079,10 +2406,12 @@
   "runtime": 102,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/situations_tmdb-lxzaiynsn9sejaorp6kzqkoogk-683x1024.jpg",
+  "why": "Three months after a painful breakup, a Los Angeles based photographer drifts through\r Silverlake’s creative chaos—dodging well-meaning friends, career pressures, and fleeting\r flings—as he navigates his way into the …",
+  "poster": "https://image.tmdb.org/t/p/w500/LxzaiYNSN9sEJaOrP6kzqkoOgk.jpg",
   "tags": [
-   "Premiere"
+   "Premiere",
+   "Drama",
+   "Comedy"
   ],
   "screenings": [
    {
@@ -2098,7 +2427,10 @@
   "art": [
    "#2b3a2f",
    "#e0b34d"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "prisoners",
@@ -2108,9 +2440,13 @@
   "runtime": 153,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/prisoners_tmdb-jss3a3ep2kybvmmiwaz3lvk49b1-683x1024.jpg",
-  "tags": [],
+  "why": "After his six-year-old daughter is abducted, a desperate father takes justice into his own hands when he loses faith in the detective leading the investigation, setting both men on a collision course as the search des…",
+  "poster": "https://image.tmdb.org/t/p/w500/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg",
+  "tags": [
+   "Drama",
+   "Thriller",
+   "Crime"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -2125,7 +2461,10 @@
   "art": [
    "#3a2b2b",
    "#c94f4f"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.33,
+  "rating_count": 2322246
  },
  {
   "id": "i-want-your-sex",
@@ -2313,9 +2652,12 @@
   "runtime": 86,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/halloween_h20_20_years_later_tmdb-lqlxum3ok59sgjkrh2zjj2m3img-683x1024.jpg",
-  "tags": [],
+  "why": "Two decades after surviving a massacre on October 31, 1978, former baby sitter Laurie Strode finds herself hunted by persistent knife-wielder Michael Myers. Laurie now lives in Northern California under an assumed nam…",
+  "poster": "https://image.tmdb.org/t/p/w500/lqLXUm3oK59sGJKRH2Zjj2m3iMg.jpg",
+  "tags": [
+   "Horror",
+   "Thriller"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -2330,7 +2672,10 @@
   "art": [
    "#3a2440",
    "#4dd6c4"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 2.84,
+  "rating_count": 136888
  },
  {
   "id": "behind-the-mask-the-rise-of-leslie-vernon",
@@ -2340,10 +2685,12 @@
   "runtime": 91,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/06/behind_the_mask_the_rise_of_leslie_vernon_tmdb-vie8a3z219zsw81easm58b6vfen-683x1024.jpg",
+  "why": "The next great psycho horror slasher has given a documentary crew exclusive access to his life as he plans his reign of terror over the sleepy town of Glen Echo, all the while deconstructing the conventions and archet…",
+  "poster": "https://image.tmdb.org/t/p/w500/vie8a3z219Zsw81eAsM58B6VFEn.jpg",
   "tags": [
-   "35mm"
+   "35mm",
+   "Comedy",
+   "Horror"
   ],
   "screenings": [
    {
@@ -2359,7 +2706,10 @@
   "art": [
    "#123a3a",
    "#7fd4e0"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.4,
+  "rating_count": 39817
  },
  {
   "id": "dreams-in-nightmares",
@@ -2367,11 +2717,13 @@
   "year": 2024,
   "director": "Shatara Michelle Ford",
   "runtime": 128,
-  "country": "France",
+  "country": "USA, Taiwan",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/dreams_in_nightmares_tmdb-axv801kxhjvpkcz8mjvyqelyqbm-683x1024.jpg",
-  "tags": [],
+  "why": "After an abrupt layoff, Z embarks on a trip across the Midwestern United States in search of a friend who has seemingly disappeared off the grid. Traveling with her two closest friends, these three queer black femmes …",
+  "poster": "https://image.tmdb.org/t/p/w500/j5dxzoXeQB9pmOnO0TjSoMDceSk.jpg",
+  "tags": [
+   "Drama"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -2395,7 +2747,10 @@
   "art": [
    "#2a3550",
    "#e88b6a"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.42,
+  "rating_count": 1013
  },
  {
   "id": "butthole-surfers-the-hole-truth-and-nothing-butt",
@@ -2405,10 +2760,12 @@
   "runtime": 106,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/butthole_surfers_the_hole_truth_and_nothing_butt_tmdb-lqy0rfgjmpijsmv9huytrpe5l0h-691x1024.jpg",
+  "why": "Follows the story of the groundbreaking Texas-based art-punk band founded by frontman Gibby Haynes and guitarist Paul Leary.",
+  "poster": "https://image.tmdb.org/t/p/w500/cpmhE9ZsPP34iTesUASLdBk4kB4.jpg",
   "tags": [
-   "Premiere"
+   "Premiere",
+   "Documentary",
+   "Music"
   ],
   "screenings": [
    {
@@ -2424,7 +2781,10 @@
   "art": [
    "#40183a",
    "#f24d94"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.88,
+  "rating_count": 783
  },
  {
   "id": "medium-cool",
@@ -2434,9 +2794,11 @@
   "runtime": 111,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/medium_cool_tmdb-uiru2wjqh5x7q0hu3obn0vbrmnt-674x1024.jpg",
-  "tags": [],
+  "why": "John Cassellis is the toughest TV news reporter around. After extensively reporting about violence and racial tensions in poor communities, he discovers that his network is helping the FBI by granting them access to h…",
+  "poster": "https://image.tmdb.org/t/p/w500/uiRU2wJQh5x7q0HU3oBN0VbRMnt.jpg",
+  "tags": [
+   "Drama"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -2451,7 +2813,10 @@
   "art": [
    "#24303a",
    "#9ab0c4"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.81,
+  "rating_count": 11315
  },
  {
   "id": "we-re-all-going-to-the-world-s-fair",
@@ -2461,9 +2826,12 @@
   "runtime": 86,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "",
-  "tags": [],
+  "why": "Reality and fantasy begin to blur when a teenager, alone in her attic bedroom, immerses herself in a role-playing horror game online.",
+  "poster": "https://image.tmdb.org/t/p/w500/fXn4Nz1WCTEmzAFvwgEZoPHvptR.jpg",
+  "tags": [
+   "Horror",
+   "Drama"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -2478,7 +2846,10 @@
   "art": [
    "#3a3218",
    "#d9c06a"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "i-saw-the-tv-glow",
@@ -2488,9 +2859,12 @@
   "runtime": 100,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/i_saw_the_tv_glow_tmdb-hs4gykypn1rfl4gixyc02scyfaj-683x1024.jpg",
-  "tags": [],
+  "why": "In late-90s suburbia, a lonely teenager meets a girl at school who introduces him to a mysterious late-night T.V. show — a vision of a supernatural world pulsing beneath their own. As time goes on, however, questions …",
+  "poster": "https://image.tmdb.org/t/p/w500/hS4GYkYpN1rfl4GIxyc02sCyfAj.jpg",
+  "tags": [
+   "Horror",
+   "Drama"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -2505,7 +2879,10 @@
   "art": [
    "#101b2a",
    "#e0562a"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.53,
+  "rating_count": 866979
  },
  {
   "id": "run-lola-run",
@@ -2514,11 +2891,13 @@
   "director": "Tom Tykwer",
   "runtime": 80,
   "country": "Germany",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/lola_rennt_tmdb-v0giii4btilvhnhjajet3wwy3fa-683x1024.jpg",
+  "lang": "German, English",
+  "why": "Lola receives a phone call from her boyfriend Manni. He lost 100,000 DM in a subway train that belongs to a very bad guy. She has 20 minutes to raise this amount and meet Manni. Otherwise, he will rob a store to get t…",
+  "poster": "https://image.tmdb.org/t/p/w500/v0giIi4bTILVhNhJajet3WWY3FA.jpg",
   "tags": [
-   "Restoration"
+   "Restoration",
+   "Action",
+   "Drama"
   ],
   "screenings": [
    {
@@ -2534,7 +2913,10 @@
   "art": [
    "#3a2a1a",
    "#f0a83c"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.86,
+  "rating_count": 266151
  },
  {
   "id": "american-nightmare",
@@ -2544,10 +2926,12 @@
   "runtime": 88,
   "country": "Canada",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/AmNight-682x1024.jpg",
+  "why": "A man investigates the disappearance of his sister with the help of her roommate. He uncovers a trail of prostitution, incest, blackmail...and murder.",
+  "poster": "https://image.tmdb.org/t/p/w500/pJItn1uHPelzimeuNMfT1nMnXGX.jpg",
   "tags": [
-   "16mm"
+   "16mm",
+   "Horror",
+   "Crime"
   ],
   "screenings": [
    {
@@ -2563,7 +2947,10 @@
   "art": [
    "#2a3324",
    "#d4b26a"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 2.98,
+  "rating_count": 754
  },
  {
   "id": "the-departed",
@@ -2571,11 +2958,15 @@
   "year": 2006,
   "director": "Martin Scorsese",
   "runtime": 151,
-  "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/the_departed_tmdb-nt97ifvt2j1ymqmeq20qblg61t-683x1024.jpg",
-  "tags": [],
+  "country": "Hong Kong, USA",
+  "lang": "English, Cantonese",
+  "why": "To take down South Boston's Irish Mafia, the police send in one of their own to infiltrate the underworld, not realizing the syndicate has done likewise. While an undercover cop curries favor with the mob kingpin, a c…",
+  "poster": "https://image.tmdb.org/t/p/w500/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+  "tags": [
+   "Drama",
+   "Thriller",
+   "Crime"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -2590,7 +2981,10 @@
   "art": [
    "#2b3a2f",
    "#e0b34d"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.34,
+  "rating_count": 1626944
  },
  {
   "id": "whip-it",
@@ -2600,10 +2994,11 @@
   "runtime": 111,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/whip_it_tmdb-iruviw0dxs0fzi1icsdyfx02i8s-683x1024.jpg",
+  "why": "In Bodeen, Texas, an indie-rock loving misfit finds a way of dealing with her small-town misery after she discovers a roller derby league in nearby Austin.",
+  "poster": "https://image.tmdb.org/t/p/w500/iRUviw0Dxs0FZI1IcSDYFX02i8s.jpg",
   "tags": [
-   "35mm"
+   "35mm",
+   "Drama"
   ],
   "screenings": [
    {
@@ -2619,7 +3014,10 @@
   "art": [
    "#3a2b2b",
    "#c94f4f"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.65,
+  "rating_count": 117952
  },
  {
   "id": "kingdom-of-heaven",
@@ -2627,11 +3025,15 @@
   "year": 2005,
   "director": "Ridley Scott",
   "runtime": 144,
-  "country": "Spain",
-  "lang": "Latin",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/kingdom_of_heaven_tmdb-rnabe4twbmef71sgscqabpgksxh-683x1024.jpg",
-  "tags": [],
+  "country": "USA, United Kingdom",
+  "lang": "Arabic, English",
+  "why": "After his wife dies, a blacksmith named Balian is thrust into royalty, political intrigue and bloody holy wars during the Crusades.",
+  "poster": "https://image.tmdb.org/t/p/w500/rNaBe4TwbMef71sgscqabpGKsxh.jpg",
+  "tags": [
+   "Drama",
+   "Action",
+   "Adventure"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -2646,7 +3048,10 @@
   "art": [
    "#1f2a44",
    "#f0f0f0"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.72,
+  "rating_count": 316228
  },
  {
   "id": "sunshine",
@@ -2656,9 +3061,12 @@
   "runtime": 108,
   "country": "United Kingdom",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/sunshine_tmdb-okggej8qvm0umclz43vj31fzpp7-683x1024.jpg",
-  "tags": [],
+  "why": "Fifty years into the future, the sun is dying, and Earth is threatened by arctic temperatures. A team of astronauts is sent to revive the Sun — but the mission fails. Seven years later, a new team is sent to finish th…",
+  "poster": "https://image.tmdb.org/t/p/w500/oKGGeJ8qvm0UmClz43VJ31fzPP7.jpg",
+  "tags": [
+   "Science Fiction",
+   "Thriller"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -2673,7 +3081,10 @@
   "art": [
    "#3a2440",
    "#4dd6c4"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.73,
+  "rating_count": 282633
  },
  {
   "id": "sweet-charity",
@@ -2683,9 +3094,13 @@
   "runtime": 153,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/sweet_charity_tmdb-wyysaxhu1xgzkna7josvgwrosb2-683x1024.jpg",
-  "tags": [],
+  "why": "Taxi dancer Charity continues to have faith in the human race despite apparently endless disappointments at its hands, and hope that she will finally meet the nice young man to romance her away from her sleazy life. M…",
+  "poster": "https://image.tmdb.org/t/p/w500/dP8BRQ7VBj9K0MsKJbt3FehUU6S.jpg",
+  "tags": [
+   "Comedy",
+   "Music",
+   "Romance"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -2700,21 +3115,25 @@
   "art": [
    "#123a3a",
    "#7fd4e0"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.78,
+  "rating_count": 18904
  },
  {
   "id": "lenny",
   "title": "Lenny",
   "year": 1974,
   "director": "Bob Fosse",
-  "runtime": 111,
+  "runtime": 112,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/lenny_tmdb-avhk4pgdz3yqrzqlu65icjne6vn-683x1024.jpg",
+  "why": "The story of acerbic 1960s comic Lenny Bruce, whose groundbreaking, no-holds-barred style and social commentary was often deemed by the establishment as too obscene for the public.",
+  "poster": "https://image.tmdb.org/t/p/w500/Avhk4pGdz3YQrzqLU65icjnE6vn.jpg",
   "tags": [
    "Restoration",
-   "Premiere"
+   "Premiere",
+   "Drama"
   ],
   "screenings": [
    {
@@ -2730,7 +3149,10 @@
   "art": [
    "#2a3550",
    "#e88b6a"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.89,
+  "rating_count": 23417
  },
  {
   "id": "all-that-jazz",
@@ -2740,11 +3162,12 @@
   "runtime": 123,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/all_that_jazz_tmdb-culcedj4srlljefgn4xkd6k3c5t-683x1024.jpg",
+  "why": "Joe Gideon is at the top of the heap, one of the most successful directors and choreographers in musical theater. But he can feel his world slowly collapsing around him - his obsession with work has almost destroyed h…",
+  "poster": "https://image.tmdb.org/t/p/w500/culCEdj4srLljefgn4XKd6k3C5t.jpg",
   "tags": [
    "4K",
-   "Restoration"
+   "Restoration",
+   "Drama"
   ],
   "screenings": [
    {
@@ -2760,7 +3183,10 @@
   "art": [
    "#40183a",
    "#f24d94"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.34,
+  "rating_count": 147741
  },
  {
   "id": "eve-s-bayou",
@@ -2769,10 +3195,12 @@
   "director": "Kasi Lemmons",
   "runtime": 108,
   "country": "USA",
-  "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/images_(2).jpg",
-  "tags": [],
+  "lang": "French, Haitian; Haitian Creole",
+  "why": "Summer heats up in rural Louisiana beside Eve’s Bayou, 1962, as the Batiste family tries to survive the secrets they’ve kept and the betrayals they’ve endured.",
+  "poster": "https://image.tmdb.org/t/p/w500/33yTPcGSv7eo3FVlb7XKACHl1M8.jpg",
+  "tags": [
+   "Drama"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -2787,7 +3215,10 @@
   "art": [
    "#24303a",
    "#9ab0c4"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "going-on-30",
@@ -2797,9 +3228,13 @@
   "runtime": 98,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/13_going_on_30_tmdb-inzdsifhscmtrildnyhln8ukesg-683x1024.jpg",
-  "tags": [],
+  "why": "After total humiliation at her thirteenth birthday party, Jenna Rink wants to just hide until she's thirty. Thanks to some magic wishing dust, Jenna's prayer has been answered. With a knockout body, a fabulous wardrob…",
+  "poster": "https://image.tmdb.org/t/p/w500/iNZdSIfhSCMtRILDNyhLn8UKeSG.jpg",
+  "tags": [
+   "Comedy",
+   "Fantasy",
+   "Romance"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -2814,7 +3249,10 @@
   "art": [
    "#3a3218",
    "#d9c06a"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "walking-and-talking",
@@ -2822,12 +3260,14 @@
   "year": 1996,
   "director": "Nicole Holofcener",
   "runtime": 86,
-  "country": "Germany",
+  "country": "Italy, USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/walking_and_talking_tmdb-m8jmjqufgwgt7gse8aoduactye-683x1024.jpg",
+  "why": "Just as Amelia thinks she's over her anxiety and insecurity, her best friend announces her engagement, bringing her anxiety and insecurity right back.",
+  "poster": "https://image.tmdb.org/t/p/w500/m8JMJQUfGwGt7gse8aoduAcTYE.jpg",
   "tags": [
-   "35mm"
+   "35mm",
+   "Comedy",
+   "Drama"
   ],
   "screenings": [
    {
@@ -2843,19 +3283,26 @@
   "art": [
    "#101b2a",
    "#e0562a"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.7,
+  "rating_count": 7803
  },
  {
   "id": "coyote-vs-acme",
   "title": "Coyote vs Acme",
   "year": 2026,
   "director": "Dave Green",
-  "runtime": 101,
+  "runtime": 103,
   "country": "USA",
   "lang": "English",
-  "why": "",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/05/coyote_vs_acme_tmdb-7znmjp6z6mdap4louacykgsbuqv-683x1024.jpg",
-  "tags": [],
+  "why": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+  "poster": "https://image.tmdb.org/t/p/w500/7zNmJP6z6mDAp4LouacYkGSBUQv.jpg",
+  "tags": [
+   "Comedy",
+   "Adventure",
+   "Mystery"
+  ],
   "screenings": [
    {
     "theatre": "revue",
@@ -2942,19 +3389,338 @@
   "art": [
    "#3a2a1a",
    "#f0a83c"
-  ]
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "zardoz",
+  "title": "Zardoz",
+  "year": 1974,
+  "director": "John Boorman",
+  "runtime": 106,
+  "country": "United Kingdom",
+  "lang": "English",
+  "why": "In the far future, a savage trained only to kill finds a way into the community of bored immortals that alone preserves humanity's achievements.",
+  "poster": "https://image.tmdb.org/t/p/w500/6qvQhJhvM7wWPB2LjVpivSNraIv.jpg",
+  "tags": [
+   "Fantasy",
+   "Action",
+   "Thriller"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-07-26"
+    ],
+    "time": "21:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=634986~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-07-29"
+    ],
+    "time": "21:15",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=634987~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#2a3324",
+   "#d4b26a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.26,
+  "rating_count": 34816
+ },
+ {
+  "id": "vivaldi-et-moi-primavera",
+  "title": "Vivaldi Et Moi (Primavera)",
+  "year": 2025,
+  "director": "Damiano Michieletto",
+  "runtime": 111,
+  "country": "France, Italy",
+  "lang": "French, Italian",
+  "why": "In 18th-century Venice, 20-year-old violin virtuoso Cecilia lives at the Pièta orphanage, where, despite her talent, she remains confined, knowing that marriage is the only way out. Yet, her life takes a turn after sh…",
+  "poster": "https://image.tmdb.org/t/p/w500/lu2sF3dRYGgzhLvoc9yZNSKtlFO.jpg",
+  "tags": [
+   "Music",
+   "Drama",
+   "History"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-07-24"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640991~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-07-26"
+    ],
+    "time": "15:15",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640992~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-07-27"
+    ],
+    "time": "15:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640994~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-07-28"
+    ],
+    "time": "15:45",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640995~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#2b3a2f",
+   "#e0b34d"
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "the-matrix",
+  "title": "The Matrix",
+  "year": 1999,
+  "director": "Lana Wachowski, Lilly Wachowski",
+  "runtime": 136,
+  "country": "USA",
+  "lang": "English",
+  "why": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+  "poster": "https://image.tmdb.org/t/p/w500/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+  "tags": [
+   "Action",
+   "Science Fiction"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-02"
+    ],
+    "time": "21:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640592~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-05"
+    ],
+    "time": "21:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640593~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#3a2b2b",
+   "#c94f4f"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.18,
+  "rating_count": 2927230
+ },
+ {
+  "id": "the-invite",
+  "title": "The Invite",
+  "year": 2026,
+  "director": "Olivia Wilde",
+  "runtime": 107,
+  "country": "USA",
+  "lang": "English, Spanish",
+  "why": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
+  "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+  "tags": [
+   "Drama",
+   "Comedy"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-07-19"
+    ],
+    "time": "12:45",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636919~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-07-19"
+    ],
+    "time": "18:20",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636920~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-07-20"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636921~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-07-21"
+    ],
+    "time": "15:50",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636922~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-07-21"
+    ],
+    "time": "21:20",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640588~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-07-22"
+    ],
+    "time": "15:50",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636923~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-07-22"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636924~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-07-23"
+    ],
+    "time": "15:50",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636925~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-07-23"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640589~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-07-24"
+    ],
+    "time": "15:50",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640997~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-07-25"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640999~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-07-30"
+    ],
+    "time": "15:50",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=641001~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#1f2a44",
+   "#f0f0f0"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.11,
+  "rating_count": 272970
+ },
+ {
+  "id": "the-sandlot",
+  "title": "The Sandlot",
+  "year": 1993,
+  "director": "David Mickey Evans",
+  "runtime": 101,
+  "country": "USA",
+  "lang": "English, French",
+  "why": "During a summer of friendship and adventure, one boy becomes a part of the gang, nine boys become a team and their leader becomes a legend by confronting the terrifying mystery beyond the right field wall.",
+  "poster": "https://image.tmdb.org/t/p/w500/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg",
+  "tags": [
+   "Family",
+   "Comedy",
+   "Drama"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-30"
+    ],
+    "time": "13:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=642003~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#3a2440",
+   "#4dd6c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.8,
+  "rating_count": 298641
  },
  {
   "id": "a-silent-voice",
   "title": "A Silent Voice",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "After transferring into a new school, a deaf girl, Shoko Nishimiya, is bullied by the popular Shoya Ishida. As Shoya continues to bully Shoko, the class turns its back on him. Shoko transfers and Shoya grows up as an outcast. Alone and depressed, the regretful Shoya finds Shoko to make amends. “A Silent Voice” is […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/screen_shot_2026-07-16_at_3.11.06_pm_thumb.png",
-  "tags": [],
+  "year": 2016,
+  "director": "Naoko Yamada",
+  "runtime": 129,
+  "country": "Japan",
+  "lang": "Japanese",
+  "why": "Shouya Ishida starts bullying the new girl in class, Shouko Nishimiya, because she is deaf. But as the teasing continues, the rest of the class starts to turn on Shouya for his lack of compassion. When they leave elem…",
+  "poster": "https://image.tmdb.org/t/p/w500/tuFaWiqX0TXoWu7DGNcmX3UW7sT.jpg",
+  "tags": [
+   "Animation",
+   "Drama",
+   "Romance"
+  ],
   "screenings": [
    {
     "theatre": "fox",
@@ -2967,21 +3733,28 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
-  ]
+   "#123a3a",
+   "#7fd4e0"
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "sisterhood-of-the-travelling-pants",
   "title": "Sisterhood of the Travelling Pants",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Gather your friends to don your pajamas for a summer slumber party! Based on the best-selling novels by Ann Brashares, inseparable best friends Carmen, Tibby, Lena, and Bridget spend their first ever summer apart, but stay in touch passing along letters and a pair of pants that mysteriously fit them all perfectly. Rife with sun-soaked […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/the_sisterhood_of_the_traveling_pants_tmdb-wnshlut6izez2af3izrlb2mx0pr_thumb.jpg",
-  "tags": [],
+  "year": 2005,
+  "director": "Ken Kwapis",
+  "runtime": 119,
+  "country": "USA",
+  "lang": "English, Spanish",
+  "why": "Four best friends (Tibby, Lena, Carmen &amp; Bridget) who buy a mysterious pair of pants that fits each of them, despite their differing sizes, and makes whoever wears them feel fabulous. When faced with the prospect …",
+  "poster": "https://image.tmdb.org/t/p/w500/wNshlUT6IZEz2AF3iZrlb2mX0pR.jpg",
+  "tags": [
+   "Drama",
+   "Comedy",
+   "Romance"
+  ],
   "screenings": [
    {
     "theatre": "fox",
@@ -2994,9 +3767,12 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
-  ]
+   "#2a3550",
+   "#e88b6a"
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "sheep-in-the-box",
@@ -3276,8 +4052,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 2.9,
@@ -3320,38 +4096,11 @@
    {
     "theatre": "paradise",
     "dates": [
-     "2026-07-18"
-    ],
-    "time": "17:30",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/580424/"
-   },
-   {
-    "theatre": "paradise",
-    "dates": [
      "2026-07-21"
     ],
     "time": "18:00",
     "format": "",
     "url": "https://paradiseonbloor.com/purchase/580428/"
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "13:15",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxODExVDM="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "19:15",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxODcxVDQ="
    },
    {
     "theatre": "tiff",
@@ -3418,8 +4167,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.48,
@@ -3428,15 +4177,17 @@
  {
   "id": "the-rocky-horror-picture-show",
   "title": "The Rocky Horror Picture Show",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Join Excited Mental State: Toronto’s Only Rocky Horror Shadowcast who are just shivering with antici….PATION at making this the best Rocky Horror night of your life! Dress up in your best Rocky Horror-inspired outfits and get ready to “Time Warp” to the eerie castle of Dr. Frank-N-Furter (Tim Curry) along with sweethearts Brad (Barry Bostwick) […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2025/10/the_rocky_horror_picture_show_tmdb-3pye6zqdbuji7zrnzzqzcktwdmn_thumb.jpg",
+  "year": 1975,
+  "director": "Jim Sharman",
+  "runtime": 100,
+  "country": "United Kingdom, USA",
+  "lang": "English, German",
+  "why": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elabora…",
+  "poster": "https://image.tmdb.org/t/p/w500/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
   "tags": [
-   "Shadowcast"
+   "Shadowcast",
+   "Comedy",
+   "Science Fiction"
   ],
   "screenings": [
    {
@@ -3450,22 +4201,27 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
-  ]
+   "#3a3218",
+   "#d9c06a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.06,
+  "rating_count": 865705
  },
  {
   "id": "tekkonkinkreet",
   "title": "Tekkonkinkreet",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Black, a boy who seeks to bend the city to his will through strength, and White, his innocent counterpart, are two orphaned street kids living in the slums of Treasure Town. When real estate developers threaten to transform Treasure Town into a massive theme park, its very existence is put at risk. Determined to protect […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/tekon_kv-1_web_coming-soon_01a_thumb.jpg",
+  "year": 2006,
+  "director": "Michael Arias",
+  "runtime": 103,
+  "country": "Japan",
+  "lang": "Japanese",
+  "why": "Two penniless orphans, Black and White, struggle to survive on the mean streets of Treasure Town. When a megacorporation threatens to tear down the town to build an amusement park, Black and White engage in the fight …",
+  "poster": "https://image.tmdb.org/t/p/w500/e2x1YDuZPpQiaQS25Ego7xMZYOI.jpg",
   "tags": [
-   "Restoration"
+   "Restoration",
+   "Animation",
+   "Action"
   ],
   "screenings": [
    {
@@ -3488,33 +4244,29 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
-  ]
+   "#101b2a",
+   "#e0562a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.12,
+  "rating_count": 39506
  },
  {
   "id": "se7en",
   "title": "Se7en",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Two cops (Brad Pitt and Morgan Freeman) track a brilliant and elusive killer who orchestrates a string of horrific murders, each kill targeting a practitioner of one of the Seven Deadly Sins. Gwyneth Paltrow also stars in this acclaimed thriller set in a dour, drizzly city sick with pain and blight. Director David Fincher guides […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/se7en_tmdb-191nkfp0ehp3uivwqgpbfmi4lv9_thumb.jpg",
+  "year": 1995,
+  "director": "David Fincher",
+  "runtime": 127,
+  "country": "USA",
+  "lang": "English",
+  "why": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the ne…",
+  "poster": "https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
   "tags": [
-   "Restoration"
+   "Restoration",
+   "Crime",
+   "Mystery"
   ],
   "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=634915~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
    {
     "theatre": "fox",
     "dates": [
@@ -3526,21 +4278,26 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
-  ]
+   "#3a2a1a",
+   "#f0a83c"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.38,
+  "rating_count": 3730611
  },
  {
   "id": "legally-blonde",
   "title": "Legally Blonde",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Start practicing your bend and snap because it’s going to be an epic night at the Fox with another Reel Drag event! Hosted by Rosie and Canada’s Drag Race star Tara Nova! Elle Woods (Reese Witherspoon) has it all. She’s the president of her sorority and beloved on campus. She dates the cutest boy on […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/vajayjays_flicks_posters_2_thumb.png",
-  "tags": [],
+  "year": 2001,
+  "director": "Robert Luketic",
+  "runtime": 96,
+  "country": "USA",
+  "lang": "English, Hungarian",
+  "why": "Fashionable sorority queen Elle Woods has it all, but, she wants nothing more than to be Mrs. Warner Huntington III. But he dumps her before heading to Harvard Law School. Elle rallies all of her resources and gets in…",
+  "poster": "https://image.tmdb.org/t/p/w500/9ohlMrJHQqKhfUKh7Zr3JQqHNLZ.jpg",
+  "tags": [
+   "Comedy"
+  ],
   "screenings": [
    {
     "theatre": "fox",
@@ -3553,21 +4310,27 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
-  ]
+   "#2a3324",
+   "#d4b26a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.83,
+  "rating_count": 1823282
  },
  {
   "id": "persepolis",
   "title": "Persepolis",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Join us for our “Shout Louder!” limited series, where we will screen the best films that aren’t afraid to wear their beliefs on their sleeves and engage in political themes, because film is political. Marjane Satrapi’s acclaimed memoirs not only changed perceptions of Iran, but also the world as a whole. Through her fearless voice […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/sl-persepolis.jpg",
-  "tags": [],
+  "year": 2007,
+  "director": "Vincent Paronnaud, Marjane Satrapi",
+  "runtime": 95,
+  "country": "France, USA",
+  "lang": "German, Persian",
+  "why": "In 1970s Iran, Marjane 'Marji' Satrapi watches events through her young eyes and her idealistic family of a long dream being fulfilled of the hated Shah's defeat in the Iranian Revolution of 1979. However as Marji gro…",
+  "poster": "https://image.tmdb.org/t/p/w500/aU8i2QAdTyRR1nYb36Gq51xXP8p.jpg",
+  "tags": [
+   "Animation",
+   "Drama"
+  ],
   "screenings": [
    {
     "theatre": "fox",
@@ -3589,22 +4352,26 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
-  ]
+   "#2b3a2f",
+   "#e0b34d"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.22,
+  "rating_count": 270631
  },
  {
   "id": "network",
   "title": "Network",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Join us for our “Shout Louder!” limited series, where we will screen the best films that aren’t afraid to wear their beliefs on their sleeves and engage in political themes, because film is political. This media satire, directed by Sidney Lumet and written by Paddy Chayefsky, examines the corrupted soul of corporate-dominated America, anticipating today’s […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/sl_network.jpg",
+  "year": 2010,
+  "director": "David Fincher",
+  "runtime": 121,
+  "country": "USA",
+  "lang": "English",
+  "why": "In 2003, Harvard undergrad and computer programmer Mark Zuckerberg begins work on a new concept that eventually turns into the global social network known as Facebook. Six years later, Mark is one of the youngest bill…",
+  "poster": "https://image.tmdb.org/t/p/w500/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
   "tags": [
-   "Restoration"
+   "Restoration",
+   "Drama"
   ],
   "screenings": [
    {
@@ -3618,21 +4385,26 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
-  ]
+   "#3a2b2b",
+   "#c94f4f"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.26,
+  "rating_count": 236397
  },
  {
   "id": "mishima-a-life-in-four-chapters",
   "title": "Mishima: A Life in Four Chapters",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Paul Schrader’s (“First Reformed”) visually stunning, collagelike portrait of acclaimed Japanese author and playwright Yukio Mishima (played by Ken Ogata) investigates the inner turmoil and contradictions of a man who attempted an impossible harmony between self, art, and society. Taking place on Mishima’s last day, when he famously committed public seppuku, the film is punctuated […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/mishima_a_life_in_four_chapters_tmdb-4kixse4swujo0euqpolshno5glh_thumb.jpg",
-  "tags": [],
+  "year": 1985,
+  "director": "Paul Schrader",
+  "runtime": 121,
+  "country": "Japan, USA",
+  "lang": "English, Japanese",
+  "why": "A fictional account of the life of Japanese author Yukio Mishima, combining dramatizations of three of his novels and a depiction of the events of November 25th, 1970.",
+  "poster": "https://image.tmdb.org/t/p/w500/4kIXsE4SwUjO0eUqpolsHNO5GLH.jpg",
+  "tags": [
+   "Drama"
+  ],
   "screenings": [
    {
     "theatre": "fox",
@@ -3654,18 +4426,21 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
-  ]
+   "#1f2a44",
+   "#f0f0f0"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.42,
+  "rating_count": 117636
  },
  {
   "id": "michael-mann-s-manhunter-the-final-cut",
   "title": "Michael Mann's Manhunter: The Final Cut",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
+  "year": 1986,
+  "director": "Michael Mann",
+  "runtime": 120,
+  "country": "USA",
+  "lang": "English",
   "why": "A retired criminal profiler (William Petersen) reluctantly returns to the FBI to help track down a serial killer of families and is forced to consult an expert—the imprisoned Dr. Hannibal Lecktor (Brian Cox in a subtly chilling performance). The third feature written and directed by Michael Mann is a gripping adaptation of the first of […]",
   "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/c1d156f04d7b1ab58ebe86767f78c1b8_thumb.jpg",
   "tags": [],
@@ -3708,21 +4483,27 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
-  ]
+   "#3a2440",
+   "#4dd6c4"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "malcolm-x",
   "title": "Malcolm X",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Join us for our “Shout Louder!” limited series, where we will screen the best films that aren’t afraid to wear their beliefs on their sleeves and engage in political themes, because film is political. This is a passionate monument to a man whose life continues to serve as a model of principled resistance.One of the […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/malcolm-x.jpg",
-  "tags": [],
+  "year": 1992,
+  "director": "Spike Lee",
+  "runtime": 202,
+  "country": "USA, Netherlands Antilles",
+  "lang": "Arabic, English",
+  "why": "A tribute to the controversial black activist and leader of the struggle for black liberation. He hit bottom during his imprisonment in the '50s, he became a Black Muslim and then a leader in the Nation of Islam. His …",
+  "poster": "https://image.tmdb.org/t/p/w500/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+  "tags": [
+   "Drama",
+   "History"
+  ],
   "screenings": [
    {
     "theatre": "fox",
@@ -3735,21 +4516,28 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
-  ]
+   "#123a3a",
+   "#7fd4e0"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.29,
+  "rating_count": 215015
  },
  {
   "id": "the-iron-giant",
   "title": "The Iron Giant",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "This month’s Klassic Kidz selection is a truly special film that didn’t receive the accolades it deserved when it was released, but has since become an animation fan favourite. Nine-year-old Hogarth Hughes always dreamed of having a pet, but not one made out of metal and as tall as a building. After discovering a giant […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/the_iron_giant_tmdb-exrgvhypilrkrjmqlwaary3cvvg_thumb.jpg",
-  "tags": [],
+  "year": 1999,
+  "director": "Brad Bird",
+  "runtime": 86,
+  "country": "USA",
+  "lang": "English",
+  "why": "In the small town of Rockwell, Maine in October 1957, a giant metal machine befriends a nine-year-old boy and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.",
+  "poster": "https://image.tmdb.org/t/p/w500/ct04FCFLPImNG5thcPLRnVsZlmS.jpg",
+  "tags": [
+   "Animation",
+   "Drama",
+   "Family"
+  ],
   "screenings": [
    {
     "theatre": "fox",
@@ -3771,21 +4559,28 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
-  ]
+   "#2a3550",
+   "#e88b6a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.28,
+  "rating_count": 695995
  },
  {
   "id": "hadestown-the-musical",
   "title": "Hadestown: The Musical",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "The live theater capture of the hit musical Hadestown, which won eight Tony Awards in 2019 including Best Musical and the 2020 Grammy Award for Best Musical Theater Album, featuring the five original principals of the Broadway company. The genre-defying new musical blends modern American folk music with New Orleans-inspired jazz to reimagine a sweeping […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/hadestown_the_musical_tmdb-egoietwjdqncnbbsugojn2g3msn_thumb.jpg",
-  "tags": [],
+  "year": 2026,
+  "director": "Brett Sullivan",
+  "runtime": 142,
+  "country": "United Kingdom, USA",
+  "lang": "English",
+  "why": "The tragic love of Orpheus and Eurydice is intertwined with the complex relationship of Hades and Persephone. Eurydice, struggling with poverty, is lured to the industrial underworld of Hadestown by Hades, while Orphe…",
+  "poster": "https://image.tmdb.org/t/p/w500/bcOjxJkmeaIcLJBBmPhyofKEyPm.jpg",
+  "tags": [
+   "Drama",
+   "Fantasy",
+   "Romance"
+  ],
   "screenings": [
    {
     "theatre": "fox",
@@ -3816,21 +4611,27 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
-  ]
+   "#40183a",
+   "#f24d94"
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "bridesmaids",
   "title": "Bridesmaids",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Celebrate the 15th anniversary of Bridesmaids with an interactive screening hosted by programming collective grlish. Finally rewear that overpriced bridesmaid’s dress and revisit the nuptial romp, with free rein to recite your favourite quotes in a Rocky-Horror style shout-along game. Written by Kristen Wiig and Annie Mumulo, this Oscar-nominated raunch-com features comedy juggernauts Maya Rudolph, […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/bridesmaids_fox_11x17_thumb.png",
-  "tags": [],
+  "year": 2011,
+  "director": "Paul Feig",
+  "runtime": 125,
+  "country": "USA",
+  "lang": "English",
+  "why": "Annie's life is a mess. But when she finds out her lifetime best friend is engaged, she simply must serve as Lillian's maid of honor. Though lovelorn and broke, Annie bluffs her way through the expensive and bizarre r…",
+  "poster": "https://image.tmdb.org/t/p/w500/gJtA7hYsBMQ7EM3sPBMUdBfU7a0.jpg",
+  "tags": [
+   "Comedy",
+   "Romance"
+  ],
   "screenings": [
    {
     "theatre": "fox",
@@ -3843,22 +4644,27 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
-  ]
+   "#24303a",
+   "#9ab0c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.43,
+  "rating_count": 705397
  },
  {
   "id": "grease",
   "title": "Grease",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Grease is the word and you gotta sing along! Celebrate summer by taking a trip to Rydell High and singing your heart out along with Danny, Sandy, and the gang! You know the words … and in case you forget a few, don’t sweat it daddy-o, because all the lyrics will be right up there […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/grease_sing_along_resize_thumb.jpg",
+  "year": 1978,
+  "director": "Randal Kleiser",
+  "runtime": 110,
+  "country": "USA, United Kingdom",
+  "lang": "English",
+  "why": "Australian good girl Sandy and greaser Danny fell in love over the summer. But when they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance despite their eccentric f…",
+  "poster": "https://image.tmdb.org/t/p/w500/2rM7fQKpb7cs1Iq7IBqub9LFDzJ.jpg",
   "tags": [
-   "Sing-Along"
+   "Sing-Along",
+   "Romance",
+   "Comedy"
   ],
   "screenings": [
    {
@@ -3872,21 +4678,28 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
-  ]
+   "#3a3218",
+   "#d9c06a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.56,
+  "rating_count": 1162902
  },
  {
   "id": "female-prisoner-701-scorpion",
   "title": "Female Prisoner #701: Scorpion",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Join us for our “Shout Louder!” limited series, where we will screen the best films that aren’t afraid to wear their beliefs on their sleeves and engage in political themes, because film is political. The four-film Female Prisoner Scorpion cycle charts the vengeance of Nami Matsushima (Meiko Kaji), who becomes an avatar of survival and […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/tmdb-q3a9mow4ksc7xpoiabtucoairl_thumb.jpg",
-  "tags": [],
+  "year": 1972,
+  "director": "Shunya Ito",
+  "runtime": 87,
+  "country": "Japan",
+  "lang": "Japanese",
+  "why": "After being cruelly set up and deceived by Sugimi, a detective in cahoots with the mob with whom she was whole-heartedly in love, Matsushima’s desire for revenge knows no bounds.",
+  "poster": "https://image.tmdb.org/t/p/w500/Q3A9Mow4kSC7xpoiaBTuCOaIRl.jpg",
+  "tags": [
+   "Action",
+   "Drama",
+   "Thriller"
+  ],
   "screenings": [
    {
     "theatre": "fox",
@@ -3899,21 +4712,27 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
-  ]
+   "#101b2a",
+   "#e0562a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.9,
+  "rating_count": 22776
  },
  {
   "id": "call-of-my-life",
   "title": "Call of My Life",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Join us at the Fox Theatre for a special screening of the highest-grossing Nollywood film of 2026, “Call of My Life”, featuring a Q&A with director Dammy Twitch and producer Blessing Uzzi! “Call of My Life” follows Soluchi (Uzoamaka Power), a hopeless romantic and call-centre agent still carrying the scars of heartbreak after being jilted […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/call_of_my_life_tmdb-a2mu4enyixeqc9z1qh3hiqllv0y_thumb.jpg",
-  "tags": [],
+  "year": 2026,
+  "director": "Dammy Twitch",
+  "runtime": 117,
+  "country": "Nigeria",
+  "lang": "English",
+  "why": "The romantic comedy follows Soluchi, a hopeless romantic still healing from being jilted by her former lover, Kalu. When a regular work call puts her in touch with the charming Eli, Soluchi begins to see the possibili…",
+  "poster": "https://image.tmdb.org/t/p/w500/A2MU4enYIxeQc9Z1qh3hiqllV0y.jpg",
+  "tags": [
+   "Romance",
+   "Comedy"
+  ],
   "screenings": [
    {
     "theatre": "fox",
@@ -3926,21 +4745,26 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
-  ]
+   "#3a2a1a",
+   "#f0a83c"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.43,
+  "rating_count": 220
  },
  {
   "id": "women-talking",
   "title": "Women Talking",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "The Book and Film Club presents: Women Talking! Based on the best-selling novel by Miriam Toews, “Women Talking” follows a group of women in an isolated religious colony as they struggle to reconcile their faith with a series of sexual assaults committed by the colony’s men. This year, the Book and Film Club will be […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/women-talking.jpg",
-  "tags": [],
+  "year": 2022,
+  "director": "Sarah Polley",
+  "runtime": 104,
+  "country": "USA",
+  "lang": "English",
+  "why": "A group of women in an isolated religious colony struggle to reconcile their faith with a series of sexual assaults committed by the colony's men.",
+  "poster": "https://image.tmdb.org/t/p/w500/wcTc9GveMMjAdHSlzdE0FaRCtqi.jpg",
+  "tags": [
+   "Drama"
+  ],
   "screenings": [
    {
     "theatre": "fox",
@@ -3953,21 +4777,27 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
-  ]
+   "#2a3324",
+   "#d4b26a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.8,
+  "rating_count": 203769
  },
  {
   "id": "la-captive",
   "title": "La Captive",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Battle of the Sexes is a series featuring films directed by women about men and films directed by men about women. Through titles like American Psycho, La Captive, Marnie, and Birth, our speakers will interrogate how films reinforce or distort gender roles. The series is hosted by Gabrielle Marceau from In the Mood Magazine. “Enigmatic […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/la_captive_tmdb-h7m7jy1tzlr5il0jzpteyw0ecnt_thumb.jpg",
-  "tags": [],
+  "year": 2000,
+  "director": "Chantal Akerman",
+  "runtime": 119,
+  "country": "France, Belgium",
+  "lang": "French",
+  "why": "Ariane lives with Simon in his large Paris flat. Simon is obsessed with her: he wants to know everything about her, secretly follows her when she goes out, asks questions all the time, even in the most intimate moment…",
+  "poster": "https://image.tmdb.org/t/p/w500/h7M7jy1tzLR5Il0jZptEYw0ECnt.jpg",
+  "tags": [
+   "Drama",
+   "Romance"
+  ],
   "screenings": [
    {
     "theatre": "fox",
@@ -3980,21 +4810,28 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
-  ]
+   "#2b3a2f",
+   "#e0b34d"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.74,
+  "rating_count": 9919
  },
  {
   "id": "marnie",
   "title": "Marnie",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Battle of the Sexes is a series featuring films directed by women about men and films directed by men about women. Through titles like American Psycho, La Captive, Marnie, and Birth, our speakers will interrogate how films reinforce or distort gender roles. The series is hosted by Gabrielle Marceau from In the Mood Magazine. “Marnie […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/marnie_tmdb-nrry4vo2a3py7wizbpz11palogp_thumb.jpg",
-  "tags": [],
+  "year": 1964,
+  "director": "Alfred Hitchcock",
+  "runtime": 130,
+  "country": "USA",
+  "lang": "English",
+  "why": "Marnie is a beautiful but emotionally withdrawn thief, stealing from employers before disappearing under new identities. When her new boss, Mark Rutland, discovers her secret, his fascination turns to obsession, and h…",
+  "poster": "https://image.tmdb.org/t/p/w500/nRRy4VO2A3Py7wiZBPz11PAlogp.jpg",
+  "tags": [
+   "Thriller",
+   "Mystery",
+   "Romance"
+  ],
   "screenings": [
    {
     "theatre": "fox",
@@ -4007,21 +4844,27 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
-  ]
+   "#3a2b2b",
+   "#c94f4f"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.57,
+  "rating_count": 65423
  },
  {
   "id": "birth",
   "title": "Birth",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Battle of the Sexes is a series featuring films directed by women about men and films directed by men about women. Through titles like American Psycho, La Captive, Marnie, and Birth, our speakers will interrogate how films reinforce or distort gender roles. The series is hosted by Gabrielle Marceau from In the Mood Magazine. “Jonathan […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/birth_tmdb-z70iq61wqhxetaz8ar2od8pkim_thumb.jpg",
-  "tags": [],
+  "year": 2004,
+  "director": "Jonathan Glazer",
+  "runtime": 100,
+  "country": "Germany, United Kingdom",
+  "lang": "English",
+  "why": "It took Anna 10 years to recover from the death of her husband, Sean, but now she's on the verge of marrying her boyfriend, Joseph, and finally moving on. However, on the night of her engagement party, a young boy nam…",
+  "poster": "https://image.tmdb.org/t/p/w500/z70iQ61WqhxETAz8ar2oD8pkIM.jpg",
+  "tags": [
+   "Drama",
+   "Mystery"
+  ],
   "screenings": [
    {
     "theatre": "fox",
@@ -4034,21 +4877,28 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
-  ]
+   "#1f2a44",
+   "#f0f0f0"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.71,
+  "rating_count": 96458
  },
  {
   "id": "battle-of-algiers",
   "title": "Battle of Algiers",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Join us for our “Shout Louder!” limited series, where we will screen the best films that aren’t afraid to wear their beliefs on their sleeves and engage in political themes, because film is political. One of the most influential political films in history, The Battle of Algiers, by Gillo Pontecorvo, vividly re-creates a key year […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/tmdb-2p3aftohfvp6oevmqlnl1zlkoql_thumb.jpg",
-  "tags": [],
+  "year": 1966,
+  "director": "Gillo Pontecorvo",
+  "runtime": 122,
+  "country": "Italy, Algeria",
+  "lang": "Arabic, English",
+  "why": "Paratrooper commander Colonel Mathieu, a former French Resistance fighter during World War II, is sent to Algeria to reinforce efforts to squelch the uprisings of the Algerian War. There he faces Ali la Pointe, a form…",
+  "poster": "https://image.tmdb.org/t/p/w500/2p3AFtOHFvP6OeVMqlnL1zLKOqL.jpg",
+  "tags": [
+   "Drama",
+   "War",
+   "History"
+  ],
   "screenings": [
    {
     "theatre": "fox",
@@ -4061,21 +4911,26 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
-  ]
+   "#3a2440",
+   "#4dd6c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "2026-cat-video-fest",
   "title": "2026 Cat Video Fest",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "“Watching silly cat videos is good for you.” – The Wall Street Journal Cat Video Fest is back at Fox Theatre! Oscilloscope Laboratories presents CatVideoFest 2026, a compilation of the latest and best cat videos culled from countless hours of unique submissions and sourced animations, music videos, and classic internet powerhouses. Each year, across the […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/screen_shot_2026-05-29_at_3.44.09_pm_thumb.png",
-  "tags": [],
+  "year": 2026,
+  "director": "Daniel Goldhaber",
+  "runtime": 70,
+  "country": "USA",
+  "lang": "English",
+  "why": "Our fuzzy overlords return to the big screen! Each year, CatVideoFest curates a compilation reel of the latest, best cat videos culled from countless hours of unique submissions and sourced animations, music videos, a…",
+  "poster": "https://image.tmdb.org/t/p/w500/nRjejxXF7tV8nZ8RFrHyOswuCle.jpg",
+  "tags": [
+   "Comedy"
+  ],
   "screenings": [
    {
     "theatre": "fox",
@@ -4115,392 +4970,12 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
-  ]
- },
- {
-  "id": "zardoz",
-  "title": "Zardoz",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "In the future, Earth is ruled by Eternals, an advanced and secret sect of beings who reign over a savage group called Brutals. The Eternals have created a god named Zardoz to intimidate the Brutals, making them believe that killing is their natural state. However, Zed (Sean Connery), a Brutal warrior, challenges that assumption when […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/zardoz_tmdb-6qvqhjhvm7wwpb2ljvpivsnraiv_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "21:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=634986~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-29"
-    ],
-    "time": "21:15",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=634987~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#2b3a2f",
-   "#e0b34d"
-  ]
- },
- {
-  "id": "vivaldi-et-moi-primavera",
-  "title": "Vivaldi Et Moi (Primavera)",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Set in 18th-century Venice’s famed Ospedale della Pietà orphanage for girls, Vivaldi Et Moi follows Cecilia (Tecla Insolia), a gifted young violinist whose fiery spirit cannot be contained. Yearning to uncover her origins and chafing against the orphanage’s strict rules, she’s offered escape through an arranged marriage to a wealthy patron (Stefano Accorsi). But when a […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/primavera_tmdb-lu2sf3dryggzhlvoc9yznsktlfo_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640991~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "15:15",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640992~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-27"
-    ],
-    "time": "15:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640994~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-28"
-    ],
-    "time": "15:45",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640995~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#3a2b2b",
-   "#c94f4f"
-  ]
- },
- {
-  "id": "the-matrix",
-  "title": "The Matrix",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Join us for our “Shout Louder!” limited series, where we will screen the best films that aren’t afraid to wear their beliefs on their sleeves and engage in political themes, because film is political.“The Matrix” has become a focal point for political discourse, with the term “redpilling” linked to QAnon and discussions about conformity to […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/sl_matrix.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-02"
-    ],
-    "time": "21:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640592~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-05"
-    ],
-    "time": "21:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640593~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#1f2a44",
-   "#f0f0f0"
-  ]
- },
- {
-  "id": "the-invite",
-  "title": "The Invite",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Joe and Angela’s marriage is on thin ice. When they invite their enigmatic upstairs neighbours for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/the_invite_tmdb-amxsk5cavz907gdedgyirznjiwu_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-17"
-    ],
-    "time": "15:40",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636915~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-17"
-    ],
-    "time": "18:20",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636916~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636917~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "18:40",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636918~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "12:45",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636919~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "18:20",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636920~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-20"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636921~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-21"
-    ],
-    "time": "15:50",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636922~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-21"
-    ],
-    "time": "21:20",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640588~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-22"
-    ],
-    "time": "15:50",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636923~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-22"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636924~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-23"
-    ],
-    "time": "15:50",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636925~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-23"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640589~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "15:50",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640997~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-25"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640999~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-30"
-    ],
-    "time": "15:50",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=641001~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#3a2440",
-   "#4dd6c4"
-  ]
- },
- {
-  "id": "the-sandlot",
-  "title": "The Sandlot",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "When Scottie Smalls (Thomas Guiry) moves to a new neighbourhood, he manages to make friends with a group of kids who play baseball at the sandlot. Together they go on a series of funny and touching adventures. The boys run into trouble when Smalls borrows a ball from his stepdad that gets hit over a […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/the_sandlot_tmdb-7pyqz0vieuw8qtvuginumjdwmnj_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-30"
-    ],
-    "time": "13:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=642003~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
    "#123a3a",
    "#7fd4e0"
-  ]
- },
- {
-  "id": "wall-e",
-  "title": "WALL·E",
-  "year": 2008,
-  "director": "Andrew Stanton",
-  "runtime": 98,
-  "country": "USA",
-  "lang": "English",
-  "why": "After hundreds of years doing what he was built for, WALL•E— a robot designed to clean up the earth—discovers a new purpose in life when he meets a sleek search robot named EVE. EVE comes to realize that WALL•E has in…",
-  "poster": "https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
-  "tags": [
-   "Animation",
-   "Family",
-   "Science Fiction"
-  ],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "14:30",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/583459/"
-   }
-  ],
-  "art": [
-   "#2a3550",
-   "#e88b6a"
   ],
   "_tmdb_matched": true,
-  "rating": 4.24,
-  "rating_count": 2771964
- },
- {
-  "id": "true-romance",
-  "title": "True Romance",
-  "year": 1993,
-  "director": "Tony Scott",
-  "runtime": 121,
-  "country": "USA, France",
-  "lang": "English, Italian",
-  "why": "Clarence marries hooker Alabama, steals cocaine from her pimp, and tries to sell it in Hollywood, while the owners of the coke try to reclaim it.",
-  "poster": "https://image.tmdb.org/t/p/w500/39lXk6ud6KiJgGbbWI2PUKS7y2.jpg",
-  "tags": [
-   "Action",
-   "Crime",
-   "Romance"
-  ],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "20:30",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/568304/"
-   }
-  ],
-  "art": [
-   "#40183a",
-   "#f24d94"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.95,
-  "rating_count": 303923
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "the-right-stuff",
@@ -4528,8 +5003,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 4.02,
@@ -4560,8 +5035,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.75,
@@ -4593,8 +5068,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.45,
@@ -4626,8 +5101,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.99,
@@ -4658,8 +5133,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.77,
@@ -4705,33 +5180,6 @@
     "time": "18:00",
     "format": "",
     "url": "https://paradiseonbloor.com/purchase/598274/"
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "20:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxODgzVDM="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "12:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxOEwzVDE="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "15:45",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxODM0VDQ="
    },
    {
     "theatre": "tiff",
@@ -4816,8 +5264,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.31,
@@ -4846,10 +5294,12 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2a3324",
+   "#d4b26a"
   ],
-  "_tmdb_matched": false
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "stolen-kingdom",
@@ -4876,8 +5326,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.81,
@@ -4910,8 +5360,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 4.2,
@@ -4943,8 +5393,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.46,
@@ -4976,10 +5426,12 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#3a2440",
+   "#4dd6c4"
   ],
-  "_tmdb_matched": false
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "alien",
@@ -5007,8 +5459,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 4.25,
@@ -5041,8 +5493,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.84,
@@ -5074,8 +5526,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.16,
@@ -5113,10 +5565,12 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#24303a",
+   "#9ab0c4"
   ],
-  "_tmdb_matched": false
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "tally-brown-new-york",
@@ -5143,8 +5597,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.72,
@@ -5177,8 +5631,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.75,
@@ -5225,10 +5679,12 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2a1a",
+   "#f0a83c"
   ],
-  "_tmdb_matched": false
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "48-hour-film-challenge",
@@ -5262,10 +5718,12 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2a3324",
+   "#d4b26a"
   ],
-  "_tmdb_matched": false
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "a-mighty-wind",
@@ -5293,8 +5751,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.67,
@@ -5372,8 +5830,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.93,
@@ -5405,10 +5863,12 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#1f2a44",
+   "#f0f0f0"
   ],
-  "_tmdb_matched": false
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "after-hours",
@@ -5437,8 +5897,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.48,
@@ -5471,8 +5931,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 2.93,
@@ -5494,15 +5954,6 @@
    "Crime"
   ],
   "screenings": [
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxODYzVDU="
-   },
    {
     "theatre": "tiff",
     "dates": [
@@ -5541,8 +5992,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.39,
@@ -5584,8 +6035,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.84,
@@ -5618,8 +6069,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.73,
@@ -5652,8 +6103,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.47,
@@ -5684,8 +6135,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.85,
@@ -5717,10 +6168,12 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2a1a",
+   "#f0a83c"
   ],
-  "_tmdb_matched": false
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "chronovisor",
@@ -5749,8 +6202,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.65,
@@ -5826,8 +6279,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.39,
@@ -5860,8 +6313,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.89,
@@ -5875,7 +6328,7 @@
   "runtime": null,
   "country": "",
   "lang": "",
-  "why": "",
+  "why": "Sir Christopher Edward Nolan is a British and American filmmaker. Known for his Hollywood blockbusters with complex storytelling, Nolan is considered a leading filmmaker of the 21st century. His films have earned over…",
   "poster": "https://images.ctfassets.net/22n7d68fswlw/39nLVKODFH9EFBEP84ek1u/b85c29d442b528ff3f9be6946a78ab21/DUNKIRK_07.webp",
   "tags": [
    "Action + Adventure",
@@ -5894,10 +6347,12 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#1f2a44",
+   "#f0f0f0"
   ],
-  "_tmdb_matched": false
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "dunkirk-70mm-with-recorded-intro-by-dan-jolin",
@@ -5935,10 +6390,12 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#3a2440",
+   "#4dd6c4"
   ],
-  "_tmdb_matched": false
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "film-reference-library-public-hours",
@@ -5952,15 +6409,6 @@
   "poster": "https://images.ctfassets.net/22n7d68fswlw/3N8p3mH4YoEYMQSoMk84u8/9cca8f7cbb3b5be6fc3078ef3c905f9f/LibraryPage_Header.jpg",
   "tags": [],
   "screenings": [
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "12:00",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/"
-   },
    {
     "theatre": "tiff",
     "dates": [
@@ -6953,10 +7401,12 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#123a3a",
+   "#7fd4e0"
   ],
-  "_tmdb_matched": false
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "fudoh-the-new-generation",
@@ -6985,8 +7435,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.55,
@@ -7018,8 +7468,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.4,
@@ -7052,8 +7502,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.86,
@@ -7086,8 +7536,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 4.23,
@@ -7119,10 +7569,12 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#101b2a",
+   "#e0562a"
   ],
-  "_tmdb_matched": false
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "insomnia",
@@ -7160,8 +7612,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.63,
@@ -7212,8 +7664,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 4.45,
@@ -7245,40 +7697,12 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2b3a2f",
+   "#e0b34d"
   ],
-  "_tmdb_matched": false
- },
- {
-  "id": "la-cie-naga",
-  "title": "La Ciénaga",
-  "year": 2001,
-  "director": "Lucrecia Martel",
-  "runtime": 100,
-  "country": "Argentina",
-  "lang": "Spanish",
-  "why": "La ciénaga is a 2001 drama film written and directed by Lucrecia Martel in her feature directorial debut. The film stars an ensemble cast featuring Graciela Borges, Mercedes Morán, Martín Adjemián and Daniel Valenzuela.",
-  "poster": "https://images.ctfassets.net/22n7d68fswlw/3KincI3n0qMBbU6glBPPyA/a1f56465781ef2c5c154adede3104d30/La-Cie%C3%8C_naga_Still_01.jpg",
-  "tags": [
-   "Drama"
-  ],
-  "screenings": [
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "13:00",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxODEwVDI="
-   }
-  ],
-  "art": [
-   "#3a2440",
-   "#4dd6c4"
-  ],
-  "_tmdb_matched": false
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "le-rayon-vert",
@@ -7315,10 +7739,12 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2b2b",
+   "#c94f4f"
   ],
-  "_tmdb_matched": true
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "lenin",
@@ -7336,15 +7762,6 @@
    "Romance"
   ],
   "screenings": [
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "15:00",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxODMwVDU="
-   },
    {
     "theatre": "tiff",
     "dates": [
@@ -7374,10 +7791,12 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#1f2a44",
+   "#f0f0f0"
   ],
-  "_tmdb_matched": true
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "leviticus",
@@ -7394,15 +7813,6 @@
    "Romance"
   ],
   "screenings": [
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "13:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxODEzVDQ="
-   },
    {
     "theatre": "tiff",
     "dates": [
@@ -7460,15 +7870,6 @@
    {
     "theatre": "tiff",
     "dates": [
-     "2026-07-18"
-    ],
-    "time": "12:00",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxOEwwVDU="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
      "2026-07-22"
     ],
     "time": "15:50",
@@ -7492,42 +7893,6 @@
     "time": "21:45",
     "format": "",
     "url": "https://am.ticketmaster.com/tiff/ism/NkwyMzk0VDQ="
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "13:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=953803090&aud=8&ptime=13:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=953803090&aud=8&ptime=16:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=953803090&aud=8&ptime=19:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=953803090&aud=8&ptime=21:30&ptype=G"
    },
    {
     "theatre": "carlton",
@@ -7711,8 +8076,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.83,
@@ -7741,10 +8106,12 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#123a3a",
+   "#7fd4e0"
   ],
-  "_tmdb_matched": false
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "macho-dancer",
@@ -7772,8 +8139,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.67,
@@ -7805,10 +8172,12 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#40183a",
+   "#f24d94"
   ],
-  "_tmdb_matched": false
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "memento",
@@ -7837,8 +8206,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 4.18,
@@ -7871,8 +8240,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.34,
@@ -7914,8 +8283,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 4.22,
@@ -7939,15 +8308,6 @@
    {
     "theatre": "tiff",
     "dates": [
-     "2026-07-18"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxODQwVDE="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
      "2026-07-22"
     ],
     "time": "19:00",
@@ -7956,10 +8316,12 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#3a2a1a",
+   "#f0a83c"
   ],
-  "_tmdb_matched": false
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "premium-rush-with-recorded-intro-by-david-koepp",
@@ -7987,44 +8349,12 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2a3324",
+   "#d4b26a"
   ],
-  "_tmdb_matched": false
- },
- {
-  "id": "barbie",
-  "title": "Barbie",
-  "year": 2023,
-  "director": "Greta Gerwig",
-  "runtime": 114,
-  "country": "United Kingdom, USA",
-  "lang": "English",
-  "why": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living a…",
-  "poster": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
-  "tags": [
-   "Comedy",
-   "Adventure",
-   "Fantasy"
-  ],
-  "screenings": [
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "19:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/buy/ism/NkwxODczVDI="
-   }
-  ],
-  "art": [
-   "#3a2440",
-   "#4dd6c4"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.68,
-  "rating_count": 5839371
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "king-arthur-s-night",
@@ -8051,10 +8381,12 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#2b3a2f",
+   "#e0b34d"
   ],
-  "_tmdb_matched": true
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "remake",
@@ -8071,15 +8403,6 @@
    "Drama"
   ],
   "screenings": [
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "20:45",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxODg0VDU="
-   },
    {
     "theatre": "tiff",
     "dates": [
@@ -8119,15 +8442,6 @@
    {
     "theatre": "tiff",
     "dates": [
-     "2026-07-18"
-    ],
-    "time": "16:45",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxODQ0VDM="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
      "2026-07-19"
     ],
     "time": "12:30",
@@ -8136,10 +8450,12 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#3a2b2b",
+   "#c94f4f"
   ],
-  "_tmdb_matched": true
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "remember-the-titans",
@@ -8167,8 +8483,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.9,
@@ -8217,15 +8533,6 @@
     "theatre": "tiff",
     "dates": [
      "2026-07-29"
-    ],
-    "time": "12:00",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/"
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-18"
     ],
     "time": "12:00",
     "format": "",
@@ -8287,18 +8594,20 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#3a2440",
+   "#4dd6c4"
   ],
-  "_tmdb_matched": false
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "silver-screenings-silver-screamers",
   "title": "Silver Screenings: Silver Screamers",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
+  "year": 2000,
+  "director": "Wes Craven",
+  "runtime": 117,
+  "country": "USA",
   "lang": "International",
   "why": "The Chicago International Film Festival is an annual film festival held every fall. Founded in 1964 by filmmaker and graphic artist Michael Kutza, it is the longest-running competitive film festival in North America.",
   "poster": "https://images.ctfassets.net/22n7d68fswlw/5cc6NTUqgLEppSCMBlaFfN/486e52171fbaea752261fe1b66cecae4/SilverScreamers_27x40_Poster-Laurels-Blue-Ice.jpg",
@@ -8318,10 +8627,12 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#123a3a",
+   "#7fd4e0"
   ],
-  "_tmdb_matched": false
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "silver-screenings-the-right-stuff",
@@ -8350,10 +8661,12 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#2a3550",
+   "#e88b6a"
   ],
-  "_tmdb_matched": false
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "steal-away",
@@ -8371,15 +8684,6 @@
    "2SLGBTQ+"
   ],
   "screenings": [
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "20:15",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxODgxVDE="
-   },
    {
     "theatre": "tiff",
     "dates": [
@@ -8418,8 +8722,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.02,
@@ -8450,8 +8754,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.84,
@@ -8484,10 +8788,12 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a3218",
+   "#d9c06a"
   ],
-  "_tmdb_matched": false
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "the-crying-game-with-cameron-bailey",
@@ -8516,10 +8822,12 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#101b2a",
+   "#e0562a"
   ],
-  "_tmdb_matched": false
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "the-dark-knight-rises-with-recorded-intro-by-dan-jolin",
@@ -8557,10 +8865,12 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2a1a",
+   "#f0a83c"
   ],
-  "_tmdb_matched": false
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "the-dark-knight-with-recorded-intro-by-richard-king",
@@ -8598,10 +8908,12 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#2a3324",
+   "#d4b26a"
   ],
-  "_tmdb_matched": false
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "the-golden-spurtle",
@@ -8628,8 +8940,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 4.13,
@@ -8680,8 +8992,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 2.94,
@@ -8713,8 +9025,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.22,
@@ -8747,8 +9059,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 4.29,
@@ -8779,8 +9091,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.86,
@@ -8812,10 +9124,12 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#2a3550",
+   "#e88b6a"
   ],
-  "_tmdb_matched": false
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "theater-camp",
@@ -8842,8 +9156,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.77,
@@ -8875,8 +9189,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.83,
@@ -8918,8 +9232,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.38,
@@ -8944,47 +9258,11 @@
    {
     "theatre": "carlton",
     "dates": [
-     "2026-07-18"
-    ],
-    "time": "12:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=729084568&aud=9&ptime=12:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "15:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=729084568&aud=9&ptime=15:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "18:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=729084568&aud=9&ptime=18:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "21:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=729084568&aud=9&ptime=21:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
      "2026-07-19"
     ],
     "time": "12:50",
     "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=729084568&aud=9&ptime=12:50&ptype=G"
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=729084568&aud=3&ptime=12:50&ptype=G"
    },
    {
     "theatre": "carlton",
@@ -8993,7 +9271,7 @@
     ],
     "time": "15:50",
     "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=729084568&aud=9&ptime=15:50&ptype=G"
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=729084568&aud=3&ptime=15:50&ptype=G"
    },
    {
     "theatre": "carlton",
@@ -9159,10 +9437,12 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#101b2a",
+   "#e0562a"
   ],
-  "_tmdb_matched": true
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "casino",
@@ -9179,33 +9459,6 @@
    "Drama"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "12:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=740293333&aud=7&ptime=12:30&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "15:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=740293333&aud=4&ptime=15:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "18:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=740293333&aud=7&ptime=18:35&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -9343,8 +9596,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 4.21,
@@ -9365,42 +9618,6 @@
    "Romance"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "13:05",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=341432881&aud=2&ptime=13:05&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "16:05",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=341432881&aud=2&ptime=16:05&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "19:05",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=341432881&aud=2&ptime=19:05&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=341432881&aud=2&ptime=21:30&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -9565,8 +9782,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.24,
@@ -9587,42 +9804,6 @@
    "Thriller"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "12:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=663437283&aud=1&ptime=12:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "15:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=663437283&aud=1&ptime=15:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "18:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=663437283&aud=1&ptime=18:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "21:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=663437283&aud=1&ptime=21:40&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -9805,8 +9986,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.41,
@@ -9830,29 +10011,11 @@
    {
     "theatre": "carlton",
     "dates": [
-     "2026-07-18"
-    ],
-    "time": "12:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=627729546&aud=3&ptime=12:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "15:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=627729546&aud=3&ptime=15:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
      "2026-07-19"
     ],
     "time": "12:40",
     "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=627729546&aud=3&ptime=12:40&ptype=G"
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=627729546&aud=9&ptime=12:40&ptype=G"
    },
    {
     "theatre": "carlton",
@@ -9861,7 +10024,7 @@
     ],
     "time": "15:40",
     "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=627729546&aud=3&ptime=15:40&ptype=G"
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=627729546&aud=9&ptime=15:40&ptype=G"
    },
    {
     "theatre": "carlton",
@@ -9937,8 +10100,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 4.12,
@@ -9958,33 +10121,6 @@
    "Comedy"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "12:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=435329605&aud=6&ptime=12:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=435329605&aud=3&ptime=18:30&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "21:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=435329605&aud=3&ptime=21:50&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -10068,10 +10204,12 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#1f2a44",
+   "#f0f0f0"
   ],
-  "_tmdb_matched": true
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "stop-that-train",
@@ -10088,33 +10226,6 @@
    "Comedy"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "15:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=41658011&aud=6&ptime=15:30&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "18:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=41658011&aud=6&ptime=18:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "21:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=41658011&aud=6&ptime=21:45&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -10216,8 +10327,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.14,
@@ -10239,42 +10350,6 @@
    "Adventure"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "12:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=433247938&aud=5&ptime=12:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "15:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=433247938&aud=5&ptime=15:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=433247938&aud=5&ptime=18:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "21:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=433247938&aud=5&ptime=21:40&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -10457,8 +10532,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.77,
@@ -10479,42 +10554,6 @@
    "Drama"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "13:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=930622120&aud=4&ptime=13:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "16:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=930622120&aud=7&ptime=16:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "19:15",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=930622120&aud=4&ptime=19:15&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-18"
-    ],
-    "time": "21:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-18&film=930622120&aud=4&ptime=21:55&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -10697,8 +10736,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 4.22,
@@ -10790,10 +10829,12 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#40183a",
+   "#f24d94"
   ],
-  "_tmdb_matched": false
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "the-end-of-evangelion-sub",
@@ -10845,10 +10886,12 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#24303a",
+   "#9ab0c4"
   ],
-  "_tmdb_matched": false
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "the-goonies",
@@ -10937,11 +10980,47 @@
     "time": "21:45",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-25&film=680936511&aud=5&ptime=21:45&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-07-26"
+    ],
+    "time": "12:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=680936511&aud=5&ptime=12:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-07-26"
+    ],
+    "time": "15:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=680936511&aud=5&ptime=15:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-07-26"
+    ],
+    "time": "18:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=680936511&aud=5&ptime=18:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-07-26"
+    ],
+    "time": "21:45",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=680936511&aud=5&ptime=21:45&ptype=G"
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.82,
@@ -11034,11 +11113,47 @@
     "time": "21:40",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-25&film=10863403&aud=6&ptime=21:40&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-07-26"
+    ],
+    "time": "12:40",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=10863403&aud=6&ptime=12:40&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-07-26"
+    ],
+    "time": "15:40",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=10863403&aud=6&ptime=15:40&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-07-26"
+    ],
+    "time": "18:40",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=10863403&aud=6&ptime=18:40&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-07-26"
+    ],
+    "time": "21:40",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=10863403&aud=6&ptime=21:40&ptype=G"
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 4.22,
@@ -11131,11 +11246,47 @@
     "time": "21:55",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-25&film=374877856&aud=4&ptime=21:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-07-26"
+    ],
+    "time": "13:05",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=374877856&aud=4&ptime=13:05&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-07-26"
+    ],
+    "time": "16:05",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=374877856&aud=4&ptime=16:05&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-07-26"
+    ],
+    "time": "19:05",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=374877856&aud=4&ptime=19:05&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-07-26"
+    ],
+    "time": "21:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=374877856&aud=4&ptime=21:55&ptype=G"
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.21,
