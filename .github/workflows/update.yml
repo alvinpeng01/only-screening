@@ -39,10 +39,26 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if [ -n "$(git status --porcelain data.js data.json)" ]; then
-            git add data.js data.json
-            git commit -m "chore: refresh listings ($(date -u +%Y-%m-%d))"
-            git push
-          else
-            echo "No listing changes."
+          if [ -z "$(git status --porcelain data.js data.json)" ]; then
+            echo "No listing changes."; exit 0
           fi
+          # data.js/data.json are fully regenerated each run (see .gitattributes:
+          # they're marked -merge -diff), so if a manual push landed on main
+          # while this job was running, there's nothing to reconcile — this
+          # run's freshly-enriched files always win. On a rejected push, sync
+          # to the new main and re-commit just these two files on top of it,
+          # rather than attempting a real merge (which would conflict, with
+          # no one in CI to resolve it).
+          cp data.js /tmp/data.js.new
+          cp data.json /tmp/data.json.new
+          for i in 1 2 3; do
+            git add data.js data.json
+            git commit -q -m "chore: refresh listings ($(date -u +%Y-%m-%d))"
+            git push && { echo "Pushed."; exit 0; }
+            echo "Push rejected (attempt $i) — syncing to latest main and reapplying…"
+            git fetch origin main
+            git reset --hard origin/main    # fully sync first, so no stale local
+            cp /tmp/data.js.new data.js     # file (e.g. update.py) rides along —
+            cp /tmp/data.json.new data.json # only the two data files get overlaid.
+          done
+          echo "::error::Could not push after 3 attempts."; exit 1
