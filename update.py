@@ -28,7 +28,7 @@ it in SOURCES.  Listing shape:
    screenings: [{date:"YYYY-MM-DD", time:"HH:MM", url:"<ticket link>"}, ...]}
 """
 
-import argparse, html, json, os, re, subprocess, sys, time, urllib.parse
+import argparse, html, json, os, re, subprocess, sys, time, unicodedata, urllib.parse
 from datetime import date, timedelta
 from pathlib import Path
 
@@ -103,16 +103,31 @@ SERIES_KW = re.compile(
     r'bob fosse|smoke please|black belt|highway to hell|designing|perfect date|'
     r'hold up|nightmare alley|unsubculture|book and film|sing-along|really like her|'
     r'dumpster|matinee|hooray|first run|screening|members|drunken|of the month|'
-    r'restoration|quote along|grlish|staff picks?)\b', re.I)
+    r'restoration|quote along|grlish|staff picks?|silver screenings?)\b', re.I)
 
 # Trailing notes after a separator (— : + ) that are programme fluff, not title.
 FLUFF_TAIL = re.compile(
     r'\s*[:+–—-]\s*(?:canadian|toronto|world|north american|u\.?s\.?|'
-    r'\d+(?:st|nd|rd|th)\s+anniversary|anniversary|screening|premiere|lecture|'
-    r'double feature|book launch|presented|restoration|in attendance|sing-?along|'
-    r'q\s*&?\s*a|new 4k|new restoration|special|reissue|re-?release|\d+mm|matinee|'
-    r'encore|director|featuring|first run|opening night|closing night|gala|'
-    r'film society|with .*(?:attendance|q\s*&?\s*a)).*$', re.I)
+    r'\d+(?:st|nd|rd|th)\s+anniversary|anniversary|screening|advanced screening|'
+    r'premiere|lecture|double feature|book launch|presented|restoration|'
+    r'in attendance|sing-?along|q\s*&?\s*a|new 4k|new restoration|special|reissue|'
+    r're-?release|\d+mm|matinee|encore|director|featuring|first run|opening night|'
+    r'closing night|gala|film society|with .*(?:attendance|q\s*&?\s*a)).*$', re.I)
+
+# Bracketed technical/format notes that aren't part of the title, e.g. "(70mm)",
+# "(SUB)", "(4K Restoration)" — distinct from a release-year parenthetical.
+FORMAT_PAREN = re.compile(
+    r'\s*\((?:\d+mm|4k|sub|dub|subbed|dubbed|digital|imax|open captions?|ocap)'
+    r'(?:\s+\w+)*\)', re.I)
+
+# Trailing "with <Name>" style attributions — an intro, trivia, or guest
+# appearance bolted onto the real title, not part of it. Anchored at the end
+# and requires the tail to look like a name/event, not a real title clause
+# (so "Gone with the Wind" is untouched).
+WITH_ATTRIBUTION = re.compile(
+    r'\s*,?\s+(?:with|preceded by|followed by)\s+(?:recorded intro by\s+|'
+    r'a live \w+ by\s+|trivia\b.*|introduction by\s+|q\s*&?\s*a with\s+)?'
+    r'(?:[A-Z][\w.\'-]*\s*){1,4}$')
 
 def _cap(word):
     return word[:1].upper() + word[1:] if word else word
@@ -174,6 +189,7 @@ def clean_title(raw):
     t = html.unescape(raw).replace("’", "'").replace("‘", "'")
     t = re.sub(r'\s*[-–—]\s*(Fox Theatre|Revue Cinema).*$', '', t, flags=re.I)
     t = re.sub(r'\s*\((?:19|20)\d{2}\)', '', t)          # year stored separately
+    t = FORMAT_PAREN.sub('', t)                           # "(70mm)", "(SUB)", etc.
     t = strip_series_prefix(t)                            # drop known series prefixes first
     cr = caps_run(t)
     if cr:
@@ -182,6 +198,7 @@ def clean_title(raw):
         t = FLUFF_TAIL.sub('', t)
     t = re.sub(r'\s+w/\s*.*$', '', t, flags=re.I)         # "w/ Shadowcast!"
     t = re.sub(r"\s+(?:with\s+|[-–—+]\s*)?(?:a\s+|the\s+)?(?:director\s+|cast\s+)?q\s*&?\s*a\b.*$", '', t, flags=re.I)
+    t = WITH_ATTRIBUTION.sub('', t)                       # trailing "with <intro/guest>"
     t = re.sub(r'\s+', ' ', t).strip(" :–—-!+")
     letters = re.sub(r'[^A-Za-z]', '', t)
     if letters and t == t.upper() and len(letters) > 3:
@@ -410,8 +427,18 @@ PALETTE = [["#2b3a2f","#e0b34d"],["#3a2b2b","#c94f4f"],["#1f2a44","#f0f0f0"],
            ["#40183a","#f24d94"],["#24303a","#9ab0c4"],["#3a3218","#d9c06a"],
            ["#101b2a","#e0562a"],["#3a2a1a","#f0a83c"],["#2a3324","#d4b26a"]]
 
+def strip_diacritics(s):
+    """'Ciénaga' -> 'Cienaga', so slugifying doesn't turn accented letters into
+    spurious hyphens (which would break URL matching against real slugs)."""
+    return "".join(c for c in unicodedata.normalize("NFKD", s)
+                  if not unicodedata.combining(c))
+
 def slug(s):
-    return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")[:60] or "film"
+    # Apostrophes and periods are dropped outright, not turned into a hyphen:
+    # Letterboxd's real slug for "Eve's Bayou" is "eves-bayou" (not "eve-s-bayou")
+    # and for "D.E.B.S." is "debs" (not "d-e-b-s").
+    s = re.sub(r"['’`.]", "", strip_diacritics(s).lower())
+    return re.sub(r"[^a-z0-9]+", "-", s).strip("-")[:60] or "film"
 
 def norm(s):
     return re.sub(r"[^a-z0-9]", "", re.sub(r"\(.*?\)", "", s).lower())
@@ -594,16 +621,77 @@ def tmdb_primary(m):
 # ===========================================================================
 # LETTERBOXD — community rating (out of 5) scraped from each film's page.
 # ===========================================================================
+# Common British/Commonwealth spellings that differ from the American form
+# Letterboxd's slugs generally use.
+_BRITISH_TO_US = [
+    ("travelling", "traveling"), ("colour", "color"), ("theatre", "theater"),
+    ("centre", "center"), ("defence", "defense"), ("favourite", "favorite"),
+    ("honour", "honor"), ("humour", "humor"), ("programme", "program"),
+    ("realise", "realize"), ("organisation", "organization"), ("grey", "gray"),
+]
+
+def _the_variants(t):
+    """Both with and without a leading "The" (theatre listings often drop it,
+    or occasionally add it)."""
+    return [re.sub(r'^the\s+', '', t, flags=re.I), f"The {t}"] if re.match(r'^the\s+', t, re.I) \
+        else [t, f"The {t}"]
+
+def _candidate_titles(title):
+    """Title variants worth trying against Letterboxd, combining: the title
+    as-is, the first half of a "+"/"&"-joined double feature, a US-spelling
+    swap for common Britishisms, and — for each of those — with/without a
+    leading "The" (since these combine independently, e.g. "Sisterhood of the
+    Travelling Pants" needs BOTH the US spelling and its "The" prefix)."""
+    seen, out = set(), []
+    def add(t):
+        t = t.strip()
+        if t and t.lower() not in seen:
+            seen.add(t.lower()); out.append(t)
+
+    bases = [title]
+    m = re.split(r'\s+[+&]\s+|\s+/\s+', title)
+    if len(m) > 1:
+        bases.append(m[0].strip())
+    us = title
+    for uk, usw in _BRITISH_TO_US:
+        us = re.sub(uk, usw, us, flags=re.I)
+    if us != title:
+        bases.append(us)
+
+    for b in bases:
+        add(b)
+        for v in _the_variants(b):
+            add(v)
+    return out[:8]   # cap requests per film
+
+def _lb_page_matches(html_text, candidate):
+    """A guessed slug can land on a completely different film that happens to
+    share it (e.g. "the-raid" is some unrelated 2012 short, not Gareth Evans'
+    "The Raid: Redemption"). Confirm the page's own <title> roughly names the
+    film we searched for before trusting its rating."""
+    tt = re.search(r'<title>([^<]+)</title>', html_text)
+    if not tt:
+        return False
+    name = re.split(r'\(\d{4}\)|directed by', html.unescape(tt.group(1)), maxsplit=1)[0]
+    name = name.strip(" ‎‏")               # strip LRM/RLM marks Letterboxd adds
+    a, b = norm(name), norm(candidate)
+    return bool(a and b and (a == b or a in b or b in a))
+
 def letterboxd_rating(title, year):
-    """(rating_out_of_5, count) or (None, None). Tries the plain slug, then a
-    year-suffixed slug for disambiguation (Letterboxd has no public API)."""
-    base = slug(title)
-    for cand in ([f"{base}-{year}", base] if year else [base]):
-        h = get(f"https://letterboxd.com/film/{cand}/", t=15)
-        m = re.search(r'"aggregateRating".*?"ratingValue"\s*:\s*([\d.]+)'
-                      r'.*?"ratingCount"\s*:\s*(\d+)', h, re.S)
-        if m:
-            return round(float(m.group(1)), 2), int(m.group(2))
+    """(rating_out_of_5, count) or (None, None). No public API, so this tries
+    several plausible slugs — the title as given, then a year-suffixed
+    version for disambiguation, across a handful of title variants (see
+    _candidate_titles) to cover dropped articles, double-feature listings,
+    and British/American spelling differences. Each hit is verified against
+    the page's own title to avoid attaching a same-slug stranger's rating."""
+    for cand_title in _candidate_titles(title):
+        base = slug(cand_title)
+        for s in ([f"{base}-{year}", base] if year else [base]):
+            h = get(f"https://letterboxd.com/film/{s}/", t=15)
+            m = re.search(r'"aggregateRating".*?"ratingValue"\s*:\s*([\d.]+)'
+                          r'.*?"ratingCount"\s*:\s*(\d+)', h, re.S)
+            if m and _lb_page_matches(h, cand_title):
+                return round(float(m.group(1)), 2), int(m.group(2))
     return None, None
 
 

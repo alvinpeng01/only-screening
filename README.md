@@ -69,7 +69,15 @@ Wikipedia (infobox + REST summary).
   GitHub Action). Faster and more complete than Wikipedia, and it doesn't get
   rate-limited in CI. Without a key, Wikipedia is used automatically.
 - **Letterboxd rating** is scraped from each film's page (no key; there's no public
-  API). Matched by URL slug, with a year-suffix fallback.
+  API). Since there's no search endpoint, it tries several plausible slug
+  variants per film — with/without a leading "The", the first half of a
+  double-feature listing, common British→American spelling swaps (and
+  combinations of these), plus a year suffix for disambiguation. Every hit is
+  verified against the page's own `<title>` before being trusted, since a
+  guessed slug can occasionally land on an unrelated film that happens to
+  share it. ~84% of real films match; the rest are almost all non-film
+  calendar entries (Q&As, festival passes, "public hours") or new-enough
+  releases with no ratings yet.
 
 Each rebuild also writes `data.json` (a machine-readable mirror). You can top up
 metadata + ratings **without re-scraping every theatre**:
