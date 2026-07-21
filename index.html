@@ -52,8 +52,10 @@
     /* ---------- Controls ---------- */
     .controls {
       display: flex; align-items: baseline; gap: 26px; flex-wrap: wrap;
-      padding: 16px 0 14px; border-bottom: 1px solid var(--rule);
+      padding: 16px 0 6px;
     }
+    .controls-2 { padding: 4px 0 14px; border-bottom: 1px solid var(--rule); }
+    .controls-2 .tab { font-size: 12px; }
     .tabs { display: flex; gap: 22px; flex-wrap: wrap; }
     .tab {
       background: none; border: 0; padding: 2px 0; cursor: pointer;
@@ -105,7 +107,9 @@
       background: rgba(10,10,12,.85); color: var(--accent-ink);
       font-family: var(--mono); font-size: 11px; font-weight: 600; letter-spacing: .04em;
       padding: 4px 8px; border-bottom: 1px solid var(--rule-strong); border-right: 1px solid var(--rule-strong);
+      text-decoration: none;
     }
+    a.rating:hover { color: var(--accent); background: rgba(20,20,24,.95); }
     .card-body { padding-top: 12px; }
     .card-body h3 {
       font-family: var(--serif); font-weight: 400; font-size: 17.5px;
@@ -237,9 +241,14 @@
               <option value="title">Title A–Z</option>
               <option value="venues">Most theatres</option>
               <option value="year">Newest</option>
+              <option value="rating">Highest rated</option>
             </select>
           </label>
         </div>
+      </div>
+      <div class="controls controls-2">
+        <div class="tabs" id="datefilters"></div>
+        <div class="right"><div class="tabs" id="genrefilters"></div></div>
       </div>
       <div class="count-line" id="count"></div>
     </div>
@@ -346,14 +355,48 @@
     }
     function dotJoin(parts, sep) { return parts.filter(Boolean).join(sep ?? " · "); }
 
+    // `tags` mixes real genres (from TMDB) with format/programme notes ("35mm",
+    // "4K", "Q&A", "Restoration", …). Only the former make sense as a genre
+    // filter, so whitelist against TMDB's standard genre list.
+    const GENRE_WHITELIST = ["Action","Adventure","Animation","Comedy","Crime","Documentary",
+      "Drama","Family","Fantasy","History","Horror","Music","Mystery","Romance",
+      "Science Fiction","TV Movie","Thriller","War","Western"];
+    function genresOf(m) { return (m.tags||[]).filter(t => GENRE_WHITELIST.includes(t)); }
+
+    // Saturday 00:00 through Monday 00:00 of the *current* (or upcoming) weekend —
+    // if today is already Sat/Sun, that's "this weekend", not next week's.
+    function weekendRange(now) {
+      const d = new Date(now); d.setHours(0, 0, 0, 0);
+      const dow = d.getDay();
+      const start = new Date(d); start.setDate(d.getDate() + (dow === 0 ? 0 : dow === 6 ? 0 : 6 - dow));
+      const end = new Date(start); end.setDate(start.getDate() + (dow === 0 ? 1 : 2));
+      return { start: start.getTime(), end: end.getTime() };
+    }
+
     // ---- state --------------------------------------------------------------
     let activeTheatre = "all";
+    let activeGenre = "all";
+    let dateFilter = "all";
     let query = "";
     let sortBy = "showtime";
     const NOW = Date.now();
 
+    function inDateFilter(m) {
+      if (dateFilter === "all") return true;
+      const ts = screeningTimes(m);
+      const today0 = new Date(NOW); today0.setHours(0, 0, 0, 0);
+      const tomorrow0 = new Date(today0); tomorrow0.setDate(today0.getDate() + 1);
+      const dayAfter0 = new Date(today0); dayAfter0.setDate(today0.getDate() + 2);
+      if (dateFilter === "today") return ts.some(t => t >= today0.getTime() && t < tomorrow0.getTime());
+      if (dateFilter === "tomorrow") return ts.some(t => t >= tomorrow0.getTime() && t < dayAfter0.getTime());
+      if (dateFilter === "weekend") { const { start, end } = weekendRange(NOW); return ts.some(t => t >= start && t < end); }
+      return true;
+    }
+
     function matches(m) {
       if (activeTheatre !== "all" && !m.screenings.some(s => s.theatre === activeTheatre)) return false;
+      if (activeGenre !== "all" && !genresOf(m).includes(activeGenre)) return false;
+      if (!inDateFilter(m)) return false;
       if (query) {
         const hay = [m.title, m.director, (m.tags||[]).join(" "), m.country, m.lang].join(" ").toLowerCase();
         if (!hay.includes(query)) return false;
@@ -374,13 +417,38 @@
         c.addEventListener("click", () => { activeTheatre = c.dataset.t; render(); }));
     }
 
+    function renderDateFilters() {
+      const el = document.getElementById("datefilters");
+      const opts = [["all", "All upcoming"], ["today", "Today"], ["tomorrow", "Tomorrow"], ["weekend", "This weekend"]];
+      el.innerHTML = opts.map(([v, label]) =>
+        `<button class="tab ${dateFilter===v?'active':''}" data-d="${v}">${label}</button>`).join("");
+      el.querySelectorAll(".tab").forEach(c =>
+        c.addEventListener("click", () => { dateFilter = c.dataset.d; render(); }));
+    }
+
+    function renderGenreFilters() {
+      const el = document.getElementById("genrefilters");
+      const present = new Set();
+      MOVIES.forEach(m => genresOf(m).forEach(g => present.add(g)));
+      const ordered = GENRE_WHITELIST.filter(g => present.has(g));
+      const tabs = [`<button class="tab ${activeGenre==='all'?'active':''}" data-g="all">All genres</button>`];
+      for (const g of ordered)
+        tabs.push(`<button class="tab ${activeGenre===g?'active':''}" data-g="${esc(g)}">${esc(g)}</button>`);
+      el.innerHTML = tabs.join("");
+      el.querySelectorAll(".tab").forEach(c =>
+        c.addEventListener("click", () => { activeGenre = c.dataset.g; render(); }));
+    }
+
     function render() {
       renderFilters();
+      renderDateFilters();
+      renderGenreFilters();
       const comparators = {
         showtime: (a, b) => nextShowtimeKey(a, NOW) - nextShowtimeKey(b, NOW) || a.title.localeCompare(b.title),
         title:    (a, b) => a.title.localeCompare(b.title),
         venues:   (a, b) => venueCount(b) - venueCount(a) || a.title.localeCompare(b.title),
         year:     (a, b) => (b.year||0) - (a.year||0) || a.title.localeCompare(b.title),
+        rating:   (a, b) => (b.rating||0) - (a.rating||0) || a.title.localeCompare(b.title),
       };
       const list = MOVIES.filter(matches).sort(comparators[sortBy] || comparators.showtime);
       const grid = document.getElementById("grid");
@@ -389,7 +457,7 @@
         `${list.length} films now listed · ${nShow} screenings across ${THEATRES.length} theatres`;
 
       if (!list.length) {
-        grid.innerHTML = `<div class="empty">Nothing matches — clear the search or choose another theatre.</div>`;
+        grid.innerHTML = `<div class="empty">Nothing matches — try clearing the search, date, genre, or theatre filter.</div>`;
         return;
       }
       grid.innerHTML = list.map(m => {
@@ -399,7 +467,7 @@
         return `<article class="card" data-id="${m.id}" tabindex="0" role="button" aria-label="${esc(m.title)}">
           <div class="poster">
             ${posterHTML(m)}
-            ${m.rating ? `<span class="rating" title="Letterboxd — ${m.ratingCount ? m.ratingCount.toLocaleString() + ' ratings' : ''}">★ ${m.rating.toFixed(1)}</span>` : ""}
+            ${m.rating ? `<a class="rating" href="https://letterboxd.com/search/films/${encodeURIComponent(m.title)}/" target="_blank" rel="noopener" onclick="event.stopPropagation()" onkeydown="event.stopPropagation()" title="Letterboxd — ${m.ratingCount ? m.ratingCount.toLocaleString() + ' ratings' : ''}">★ ${m.rating.toFixed(1)}</a>` : ""}
             <span class="venues">${vc > 1 ? vc + " venues" : (theatreById[m.screenings[0].theatre]?.name.split(" ")[0] ?? "")}</span>
           </div>
           <div class="card-body">
