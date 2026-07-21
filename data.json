@@ -3567,24 +3567,6 @@
    {
     "theatre": "fox",
     "dates": [
-     "2026-07-19"
-    ],
-    "time": "12:45",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636919~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "18:20",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636920~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
      "2026-07-20"
     ],
     "time": "18:30",
@@ -4087,15 +4069,6 @@
    {
     "theatre": "fox",
     "dates": [
-     "2026-07-19"
-    ],
-    "time": "21:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=635615~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
      "2026-07-20"
     ],
     "time": "21:15",
@@ -4110,24 +4083,6 @@
     "time": "18:00",
     "format": "",
     "url": "https://paradiseonbloor.com/purchase/580428/"
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "12:45",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxOUw0VDI="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "19:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxOTczVDI="
    },
    {
     "theatre": "tiff",
@@ -4415,15 +4370,6 @@
    "Drama"
   ],
   "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "15:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=637858~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
    {
     "theatre": "fox",
     "dates": [
@@ -4987,38 +4933,6 @@
   "rating_count": null
  },
  {
-  "id": "a-litany-for-survival-the-life-and-work-of-audre-lorde",
-  "title": "A Litany for Survival: The Life and Work of Audre Lorde",
-  "year": 1995,
-  "director": "Ada Gay Griffin, Michelle Parkerson",
-  "runtime": 88,
-  "country": "USA",
-  "lang": "English",
-  "why": "The career of iconic and influential poet and writer Audre Lorde is seen up until death.",
-  "poster": "https://image.tmdb.org/t/p/w500/soQwbV3nUU958wQEi4q6crBJRwl.jpg",
-  "tags": [
-   "Documentary"
-  ],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "18:00",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/580698/"
-   }
-  ],
-  "art": [
-   "#2a3550",
-   "#e88b6a"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.75,
-  "rating_count": 289
- },
- {
   "id": "hustler-white",
   "title": "Hustler White",
   "year": 1996,
@@ -5044,8 +4958,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.45,
@@ -5077,8 +4991,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.99,
@@ -5109,8 +5023,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.77,
@@ -5160,33 +5074,6 @@
    {
     "theatre": "tiff",
     "dates": [
-     "2026-07-19"
-    ],
-    "time": "15:15",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxOTMxVDQ="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "18:15",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxOTYxVDU="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "20:45",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxOTg0VDU="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
      "2026-07-21"
     ],
     "time": "20:15",
@@ -5228,20 +5115,11 @@
     "time": "20:30",
     "format": "",
     "url": "https://am.ticketmaster.com/tiff/ism/NkwyMzgzVDU="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "12:15",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxOUwxVDM="
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.31,
@@ -5270,8 +5148,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": false,
   "rating": 4.11,
@@ -5302,8 +5180,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.81,
@@ -5336,8 +5214,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 4.2,
@@ -5369,8 +5247,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.46,
@@ -5402,8 +5280,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5435,8 +5313,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 4.25,
@@ -5469,8 +5347,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.84,
@@ -5502,8 +5380,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.16,
@@ -5541,8 +5419,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5573,8 +5451,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.72,
@@ -5607,8 +5485,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.75,
@@ -5622,9 +5500,11 @@
   "runtime": 98,
   "country": "Canada",
   "lang": "English",
-  "why": "Lunar Sway is a Canadian black comedy film, directed by Nick Butler and released in 2026. The film stars Noah Parker as Cliff, a young LGBTQ man living in the small desert town of Mooncrest, who is drawn into a wild s…",
-  "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/350/2026/07/16135433/shJB0w3AgNBIvZw6uffu2EdnqLN.jpg",
-  "tags": [],
+  "why": "Cliff is struggling with his love life in a desert town when he unexpectedly connects with his estranged birth mother. After learning of his mom’s string of secrets, Cliff is led on a wild misadventure while also spen…",
+  "poster": "https://image.tmdb.org/t/p/w500/shJB0w3AgNBIvZw6uffu2EdnqLN.jpg",
+  "tags": [
+   "Comedy"
+  ],
   "screenings": [
    {
     "theatre": "paradise",
@@ -5655,9 +5535,10 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a3218",
+   "#d9c06a"
   ],
+  "_tmdb_matched": true,
   "rating": null,
   "rating_count": null
  },
@@ -5693,8 +5574,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5726,8 +5607,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.67,
@@ -5805,8 +5686,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.93,
@@ -5839,8 +5720,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.48,
@@ -5873,8 +5754,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 2.93,
@@ -5896,15 +5777,6 @@
    "Crime"
   ],
   "screenings": [
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxOTQwVDI="
-   },
    {
     "theatre": "tiff",
     "dates": [
@@ -5934,8 +5806,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.39,
@@ -5977,8 +5849,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.84,
@@ -6011,8 +5883,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.73,
@@ -6045,8 +5917,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.47,
@@ -6077,8 +5949,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.85,
@@ -6091,12 +5963,13 @@
   "director": "Guy Maddin",
   "runtime": 100,
   "country": "Canada",
-  "lang": "English",
-  "why": "Careful is a 1992 Canadian film directed by Guy Maddin. It is Maddin's third feature film and his first colour film, shot on 16mm on a budget of $1.1 million. At one point, Martin Scorsese had agreed to act in the fil…",
-  "poster": "https://images.ctfassets.net/22n7d68fswlw/6EZiqYQwacUHH0cCAugSCo/2925f7b693a74b2cc1887ec2288b23c5/Careful_Poster_01.jpg",
+  "lang": "German, English",
+  "why": "The mountain-village passions of a German widow and her sons unfold in the style of a 1920s expressionist movie.",
+  "poster": "https://image.tmdb.org/t/p/w500/qolQ7M5hpbBwcvpMpfeSMyU64rs.jpg",
   "tags": [
+   "Comedy",
    "Drama",
-   "Comedy"
+   "Fantasy"
   ],
   "screenings": [
    {
@@ -6110,11 +5983,12 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "rating": 3.71,
-  "rating_count": 2940
+  "rating_count": 2940,
+  "_tmdb_matched": true
  },
  {
   "id": "chronovisor",
@@ -6143,8 +6017,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.65,
@@ -6220,8 +6094,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.39,
@@ -6254,8 +6128,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.89,
@@ -6266,15 +6140,15 @@
   "title": "Dunkirk",
   "year": 2017,
   "director": "Christopher Nolan",
-  "runtime": 106,
+  "runtime": 107,
   "country": "United Kingdom, USA",
-  "lang": "English",
-  "why": "Dunkirk is a 2017 historical war film produced, written, and directed by Christopher Nolan that depicts the Dunkirk evacuation of World War II from the perspectives of people on the land, sea, and air. It features an …",
-  "poster": "https://images.ctfassets.net/22n7d68fswlw/39nLVKODFH9EFBEP84ek1u/b85c29d442b528ff3f9be6946a78ab21/DUNKIRK_07.webp",
+  "lang": "English, French",
+  "why": "The story of the miraculous evacuation of Allied soldiers from Belgium, Britain, Canada and France, who were cut off and surrounded by the German army from the beaches and harbour of Dunkirk between May 26th and June …",
+  "poster": "https://image.tmdb.org/t/p/w500/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
   "tags": [
    "Action + Adventure",
-   "Drama",
-   "Biography + History"
+   "Biography + History",
+   "War"
   ],
   "screenings": [
    {
@@ -6306,11 +6180,12 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#2a3324",
+   "#d4b26a"
   ],
   "rating": 3.77,
-  "rating_count": 1897839
+  "rating_count": 1897839,
+  "_tmdb_matched": true
  },
  {
   "id": "film-reference-library-public-hours",
@@ -7316,8 +7191,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -7350,8 +7225,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.55,
@@ -7383,8 +7258,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.4,
@@ -7417,8 +7292,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.86,
@@ -7460,8 +7335,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 4.23,
@@ -7503,8 +7378,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.63,
@@ -7555,8 +7430,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 4.45,
@@ -7570,10 +7445,11 @@
   "runtime": 128,
   "country": "Japan",
   "lang": "Japanese",
-  "why": "In conjunction with the advance screening of his new film The Samurai and the Prisoner on August 4 at 6pm, director Kiyoshi Kurosawa joins us for an extended introduction before Journey to the Shore. Discounts available ",
-  "poster": "https://images.ctfassets.net/22n7d68fswlw/7yex0a7NQb8fCHwYu18pRl/8c3e18b8e9d1199adb0b4897e1ab55fc/Journey-to-the-Shore_Poster.jpg",
+  "why": "Mizuki's husband Yusuke has been missing for three years. He suddenly comes back home as a ghost and asks Mizuki to go on a trip with him. Their trip consists of visiting the people that helped Yusuke on his previous …",
+  "poster": "https://image.tmdb.org/t/p/w500/uZ2cQTV8vVxCPXztp4CE2E4gQu.jpg",
   "tags": [
    "Drama",
+   "Fantasy",
    "Romance"
   ],
   "screenings": [
@@ -7588,11 +7464,12 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "rating": 3.52,
-  "rating_count": 5668
+  "rating_count": 5668,
+  "_tmdb_matched": true
  },
  {
   "id": "le-rayon-vert",
@@ -7629,8 +7506,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -7655,34 +7532,16 @@
    {
     "theatre": "tiff",
     "dates": [
-     "2026-07-19"
-    ],
-    "time": "21:05",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxOTkwVDM="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
      "2026-07-22"
     ],
     "time": "21:00",
     "format": "",
     "url": "https://am.ticketmaster.com/tiff/ism/NkwyMjkwVDU="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "14:45",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxOTI0VDM="
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -7703,15 +7562,6 @@
    "Romance"
   ],
   "screenings": [
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxOTkzVDQ="
-   },
    {
     "theatre": "tiff",
     "dates": [
@@ -7742,24 +7592,6 @@
    {
     "theatre": "tiff",
     "dates": [
-     "2026-07-19"
-    ],
-    "time": "15:45",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxOTM0VDU="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "13:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxOTEzVDU="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
      "2026-07-22"
     ],
     "time": "15:50",
@@ -7783,33 +7615,6 @@
     "time": "21:45",
     "format": "",
     "url": "https://am.ticketmaster.com/tiff/ism/NkwyMzk0VDQ="
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=953803090&aud=8&ptime=16:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=953803090&aud=8&ptime=19:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=953803090&aud=8&ptime=21:30&ptype=G"
    },
    {
     "theatre": "carlton",
@@ -7957,8 +7762,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.83,
@@ -7987,8 +7792,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -8020,8 +7825,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.67,
@@ -8053,46 +7858,12 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": false,
   "rating": null,
   "rating_count": null
- },
- {
-  "id": "memento",
-  "title": "Memento",
-  "year": 2000,
-  "director": "Christopher Nolan",
-  "runtime": 113,
-  "country": "USA",
-  "lang": "English",
-  "why": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term mem…",
-  "poster": "https://image.tmdb.org/t/p/w500/nzlv62aC0octS5AklAiWpXLX9Z0.jpg",
-  "tags": [
-   "Mystery + Thriller",
-   "Drama",
-   "Mystery"
-  ],
-  "screenings": [
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "15:00",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxOTMwVDE="
-   }
-  ],
-  "art": [
-   "#3a2440",
-   "#4dd6c4"
-  ],
-  "_tmdb_matched": true,
-  "rating": 4.18,
-  "rating_count": 2004891
  },
  {
   "id": "memory-of-princess-mumbi",
@@ -8121,8 +7892,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.34,
@@ -8164,8 +7935,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 4.22,
@@ -8197,8 +7968,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": false,
   "rating": 4.16,
@@ -8209,14 +7980,15 @@
   "title": "Premium Rush",
   "year": 2012,
   "director": "David Koepp",
-  "runtime": 92,
+  "runtime": 91,
   "country": "USA",
-  "lang": "English",
-  "why": "This screening is part of TIFF Next Wave Presents, a monthly series for the next generation of movie lovers. Introduction by community partner Charlie’s Freewheels and recorded introduction by filmmaker David Koepp. Spin",
-  "poster": "https://images.ctfassets.net/22n7d68fswlw/5qesrmag7ssw1BxW74Dev/efd3e941c0484c2929d2ea9c5eb46546/PremiumRush-poster.jpg",
+  "lang": "Mandarin, English",
+  "why": "In Manhattan, a bike messenger picks up an envelope that attracts the interest of a dirty cop, who pursues the cyclist throughout the city.",
+  "poster": "https://image.tmdb.org/t/p/w500/gHnGhJmE0LByOd4RS2mOASmUqQu.jpg",
   "tags": [
    "Action + Adventure",
-   "Crime"
+   "Crime",
+   "Action"
   ],
   "screenings": [
    {
@@ -8230,11 +8002,12 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#2a3550",
+   "#e88b6a"
   ],
   "rating": 3.02,
-  "rating_count": 69770
+  "rating_count": 69770,
+  "_tmdb_matched": true
  },
  {
   "id": "king-arthurs-night",
@@ -8261,8 +8034,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -8283,15 +8056,6 @@
    "Drama"
   ],
   "screenings": [
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxOTY0VDQ="
-   },
    {
     "theatre": "tiff",
     "dates": [
@@ -8318,20 +8082,11 @@
     "time": "16:00",
     "format": "",
     "url": "https://am.ticketmaster.com/tiff/ism/NkwyMzQwVDI="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "12:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxOUwzVDQ="
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -8363,8 +8118,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.9,
@@ -8474,8 +8229,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -8489,11 +8244,11 @@
   "runtime": 94,
   "country": "Canada",
   "lang": "English",
-  "why": "Silver Screamers is a 2025 Canadian documentary film, directed by Sean Cisterna. The film profiles a group of senior citizens who come together on a creative project to produce their own amateur film adaptation of Edo…",
-  "poster": "https://images.ctfassets.net/22n7d68fswlw/5cc6NTUqgLEppSCMBlaFfN/486e52171fbaea752261fe1b66cecae4/SilverScreamers_27x40_Poster-Laurels-Blue-Ice.jpg",
+  "why": "When filmmaker Sean Cisterna discovers a subsidy to support senior activities, he rallies a group of retirement home residents to create a horror short film.",
+  "poster": "https://image.tmdb.org/t/p/w500/gpO2CreautYl0dr1buB4IH3m2b7.jpg",
   "tags": [
-   "Documentary",
-   "Horror"
+   "Horror",
+   "Documentary"
   ],
   "screenings": [
    {
@@ -8507,11 +8262,12 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "rating": 3.56,
-  "rating_count": 289
+  "rating_count": 289,
+  "_tmdb_matched": true
  },
  {
   "id": "the-right-stuff",
@@ -8539,8 +8295,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 4.02,
@@ -8562,15 +8318,6 @@
    "2SLGBTQ+"
   ],
   "screenings": [
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxOTYzVDM="
-   },
    {
     "theatre": "tiff",
     "dates": [
@@ -8600,8 +8347,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.02,
@@ -8632,61 +8379,27 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.84,
   "rating_count": 16283
  },
  {
-  "id": "tenet",
-  "title": "Tenet",
-  "year": 2020,
-  "director": "Christopher Nolan",
-  "runtime": 150,
-  "country": "United Kingdom, USA",
-  "lang": "English",
-  "why": "Tenet is a 2020 science fiction action thriller film written and directed by Christopher Nolan, who also produced it with his wife Emma Thomas. It stars John David Washington, Robert Pattinson, Elizabeth Debicki, Dimp…",
-  "poster": "https://images.ctfassets.net/22n7d68fswlw/3AjVvxkWNEv1Dk2raEb9Zq/afed7dd18910ad5a8fd25dd2ab72f0ae/poster-TENET.webp",
-  "tags": [
-   "Action + Adventure",
-   "Science Fiction + Fantasy",
-   "Mystery + Thriller"
-  ],
-  "screenings": [
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwxOTcwVDE="
-   }
-  ],
-  "art": [
-   "#123a3a",
-   "#7fd4e0"
-  ],
-  "_tmdb_matched": false,
-  "rating": 3.45,
-  "rating_count": 1775847
- },
- {
   "id": "the-crying-game",
   "title": "The Crying Game",
   "year": 1992,
   "director": "Neil Jordan",
-  "runtime": 111,
+  "runtime": 112,
   "country": "United Kingdom, Japan",
-  "lang": "English",
-  "why": "The Crying Game is a 1992 crime thriller film written and directed by Neil Jordan, produced by Stephen Woolley and Nik Powell, and starring Stephen Rea, Miranda Richardson, Jaye Davidson, Adrian Dunbar, Ralph Brown, a…",
-  "poster": "https://images.ctfassets.net/22n7d68fswlw/KchyquSduzKRVGBZEtZm9/01f2d63c242dbc51f6d2c0a146ea894c/The-Crying-Game_Poster_01.jpg",
+  "lang": "English, French",
+  "why": "Irish Republican Army member Fergus forms an unexpected bond with Jody, a kidnapped British soldier in his custody, despite the warnings of fellow IRA members Jude and Maguire. Jody makes Fergus promise he'll visit hi…",
+  "poster": "https://image.tmdb.org/t/p/w500/9BXGoat9TYgdDqGk2WJmaX9dVoe.jpg",
   "tags": [
-   "Drama",
+   "Romance",
    "Crime",
-   "Romance"
+   "Drama"
   ],
   "screenings": [
    {
@@ -8700,26 +8413,27 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "rating": 3.62,
-  "rating_count": 41810
+  "rating_count": 41810,
+  "_tmdb_matched": true
  },
  {
   "id": "the-dark-knight-rises",
   "title": "The Dark Knight Rises",
   "year": 2012,
   "director": "Christopher Nolan",
-  "runtime": 164,
-  "country": "USA, United Kingdom",
+  "runtime": 165,
+  "country": "United Kingdom, USA",
   "lang": "English",
-  "why": "The Dark Knight Rises is a 2012 superhero film based on the DC Comics character Batman. Directed by Christopher Nolan, who co-wrote the screenplay with his brother Jonathan, and the story with David S. Goyer, it is th…",
-  "poster": "https://images.ctfassets.net/22n7d68fswlw/0HxMYin3Irbwx9sIM3NwH/df5d3a0cd4454239f637d08fde70ea28/THE_DARK_KNIGHT_RISES_01.webp",
+  "why": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight ye…",
+  "poster": "https://image.tmdb.org/t/p/w500/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
   "tags": [
    "Action + Adventure",
    "Science Fiction + Fantasy",
-   "Crime"
+   "Action"
   ],
   "screenings": [
    {
@@ -8742,11 +8456,12 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "rating": 3.82,
-  "rating_count": 2126582
+  "rating_count": 2126582,
+  "_tmdb_matched": true
  },
  {
   "id": "the-dark-knight",
@@ -8754,14 +8469,14 @@
   "year": 2008,
   "director": "Christopher Nolan",
   "runtime": 152,
-  "country": "USA, United Kingdom[b]",
-  "lang": "English",
-  "why": "The Dark Knight is a 2008 superhero film directed by Christopher Nolan, from a screenplay co-written with his brother Jonathan. Based on the DC Comics superhero Batman, it is the sequel to Batman Begins (2005), and th…",
-  "poster": "https://images.ctfassets.net/22n7d68fswlw/17aAJTPEGBZW63y1L6lAJu/7a1a05cac1a85e766ede9eadaaa6458e/THE_DARK_KNIGHT.webp",
+  "country": "United Kingdom, USA",
+  "lang": "English, Mandarin",
+  "why": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnersh…",
+  "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
   "tags": [
    "Action + Adventure",
-   "Crime",
-   "Drama"
+   "Drama",
+   "Action"
   ],
   "screenings": [
    {
@@ -8784,11 +8499,12 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "rating": 4.49,
-  "rating_count": 4523242
+  "rating_count": 4523242,
+  "_tmdb_matched": true
  },
  {
   "id": "the-golden-spurtle",
@@ -8815,8 +8531,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 4.13,
@@ -8867,8 +8583,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 2.94,
@@ -8900,8 +8616,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.22,
@@ -8934,8 +8650,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 4.29,
@@ -8966,8 +8682,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.86,
@@ -8999,8 +8715,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -9031,8 +8747,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.77,
@@ -9064,8 +8780,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.83,
@@ -9107,8 +8823,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.38,
@@ -9130,33 +8846,6 @@
    "Science Fiction"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "15:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=729084568&aud=3&ptime=15:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "18:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=729084568&aud=9&ptime=18:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "21:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=729084568&aud=9&ptime=21:35&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -9303,8 +8992,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -9325,24 +9014,6 @@
    "Drama"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "15:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=740293333&aud=4&ptime=15:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "18:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=740293333&aud=7&ptime=18:35&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -9453,8 +9124,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 4.21,
@@ -9475,33 +9146,6 @@
    "Romance"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "16:05",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=341432881&aud=2&ptime=16:05&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "19:05",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=341432881&aud=2&ptime=19:05&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=341432881&aud=2&ptime=21:30&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -9630,8 +9274,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.24,
@@ -9652,33 +9296,6 @@
    "Thriller"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "15:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=663437283&aud=1&ptime=15:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "18:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=663437283&aud=1&ptime=18:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "21:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=663437283&aud=1&ptime=21:40&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -9825,8 +9442,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.41,
@@ -9847,15 +9464,6 @@
    "Science Fiction"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "15:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=627729546&aud=9&ptime=15:40&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -9930,8 +9538,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 4.12,
@@ -9951,24 +9559,6 @@
    "Comedy"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=435329605&aud=3&ptime=18:30&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "21:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=435329605&aud=3&ptime=21:50&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -10025,8 +9615,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.78,
@@ -10047,33 +9637,6 @@
    "Comedy"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "15:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=41658011&aud=6&ptime=15:30&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "18:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=41658011&aud=6&ptime=18:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "21:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=41658011&aud=6&ptime=21:45&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -10148,8 +9711,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.14,
@@ -10171,33 +9734,6 @@
    "Adventure"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "15:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=433247938&aud=5&ptime=15:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=433247938&aud=5&ptime=18:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "21:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=433247938&aud=5&ptime=21:40&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -10344,8 +9880,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.77,
@@ -10366,33 +9902,6 @@
    "Drama"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "16:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=930622120&aud=7&ptime=16:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "19:15",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=930622120&aud=4&ptime=19:15&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-19"
-    ],
-    "time": "21:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-19&film=930622120&aud=4&ptime=21:55&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -10539,8 +10048,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 4.22,
@@ -10632,8 +10141,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -10689,8 +10198,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": false,
   "rating": 4.48,
@@ -10819,11 +10328,47 @@
     "time": "21:45",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=680936511&aud=5&ptime=21:45&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-07-27"
+    ],
+    "time": "12:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-27&film=680936511&aud=5&ptime=12:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-07-27"
+    ],
+    "time": "15:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-27&film=680936511&aud=5&ptime=15:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-07-27"
+    ],
+    "time": "18:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-27&film=680936511&aud=5&ptime=18:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-07-27"
+    ],
+    "time": "21:45",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-27&film=680936511&aud=5&ptime=21:45&ptype=G"
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.82,
@@ -10952,11 +10497,47 @@
     "time": "21:40",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=10863403&aud=6&ptime=21:40&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-07-27"
+    ],
+    "time": "12:40",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-27&film=10863403&aud=6&ptime=12:40&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-07-27"
+    ],
+    "time": "15:40",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-27&film=10863403&aud=6&ptime=15:40&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-07-27"
+    ],
+    "time": "18:40",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-27&film=10863403&aud=6&ptime=18:40&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-07-27"
+    ],
+    "time": "21:40",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-27&film=10863403&aud=6&ptime=21:40&ptype=G"
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 4.22,
@@ -11085,11 +10666,47 @@
     "time": "21:55",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=374877856&aud=4&ptime=21:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-07-27"
+    ],
+    "time": "13:05",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-27&film=374877856&aud=4&ptime=13:05&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-07-27"
+    ],
+    "time": "16:05",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-27&film=374877856&aud=4&ptime=16:05&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-07-27"
+    ],
+    "time": "19:05",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-27&film=374877856&aud=4&ptime=19:05&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-07-27"
+    ],
+    "time": "21:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-27&film=374877856&aud=4&ptime=21:55&ptype=G"
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.21,
