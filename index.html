@@ -52,10 +52,8 @@
     /* ---------- Controls ---------- */
     .controls {
       display: flex; align-items: baseline; gap: 26px; flex-wrap: wrap;
-      padding: 16px 0 6px;
+      padding: 16px 0 14px; border-bottom: 1px solid var(--rule);
     }
-    .controls-2 { padding: 4px 0 14px; border-bottom: 1px solid var(--rule); }
-    .controls-2 .tab { font-size: 12px; }
     .tabs { display: flex; gap: 22px; flex-wrap: wrap; }
     .tab {
       background: none; border: 0; padding: 2px 0; cursor: pointer;
@@ -73,7 +71,7 @@
     }
     .searchbox input:focus { border-bottom-color: var(--accent); }
     .searchbox input::placeholder { color: var(--ink-faint); }
-    select#sort {
+    .select-ctrl {
       appearance: none; -webkit-appearance: none; background: none; border: 0;
       border-bottom: 1px solid var(--rule-strong); border-radius: 0;
       color: var(--ink-soft); font-size: 13px; padding: 2px 16px 2px 0; cursor: pointer;
@@ -235,8 +233,23 @@
             <input id="search" type="text" placeholder="title, director, genre…" autocomplete="off" />
           </label>
           <label>
+            <span class="lbl">Genre</span>
+            <select id="genre" class="select-ctrl">
+              <option value="all">All genres</option>
+            </select>
+          </label>
+          <label>
+            <span class="lbl">When</span>
+            <select id="when" class="select-ctrl">
+              <option value="all">All upcoming</option>
+              <option value="today">Today</option>
+              <option value="tomorrow">Tomorrow</option>
+              <option value="weekend">This weekend</option>
+            </select>
+          </label>
+          <label>
             <span class="lbl">Sort</span>
-            <select id="sort">
+            <select id="sort" class="select-ctrl">
               <option value="showtime">Next showtime</option>
               <option value="title">Title A–Z</option>
               <option value="venues">Most theatres</option>
@@ -245,10 +258,6 @@
             </select>
           </label>
         </div>
-      </div>
-      <div class="controls controls-2">
-        <div class="tabs" id="datefilters"></div>
-        <div class="right"><div class="tabs" id="genrefilters"></div></div>
       </div>
       <div class="count-line" id="count"></div>
     </div>
@@ -417,32 +426,25 @@
         c.addEventListener("click", () => { activeTheatre = c.dataset.t; render(); }));
     }
 
-    function renderDateFilters() {
-      const el = document.getElementById("datefilters");
-      const opts = [["all", "All upcoming"], ["today", "Today"], ["tomorrow", "Tomorrow"], ["weekend", "This weekend"]];
-      el.innerHTML = opts.map(([v, label]) =>
-        `<button class="tab ${dateFilter===v?'active':''}" data-d="${v}">${label}</button>`).join("");
-      el.querySelectorAll(".tab").forEach(c =>
-        c.addEventListener("click", () => { dateFilter = c.dataset.d; render(); }));
-    }
-
-    function renderGenreFilters() {
-      const el = document.getElementById("genrefilters");
+    // Genre options depend on what's actually in MOVIES, but that list never
+    // changes at runtime — build it once. (Rebuilding a <select>'s innerHTML on
+    // every render() would reset the user's current selection each time.)
+    function initGenreSelect() {
+      const el = document.getElementById("genre");
       const present = new Set();
       MOVIES.forEach(m => genresOf(m).forEach(g => present.add(g)));
       const ordered = GENRE_WHITELIST.filter(g => present.has(g));
-      const tabs = [`<button class="tab ${activeGenre==='all'?'active':''}" data-g="all">All genres</button>`];
-      for (const g of ordered)
-        tabs.push(`<button class="tab ${activeGenre===g?'active':''}" data-g="${esc(g)}">${esc(g)}</button>`);
-      el.innerHTML = tabs.join("");
-      el.querySelectorAll(".tab").forEach(c =>
-        c.addEventListener("click", () => { activeGenre = c.dataset.g; render(); }));
+      for (const g of ordered) {
+        const opt = document.createElement("option");
+        opt.value = g; opt.textContent = g;
+        el.appendChild(opt);
+      }
+      el.addEventListener("change", e => { activeGenre = e.target.value; render(); });
     }
+    document.getElementById("when").addEventListener("change", e => { dateFilter = e.target.value; render(); });
 
     function render() {
       renderFilters();
-      renderDateFilters();
-      renderGenreFilters();
       const comparators = {
         showtime: (a, b) => nextShowtimeKey(a, NOW) - nextShowtimeKey(b, NOW) || a.title.localeCompare(b.title),
         title:    (a, b) => a.title.localeCompare(b.title),
@@ -578,6 +580,7 @@
     document.getElementById("today-line").textContent =
       new Date().toLocaleDateString("en-CA", { weekday: "long", month: "long", day: "numeric", year: "numeric" });
 
+    initGenreSelect();
     render();
   </script>
 </body>
