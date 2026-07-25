@@ -3223,6 +3223,166 @@
   "rating_count": null
  },
  {
+  "id": "marnie",
+  "title": "Marnie",
+  "year": 1964,
+  "director": "Alfred Hitchcock",
+  "runtime": 130,
+  "country": "USA",
+  "lang": "English",
+  "why": "Marnie is a beautiful but emotionally withdrawn thief, stealing from employers before disappearing under new identities. When her new boss, Mark Rutland, discovers her secret, his fascination turns to obsession, and h…",
+  "poster": "https://image.tmdb.org/t/p/w500/nRRy4VO2A3Py7wiZBPz11PAlogp.jpg",
+  "tags": [
+   "Thriller",
+   "Mystery",
+   "Romance"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-07-30"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=629269~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#3a2b2b",
+   "#c94f4f"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.57,
+  "rating_count": 65423
+ },
+ {
+  "id": "birth",
+  "title": "Birth",
+  "year": 2004,
+  "director": "Jonathan Glazer",
+  "runtime": 100,
+  "country": "Germany, United Kingdom",
+  "lang": "English",
+  "why": "It took Anna 10 years to recover from the death of her husband, Sean, but now she's on the verge of marrying her boyfriend, Joseph, and finally moving on. However, on the night of her engagement party, a young boy nam…",
+  "poster": "https://image.tmdb.org/t/p/w500/z70iQ61WqhxETAz8ar2oD8pkIM.jpg",
+  "tags": [
+   "Drama",
+   "Mystery"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-01"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=629274~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#1f2a44",
+   "#f0f0f0"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.71,
+  "rating_count": 96458
+ },
+ {
+  "id": "battle-of-algiers",
+  "title": "Battle of Algiers",
+  "year": 1966,
+  "director": "Gillo Pontecorvo",
+  "runtime": 122,
+  "country": "Italy, Algeria",
+  "lang": "Arabic, English",
+  "why": "Paratrooper commander Colonel Mathieu, a former French Resistance fighter during World War II, is sent to Algeria to reinforce efforts to squelch the uprisings of the Algerian War. There he faces Ali la Pointe, a form…",
+  "poster": "https://image.tmdb.org/t/p/w500/2p3AFtOHFvP6OeVMqlnL1zLKOqL.jpg",
+  "tags": [
+   "Drama",
+   "War",
+   "History"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-16"
+    ],
+    "time": "14:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=641999~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#3a2440",
+   "#4dd6c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.47,
+  "rating_count": 140944
+ },
+ {
+  "id": "2026-cat-video-fest",
+  "title": "2026 Cat Video Fest",
+  "year": 2026,
+  "director": "Daniel Goldhaber",
+  "runtime": 70,
+  "country": "USA",
+  "lang": "English",
+  "why": "Our fuzzy overlords return to the big screen! Each year, CatVideoFest curates a compilation reel of the latest, best cat videos culled from countless hours of unique submissions and sourced animations, music videos, a…",
+  "poster": "https://image.tmdb.org/t/p/w500/nRjejxXF7tV8nZ8RFrHyOswuCle.jpg",
+  "tags": [
+   "Comedy"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-07"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=634989~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-08"
+    ],
+    "time": "16:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=634990~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-09"
+    ],
+    "time": "13:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=634993~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-13"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=634995~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#123a3a",
+   "#7fd4e0"
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
+ },
+ {
   "id": "zardoz",
   "title": "Zardoz",
   "year": 1974,
@@ -3258,8 +3418,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.26,
@@ -3319,12 +3479,109 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": null,
   "rating_count": null
+ },
+ {
+  "id": "the-rivals-of-amziah-king",
+  "title": "The Rivals of Amziah King",
+  "year": 2026,
+  "director": "Andrew Patterson",
+  "runtime": 130,
+  "country": "United Kingdom, USA",
+  "lang": "English",
+  "why": "Amziah King, beekeeper, musician, and anchor of his community, reunites with former foster daughter Kateri after many years apart, and fends off threats to his honey business.",
+  "poster": "https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
+  "tags": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-14"
+    ],
+    "time": "15:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=643387~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-15"
+    ],
+    "time": "18:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=643388~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-16"
+    ],
+    "time": "17:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=643389~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-17"
+    ],
+    "time": "16:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=643390~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-18"
+    ],
+    "time": "15:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=643391~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-19"
+    ],
+    "time": "14:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=643392~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-19"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=643393~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-20"
+    ],
+    "time": "15:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=643394~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#24303a",
+   "#9ab0c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.61,
+  "rating_count": 794
  },
  {
   "id": "the-matrix",
@@ -3361,8 +3618,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 4.18,
@@ -3383,15 +3640,6 @@
    "Comedy"
   ],
   "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "15:50",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640997~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
    {
     "theatre": "fox",
     "dates": [
@@ -3430,12 +3678,42 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 4.11,
   "rating_count": 272970
+ },
+ {
+  "id": "tcm-day-the-texas-chain-saw-massacre",
+  "title": "TCM Day: The Texas Chain Saw Massacre",
+  "year": 1974,
+  "director": "Tobe Hooper",
+  "runtime": 83,
+  "country": "USA",
+  "lang": "English",
+  "why": "Celebrate that fateful day in 1973 when a group of teenagers came face to face with one of cinema’s most horrifying slashers on the big screen! Violent, confrontational, and shockingly realistic, “The Texas Chain Saw Massacre” terrified audiences in a way never thought possible when it was unleashed. Facing a storm of controversy, censorship, and […]",
+  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/fjpg_thumb.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-18"
+    ],
+    "time": "21:20",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=643402~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#3a2a1a",
+   "#f0a83c"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "the-sandlot",
@@ -3464,8 +3742,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.8,
@@ -3498,8 +3776,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -3792,8 +4070,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 2.9,
@@ -3826,8 +4104,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 4.06,
@@ -3869,8 +4147,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 4.12,
@@ -3901,8 +4179,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.83,
@@ -3952,8 +4230,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.48,
@@ -3994,12 +4272,64 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 4.22,
   "rating_count": 270631
+ },
+ {
+  "id": "paw-patrol-the-dino-movie",
+  "title": "PAW Patrol: The Dino Movie",
+  "year": 2026,
+  "director": "Cal Brunker",
+  "runtime": 88,
+  "country": "Canada, France",
+  "lang": "English",
+  "why": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the…",
+  "poster": "https://image.tmdb.org/t/p/w500/mVx2O7ikolw0lQC3XEIM4C2uYwd.jpg",
+  "tags": [
+   "Adventure",
+   "Animation",
+   "Comedy"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-14"
+    ],
+    "time": "12:40",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=643396~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-15"
+    ],
+    "time": "13:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=643397~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-16"
+    ],
+    "time": "11:45",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=643398~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#24303a",
+   "#9ab0c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "obsession",
@@ -4063,8 +4393,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.35,
@@ -4096,8 +4426,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 4.26,
@@ -4153,8 +4483,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -4186,8 +4516,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 4.29,
@@ -4229,8 +4559,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 4.28,
@@ -4281,8 +4611,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 4.28,
@@ -4314,8 +4644,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.43,
@@ -4348,12 +4678,51 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.56,
   "rating_count": 1162902
+ },
+ {
+  "id": "golden-age-rear-window",
+  "title": "Golden Age: Rear Window",
+  "year": null,
+  "director": "",
+  "runtime": null,
+  "country": "",
+  "lang": "",
+  "why": "“A murderer would never parade his crime in front of an open window.” Hailed as one of the most outstanding films of American cinema, Alfred Hitchcock’s classic stars Jimmy Stewart as a professional photographer who’s wheelchair-bound after breaking his leg. Unaccustomed to much downtime, he finds himself drawn into the world seen through the windows […]",
+  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/rear_window_film_poster_thumb.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-22"
+    ],
+    "time": "13:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=643403~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-23"
+    ],
+    "time": "12:15",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=643404~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#123a3a",
+   "#7fd4e0"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "female-prisoner-701-scorpion",
@@ -4382,8 +4751,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.9,
@@ -4415,8 +4784,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.43,
@@ -4447,8 +4816,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.8,
@@ -4480,172 +4849,12 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.74,
   "rating_count": 9919
- },
- {
-  "id": "marnie",
-  "title": "Marnie",
-  "year": 1964,
-  "director": "Alfred Hitchcock",
-  "runtime": 130,
-  "country": "USA",
-  "lang": "English",
-  "why": "Marnie is a beautiful but emotionally withdrawn thief, stealing from employers before disappearing under new identities. When her new boss, Mark Rutland, discovers her secret, his fascination turns to obsession, and h…",
-  "poster": "https://image.tmdb.org/t/p/w500/nRRy4VO2A3Py7wiZBPz11PAlogp.jpg",
-  "tags": [
-   "Thriller",
-   "Mystery",
-   "Romance"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-30"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=629269~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#3a2b2b",
-   "#c94f4f"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.57,
-  "rating_count": 65423
- },
- {
-  "id": "birth",
-  "title": "Birth",
-  "year": 2004,
-  "director": "Jonathan Glazer",
-  "runtime": 100,
-  "country": "Germany, United Kingdom",
-  "lang": "English",
-  "why": "It took Anna 10 years to recover from the death of her husband, Sean, but now she's on the verge of marrying her boyfriend, Joseph, and finally moving on. However, on the night of her engagement party, a young boy nam…",
-  "poster": "https://image.tmdb.org/t/p/w500/z70iQ61WqhxETAz8ar2oD8pkIM.jpg",
-  "tags": [
-   "Drama",
-   "Mystery"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-01"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=629274~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#1f2a44",
-   "#f0f0f0"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.71,
-  "rating_count": 96458
- },
- {
-  "id": "battle-of-algiers",
-  "title": "Battle of Algiers",
-  "year": 1966,
-  "director": "Gillo Pontecorvo",
-  "runtime": 122,
-  "country": "Italy, Algeria",
-  "lang": "Arabic, English",
-  "why": "Paratrooper commander Colonel Mathieu, a former French Resistance fighter during World War II, is sent to Algeria to reinforce efforts to squelch the uprisings of the Algerian War. There he faces Ali la Pointe, a form…",
-  "poster": "https://image.tmdb.org/t/p/w500/2p3AFtOHFvP6OeVMqlnL1zLKOqL.jpg",
-  "tags": [
-   "Drama",
-   "War",
-   "History"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-16"
-    ],
-    "time": "14:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=641999~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#3a2440",
-   "#4dd6c4"
-  ],
-  "_tmdb_matched": true,
-  "rating": 4.47,
-  "rating_count": 140944
- },
- {
-  "id": "2026-cat-video-fest",
-  "title": "2026 Cat Video Fest",
-  "year": 2026,
-  "director": "Daniel Goldhaber",
-  "runtime": 70,
-  "country": "USA",
-  "lang": "English",
-  "why": "Our fuzzy overlords return to the big screen! Each year, CatVideoFest curates a compilation reel of the latest, best cat videos culled from countless hours of unique submissions and sourced animations, music videos, a…",
-  "poster": "https://image.tmdb.org/t/p/w500/nRjejxXF7tV8nZ8RFrHyOswuCle.jpg",
-  "tags": [
-   "Comedy"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-07"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=634989~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-08"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=634990~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "13:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=634993~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=634995~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#123a3a",
-   "#7fd4e0"
-  ],
-  "_tmdb_matched": true,
-  "rating": null,
-  "rating_count": null
  },
  {
   "id": "take-care-of-my-cat",
@@ -4672,8 +4881,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.77,
@@ -4719,24 +4928,6 @@
     "time": "18:00",
     "format": "",
     "url": "https://paradiseonbloor.com/purchase/598274/"
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "21:15",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwyNDkxVDQ="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "19:15",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwyNDcxVDU="
    },
    {
     "theatre": "tiff",
@@ -4794,8 +4985,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.31,
@@ -4824,8 +5015,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": false,
   "rating": 4.11,
@@ -4856,8 +5047,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.81,
@@ -4890,8 +5081,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 4.2,
@@ -4923,8 +5114,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 4.17,
@@ -4956,8 +5147,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.46,
@@ -4989,8 +5180,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5022,8 +5213,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 4.25,
@@ -5056,8 +5247,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.84,
@@ -5089,8 +5280,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.8,
@@ -5122,8 +5313,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.16,
@@ -5161,8 +5352,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5193,8 +5384,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.72,
@@ -5227,8 +5418,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.75,
@@ -5277,12 +5468,46 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": null,
   "rating_count": null
+ },
+ {
+  "id": "jim-queen",
+  "title": "Jim Queen",
+  "year": 2026,
+  "director": "Marco Nguyen, Nicolas Athané",
+  "runtime": 85,
+  "country": "France, Belgium",
+  "lang": "French",
+  "why": "When Heterosis - a mysterious virus that turns gay men straight sweeps through the Parisian gay scene, Jim, the six packed sovereign of the Gym Queens, goes from Pride royalty to social outcast. With only Lucien, a fr…",
+  "poster": "https://image.tmdb.org/t/p/w500/nvmGrOzolKlW1z90rLudSjPm9cG.jpg",
+  "tags": [
+   "Premiere",
+   "Animation",
+   "Comedy"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-31"
+    ],
+    "time": "20:30",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/605243/"
+   }
+  ],
+  "art": [
+   "#3a2b2b",
+   "#c94f4f"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.0,
+  "rating_count": 38900
  },
  {
   "id": "48-hour-film-challenge",
@@ -5316,8 +5541,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5349,8 +5574,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.67,
@@ -5372,15 +5597,6 @@
    "Comedy"
   ],
   "screenings": [
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwyNDcwVDI="
-   },
    {
     "theatre": "tiff",
     "dates": [
@@ -5429,15 +5645,6 @@
    {
     "theatre": "tiff",
     "dates": [
-     "2026-07-24"
-    ],
-    "time": "21:45",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwyNDk0VDI="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
      "2026-07-25"
     ],
     "time": "20:30",
@@ -5465,15 +5672,6 @@
    {
     "theatre": "tiff",
     "dates": [
-     "2026-07-24"
-    ],
-    "time": "15:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwyNDMzVDQ="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
      "2026-07-29"
     ],
     "time": "16:30",
@@ -5482,8 +5680,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.93,
@@ -5516,8 +5714,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.48,
@@ -5550,8 +5748,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 2.93,
@@ -5593,8 +5791,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.84,
@@ -5627,8 +5825,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.73,
@@ -5659,8 +5857,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.85,
@@ -5781,8 +5979,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.83,
@@ -5815,8 +6013,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.71,
@@ -5849,8 +6047,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.65,
@@ -5870,15 +6068,6 @@
    "Documentary"
   ],
   "screenings": [
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "19:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwyNDczVDM="
-   },
    {
     "theatre": "tiff",
     "dates": [
@@ -5927,15 +6116,6 @@
    {
     "theatre": "tiff",
     "dates": [
-     "2026-07-24"
-    ],
-    "time": "16:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwyNDQzVDM="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
      "2026-07-25"
     ],
     "time": "19:30",
@@ -5944,8 +6124,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.39,
@@ -5978,8 +6158,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.89,
@@ -6030,8 +6210,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.77,
@@ -6817,15 +6997,6 @@
    {
     "theatre": "tiff",
     "dates": [
-     "2026-07-24"
-    ],
-    "time": "12:00",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/"
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
      "2026-07-31"
     ],
     "time": "12:00",
@@ -7014,8 +7185,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -7048,45 +7219,12 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.55,
   "rating_count": 4289
- },
- {
-  "id": "genderation",
-  "title": "Genderation",
-  "year": 2021,
-  "director": "Monika Treut",
-  "runtime": 88,
-  "country": "Germany",
-  "lang": "German, English",
-  "why": "20 years after Gendernauts, Monika Treut seeks out the pioneers of the transgender movement back then to find out how their lives and their activism have evolved, how they have grown into their identities and how thei…",
-  "poster": "https://image.tmdb.org/t/p/w500/htUsVUEtvz7ru45YIEzLq7QzxDu.jpg",
-  "tags": [
-   "2SLGBTQ+",
-   "Documentary"
-  ],
-  "screenings": [
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwyNDYzVDQ="
-   }
-  ],
-  "art": [
-   "#3a2b2b",
-   "#c94f4f"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.4,
-  "rating_count": 202
  },
  {
   "id": "home-alone",
@@ -7115,8 +7253,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.86,
@@ -7158,8 +7296,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 4.23,
@@ -7201,8 +7339,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.63,
@@ -7253,8 +7391,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 4.45,
@@ -7287,8 +7425,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.52,
@@ -7329,8 +7467,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -7359,8 +7497,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -7393,8 +7531,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.34,
@@ -7436,8 +7574,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 4.22,
@@ -7470,8 +7608,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.02,
@@ -7502,8 +7640,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -7535,8 +7673,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.9,
@@ -7558,33 +7696,6 @@
    "Science Fiction"
   ],
   "screenings": [
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwyNDY0VDE="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwyNDkzVDE="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "16:15",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwyNDQxVDI="
-   },
    {
     "theatre": "tiff",
     "dates": [
@@ -7705,15 +7816,6 @@
    {
     "theatre": "tiff",
     "dates": [
-     "2026-07-24"
-    ],
-    "time": "13:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwyNDEzVDM="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
      "2026-07-26"
     ],
     "time": "13:45",
@@ -7731,8 +7833,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.48,
@@ -7798,15 +7900,6 @@
    {
     "theatre": "tiff",
     "dates": [
-     "2026-07-24"
-    ],
-    "time": "12:00",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/"
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
      "2026-07-31"
     ],
     "time": "12:00",
@@ -7815,8 +7908,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -7848,45 +7941,12 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.56,
   "rating_count": 289
- },
- {
-  "id": "the-right-stuff",
-  "title": "The Right Stuff",
-  "year": 1983,
-  "director": "Philip Kaufman",
-  "runtime": 193,
-  "country": "USA",
-  "lang": "English, Russian",
-  "why": "At the dawn of the Space Race, seven test pilots set out to become the first American astronauts to enter space. However, the road to making history brings momentous challenges.",
-  "poster": "https://image.tmdb.org/t/p/w500/btqTjNRxecYgQ1FGfVlLqSSNjz.jpg",
-  "tags": [
-   "Drama",
-   "History"
-  ],
-  "screenings": [
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "12:00",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwyNEwwVDE="
-   }
-  ],
-  "art": [
-   "#2a3550",
-   "#e88b6a"
-  ],
-  "_tmdb_matched": true,
-  "rating": 4.02,
-  "rating_count": 40788
  },
  {
   "id": "summer-interlude",
@@ -7913,8 +7973,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.84,
@@ -7946,8 +8006,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -7980,8 +8040,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.62,
@@ -8023,8 +8083,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.82,
@@ -8066,8 +8126,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 4.49,
@@ -8100,8 +8160,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 4.25,
@@ -8132,8 +8192,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 4.13,
@@ -8184,8 +8244,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 2.94,
@@ -8218,8 +8278,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 4.29,
@@ -8250,8 +8310,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.86,
@@ -8282,8 +8342,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.77,
@@ -8315,8 +8375,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.83,
@@ -8358,8 +8418,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.38,
@@ -8381,42 +8441,6 @@
    "Science Fiction"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "12:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=729084568&aud=8&ptime=12:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "15:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=729084568&aud=8&ptime=15:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "18:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=729084568&aud=8&ptime=18:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "21:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=729084568&aud=8&ptime=21:35&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -8635,8 +8659,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -8654,42 +8678,6 @@
   "poster": "https://omniwebticketing6.com/imaginecinemas/files-circuit/images/posters/Evangelion%20Death.png",
   "tags": [],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "13:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=100420308&aud=1&ptime=13:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=100420308&aud=1&ptime=16:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=100420308&aud=1&ptime=19:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=100420308&aud=1&ptime=21:30&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -8908,8 +8896,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -8930,24 +8918,6 @@
    "Romance"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "15:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=953803090&aud=3&ptime=15:30&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "21:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=953803090&aud=3&ptime=21:50&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -9049,8 +9019,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.83,
@@ -9070,24 +9040,6 @@
    "Comedy"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "12:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=435329605&aud=3&ptime=12:30&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=435329605&aud=3&ptime=18:30&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -9189,8 +9141,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.78,
@@ -9210,42 +9162,6 @@
    "Horror"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "13:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=62705703&aud=9&ptime=13:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "16:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=62705703&aud=9&ptime=16:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "19:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=62705703&aud=9&ptime=19:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "21:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=62705703&aud=9&ptime=21:50&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -9464,8 +9380,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -9483,42 +9399,6 @@
   "poster": "https://omniwebticketing6.com/imaginecinemas/files-circuit/images/posters/The%20End%20of%20Evangelion.png",
   "tags": [],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "12:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=826679327&aud=2&ptime=12:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "15:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=826679327&aud=2&ptime=15:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=826679327&aud=2&ptime=18:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "21:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=826679327&aud=2&ptime=21:40&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -9737,8 +9617,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": false,
   "rating": 4.48,
@@ -9760,42 +9640,6 @@
    "Family"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "12:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=680936511&aud=5&ptime=12:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "15:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=680936511&aud=5&ptime=15:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "18:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=680936511&aud=5&ptime=18:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "21:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=680936511&aud=5&ptime=21:45&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -10014,12 +9858,44 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.82,
   "rating_count": 698176
+ },
+ {
+  "id": "the-room",
+  "title": "The Room",
+  "year": 1978,
+  "director": "François Truffaut",
+  "runtime": 95,
+  "country": "France",
+  "lang": "French, Latin",
+  "why": "A widower maintains a memorial room filled with his late wife's belongings. When fire destroys it, he transforms a chapel into a new shrine to preserve her memory.",
+  "poster": "https://image.tmdb.org/t/p/w500/8D2Oty3FpihcNoNowuYbzOaXKsv.jpg",
+  "tags": [
+   "Drama"
+  ],
+  "screenings": [
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-07-25"
+    ],
+    "time": "22:00",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-25&film=741433727&aud=9&ptime=22:00&ptype=G"
+   }
+  ],
+  "art": [
+   "#2a3550",
+   "#e88b6a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 2.59,
+  "rating_count": 272955
  },
  {
   "id": "the-truman-show",
@@ -10036,42 +9912,6 @@
    "Drama"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "12:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=930622120&aud=6&ptime=12:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "15:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=930622120&aud=6&ptime=15:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "18:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=930622120&aud=6&ptime=18:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=930622120&aud=6&ptime=21:30&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -10173,8 +10013,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 4.22,
@@ -10196,42 +10036,6 @@
    "Adventure"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "12:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=10863403&aud=7&ptime=12:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "15:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=10863403&aud=7&ptime=15:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "18:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=10863403&aud=7&ptime=18:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "21:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=10863403&aud=7&ptime=21:40&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -10450,8 +10254,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 4.22,
@@ -10473,42 +10277,6 @@
    "Thriller"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "13:05",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=374877856&aud=4&ptime=13:05&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "16:05",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=374877856&aud=4&ptime=16:05&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "19:05",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=374877856&aud=4&ptime=19:05&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-24"
-    ],
-    "time": "21:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-24&film=374877856&aud=4&ptime=21:55&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -10727,43 +10495,11 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.21,
   "rating_count": 494
- },
- {
-  "id": "the-room",
-  "title": "The Room",
-  "year": 1978,
-  "director": "François Truffaut",
-  "runtime": 95,
-  "country": "France",
-  "lang": "French, Latin",
-  "why": "A widower maintains a memorial room filled with his late wife's belongings. When fire destroys it, he transforms a chapel into a new shrine to preserve her memory.",
-  "poster": "https://image.tmdb.org/t/p/w500/8D2Oty3FpihcNoNowuYbzOaXKsv.jpg",
-  "tags": [
-   "Drama"
-  ],
-  "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-25"
-    ],
-    "time": "22:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-25&film=741433727&aud=9&ptime=22:00&ptype=G"
-   }
-  ],
-  "art": [
-   "#2a3550",
-   "#e88b6a"
-  ],
-  "_tmdb_matched": true,
-  "rating": 2.59,
-  "rating_count": 272955
  }
 ]
