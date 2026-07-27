@@ -1639,38 +1639,6 @@
   "rating_count": null
  },
  {
-  "id": "modern-whore",
-  "title": "Modern Whore",
-  "year": 2025,
-  "director": "Nicole Bazuin",
-  "runtime": 80,
-  "country": "Canada",
-  "lang": "English",
-  "why": "Modern Whore is a hybrid documentary that reimagines popular depictions of sex work through the lived experiences of writer, performer, and sex worker, Andrea Werhun.",
-  "poster": "https://image.tmdb.org/t/p/w500/a5KCKSJ7ZiygvSO3rpt75tPeflj.jpg",
-  "tags": [
-   "Documentary"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "15:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1018579~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#40183a",
-   "#f24d94"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.6,
-  "rating_count": 883
- },
- {
   "id": "michael",
   "title": "Michael",
   "year": 2026,
@@ -1696,8 +1664,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.61,
@@ -1722,38 +1690,11 @@
    {
     "theatre": "revue",
     "dates": [
-     "2026-07-24"
-    ],
-    "time": "18:00",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1018532~fc639be0-110c-4035-a588-842aceff5ef6&"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-25"
-    ],
-    "time": "14:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/to-70-and-beyond-project-hail-mary-presented-on-70mm/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "11:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/to-70-and-beyond-project-hail-mary-presented-on-70mm/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
      "2026-07-27"
     ],
     "time": "21:30",
     "format": "",
-    "url": "https://revuecinema.ca/films/to-70-and-beyond-project-hail-mary-presented-on-70mm/"
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1018532~fc639be0-110c-4035-a588-842aceff5ef6&"
    },
    {
     "theatre": "revue",
@@ -1766,8 +1707,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 4.31,
@@ -2033,45 +1974,12 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.89,
   "rating_count": 6601
- },
- {
-  "id": "psycho-beach-party",
-  "title": "Psycho Beach Party",
-  "year": 2000,
-  "director": "Robert Lee King",
-  "runtime": 97,
-  "country": "Australia, USA",
-  "lang": "English",
-  "why": "Chicklet is a sixteen-year old tomboy who's desperate to be part of the in-crowd of Malibu beach surfers. She's the typical American girl - except for one little problem: her personality is split into more slices than…",
-  "poster": "https://image.tmdb.org/t/p/w500/28mzKFDyVzMVx9nhDrJQ3G2H7It.jpg",
-  "tags": [
-   "Comedy",
-   "Horror"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-25"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1018307~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a2a1a",
-   "#f0a83c"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.36,
-  "rating_count": 15580
  },
  {
   "id": "maximum-overdrive",
@@ -2100,8 +2008,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 2.53,
@@ -2134,45 +2042,12 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.38,
   "rating_count": 40232
- },
- {
-  "id": "the-piano-teacher",
-  "title": "The Piano Teacher",
-  "year": 2001,
-  "director": "Michael Haneke",
-  "runtime": 131,
-  "country": "France, Austria",
-  "lang": "French, German",
-  "why": "Erika Kohut, a sexually repressed piano teacher living with her domineering mother, meets a young man who starts romantically pursuing her.",
-  "poster": "https://image.tmdb.org/t/p/w500/gNHKYQnP1RnqEhkivHJzBPb4MOP.jpg",
-  "tags": [
-   "Drama",
-   "Romance"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-25"
-    ],
-    "time": "18:15",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1017268~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a2b2b",
-   "#c94f4f"
-  ],
-  "_tmdb_matched": true,
-  "rating": 4.05,
-  "rating_count": 380934
  },
  {
   "id": "burnt-offerings",
@@ -2201,8 +2076,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.32,
@@ -2234,8 +2109,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.82,
@@ -2268,8 +2143,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 4.04,
@@ -2307,8 +2182,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": false,
   "rating": 4.02,
@@ -2340,8 +2215,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.7,
@@ -2374,8 +2249,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 4.04,
@@ -2408,8 +2283,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.78,
@@ -2442,8 +2317,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.71,
@@ -2476,8 +2351,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 2.61,
@@ -2510,8 +2385,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -2544,8 +2419,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 4.33,
@@ -2839,8 +2714,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.56,
@@ -2872,8 +2747,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 2.84,
@@ -2906,8 +2781,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.4,
@@ -2947,8 +2822,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.42,
@@ -2979,79 +2854,12 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.81,
   "rating_count": 11315
- },
- {
-  "id": "run-lola-run",
-  "title": "Run Lola Run",
-  "year": 1998,
-  "director": "Tom Tykwer",
-  "runtime": 80,
-  "country": "Germany",
-  "lang": "German, English",
-  "why": "Lola receives a phone call from her boyfriend Manni. He lost 100,000 DM in a subway train that belongs to a very bad guy. She has 20 minutes to raise this amount and meet Manni. Otherwise, he will rob a store to get t…",
-  "poster": "https://image.tmdb.org/t/p/w500/v0giIi4bTILVhNhJajet3WWY3FA.jpg",
-  "tags": [
-   "Restoration",
-   "Action",
-   "Drama"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-22"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1014382~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#40183a",
-   "#f24d94"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.86,
-  "rating_count": 266151
- },
- {
-  "id": "whip-it",
-  "title": "Whip It",
-  "year": 2009,
-  "director": "Drew Barrymore",
-  "runtime": 111,
-  "country": "USA",
-  "lang": "English",
-  "why": "In Bodeen, Texas, an indie-rock loving misfit finds a way of dealing with her small-town misery after she discovers a roller derby league in nearby Austin.",
-  "poster": "https://image.tmdb.org/t/p/w500/iRUviw0Dxs0FZI1IcSDYFX02i8s.jpg",
-  "tags": [
-   "35mm",
-   "Drama"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-07-23"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1012858~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#24303a",
-   "#9ab0c4"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.65,
-  "rating_count": 117952
  },
  {
   "id": "sunshine",
@@ -3079,8 +2887,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.73,
@@ -3113,8 +2921,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.78,
@@ -3147,8 +2955,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.89,
@@ -3181,8 +2989,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 4.34,
@@ -3215,10 +3023,203 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "paw-patrol-the-dino-movie",
+  "title": "PAW Patrol: The Dino Movie",
+  "year": 2026,
+  "director": "Cal Brunker",
+  "runtime": 88,
+  "country": "Canada, France",
+  "lang": "English",
+  "why": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the…",
+  "poster": "https://image.tmdb.org/t/p/w500/mVx2O7ikolw0lQC3XEIM4C2uYwd.jpg",
+  "tags": [
+   "Adventure",
+   "Animation",
+   "Comedy"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-14"
+    ],
+    "time": "12:40",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=643396~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-15"
+    ],
+    "time": "13:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=643397~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-16"
+    ],
+    "time": "11:45",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=643398~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#3a3218",
+   "#d9c06a"
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "obsession",
+  "title": "Obsession",
+  "year": 2026,
+  "director": "Curry Barker",
+  "runtime": 108,
+  "country": "USA, United Kingdom",
+  "lang": "English",
+  "why": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+  "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+  "tags": [
+   "Horror",
+   "Thriller"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-07-27"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640319~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-07-28"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640320~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-07-30"
+    ],
+    "time": "21:40",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640321~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#101b2a",
+   "#e0562a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.35,
+  "rating_count": 202
+ },
+ {
+  "id": "network",
+  "title": "Network",
+  "year": 2010,
+  "director": "David Fincher",
+  "runtime": 121,
+  "country": "USA",
+  "lang": "English",
+  "why": "In 2003, Harvard undergrad and computer programmer Mark Zuckerberg begins work on a new concept that eventually turns into the global social network known as Facebook. Six years later, Mark is one of the youngest bill…",
+  "poster": "https://image.tmdb.org/t/p/w500/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+  "tags": [
+   "Restoration",
+   "Drama"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-12"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640594~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#3a2a1a",
+   "#f0a83c"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.26,
+  "rating_count": 236397
+ },
+ {
+  "id": "michael-manns-manhunter-the-final-cut",
+  "title": "Michael Mann's Manhunter: The Final Cut",
+  "year": 1986,
+  "director": "Michael Mann",
+  "runtime": 120,
+  "country": "USA",
+  "lang": "English",
+  "why": "A retired criminal profiler (William Petersen) reluctantly returns to the FBI to help track down a serial killer of families and is forced to consult an expert—the imprisoned Dr. Hannibal Lecktor (Brian Cox in a subtly chilling performance). The third feature written and directed by Michael Mann is a gripping adaptation of the first of […]",
+  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/c1d156f04d7b1ab58ebe86767f78c1b8_thumb.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-14"
+    ],
+    "time": "18:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=641061~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-15"
+    ],
+    "time": "21:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=641062~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-16"
+    ],
+    "time": "20:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=641063~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-08-18"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=641064~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#2a3324",
+   "#d4b26a"
+  ],
+  "_tmdb_matched": false,
   "rating": null,
   "rating_count": null
  },
@@ -3248,46 +3249,12 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 4.29,
   "rating_count": 215015
- },
- {
-  "id": "the-iron-giant",
-  "title": "The Iron Giant",
-  "year": 1999,
-  "director": "Brad Bird",
-  "runtime": 86,
-  "country": "USA",
-  "lang": "English",
-  "why": "In the small town of Rockwell, Maine in October 1957, a giant metal machine befriends a nine-year-old boy and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.",
-  "poster": "https://image.tmdb.org/t/p/w500/ct04FCFLPImNG5thcPLRnVsZlmS.jpg",
-  "tags": [
-   "Animation",
-   "Drama",
-   "Family"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "13:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=636654~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#1f2a44",
-   "#f0f0f0"
-  ],
-  "_tmdb_matched": true,
-  "rating": 4.28,
-  "rating_count": 695995
  },
  {
   "id": "hadestown-the-musical",
@@ -3325,8 +3292,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 4.28,
@@ -3358,8 +3325,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.43,
@@ -3392,8 +3359,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.56,
@@ -3431,8 +3398,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -3465,45 +3432,12 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.9,
   "rating_count": 22776
- },
- {
-  "id": "call-of-my-life",
-  "title": "Call of My Life",
-  "year": 2026,
-  "director": "Dammy Twitch",
-  "runtime": 117,
-  "country": "Nigeria",
-  "lang": "English",
-  "why": "The romantic comedy follows Soluchi, a hopeless romantic still healing from being jilted by her former lover, Kalu. When a regular work call puts her in touch with the charming Eli, Soluchi begins to see the possibili…",
-  "poster": "https://image.tmdb.org/t/p/w500/A2MU4enYIxeQc9Z1qh3hiqllV0y.jpg",
-  "tags": [
-   "Romance",
-   "Comedy"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "18:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=639116~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#3a3218",
-   "#d9c06a"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.43,
-  "rating_count": 220
  },
  {
   "id": "women-talking",
@@ -3530,8 +3464,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.8,
@@ -3563,8 +3497,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.74,
@@ -3597,8 +3531,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.57,
@@ -3630,8 +3564,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.71,
@@ -3664,8 +3598,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 4.47,
@@ -3723,8 +3657,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -3766,8 +3700,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.26,
@@ -3818,8 +3752,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -3915,8 +3849,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.61,
@@ -3957,8 +3891,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 4.18,
@@ -3979,15 +3913,6 @@
    "Comedy"
   ],
   "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-25"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640999~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
    {
     "theatre": "fox",
     "dates": [
@@ -4017,8 +3942,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 4.11,
@@ -4047,8 +3972,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -4081,8 +4006,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.8,
@@ -4115,8 +4040,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -4409,8 +4334,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 2.9,
@@ -4443,8 +4368,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 4.06,
@@ -4486,8 +4411,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 4.12,
@@ -4518,8 +4443,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.83,
@@ -4569,8 +4494,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.48,
@@ -4611,205 +4536,12 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 4.22,
   "rating_count": 270631
- },
- {
-  "id": "paw-patrol-the-dino-movie",
-  "title": "PAW Patrol: The Dino Movie",
-  "year": 2026,
-  "director": "Cal Brunker",
-  "runtime": 88,
-  "country": "Canada, France",
-  "lang": "English",
-  "why": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the…",
-  "poster": "https://image.tmdb.org/t/p/w500/mVx2O7ikolw0lQC3XEIM4C2uYwd.jpg",
-  "tags": [
-   "Adventure",
-   "Animation",
-   "Comedy"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-14"
-    ],
-    "time": "12:40",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=643396~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-15"
-    ],
-    "time": "13:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=643397~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-16"
-    ],
-    "time": "11:45",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=643398~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#2a3550",
-   "#e88b6a"
-  ],
-  "_tmdb_matched": true,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "obsession",
-  "title": "Obsession",
-  "year": 2026,
-  "director": "Curry Barker",
-  "runtime": 108,
-  "country": "USA, United Kingdom",
-  "lang": "English",
-  "why": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-  "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-  "tags": [
-   "Horror",
-   "Thriller"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-27"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640319~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-28"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640320~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-07-30"
-    ],
-    "time": "21:40",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640321~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#40183a",
-   "#f24d94"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.35,
-  "rating_count": 202
- },
- {
-  "id": "network",
-  "title": "Network",
-  "year": 2010,
-  "director": "David Fincher",
-  "runtime": 121,
-  "country": "USA",
-  "lang": "English",
-  "why": "In 2003, Harvard undergrad and computer programmer Mark Zuckerberg begins work on a new concept that eventually turns into the global social network known as Facebook. Six years later, Mark is one of the youngest bill…",
-  "poster": "https://image.tmdb.org/t/p/w500/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
-  "tags": [
-   "Restoration",
-   "Drama"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-12"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640594~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#24303a",
-   "#9ab0c4"
-  ],
-  "_tmdb_matched": true,
-  "rating": 4.26,
-  "rating_count": 236397
- },
- {
-  "id": "michael-manns-manhunter-the-final-cut",
-  "title": "Michael Mann's Manhunter: The Final Cut",
-  "year": 1986,
-  "director": "Michael Mann",
-  "runtime": 120,
-  "country": "USA",
-  "lang": "English",
-  "why": "A retired criminal profiler (William Petersen) reluctantly returns to the FBI to help track down a serial killer of families and is forced to consult an expert—the imprisoned Dr. Hannibal Lecktor (Brian Cox in a subtly chilling performance). The third feature written and directed by Michael Mann is a gripping adaptation of the first of […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/07/c1d156f04d7b1ab58ebe86767f78c1b8_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-14"
-    ],
-    "time": "18:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=641061~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-15"
-    ],
-    "time": "21:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=641062~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-16"
-    ],
-    "time": "20:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=641063~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-18"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=641064~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#3a3218",
-   "#d9c06a"
-  ],
-  "_tmdb_matched": false,
-  "rating": null,
-  "rating_count": null
  },
  {
   "id": "take-care-of-my-cat",
@@ -4836,8 +4568,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.77,
@@ -4887,29 +4619,11 @@
    {
     "theatre": "tiff",
     "dates": [
-     "2026-07-26"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwyNjcwVDU="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
      "2026-07-28"
     ],
     "time": "19:00",
     "format": "",
     "url": "https://am.ticketmaster.com/tiff/ism/NkwyODcwVDQ="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "16:45",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwyNjQ0VDQ="
    },
    {
     "theatre": "tiff",
@@ -4931,8 +4645,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.31,
@@ -4961,8 +4675,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": false,
   "rating": 4.11,
@@ -4993,8 +4707,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.81,
@@ -5027,8 +4741,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 4.2,
@@ -5060,8 +4774,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 4.17,
@@ -5093,8 +4807,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.46,
@@ -5126,8 +4840,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5159,8 +4873,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 4.25,
@@ -5193,8 +4907,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.84,
@@ -5226,8 +4940,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.8,
@@ -5259,8 +4973,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.16,
@@ -5298,8 +5012,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5330,8 +5044,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.72,
@@ -5364,8 +5078,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.75,
@@ -5414,8 +5128,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -5448,8 +5162,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 4.0,
@@ -5487,8 +5201,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5520,8 +5234,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.67,
@@ -5543,15 +5257,6 @@
    "Comedy"
   ],
   "screenings": [
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "13:15",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwyNjExVDM="
-   },
    {
     "theatre": "tiff",
     "dates": [
@@ -5582,15 +5287,6 @@
    {
     "theatre": "tiff",
     "dates": [
-     "2026-07-26"
-    ],
-    "time": "19:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwyNjczVDQ="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
      "2026-07-29"
     ],
     "time": "16:30",
@@ -5599,8 +5295,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.93,
@@ -5633,46 +5329,12 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.48,
   "rating_count": 545
- },
- {
-  "id": "assault-on-precinct-13",
-  "title": "Assault on Precinct 13",
-  "year": 2005,
-  "director": "Jean-François Richet",
-  "runtime": 109,
-  "country": "USA, France",
-  "lang": "Serbian, English",
-  "why": "On New Year's Eve, inside a police station that's about to be closed for good, officer Jake Roenick must cobble together a force made up cops and criminals to save themselves from a mob looking to kill mobster Marion …",
-  "poster": "https://image.tmdb.org/t/p/w500/oBpsRvMN1ONl8oFHuWt1rasDYFJ.jpg",
-  "tags": [
-   "Mystery + Thriller",
-   "Thriller",
-   "Action"
-  ],
-  "screenings": [
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwyNjYzVDI="
-   }
-  ],
-  "art": [
-   "#40183a",
-   "#f24d94"
-  ],
-  "_tmdb_matched": true,
-  "rating": 2.93,
-  "rating_count": 23342
  },
  {
   "id": "batman-begins",
@@ -5710,8 +5372,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.84,
@@ -5744,8 +5406,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.73,
@@ -5776,8 +5438,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.85,
@@ -5898,8 +5560,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.83,
@@ -5932,8 +5594,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.71,
@@ -5966,8 +5628,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.65,
@@ -5987,15 +5649,6 @@
    "Documentary"
   ],
   "screenings": [
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwyNjY0VDM="
-   },
    {
     "theatre": "tiff",
     "dates": [
@@ -6025,8 +5678,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.39,
@@ -6059,8 +5712,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.89,
@@ -6111,8 +5764,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.77,
@@ -7077,8 +6730,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -7111,8 +6764,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.55,
@@ -7145,8 +6798,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.86,
@@ -7179,8 +6832,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 4.23,
@@ -7222,8 +6875,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.63,
@@ -7274,8 +6927,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 4.45,
@@ -7308,8 +6961,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.52,
@@ -7350,8 +7003,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -7380,8 +7033,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -7414,8 +7067,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.34,
@@ -7457,8 +7110,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 4.22,
@@ -7491,8 +7144,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.02,
@@ -7523,8 +7176,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -7556,8 +7209,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.9,
@@ -7579,33 +7232,6 @@
    "Science Fiction"
   ],
   "screenings": [
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "16:15",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwyNjQxVDE="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "19:15",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwyNjcxVDE="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "20:45",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwyNjg0VDI="
-   },
    {
     "theatre": "tiff",
     "dates": [
@@ -7668,20 +7294,11 @@
     "time": "21:30",
     "format": "",
     "url": "https://am.ticketmaster.com/tiff/ism/NkwzMDkzVDI="
-   },
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "13:45",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwyNjE0VDQ="
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.48,
@@ -7746,8 +7363,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -7779,8 +7396,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.56,
@@ -7812,8 +7429,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -7846,8 +7463,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.62,
@@ -7889,8 +7506,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.82,
@@ -7932,8 +7549,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 4.49,
@@ -7966,44 +7583,12 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 4.25,
   "rating_count": 80268
- },
- {
-  "id": "the-golden-spurtle",
-  "title": "The Golden Spurtle",
-  "year": 2025,
-  "director": "Constantine Costi",
-  "runtime": 75,
-  "country": "United Kingdom, Australia",
-  "lang": "English",
-  "why": "In a quaint Scottish village in the Highlands, contenders from around the globe gather to compete for the title of World Porridge Champion armed only with oats, salt and water. As the ailing Porridge Chieftain's tenur…",
-  "poster": "https://image.tmdb.org/t/p/w500/3nsFrrmaUGyoiqAMRolkqPPWv01.jpg",
-  "tags": [
-   "Documentary"
-  ],
-  "screenings": [
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwyNjQwVDM="
-   }
-  ],
-  "art": [
-   "#1f2a44",
-   "#f0f0f0"
-  ],
-  "_tmdb_matched": true,
-  "rating": 4.13,
-  "rating_count": 8387
  },
  {
   "id": "the-hole",
@@ -8050,46 +7635,12 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 2.94,
   "rating_count": 24065
- },
- {
-  "id": "the-prestige",
-  "title": "The Prestige",
-  "year": 2006,
-  "director": "Christopher Nolan",
-  "runtime": 130,
-  "country": "United Kingdom, USA",
-  "lang": "English",
-  "why": "A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences.",
-  "poster": "https://image.tmdb.org/t/p/w500/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg",
-  "tags": [
-   "Mystery + Thriller",
-   "Drama",
-   "Mystery"
-  ],
-  "screenings": [
-   {
-    "theatre": "tiff",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "15:00",
-    "format": "",
-    "url": "https://am.ticketmaster.com/tiff/ism/NkwyNjMwVDI="
-   }
-  ],
-  "art": [
-   "#123a3a",
-   "#7fd4e0"
-  ],
-  "_tmdb_matched": true,
-  "rating": 4.29,
-  "rating_count": 1949766
  },
  {
   "id": "the-sound-of-the-shaking-earth",
@@ -8116,8 +7667,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.86,
@@ -8148,8 +7699,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.77,
@@ -8181,8 +7732,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.83,
@@ -8224,8 +7775,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.38,
@@ -8247,42 +7798,6 @@
    "Science Fiction"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "12:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=729084568&aud=8&ptime=12:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "15:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=729084568&aud=8&ptime=15:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "18:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=729084568&aud=8&ptime=18:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "21:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=729084568&aud=8&ptime=21:35&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -8429,8 +7944,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -8448,42 +7963,6 @@
   "poster": "https://omniwebticketing6.com/imaginecinemas/files-circuit/images/posters/Evangelion%20Death.png",
   "tags": [],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "13:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=100420308&aud=1&ptime=13:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=100420308&aud=1&ptime=16:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=100420308&aud=1&ptime=19:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=100420308&aud=1&ptime=21:30&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -8630,8 +8109,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -8652,24 +8131,6 @@
    "Romance"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "15:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=953803090&aud=3&ptime=15:30&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "21:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=953803090&aud=3&ptime=21:50&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -8735,8 +8196,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.83,
@@ -8756,24 +8217,6 @@
    "Comedy"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "12:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=435329605&aud=3&ptime=12:30&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=435329605&aud=3&ptime=18:30&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -8839,8 +8282,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.78,
@@ -8860,42 +8303,6 @@
    "Horror"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "13:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=62705703&aud=9&ptime=13:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "16:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=62705703&aud=9&ptime=16:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "19:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=62705703&aud=9&ptime=19:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "21:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=62705703&aud=9&ptime=21:50&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -9042,8 +8449,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -9061,42 +8468,6 @@
   "poster": "https://omniwebticketing6.com/imaginecinemas/files-circuit/images/posters/The%20End%20of%20Evangelion.png",
   "tags": [],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "12:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=826679327&aud=2&ptime=12:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "15:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=826679327&aud=2&ptime=15:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=826679327&aud=2&ptime=18:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "21:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=826679327&aud=2&ptime=21:40&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -9243,8 +8614,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": false,
   "rating": 4.48,
@@ -9266,42 +8637,6 @@
    "Family"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "12:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=680936511&aud=5&ptime=12:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "15:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=680936511&aud=5&ptime=15:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "18:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=680936511&aud=5&ptime=18:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "21:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=680936511&aud=5&ptime=21:45&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -9448,8 +8783,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.82,
@@ -9470,42 +8805,6 @@
    "Drama"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "12:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=930622120&aud=6&ptime=12:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "15:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=930622120&aud=6&ptime=15:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "18:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=930622120&aud=6&ptime=18:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=930622120&aud=6&ptime=21:30&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -9544,8 +8843,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 4.22,
@@ -9567,42 +8866,6 @@
    "Adventure"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "12:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=10863403&aud=7&ptime=12:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "15:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=10863403&aud=7&ptime=15:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "18:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=10863403&aud=7&ptime=18:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "21:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=10863403&aud=7&ptime=21:40&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -9749,8 +9012,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 4.22,
@@ -9772,42 +9035,6 @@
    "Thriller"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "13:05",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=374877856&aud=4&ptime=13:05&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "16:05",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=374877856&aud=4&ptime=16:05&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "19:05",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=374877856&aud=4&ptime=19:05&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-07-26"
-    ],
-    "time": "21:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-07-26&film=374877856&aud=4&ptime=21:55&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -9954,8 +9181,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.21,
