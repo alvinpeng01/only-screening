@@ -1359,42 +1359,6 @@
    {
     "theatre": "carlton",
     "dates": [
-     "2026-08-09"
-    ],
-    "time": "13:05",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=423904954&aud=8&ptime=13:05&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "16:05",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=423904954&aud=8&ptime=16:05&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "19:05",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=423904954&aud=8&ptime=19:05&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "21:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=423904954&aud=8&ptime=21:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
      "2026-08-10"
     ],
     "time": "13:05",
@@ -2098,15 +2062,6 @@
     "time": "16:00",
     "format": "",
     "url": "https://revuecinema.ca/films/revue-event-the-samurai-and-the-prisoner/"
-   },
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "14:30",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/607265/"
    },
    {
     "theatre": "paradise",
@@ -4000,102 +3955,6 @@
   "rating_count": 418949
  },
  {
-  "id": "sheep-in-the-box",
-  "title": "Sheep in the Box",
-  "year": 2026,
-  "director": "Hirokazu Kore-eda",
-  "runtime": 126,
-  "country": "Japan",
-  "lang": "Japanese",
-  "why": "Set in the near future, Otone Komoto works as an architect. She is married to Kensuke Komoto, who runs a construction company. The married couple decide to welcome a humanoid robot into their home as their son.",
-  "poster": "https://image.tmdb.org/t/p/w500/9rOCIYYT8Q76FHgl3Nm5ofuc6TQ.jpg",
-  "tags": [
-   "Drama",
-   "Science Fiction"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "15:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=637965~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-24"
-    ],
-    "time": "17:45",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/613317/"
-   },
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-31"
-    ],
-    "time": "17:30",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/613327/"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=56924030&aud=5&ptime=18:30&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-10"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-10&film=56924030&aud=5&ptime=18:30&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-11"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-11&film=56924030&aud=5&ptime=18:30&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-12"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-12&film=56924030&aud=5&ptime=18:30&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=56924030&aud=5&ptime=18:30&ptype=G"
-   }
-  ],
-  "art": [
-   "#101b2a",
-   "#e0562a"
-  ],
-  "_tmdb_matched": true,
-  "rating": 2.9,
-  "rating_count": 3330
- },
- {
   "id": "tekkonkinkreet",
   "title": "Tekkonkinkreet",
   "year": 2006,
@@ -4131,8 +3990,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 4.12,
@@ -4163,8 +4022,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.84,
@@ -4215,8 +4074,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.05,
@@ -4240,15 +4099,6 @@
    {
     "theatre": "fox",
     "dates": [
-     "2026-08-09"
-    ],
-    "time": "20:50",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=644970~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
      "2026-08-10"
     ],
     "time": "21:30",
@@ -4266,8 +4116,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.34,
@@ -4299,8 +4149,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.66,
@@ -4332,8 +4182,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 4.26,
@@ -4389,8 +4239,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -4422,244 +4272,12 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 4.3,
   "rating_count": 219569
- },
- {
-  "id": "i-want-your-sex",
-  "title": "I Want Your Sex",
-  "year": 2026,
-  "director": "Gregg Araki",
-  "runtime": 90,
-  "country": "USA",
-  "lang": "English",
-  "why": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth …",
-  "poster": "https://image.tmdb.org/t/p/w500/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
-  "tags": [
-   "Premiere",
-   "Drama",
-   "Comedy"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=637952~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-10"
-    ],
-    "time": "18:00",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/607683/"
-   },
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "21:15",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/607685/"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "12:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=6827283&aud=5&ptime=12:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "15:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=6827283&aud=5&ptime=15:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "18:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=6827283&aud=6&ptime=18:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "21:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=6827283&aud=7&ptime=21:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-10"
-    ],
-    "time": "12:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-10&film=6827283&aud=5&ptime=12:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-10"
-    ],
-    "time": "15:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-10&film=6827283&aud=5&ptime=15:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-10"
-    ],
-    "time": "18:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-10&film=6827283&aud=6&ptime=18:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-10"
-    ],
-    "time": "21:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-10&film=6827283&aud=7&ptime=21:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-11"
-    ],
-    "time": "12:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-11&film=6827283&aud=5&ptime=12:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-11"
-    ],
-    "time": "15:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-11&film=6827283&aud=5&ptime=15:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-11"
-    ],
-    "time": "18:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-11&film=6827283&aud=6&ptime=18:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-11"
-    ],
-    "time": "21:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-11&film=6827283&aud=7&ptime=21:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-12"
-    ],
-    "time": "12:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-12&film=6827283&aud=5&ptime=12:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-12"
-    ],
-    "time": "15:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-12&film=6827283&aud=5&ptime=15:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-12"
-    ],
-    "time": "18:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-12&film=6827283&aud=6&ptime=18:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-12"
-    ],
-    "time": "21:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-12&film=6827283&aud=7&ptime=21:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "12:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=6827283&aud=5&ptime=12:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "15:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=6827283&aud=5&ptime=15:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "18:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=6827283&aud=6&ptime=18:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "21:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=6827283&aud=7&ptime=21:45&ptype=G"
-   }
-  ],
-  "art": [
-   "#40183a",
-   "#f24d94"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.56,
-  "rating_count": 4252
  },
  {
   "id": "hadestown-the-musical",
@@ -4712,42 +4330,6 @@
     "time": "15:30",
     "format": "",
     "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=646156~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "12:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=533117856&aud=7&ptime=12:30&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "15:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=533117856&aud=7&ptime=15:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "18:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=533117856&aud=7&ptime=18:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "21:20",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=533117856&aud=5&ptime=21:20&ptype=G"
    },
    {
     "theatre": "carlton",
@@ -4895,8 +4477,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 4.28,
@@ -4928,8 +4510,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.43,
@@ -4967,8 +4549,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5010,8 +4592,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 4.16,
@@ -5049,8 +4631,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5081,8 +4663,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.81,
@@ -5114,8 +4696,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -5147,8 +4729,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.71,
@@ -5181,8 +4763,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 4.47,
@@ -5205,24 +4787,6 @@
    {
     "theatre": "fox",
     "dates": [
-     "2026-08-08"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=634990~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "13:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=634993~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
      "2026-08-13"
     ],
     "time": "19:00",
@@ -5231,45 +4795,199 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": null,
   "rating_count": null
  },
  {
-  "id": "all-about-lily-chou-chou",
-  "title": "All About Lily Chou-Chou",
-  "year": 2001,
-  "director": "Shunji Iwai",
-  "runtime": 146,
-  "country": "Japan",
-  "lang": "Japanese",
-  "why": "Charts the troubled teenage years of students Yūichi Hasumi and Shūsuke Hoshino, exploring the shifting and complex power dynamics of their relationship against the backdrop of Yūichi's love for the dreamy and abstrac…",
-  "poster": "https://image.tmdb.org/t/p/w500/mR2Znr5WAzL0lI0YEcBtHnqTeUB.jpg",
+  "id": "i-want-your-sex",
+  "title": "I Want Your Sex",
+  "year": 2026,
+  "director": "Gregg Araki",
+  "runtime": 90,
+  "country": "USA",
+  "lang": "English",
+  "why": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth …",
+  "poster": "https://image.tmdb.org/t/p/w500/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
   "tags": [
+   "Premiere",
    "Drama",
-   "Crime"
+   "Comedy"
   ],
   "screenings": [
    {
     "theatre": "paradise",
     "dates": [
-     "2026-08-09"
+     "2026-08-10"
     ],
-    "time": "19:00",
+    "time": "18:00",
     "format": "",
-    "url": "https://paradiseonbloor.com/purchase/602366/"
+    "url": "https://paradiseonbloor.com/purchase/607683/"
+   },
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-13"
+    ],
+    "time": "21:15",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/607685/"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-10"
+    ],
+    "time": "12:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-10&film=6827283&aud=5&ptime=12:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-10"
+    ],
+    "time": "15:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-10&film=6827283&aud=5&ptime=15:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-10"
+    ],
+    "time": "18:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-10&film=6827283&aud=6&ptime=18:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-10"
+    ],
+    "time": "21:45",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-10&film=6827283&aud=7&ptime=21:45&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-11"
+    ],
+    "time": "12:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-11&film=6827283&aud=5&ptime=12:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-11"
+    ],
+    "time": "15:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-11&film=6827283&aud=5&ptime=15:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-11"
+    ],
+    "time": "18:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-11&film=6827283&aud=6&ptime=18:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-11"
+    ],
+    "time": "21:45",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-11&film=6827283&aud=7&ptime=21:45&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-12"
+    ],
+    "time": "12:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-12&film=6827283&aud=5&ptime=12:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-12"
+    ],
+    "time": "15:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-12&film=6827283&aud=5&ptime=15:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-12"
+    ],
+    "time": "18:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-12&film=6827283&aud=6&ptime=18:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-12"
+    ],
+    "time": "21:45",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-12&film=6827283&aud=7&ptime=21:45&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-13"
+    ],
+    "time": "12:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=6827283&aud=5&ptime=12:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-13"
+    ],
+    "time": "15:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=6827283&aud=5&ptime=15:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-13"
+    ],
+    "time": "18:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=6827283&aud=6&ptime=18:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-13"
+    ],
+    "time": "21:45",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=6827283&aud=7&ptime=21:45&ptype=G"
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
-  "rating": 4.17,
-  "rating_count": 207640
+  "rating": 3.56,
+  "rating_count": 4252
  },
  {
   "id": "pecker",
@@ -5297,8 +5015,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.46,
@@ -5330,8 +5048,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5363,8 +5081,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 4.25,
@@ -5397,8 +5115,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.84,
@@ -5430,8 +5148,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.8,
@@ -5463,8 +5181,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.16,
@@ -5497,8 +5215,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 4.06,
@@ -5540,8 +5258,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.52,
@@ -5580,42 +5298,6 @@
     "time": "20:30",
     "format": "",
     "url": "https://paradiseonbloor.com/purchase/615378/"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "13:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=700043862&aud=9&ptime=13:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=700043862&aud=9&ptime=16:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=700043862&aud=9&ptime=19:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "21:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=700043862&aud=9&ptime=21:35&ptype=G"
    },
    {
     "theatre": "carlton",
@@ -5763,8 +5445,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 2.66,
@@ -5795,8 +5477,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 4.1,
@@ -5827,8 +5509,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -5866,8 +5548,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5899,8 +5581,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5933,8 +5615,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 4.17,
@@ -5965,12 +5647,90 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.72,
   "rating_count": 450
+ },
+ {
+  "id": "sheep-in-the-box",
+  "title": "Sheep in the Box",
+  "year": 2026,
+  "director": "Hirokazu Kore-eda",
+  "runtime": 126,
+  "country": "Japan",
+  "lang": "Japanese",
+  "why": "Set in the near future, Otone Komoto works as an architect. She is married to Kensuke Komoto, who runs a construction company. The married couple decide to welcome a humanoid robot into their home as their son.",
+  "poster": "https://image.tmdb.org/t/p/w500/9rOCIYYT8Q76FHgl3Nm5ofuc6TQ.jpg",
+  "tags": [
+   "Drama",
+   "Science Fiction"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-24"
+    ],
+    "time": "17:45",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/613317/"
+   },
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-31"
+    ],
+    "time": "17:30",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/613327/"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-10"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-10&film=56924030&aud=5&ptime=18:30&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-11"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-11&film=56924030&aud=5&ptime=18:30&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-12"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-12&film=56924030&aud=5&ptime=18:30&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-13"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=56924030&aud=5&ptime=18:30&ptype=G"
+   }
+  ],
+  "art": [
+   "#24303a",
+   "#9ab0c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": 2.9,
+  "rating_count": 3330
  },
  {
   "id": "the-dirty-dozen",
@@ -5999,8 +5759,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.84,
@@ -6042,8 +5802,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -6076,8 +5836,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.75,
@@ -6126,8 +5886,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -6160,8 +5920,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 4.36,
@@ -6192,8 +5952,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -6226,8 +5986,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 4.0,
@@ -6259,8 +6019,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.36,
@@ -6282,33 +6042,6 @@
    "Science Fiction"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "12:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=729084568&aud=6&ptime=12:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "15:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=729084568&aud=6&ptime=15:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=729084568&aud=6&ptime=21:30&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -6419,8 +6152,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -6442,33 +6175,6 @@
    "Thriller"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "13:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=481777787&aud=1&ptime=13:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "16:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=481777787&aud=2&ptime=16:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "21:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=481777787&aud=1&ptime=21:50&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -6588,8 +6294,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.86,
@@ -6611,33 +6317,6 @@
    "Mystery"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "12:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=938726078&aud=2&ptime=12:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "15:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=938726078&aud=1&ptime=15:30&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "18:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=938726078&aud=2&ptime=18:35&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -6748,8 +6427,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 4.22,
@@ -6771,42 +6450,6 @@
    "Mystery"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "12:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=502755832&aud=4&ptime=12:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "15:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=502755832&aud=4&ptime=15:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "18:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=502755832&aud=4&ptime=18:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=502755832&aud=4&ptime=21:30&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -6953,8 +6596,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 2.72,
@@ -6975,42 +6618,6 @@
    "Thriller"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "12:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=924945106&aud=3&ptime=12:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "15:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=924945106&aud=3&ptime=15:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "19:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=924945106&aud=1&ptime=19:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-09"
-    ],
-    "time": "21:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-09&film=924945106&aud=3&ptime=21:40&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -7148,8 +6755,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 2.87,
@@ -7178,8 +6785,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -7230,8 +6837,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -7358,11 +6965,47 @@
     "time": "21:50",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-16&film=224218813&aud=5&ptime=21:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-17"
+    ],
+    "time": "13:05",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-17&film=224218813&aud=5&ptime=13:05&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-17"
+    ],
+    "time": "16:05",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-17&film=224218813&aud=5&ptime=16:05&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-17"
+    ],
+    "time": "19:05",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-17&film=224218813&aud=5&ptime=19:05&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-17"
+    ],
+    "time": "21:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-17&film=224218813&aud=5&ptime=21:50&ptype=G"
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.52,
@@ -7491,11 +7134,47 @@
     "time": "21:45",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-16&film=571273590&aud=4&ptime=21:45&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-17"
+    ],
+    "time": "12:45",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-17&film=571273590&aud=4&ptime=12:45&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-17"
+    ],
+    "time": "15:45",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-17&film=571273590&aud=4&ptime=15:45&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-17"
+    ],
+    "time": "18:45",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-17&film=571273590&aud=4&ptime=18:45&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-17"
+    ],
+    "time": "21:45",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-17&film=571273590&aud=4&ptime=21:45&ptype=G"
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 4.23,
