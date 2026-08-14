@@ -1,5 +1,72 @@
 [
  {
+  "id": "slash-back",
+  "title": "SLASH/BACK",
+  "year": 2022,
+  "director": "Nyla Innuksuk",
+  "runtime": 87,
+  "country": "Canada",
+  "lang": "English, Spanish",
+  "why": "In a remote Arctic community, a group of Inuit girls fight off an alien invasion, all while trying to make it to the coolest party in town.",
+  "poster": "https://image.tmdb.org/t/p/w500/fmmRFQtsRrNOpmcfoxVIyE1LxxT.jpg",
+  "tags": [
+   "Science Fiction",
+   "Action",
+   "Thriller"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-09-30"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1029397~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#2b3a2f",
+   "#e0b34d"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.0,
+  "rating_count": 7671
+ },
+ {
+  "id": "portal-to-hell",
+  "title": "Portal to Hell",
+  "year": 2025,
+  "director": "Woody Bess",
+  "runtime": 93,
+  "country": "USA",
+  "lang": "English",
+  "why": "After a debt-collector finds a portal to hell in a washing machine at his local laundromat, he’s propositioned into feeding it sinners to save his neighbor’s soul, maybe even at the expense of his own.",
+  "poster": "https://image.tmdb.org/t/p/w500/o4prIXdKGS2lERpakuMQiRrWbep.jpg",
+  "tags": [
+   "Comedy",
+   "Horror"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-01"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1029395~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#3a2b2b",
+   "#c94f4f"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.51,
+  "rating_count": 501
+ },
+ {
   "id": "eraser",
   "title": "Eraser",
   "year": 1996,
@@ -26,8 +93,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 2.92,
@@ -59,8 +126,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.5,
@@ -476,11 +543,47 @@
     "time": "21:45",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-20&film=317494101&aud=9&ptime=21:45&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-21"
+    ],
+    "time": "13:10",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-21&film=317494101&aud=9&ptime=13:10&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-21"
+    ],
+    "time": "16:10",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-21&film=317494101&aud=9&ptime=16:10&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-21"
+    ],
+    "time": "19:10",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-21&film=317494101&aud=9&ptime=19:10&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-21"
+    ],
+    "time": "21:45",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-21&film=317494101&aud=9&ptime=21:45&ptype=G"
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.85,
@@ -509,8 +612,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -559,8 +662,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -593,8 +696,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 2.4,
@@ -625,8 +728,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.25,
@@ -659,8 +762,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 4.01,
@@ -691,8 +794,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 4.33,
@@ -723,8 +826,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.51,
@@ -771,8 +874,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -810,8 +913,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -844,8 +947,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 4.07,
@@ -877,8 +980,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.42,
@@ -907,8 +1010,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -939,8 +1042,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -973,8 +1076,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 2.6,
@@ -1007,8 +1110,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.66,
@@ -1041,8 +1144,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.13,
@@ -1071,8 +1174,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -1105,8 +1208,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 2.69,
@@ -1138,8 +1241,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.29,
@@ -1172,8 +1275,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.1,
@@ -1206,8 +1309,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.26,
@@ -1240,8 +1343,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.7,
@@ -1273,8 +1376,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.63,
@@ -1307,8 +1410,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.99,
@@ -1341,8 +1444,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -1375,8 +1478,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 4.22,
@@ -1408,8 +1511,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.46,
@@ -1442,8 +1545,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.38,
@@ -1476,8 +1579,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.55,
@@ -1510,8 +1613,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.58,
@@ -1544,8 +1647,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.13,
@@ -1578,8 +1681,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.18,
@@ -1646,8 +1749,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.6,
@@ -1680,8 +1783,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.02,
@@ -1714,8 +1817,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.41,
@@ -1746,8 +1849,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 4.17,
@@ -1780,8 +1883,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.84,
@@ -1813,8 +1916,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.95,
@@ -1847,8 +1950,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 4.31,
@@ -1872,56 +1975,11 @@
    {
     "theatre": "revue",
     "dates": [
-     "2026-08-12"
+     "2026-08-13"
     ],
     "time": "21:30",
     "format": "",
     "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1023736~fc639be0-110c-4035-a588-842aceff5ef6&"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/ice-cream-man-2026/"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "13:05",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=423904954&aud=8&ptime=13:05&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "16:05",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=423904954&aud=8&ptime=16:05&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "19:05",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=423904954&aud=8&ptime=19:05&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "21:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=423904954&aud=8&ptime=21:50&ptype=G"
    },
    {
     "theatre": "carlton",
@@ -1988,8 +2046,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 2.49,
@@ -2022,8 +2080,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.19,
@@ -2055,8 +2113,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.63,
@@ -2089,8 +2147,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.22,
@@ -2123,8 +2181,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.44,
@@ -2157,8 +2215,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 2.91,
@@ -2200,8 +2258,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.42,
@@ -2230,8 +2288,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -2264,8 +2322,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 4.09,
@@ -2297,8 +2355,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.38,
@@ -2331,8 +2389,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.98,
@@ -2374,8 +2432,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 4.13,
@@ -2407,8 +2465,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.11,
@@ -2441,8 +2499,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.71,
@@ -2475,8 +2533,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.72,
@@ -2515,20 +2573,11 @@
     "time": "16:00",
     "format": "",
     "url": "https://revuecinema.ca/films/revue-event-the-samurai-and-the-prisoner/"
-   },
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "18:00",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/607267/"
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.29,
@@ -2578,8 +2627,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.54,
@@ -2621,8 +2670,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -2655,8 +2704,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.74,
@@ -2688,8 +2737,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.89,
@@ -2718,8 +2767,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -2752,8 +2801,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.75,
@@ -2786,8 +2835,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.84,
@@ -2816,8 +2865,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -2848,8 +2897,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 4.22,
@@ -2882,8 +2931,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -2915,8 +2964,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.61,
@@ -3129,8 +3178,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.94,
@@ -3163,8 +3212,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 2.54,
@@ -3197,8 +3246,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.33,
@@ -3230,46 +3279,12 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.82,
   "rating_count": 18682
- },
- {
-  "id": "charade",
-  "title": "Charade",
-  "year": 1963,
-  "director": "Stanley Donen",
-  "runtime": 113,
-  "country": "United Kingdom, USA",
-  "lang": "English, French",
-  "why": "After Regina Lampert falls for the dashing Peter Joshua on a skiing holiday in the French Alps, she discovers upon her return to Paris that her husband has been murdered. Soon, she and Peter are giving chase to three …",
-  "poster": "https://image.tmdb.org/t/p/w500/qqaPjC5FQidtKY65jbAKZPiOTaS.jpg",
-  "tags": [
-   "4K",
-   "Restoration",
-   "Comedy"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-08-12"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1017104~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a2b2b",
-   "#c94f4f"
-  ],
-  "_tmdb_matched": true,
-  "rating": 4.05,
-  "rating_count": 214306
  },
  {
   "id": "scream-scream-7-double-feature",
@@ -3303,8 +3318,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": false,
   "rating": 4.02,
@@ -3336,8 +3351,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.7,
@@ -3370,8 +3385,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 4.04,
@@ -3404,8 +3419,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.78,
@@ -3438,8 +3453,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 2.6,
@@ -3472,46 +3487,12 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
-  ],
-  "_tmdb_matched": true,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "prisoners",
-  "title": "Prisoners",
-  "year": 2013,
-  "director": "Denis Villeneuve",
-  "runtime": 153,
-  "country": "USA",
-  "lang": "English",
-  "why": "After his six-year-old daughter is abducted, a desperate father takes justice into his own hands when he loses faith in the detective leading the investigation, setting both men on a collision course as the search des…",
-  "poster": "https://image.tmdb.org/t/p/w500/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg",
-  "tags": [
-   "Drama",
-   "Thriller",
-   "Crime"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-10-10"
-    ],
-    "time": "18:00",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1015674~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
    "#3a3218",
    "#d9c06a"
   ],
   "_tmdb_matched": true,
-  "rating": 4.34,
-  "rating_count": 2385977
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "the-salt-path",
@@ -3756,15 +3737,6 @@
    {
     "theatre": "fox",
     "dates": [
-     "2026-08-13"
-    ],
-    "time": "16:20",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=644974~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
      "2026-08-15"
     ],
     "time": "15:20",
@@ -3952,40 +3924,6 @@
   "rating_count": 418949
  },
  {
-  "id": "tekkonkinkreet",
-  "title": "Tekkonkinkreet",
-  "year": 2006,
-  "director": "Michael Arias",
-  "runtime": 103,
-  "country": "Japan",
-  "lang": "Japanese",
-  "why": "Two penniless orphans, Black and White, struggle to survive on the mean streets of Treasure Town. When a megacorporation threatens to tear down the town to build an amusement park, Black and White engage in the fight …",
-  "poster": "https://image.tmdb.org/t/p/w500/e2x1YDuZPpQiaQS25Ego7xMZYOI.jpg",
-  "tags": [
-   "Restoration",
-   "Animation",
-   "Action"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "21:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=640623~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#40183a",
-   "#f24d94"
-  ],
-  "_tmdb_matched": true,
-  "rating": 4.12,
-  "rating_count": 40251
- },
- {
   "id": "legally-blonde",
   "title": "Legally Blonde",
   "year": 2001,
@@ -4010,8 +3948,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.84,
@@ -4251,8 +4189,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.05,
@@ -4284,8 +4222,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.66,
@@ -4341,8 +4279,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -4374,8 +4312,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 4.3,
@@ -4417,8 +4355,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.78,
@@ -4448,42 +4386,6 @@
     "time": "15:30",
     "format": "",
     "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=646156~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "12:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=533117856&aud=7&ptime=12:30&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "15:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=533117856&aud=7&ptime=15:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "18:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=533117856&aud=7&ptime=18:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "21:20",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=533117856&aud=5&ptime=21:20&ptype=G"
    },
    {
     "theatre": "carlton",
@@ -4712,8 +4614,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 4.28,
@@ -4745,8 +4647,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.43,
@@ -4784,8 +4686,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -4827,8 +4729,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 4.16,
@@ -4866,8 +4768,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -4898,8 +4800,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.81,
@@ -4931,8 +4833,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -4964,8 +4866,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.71,
@@ -4998,35 +4900,96 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 4.47,
   "rating_count": 144143
  },
  {
-  "id": "2026-cat-video-fest",
-  "title": "2026 Cat Video Fest",
-  "year": 2026,
-  "director": "Will Braden",
-  "runtime": 70,
+  "id": "tonight-sold-out",
+  "title": "Tonight Sold Out",
+  "year": 1994,
+  "director": "Kevin Kerslake",
+  "runtime": 87,
   "country": "USA",
   "lang": "English",
-  "why": "Our fuzzy overlords return to the big screen! Each year, CatVideoFest curates a compilation reel of the latest, best cat videos culled from countless hours of unique submissions and sourced animations, music videos, a…",
-  "poster": "https://image.tmdb.org/t/p/w500/nRjejxXF7tV8nZ8RFrHyOswuCle.jpg",
+  "why": "Nirvana's frontman Kurt Cobain worked on compiling this collection of performances, interviews, and touring clips from 1991 to 1993 but did not finish it before his death in 1994. Bandmembers Dave Grohl and Krist Novo…",
+  "poster": "https://image.tmdb.org/t/p/w500/u1x1J8O9mm7uMvFvbPQhaZerbSU.jpg",
   "tags": [
-   "Comedy"
+   "Documentary",
+   "Music"
   ],
   "screenings": [
    {
     "theatre": "fox",
     "dates": [
-     "2026-08-13"
+     "2026-09-05"
+    ],
+    "time": "13:40",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=647837~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-07"
+    ],
+    "time": "13:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=647838~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-11"
+    ],
+    "time": "16:20",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=647839~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-13"
+    ],
+    "time": "17:50",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=647840~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#101b2a",
+   "#e0562a"
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "magic-mike-xxl",
+  "title": "Magic Mike XXL",
+  "year": 2015,
+  "director": "Gregory Jacobs",
+  "runtime": 115,
+  "country": "USA",
+  "lang": "English",
+  "why": "Three years after Mike bowed out of the stripper life at the top of his game, he and the remaining Kings of Tampa hit the road to Myrtle Beach to put on one last blow-out performance.",
+  "poster": "https://image.tmdb.org/t/p/w500/jkuCNd3wOmf4sDlZ89HEt8jmsqr.jpg",
+  "tags": [
+   "Comedy",
+   "Drama"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-14"
     ],
     "time": "19:00",
     "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=634995~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+    "url": "https://paradiseonbloor.com/purchase/595642/"
    }
   ],
   "art": [
@@ -5034,6 +4997,1041 @@
    "#f0a83c"
   ],
   "_tmdb_matched": true,
+  "rating": 3.16,
+  "rating_count": 91065
+ },
+ {
+  "id": "the-incredibles",
+  "title": "The Incredibles",
+  "year": 2004,
+  "director": "Brad Bird",
+  "runtime": 115,
+  "country": "USA",
+  "lang": "French, English",
+  "why": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get b…",
+  "poster": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+  "tags": [
+   "Action",
+   "Adventure",
+   "Animation"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-15"
+    ],
+    "time": "14:00",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/613307/"
+   }
+  ],
+  "art": [
+   "#2a3324",
+   "#d4b26a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.06,
+  "rating_count": 2461027
+ },
+ {
+  "id": "lost-chapters",
+  "title": "Lost Chapters",
+  "year": 2024,
+  "director": "Lorena Alvarado",
+  "runtime": 67,
+  "country": "USA, Venezuela",
+  "lang": "Spanish",
+  "why": "When Ena returns to Venezuela, after spending several years abroad, she discovers a postcard in her father's bookshop and sets off in search of a forgotten writer.",
+  "poster": "https://image.tmdb.org/t/p/w500/vylOXm8u3OhyrV9WrSTls5zFZC2.jpg",
+  "tags": [
+   "Premiere",
+   "Drama",
+   "Mystery"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-15"
+    ],
+    "time": "17:00",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/613308/"
+   },
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-17"
+    ],
+    "time": "18:00",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/613313/"
+   }
+  ],
+  "art": [
+   "#2b3a2f",
+   "#e0b34d"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.52,
+  "rating_count": 523
+ },
+ {
+  "id": "rosebush-pruning",
+  "title": "Rosebush Pruning",
+  "year": 2026,
+  "director": "Karim Aïnouz",
+  "runtime": 95,
+  "country": "Germany, Italy",
+  "lang": "English",
+  "why": "In a Spanish villa, American siblings Jack, Ed, Anna and Robert wallow in isolation and their inherited fortune. When Jack wants to move in with his girlfriend and Ed uncovers the truth about their mother’s death, the…",
+  "poster": "https://image.tmdb.org/t/p/w500/tXsTtSgguTsk5J115jokwK55awF.jpg",
+  "tags": [
+   "Comedy",
+   "Drama",
+   "Thriller"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-15"
+    ],
+    "time": "19:30",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/613309/"
+   },
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-17"
+    ],
+    "time": "20:30",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/615378/"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-14"
+    ],
+    "time": "12:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-14&film=700043862&aud=3&ptime=12:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-14"
+    ],
+    "time": "15:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-14&film=700043862&aud=1&ptime=15:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-14"
+    ],
+    "time": "21:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-14&film=700043862&aud=1&ptime=21:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-15"
+    ],
+    "time": "12:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-15&film=700043862&aud=3&ptime=12:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-15"
+    ],
+    "time": "15:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-15&film=700043862&aud=1&ptime=15:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-15"
+    ],
+    "time": "18:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-15&film=700043862&aud=3&ptime=18:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-15"
+    ],
+    "time": "21:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-15&film=700043862&aud=1&ptime=21:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-16"
+    ],
+    "time": "12:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-16&film=700043862&aud=3&ptime=12:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-16"
+    ],
+    "time": "15:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-16&film=700043862&aud=1&ptime=15:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-16"
+    ],
+    "time": "18:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-16&film=700043862&aud=3&ptime=18:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-16"
+    ],
+    "time": "21:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-16&film=700043862&aud=1&ptime=21:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-17"
+    ],
+    "time": "12:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-17&film=700043862&aud=3&ptime=12:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-17"
+    ],
+    "time": "15:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-17&film=700043862&aud=1&ptime=15:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-17"
+    ],
+    "time": "18:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-17&film=700043862&aud=3&ptime=18:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-17"
+    ],
+    "time": "21:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-17&film=700043862&aud=1&ptime=21:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-18"
+    ],
+    "time": "12:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-18&film=700043862&aud=3&ptime=12:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-18"
+    ],
+    "time": "15:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-18&film=700043862&aud=1&ptime=15:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-18"
+    ],
+    "time": "18:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-18&film=700043862&aud=3&ptime=18:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-18"
+    ],
+    "time": "21:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-18&film=700043862&aud=1&ptime=21:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-19"
+    ],
+    "time": "12:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-19&film=700043862&aud=3&ptime=12:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-19"
+    ],
+    "time": "15:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-19&film=700043862&aud=1&ptime=15:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-19"
+    ],
+    "time": "18:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-19&film=700043862&aud=3&ptime=18:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-19"
+    ],
+    "time": "21:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-19&film=700043862&aud=1&ptime=21:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-20"
+    ],
+    "time": "12:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-20&film=700043862&aud=3&ptime=12:55&ptype=G"
+   }
+  ],
+  "art": [
+   "#3a2b2b",
+   "#c94f4f"
+  ],
+  "_tmdb_matched": true,
+  "rating": 2.66,
+  "rating_count": 6797
+ },
+ {
+  "id": "jingleman",
+  "title": "Jingleman",
+  "year": 2026,
+  "director": "",
+  "runtime": 82,
+  "country": "USA",
+  "lang": "English",
+  "why": "\"The Testimony of the Suns\" is a lengthy astronomical poem by American poet and playwright George Sterling that combines elements of science, fantasy, science fiction, and philosophy. Literary historian S. T. Joshi ca…",
+  "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/350/2026/08/10193658/Jingleman-Paradise-Screening-Digital-Poster-576x1024.png",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-16"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://jeff-robinson.bloomtickets.ca/event/2141?JinglemanScreening"
+   }
+  ],
+  "art": [
+   "#1f2a44",
+   "#f0f0f0"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "the-wild-bunch",
+  "title": "The Wild Bunch",
+  "year": 1969,
+  "director": "Sam Peckinpah",
+  "runtime": 145,
+  "country": "USA",
+  "lang": "English, German",
+  "why": "An aging group of outlaws look for one last big score as the \"traditional\" American West is disappearing around them.",
+  "poster": "https://image.tmdb.org/t/p/w500/8j9yEC3xjy1PJDSizIbaxcHaSph.jpg",
+  "tags": [
+   "Western"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-18"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/607275/"
+   }
+  ],
+  "art": [
+   "#3a2440",
+   "#4dd6c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.1,
+  "rating_count": 78287
+ },
+ {
+  "id": "modern-classic",
+  "title": "Modern Classic",
+  "year": 2017,
+  "director": "Jonathon M.B. Hunter",
+  "runtime": 83,
+  "country": "USA",
+  "lang": "English",
+  "why": "No one wants to see a black and white film about a drunk who kills his dog. Jono and Dave learned that the hard way.",
+  "poster": "https://image.tmdb.org/t/p/w500/2LvoAfChnqR7HdLxIxVot77jrIR.jpg",
+  "tags": [
+   "Comedy"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-20"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://www.eventbrite.ca/e/modern-classic-ten-year-anniversary-screening-tickets-1993366464756?aff=oddtdtcreator"
+   }
+  ],
+  "art": [
+   "#123a3a",
+   "#7fd4e0"
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "steamboat-stumble",
+  "title": "Steamboat Stumble",
+  "year": 2026,
+  "director": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inhe",
+  "runtime": 67,
+  "country": "USA",
+  "lang": "English",
+  "why": "Steamboat Willie is a 1928 American animated short film directed by Walt Disney and Ub Iwerks. It was produced in black-and-white by Disney Cartoons and was released by Pat Powers' Celebrity Productions. The cartoon i…",
+  "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/350/2026/07/14130207/Poster_Simple_1-663x1024.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-22"
+    ],
+    "time": "11:00",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/596014/"
+   },
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-22"
+    ],
+    "time": "17:00",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/596016/"
+   }
+  ],
+  "art": [
+   "#2a3550",
+   "#e88b6a"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "boogie-nights-4k-restoration",
+  "title": "Boogie Nights: 4K Restoration",
+  "year": 1997,
+  "director": "James Cameron",
+  "runtime": 156,
+  "country": "USA",
+  "lang": "English",
+  "why": "Titanic is a 1997 American epic historical romance film written and directed by James Cameron. Incorporating both historical and fictional aspects, it is based on accounts of the sinking of RMS Titanic in 1912. Leonar…",
+  "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/350/2026/07/03142504/MV5BOTFmZmE4OTMtNDYxNi00MmZmLThlYjktMmExMzMwY2YzOTFiXkEyXkFqcGc%40._V1_.jpg",
+  "tags": [
+   "4K",
+   "Restoration"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-22"
+    ],
+    "time": "21:00",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/609775/"
+   }
+  ],
+  "art": [
+   "#40183a",
+   "#f24d94"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "the-great-escape",
+  "title": "The Great Escape",
+  "year": 1963,
+  "director": "John Sturges",
+  "runtime": 173,
+  "country": "USA",
+  "lang": "English, German",
+  "why": "The Nazis, exasperated at the number of escapes from their prison camps by a relatively small number of Allied prisoners, relocate them to a high-security 'escape-proof' camp to sit out the remainder of the war. Undau…",
+  "poster": "https://image.tmdb.org/t/p/w500/gBH4H8UMFxl139HaLz6lRuvsel8.jpg",
+  "tags": [
+   "Adventure",
+   "Drama",
+   "War"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-23"
+    ],
+    "time": "14:30",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/607277/"
+   }
+  ],
+  "art": [
+   "#24303a",
+   "#9ab0c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.17,
+  "rating_count": 159852
+ },
+ {
+  "id": "tally-brown-new-york",
+  "title": "Tally Brown, New York",
+  "year": 1979,
+  "director": "Rosa von Praunheim",
+  "runtime": 97,
+  "country": "Germany, USA",
+  "lang": "German, English",
+  "why": "Tally Brown, New York is a 1979 documentary film directed, written and produced by Rosa von Praunheim. The film is about the singing and acting career of Tally Brown, a classically trained opera and blues singer who w…",
+  "poster": "https://image.tmdb.org/t/p/w500/gHEtKOR0T9DWZKrtXzyEOsjFPoH.jpg",
+  "tags": [
+   "Documentary"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-23"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/554367/"
+   }
+  ],
+  "art": [
+   "#3a3218",
+   "#d9c06a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.72,
+  "rating_count": 450
+ },
+ {
+  "id": "sheep-in-the-box",
+  "title": "Sheep in the Box",
+  "year": 2026,
+  "director": "Hirokazu Kore-eda",
+  "runtime": 126,
+  "country": "Japan",
+  "lang": "Japanese",
+  "why": "Set in the near future, Otone Komoto works as an architect. She is married to Kensuke Komoto, who runs a construction company. The married couple decide to welcome a humanoid robot into their home as their son.",
+  "poster": "https://image.tmdb.org/t/p/w500/9rOCIYYT8Q76FHgl3Nm5ofuc6TQ.jpg",
+  "tags": [
+   "Drama",
+   "Science Fiction"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-24"
+    ],
+    "time": "17:45",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/613317/"
+   },
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-31"
+    ],
+    "time": "17:30",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/613327/"
+   }
+  ],
+  "art": [
+   "#101b2a",
+   "#e0562a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 2.9,
+  "rating_count": 3330
+ },
+ {
+  "id": "the-dirty-dozen",
+  "title": "The Dirty Dozen",
+  "year": 1967,
+  "director": "Robert Aldrich",
+  "runtime": 149,
+  "country": "United Kingdom, USA",
+  "lang": "Latin, English",
+  "why": "12 American military prisoners in World War II are ordered to infiltrate a well-guarded enemy château and kill the Nazi officers vacationing there. The soldiers, most of whom are facing death sentences for a variety o…",
+  "poster": "https://image.tmdb.org/t/p/w500/tFWWsuhp22zJ6OG6QepJIiPUfeF.jpg",
+  "tags": [
+   "Action",
+   "Adventure",
+   "War"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-24"
+    ],
+    "time": "20:30",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/607281/"
+   }
+  ],
+  "art": [
+   "#3a2a1a",
+   "#f0a83c"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.84,
+  "rating_count": 47908
+ },
+ {
+  "id": "all-night-wrong",
+  "title": "All Night Wrong",
+  "year": 2026,
+  "director": "Jason James",
+  "runtime": 91,
+  "country": "Canada, United Kingdom",
+  "lang": "English",
+  "why": "Gary and Ell (a married man with an inferiority complex, and a grieving young widow) meet on a blind date only to wind up stealing a killer's car along with a dead body and $40,000.",
+  "poster": "https://image.tmdb.org/t/p/w500/h9BflrDHZSQVFxyZJE0mTOdhqpH.jpg",
+  "tags": [
+   "Comedy",
+   "Crime",
+   "Thriller"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-25"
+    ],
+    "time": "18:00",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/613319/"
+   },
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-27"
+    ],
+    "time": "18:00",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/613323/"
+   }
+  ],
+  "art": [
+   "#2a3324",
+   "#d4b26a"
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "dreams-in-nightmares",
+  "title": "Dreams in Nightmares",
+  "year": 2024,
+  "director": "Shatara Michelle Ford",
+  "runtime": 128,
+  "country": "USA, Taiwan",
+  "lang": "English",
+  "why": "After an abrupt layoff, Z embarks on a trip across the Midwestern United States in search of a friend who has seemingly disappeared off the grid. Traveling with her two closest friends, these three queer black femmes …",
+  "poster": "https://image.tmdb.org/t/p/w500/j5dxzoXeQB9pmOnO0TjSoMDceSk.jpg",
+  "tags": [
+   "Drama"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-25"
+    ],
+    "time": "20:30",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/613320/"
+   },
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-28"
+    ],
+    "time": "17:30",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/613325/"
+   }
+  ],
+  "art": [
+   "#2b3a2f",
+   "#e0b34d"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.42,
+  "rating_count": 1013
+ },
+ {
+  "id": "set-it-off",
+  "title": "Set It Off",
+  "year": 1996,
+  "director": "F. Gary Gray",
+  "runtime": 123,
+  "country": "USA",
+  "lang": "English",
+  "why": "Four inner-city Black women, determined to end their constant struggle, decide to live by one rule — get what you want or die trying. So the four women take back their lives and take out some banks in the process.",
+  "poster": "https://image.tmdb.org/t/p/w500/wpiARyUqTfabzakAXHMIUY6Tl1A.jpg",
+  "tags": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-26"
+    ],
+    "time": "19:30",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/555741/"
+   }
+  ],
+  "art": [
+   "#3a2b2b",
+   "#c94f4f"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.75,
+  "rating_count": 34883
+ },
+ {
+  "id": "lunar-sway",
+  "title": "Lunar Sway",
+  "year": 2026,
+  "director": "Nick Butler",
+  "runtime": 98,
+  "country": "Canada",
+  "lang": "English",
+  "why": "Cliff is struggling with his love life in a desert town when he unexpectedly connects with his estranged birth mother. After learning of his mom’s string of secrets, Cliff is led on a wild misadventure while also spen…",
+  "poster": "https://image.tmdb.org/t/p/w500/shJB0w3AgNBIvZw6uffu2EdnqLN.jpg",
+  "tags": [
+   "Comedy"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-27"
+    ],
+    "time": "20:30",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/598240/"
+   },
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-28"
+    ],
+    "time": "20:30",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/598242/"
+   },
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-30"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/598244/"
+   }
+  ],
+  "art": [
+   "#1f2a44",
+   "#f0f0f0"
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "the-wages-of-fear",
+  "title": "The Wages of Fear",
+  "year": 1953,
+  "director": "Henri-Georges Clouzot",
+  "runtime": 154,
+  "country": "France, Italy",
+  "lang": "French, English",
+  "why": "In a run-down South American town, four men are paid to drive trucks loaded with nitroglycerin into the jungle through to the oil field. Friendships are tested and rivalries develop as they embark upon the perilous jo…",
+  "poster": "https://image.tmdb.org/t/p/w500/sNOvIp4X0fmCMfgEs2ww5IyMgFm.jpg",
+  "tags": [
+   "Drama",
+   "Thriller",
+   "Adventure"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-29"
+    ],
+    "time": "14:00",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/607269/"
+   }
+  ],
+  "art": [
+   "#3a2440",
+   "#4dd6c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.36,
+  "rating_count": 70698
+ },
+ {
+  "id": "self-revolutionary-cinematic-struggle",
+  "title": "Self-Revolutionary Cinematic Struggle",
+  "year": 2023,
+  "director": "Gakuryu Ishii",
+  "runtime": 165,
+  "country": "Japan",
+  "lang": "Japanese",
+  "why": "Gakuryu Ishii, who is a professor of film course at Kobe Institute of Technology, suddenly disappears after falling into a mad state driven by his own idea of \"self-revolutionary movie struggle work\". His assistant pr…",
+  "poster": "https://image.tmdb.org/t/p/w500/xScOBJAAXRK5VmjsRAv0juR6TxR.jpg",
+  "tags": [
+   "Premiere"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-30"
+    ],
+    "time": "14:00",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/613348/"
+   }
+  ],
+  "art": [
+   "#123a3a",
+   "#7fd4e0"
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "jim-queen",
+  "title": "Jim Queen",
+  "year": 2026,
+  "director": "Marco Nguyen, Nicolas Athané",
+  "runtime": 85,
+  "country": "France, Belgium",
+  "lang": "French",
+  "why": "When Heterosis - a mysterious virus that turns gay men straight sweeps through the Parisian gay scene, Jim, the six packed sovereign of the Gym Queens, goes from Pride royalty to social outcast. With only Lucien, a fr…",
+  "poster": "https://image.tmdb.org/t/p/w500/nvmGrOzolKlW1z90rLudSjPm9cG.jpg",
+  "tags": [
+   "Premiere",
+   "Animation",
+   "Comedy"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-08-31"
+    ],
+    "time": "20:30",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/605243/"
+   }
+  ],
+  "art": [
+   "#2a3550",
+   "#e88b6a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.0,
+  "rating_count": 38900
+ },
+ {
+  "id": "chunks",
+  "title": "Chunks",
+  "year": 2026,
+  "director": "Nate Fisher, Pierce Campion",
+  "runtime": 80,
+  "country": "USA",
+  "lang": "English",
+  "why": "An anthology film of six unique comedy shorts threaded together with your host, faded Hollywood starlet Ruby, and taking inspiration from the glamourous by-gone era of late nite public access weirdness.  With live act…",
+  "poster": "https://image.tmdb.org/t/p/w500/4joYgcGV2VnNVVANaF2XA7WzNL9.jpg",
+  "tags": [
+   "Premiere",
+   "Comedy"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-09-01"
+    ],
+    "time": "20:30",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/616251/"
+   }
+  ],
+  "art": [
+   "#40183a",
+   "#f24d94"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.36,
+  "rating_count": 259
+ },
+ {
+  "id": "super-wonder-short-films",
+  "title": "Super Wonder Short Films",
+  "year": 2017,
+  "director": "Patty Jenkins",
+  "runtime": 60,
+  "country": "USA, China, Hong Kong",
+  "lang": "English",
+  "why": "Wonder Woman is a 2017 superhero film based on the DC Comics character Wonder Woman. Directed by Patty Jenkins from a screenplay by Allan Heinberg, and based on a story by Heinberg, Zack Snyder, and Jason Fuchs, it is…",
+  "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/350/2026/08/11134325/SUPER-WONDER-572x1024.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-09-14"
+    ],
+    "time": "12:30",
+    "format": "",
+    "url": "https://bemusednetwork.com/events/detail/1080"
+   }
+  ],
+  "art": [
+   "#24303a",
+   "#9ab0c4"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "toronto-48-hour-film-retrospective",
+  "title": "Toronto 48 Hour Film Retrospective",
+  "year": null,
+  "director": "",
+  "runtime": 90,
+  "country": "",
+  "lang": "International",
+  "why": "The Toronto International Film Festival is one of the most prestigious and largest publicly attended film festivals in the world. Founded in 1976, the festival takes place every year in early September, in downtown To…",
+  "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/350/2026/08/11135348/48-FILM-FEST-1.png",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-09-14"
+    ],
+    "time": "14:00",
+    "format": "",
+    "url": "https://bemusednetwork.com/events/detail/1079"
+   }
+  ],
+  "art": [
+   "#3a3218",
+   "#d9c06a"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "magicland-a-mythological-musical",
+  "title": "Magicland: A Mythological Musical",
+  "year": null,
+  "director": "",
+  "runtime": 90,
+  "country": "",
+  "lang": "",
+  "why": "The Marvel Family, also known as the Shazam Family, are a group of superheroes who originally appeared in American comic books published by Fawcett Comics and were later acquired by DC Comics. Created in 1942 by write…",
+  "poster": "/static/images/icons/enwiki-25.svg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-09-14"
+    ],
+    "time": "16:00",
+    "format": "",
+    "url": "https://bemusednetwork.com/events/detail/1078"
+   }
+  ],
+  "art": [
+   "#101b2a",
+   "#e0562a"
+  ],
+  "_tmdb_matched": false,
   "rating": null,
   "rating_count": null
  },
@@ -5053,51 +6051,6 @@
    "Comedy"
   ],
   "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "21:15",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/607685/"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "12:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=6827283&aud=5&ptime=12:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "15:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=6827283&aud=5&ptime=15:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "18:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=6827283&aud=6&ptime=18:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "21:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=6827283&aud=7&ptime=21:45&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -5352,1293 +6305,12 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.56,
   "rating_count": 4252
- },
- {
-  "id": "magic-mike-xxl",
-  "title": "Magic Mike XXL",
-  "year": 2015,
-  "director": "Gregory Jacobs",
-  "runtime": 115,
-  "country": "USA",
-  "lang": "English",
-  "why": "Three years after Mike bowed out of the stripper life at the top of his game, he and the remaining Kings of Tampa hit the road to Myrtle Beach to put on one last blow-out performance.",
-  "poster": "https://image.tmdb.org/t/p/w500/jkuCNd3wOmf4sDlZ89HEt8jmsqr.jpg",
-  "tags": [
-   "Comedy",
-   "Drama"
-  ],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-14"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/595642/"
-   }
-  ],
-  "art": [
-   "#2b3a2f",
-   "#e0b34d"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.16,
-  "rating_count": 91065
- },
- {
-  "id": "the-incredibles",
-  "title": "The Incredibles",
-  "year": 2004,
-  "director": "Brad Bird",
-  "runtime": 115,
-  "country": "USA",
-  "lang": "French, English",
-  "why": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get b…",
-  "poster": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
-  "tags": [
-   "Action",
-   "Adventure",
-   "Animation"
-  ],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-15"
-    ],
-    "time": "14:00",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/613307/"
-   }
-  ],
-  "art": [
-   "#3a2b2b",
-   "#c94f4f"
-  ],
-  "_tmdb_matched": true,
-  "rating": 4.06,
-  "rating_count": 2461027
- },
- {
-  "id": "lost-chapters",
-  "title": "Lost Chapters",
-  "year": 2024,
-  "director": "Lorena Alvarado",
-  "runtime": 67,
-  "country": "USA, Venezuela",
-  "lang": "Spanish",
-  "why": "When Ena returns to Venezuela, after spending several years abroad, she discovers a postcard in her father's bookshop and sets off in search of a forgotten writer.",
-  "poster": "https://image.tmdb.org/t/p/w500/vylOXm8u3OhyrV9WrSTls5zFZC2.jpg",
-  "tags": [
-   "Premiere",
-   "Drama",
-   "Mystery"
-  ],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-15"
-    ],
-    "time": "17:00",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/613308/"
-   },
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-17"
-    ],
-    "time": "18:00",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/613313/"
-   }
-  ],
-  "art": [
-   "#1f2a44",
-   "#f0f0f0"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.52,
-  "rating_count": 523
- },
- {
-  "id": "rosebush-pruning",
-  "title": "Rosebush Pruning",
-  "year": 2026,
-  "director": "Karim Aïnouz",
-  "runtime": 95,
-  "country": "Germany, Italy",
-  "lang": "English",
-  "why": "In a Spanish villa, American siblings Jack, Ed, Anna and Robert wallow in isolation and their inherited fortune. When Jack wants to move in with his girlfriend and Ed uncovers the truth about their mother’s death, the…",
-  "poster": "https://image.tmdb.org/t/p/w500/tXsTtSgguTsk5J115jokwK55awF.jpg",
-  "tags": [
-   "Comedy",
-   "Drama",
-   "Thriller"
-  ],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-15"
-    ],
-    "time": "19:30",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/613309/"
-   },
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-17"
-    ],
-    "time": "20:30",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/615378/"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "13:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=700043862&aud=9&ptime=13:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=700043862&aud=9&ptime=16:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=700043862&aud=9&ptime=19:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "21:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=700043862&aud=9&ptime=21:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-14"
-    ],
-    "time": "12:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-14&film=700043862&aud=3&ptime=12:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-14"
-    ],
-    "time": "15:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-14&film=700043862&aud=1&ptime=15:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-14"
-    ],
-    "time": "21:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-14&film=700043862&aud=1&ptime=21:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-15"
-    ],
-    "time": "12:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-15&film=700043862&aud=3&ptime=12:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-15"
-    ],
-    "time": "15:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-15&film=700043862&aud=1&ptime=15:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-15"
-    ],
-    "time": "18:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-15&film=700043862&aud=3&ptime=18:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-15"
-    ],
-    "time": "21:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-15&film=700043862&aud=1&ptime=21:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-16"
-    ],
-    "time": "12:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-16&film=700043862&aud=3&ptime=12:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-16"
-    ],
-    "time": "15:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-16&film=700043862&aud=1&ptime=15:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-16"
-    ],
-    "time": "18:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-16&film=700043862&aud=3&ptime=18:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-16"
-    ],
-    "time": "21:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-16&film=700043862&aud=1&ptime=21:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-17"
-    ],
-    "time": "12:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-17&film=700043862&aud=3&ptime=12:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-17"
-    ],
-    "time": "15:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-17&film=700043862&aud=1&ptime=15:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-17"
-    ],
-    "time": "18:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-17&film=700043862&aud=3&ptime=18:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-17"
-    ],
-    "time": "21:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-17&film=700043862&aud=1&ptime=21:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-18"
-    ],
-    "time": "12:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-18&film=700043862&aud=3&ptime=12:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-18"
-    ],
-    "time": "15:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-18&film=700043862&aud=1&ptime=15:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-18"
-    ],
-    "time": "18:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-18&film=700043862&aud=3&ptime=18:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-18"
-    ],
-    "time": "21:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-18&film=700043862&aud=1&ptime=21:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-19"
-    ],
-    "time": "12:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-19&film=700043862&aud=3&ptime=12:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-19"
-    ],
-    "time": "15:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-19&film=700043862&aud=1&ptime=15:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-19"
-    ],
-    "time": "18:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-19&film=700043862&aud=3&ptime=18:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-19"
-    ],
-    "time": "21:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-19&film=700043862&aud=1&ptime=21:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-20"
-    ],
-    "time": "12:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-20&film=700043862&aud=3&ptime=12:55&ptype=G"
-   }
-  ],
-  "art": [
-   "#3a2440",
-   "#4dd6c4"
-  ],
-  "_tmdb_matched": true,
-  "rating": 2.66,
-  "rating_count": 6797
- },
- {
-  "id": "jingleman",
-  "title": "Jingleman",
-  "year": 2026,
-  "director": "",
-  "runtime": 82,
-  "country": "USA",
-  "lang": "English",
-  "why": "\"The Testimony of the Suns\" is a lengthy astronomical poem by American poet and playwright George Sterling that combines elements of science, fantasy, science fiction, and philosophy. Literary historian S. T. Joshi ca…",
-  "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/350/2026/08/10193658/Jingleman-Paradise-Screening-Digital-Poster-576x1024.png",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-16"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://jeff-robinson.bloomtickets.ca/event/2141?JinglemanScreening"
-   }
-  ],
-  "art": [
-   "#123a3a",
-   "#7fd4e0"
-  ],
-  "_tmdb_matched": false,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "the-wild-bunch",
-  "title": "The Wild Bunch",
-  "year": 1969,
-  "director": "Sam Peckinpah",
-  "runtime": 145,
-  "country": "USA",
-  "lang": "English, German",
-  "why": "An aging group of outlaws look for one last big score as the \"traditional\" American West is disappearing around them.",
-  "poster": "https://image.tmdb.org/t/p/w500/8j9yEC3xjy1PJDSizIbaxcHaSph.jpg",
-  "tags": [
-   "Western"
-  ],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-18"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/607275/"
-   }
-  ],
-  "art": [
-   "#2a3550",
-   "#e88b6a"
-  ],
-  "_tmdb_matched": true,
-  "rating": 4.1,
-  "rating_count": 78287
- },
- {
-  "id": "modern-classic",
-  "title": "Modern Classic",
-  "year": 2017,
-  "director": "Jonathon M.B. Hunter",
-  "runtime": 83,
-  "country": "USA",
-  "lang": "English",
-  "why": "No one wants to see a black and white film about a drunk who kills his dog. Jono and Dave learned that the hard way.",
-  "poster": "https://image.tmdb.org/t/p/w500/2LvoAfChnqR7HdLxIxVot77jrIR.jpg",
-  "tags": [
-   "Comedy"
-  ],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-20"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://www.eventbrite.ca/e/modern-classic-ten-year-anniversary-screening-tickets-1993366464756?aff=oddtdtcreator"
-   }
-  ],
-  "art": [
-   "#40183a",
-   "#f24d94"
-  ],
-  "_tmdb_matched": true,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "steamboat-stumble",
-  "title": "Steamboat Stumble",
-  "year": 2026,
-  "director": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inhe",
-  "runtime": 67,
-  "country": "USA",
-  "lang": "English",
-  "why": "Steamboat Willie is a 1928 American animated short film directed by Walt Disney and Ub Iwerks. It was produced in black-and-white by Disney Cartoons and was released by Pat Powers' Celebrity Productions. The cartoon i…",
-  "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/350/2026/07/14130207/Poster_Simple_1-663x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-22"
-    ],
-    "time": "11:00",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/596014/"
-   },
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-22"
-    ],
-    "time": "17:00",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/596016/"
-   }
-  ],
-  "art": [
-   "#24303a",
-   "#9ab0c4"
-  ],
-  "_tmdb_matched": false,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "boogie-nights-4k-restoration",
-  "title": "Boogie Nights: 4K Restoration",
-  "year": 1997,
-  "director": "James Cameron",
-  "runtime": 156,
-  "country": "USA",
-  "lang": "English",
-  "why": "Titanic is a 1997 American epic historical romance film written and directed by James Cameron. Incorporating both historical and fictional aspects, it is based on accounts of the sinking of RMS Titanic in 1912. Leonar…",
-  "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/350/2026/07/03142504/MV5BOTFmZmE4OTMtNDYxNi00MmZmLThlYjktMmExMzMwY2YzOTFiXkEyXkFqcGc%40._V1_.jpg",
-  "tags": [
-   "4K",
-   "Restoration"
-  ],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-22"
-    ],
-    "time": "21:00",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/609775/"
-   }
-  ],
-  "art": [
-   "#3a3218",
-   "#d9c06a"
-  ],
-  "_tmdb_matched": false,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "the-great-escape",
-  "title": "The Great Escape",
-  "year": 1963,
-  "director": "John Sturges",
-  "runtime": 173,
-  "country": "USA",
-  "lang": "English, German",
-  "why": "The Nazis, exasperated at the number of escapes from their prison camps by a relatively small number of Allied prisoners, relocate them to a high-security 'escape-proof' camp to sit out the remainder of the war. Undau…",
-  "poster": "https://image.tmdb.org/t/p/w500/gBH4H8UMFxl139HaLz6lRuvsel8.jpg",
-  "tags": [
-   "Adventure",
-   "Drama",
-   "War"
-  ],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-23"
-    ],
-    "time": "14:30",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/607277/"
-   }
-  ],
-  "art": [
-   "#101b2a",
-   "#e0562a"
-  ],
-  "_tmdb_matched": true,
-  "rating": 4.17,
-  "rating_count": 159852
- },
- {
-  "id": "tally-brown-new-york",
-  "title": "Tally Brown, New York",
-  "year": 1979,
-  "director": "Rosa von Praunheim",
-  "runtime": 97,
-  "country": "Germany, USA",
-  "lang": "German, English",
-  "why": "Tally Brown, New York is a 1979 documentary film directed, written and produced by Rosa von Praunheim. The film is about the singing and acting career of Tally Brown, a classically trained opera and blues singer who w…",
-  "poster": "https://image.tmdb.org/t/p/w500/gHEtKOR0T9DWZKrtXzyEOsjFPoH.jpg",
-  "tags": [
-   "Documentary"
-  ],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-23"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/554367/"
-   }
-  ],
-  "art": [
-   "#3a2a1a",
-   "#f0a83c"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.72,
-  "rating_count": 450
- },
- {
-  "id": "sheep-in-the-box",
-  "title": "Sheep in the Box",
-  "year": 2026,
-  "director": "Hirokazu Kore-eda",
-  "runtime": 126,
-  "country": "Japan",
-  "lang": "Japanese",
-  "why": "Set in the near future, Otone Komoto works as an architect. She is married to Kensuke Komoto, who runs a construction company. The married couple decide to welcome a humanoid robot into their home as their son.",
-  "poster": "https://image.tmdb.org/t/p/w500/9rOCIYYT8Q76FHgl3Nm5ofuc6TQ.jpg",
-  "tags": [
-   "Drama",
-   "Science Fiction"
-  ],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-24"
-    ],
-    "time": "17:45",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/613317/"
-   },
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-31"
-    ],
-    "time": "17:30",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/613327/"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=56924030&aud=5&ptime=18:30&ptype=G"
-   }
-  ],
-  "art": [
-   "#2a3324",
-   "#d4b26a"
-  ],
-  "_tmdb_matched": true,
-  "rating": 2.9,
-  "rating_count": 3330
- },
- {
-  "id": "the-dirty-dozen",
-  "title": "The Dirty Dozen",
-  "year": 1967,
-  "director": "Robert Aldrich",
-  "runtime": 149,
-  "country": "United Kingdom, USA",
-  "lang": "Latin, English",
-  "why": "12 American military prisoners in World War II are ordered to infiltrate a well-guarded enemy château and kill the Nazi officers vacationing there. The soldiers, most of whom are facing death sentences for a variety o…",
-  "poster": "https://image.tmdb.org/t/p/w500/tFWWsuhp22zJ6OG6QepJIiPUfeF.jpg",
-  "tags": [
-   "Action",
-   "Adventure",
-   "War"
-  ],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-24"
-    ],
-    "time": "20:30",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/607281/"
-   }
-  ],
-  "art": [
-   "#2b3a2f",
-   "#e0b34d"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.84,
-  "rating_count": 47908
- },
- {
-  "id": "all-night-wrong",
-  "title": "All Night Wrong",
-  "year": 2026,
-  "director": "Jason James",
-  "runtime": 91,
-  "country": "Canada, United Kingdom",
-  "lang": "English",
-  "why": "Gary and Ell (a married man with an inferiority complex, and a grieving young widow) meet on a blind date only to wind up stealing a killer's car along with a dead body and $40,000.",
-  "poster": "https://image.tmdb.org/t/p/w500/h9BflrDHZSQVFxyZJE0mTOdhqpH.jpg",
-  "tags": [
-   "Comedy",
-   "Crime",
-   "Thriller"
-  ],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-25"
-    ],
-    "time": "18:00",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/613319/"
-   },
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-27"
-    ],
-    "time": "18:00",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/613323/"
-   }
-  ],
-  "art": [
-   "#3a2b2b",
-   "#c94f4f"
-  ],
-  "_tmdb_matched": true,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "dreams-in-nightmares",
-  "title": "Dreams in Nightmares",
-  "year": 2024,
-  "director": "Shatara Michelle Ford",
-  "runtime": 128,
-  "country": "USA, Taiwan",
-  "lang": "English",
-  "why": "After an abrupt layoff, Z embarks on a trip across the Midwestern United States in search of a friend who has seemingly disappeared off the grid. Traveling with her two closest friends, these three queer black femmes …",
-  "poster": "https://image.tmdb.org/t/p/w500/j5dxzoXeQB9pmOnO0TjSoMDceSk.jpg",
-  "tags": [
-   "Drama"
-  ],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-25"
-    ],
-    "time": "20:30",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/613320/"
-   },
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-28"
-    ],
-    "time": "17:30",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/613325/"
-   }
-  ],
-  "art": [
-   "#1f2a44",
-   "#f0f0f0"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.42,
-  "rating_count": 1013
- },
- {
-  "id": "set-it-off",
-  "title": "Set It Off",
-  "year": 1996,
-  "director": "F. Gary Gray",
-  "runtime": 123,
-  "country": "USA",
-  "lang": "English",
-  "why": "Four inner-city Black women, determined to end their constant struggle, decide to live by one rule — get what you want or die trying. So the four women take back their lives and take out some banks in the process.",
-  "poster": "https://image.tmdb.org/t/p/w500/wpiARyUqTfabzakAXHMIUY6Tl1A.jpg",
-  "tags": [
-   "Crime",
-   "Drama",
-   "Thriller"
-  ],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-26"
-    ],
-    "time": "19:30",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/555741/"
-   }
-  ],
-  "art": [
-   "#3a2440",
-   "#4dd6c4"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.75,
-  "rating_count": 34883
- },
- {
-  "id": "lunar-sway",
-  "title": "Lunar Sway",
-  "year": 2026,
-  "director": "Nick Butler",
-  "runtime": 98,
-  "country": "Canada",
-  "lang": "English",
-  "why": "Cliff is struggling with his love life in a desert town when he unexpectedly connects with his estranged birth mother. After learning of his mom’s string of secrets, Cliff is led on a wild misadventure while also spen…",
-  "poster": "https://image.tmdb.org/t/p/w500/shJB0w3AgNBIvZw6uffu2EdnqLN.jpg",
-  "tags": [
-   "Comedy"
-  ],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-27"
-    ],
-    "time": "20:30",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/598240/"
-   },
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-28"
-    ],
-    "time": "20:30",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/598242/"
-   },
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-30"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/598244/"
-   }
-  ],
-  "art": [
-   "#123a3a",
-   "#7fd4e0"
-  ],
-  "_tmdb_matched": true,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "the-wages-of-fear",
-  "title": "The Wages of Fear",
-  "year": 1953,
-  "director": "Henri-Georges Clouzot",
-  "runtime": 154,
-  "country": "France, Italy",
-  "lang": "French, English",
-  "why": "In a run-down South American town, four men are paid to drive trucks loaded with nitroglycerin into the jungle through to the oil field. Friendships are tested and rivalries develop as they embark upon the perilous jo…",
-  "poster": "https://image.tmdb.org/t/p/w500/sNOvIp4X0fmCMfgEs2ww5IyMgFm.jpg",
-  "tags": [
-   "Drama",
-   "Thriller",
-   "Adventure"
-  ],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-29"
-    ],
-    "time": "14:00",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/607269/"
-   }
-  ],
-  "art": [
-   "#2a3550",
-   "#e88b6a"
-  ],
-  "_tmdb_matched": true,
-  "rating": 4.36,
-  "rating_count": 70698
- },
- {
-  "id": "self-revolutionary-cinematic-struggle",
-  "title": "Self-Revolutionary Cinematic Struggle",
-  "year": 2023,
-  "director": "Gakuryu Ishii",
-  "runtime": 165,
-  "country": "Japan",
-  "lang": "Japanese",
-  "why": "Gakuryu Ishii, who is a professor of film course at Kobe Institute of Technology, suddenly disappears after falling into a mad state driven by his own idea of \"self-revolutionary movie struggle work\". His assistant pr…",
-  "poster": "https://image.tmdb.org/t/p/w500/xScOBJAAXRK5VmjsRAv0juR6TxR.jpg",
-  "tags": [
-   "Premiere"
-  ],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-30"
-    ],
-    "time": "14:00",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/613348/"
-   }
-  ],
-  "art": [
-   "#40183a",
-   "#f24d94"
-  ],
-  "_tmdb_matched": true,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "jim-queen",
-  "title": "Jim Queen",
-  "year": 2026,
-  "director": "Marco Nguyen, Nicolas Athané",
-  "runtime": 85,
-  "country": "France, Belgium",
-  "lang": "French",
-  "why": "When Heterosis - a mysterious virus that turns gay men straight sweeps through the Parisian gay scene, Jim, the six packed sovereign of the Gym Queens, goes from Pride royalty to social outcast. With only Lucien, a fr…",
-  "poster": "https://image.tmdb.org/t/p/w500/nvmGrOzolKlW1z90rLudSjPm9cG.jpg",
-  "tags": [
-   "Premiere",
-   "Animation",
-   "Comedy"
-  ],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-08-31"
-    ],
-    "time": "20:30",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/605243/"
-   }
-  ],
-  "art": [
-   "#24303a",
-   "#9ab0c4"
-  ],
-  "_tmdb_matched": true,
-  "rating": 4.0,
-  "rating_count": 38900
- },
- {
-  "id": "chunks",
-  "title": "Chunks",
-  "year": 2026,
-  "director": "Nate Fisher, Pierce Campion",
-  "runtime": 80,
-  "country": "USA",
-  "lang": "English",
-  "why": "An anthology film of six unique comedy shorts threaded together with your host, faded Hollywood starlet Ruby, and taking inspiration from the glamourous by-gone era of late nite public access weirdness.  With live act…",
-  "poster": "https://image.tmdb.org/t/p/w500/4joYgcGV2VnNVVANaF2XA7WzNL9.jpg",
-  "tags": [
-   "Premiere",
-   "Comedy"
-  ],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "20:30",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/616251/"
-   }
-  ],
-  "art": [
-   "#3a3218",
-   "#d9c06a"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.36,
-  "rating_count": 259
- },
- {
-  "id": "super-wonder-short-films",
-  "title": "Super Wonder Short Films",
-  "year": 2017,
-  "director": "Patty Jenkins",
-  "runtime": 60,
-  "country": "USA, China, Hong Kong",
-  "lang": "English",
-  "why": "Wonder Woman is a 2017 superhero film based on the DC Comics character Wonder Woman. Directed by Patty Jenkins from a screenplay by Allan Heinberg, and based on a story by Heinberg, Zack Snyder, and Jason Fuchs, it is…",
-  "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/350/2026/08/11134325/SUPER-WONDER-572x1024.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-09-14"
-    ],
-    "time": "12:30",
-    "format": "",
-    "url": "https://bemusednetwork.com/events/detail/1080"
-   }
-  ],
-  "art": [
-   "#101b2a",
-   "#e0562a"
-  ],
-  "_tmdb_matched": false,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "toronto-48-hour-film-retrospective",
-  "title": "Toronto 48 Hour Film Retrospective",
-  "year": null,
-  "director": "",
-  "runtime": 90,
-  "country": "",
-  "lang": "International",
-  "why": "The Toronto International Film Festival is one of the most prestigious and largest publicly attended film festivals in the world. Founded in 1976, the festival takes place every year in early September, in downtown To…",
-  "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/350/2026/08/11135348/48-FILM-FEST-1.png",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-09-14"
-    ],
-    "time": "14:00",
-    "format": "",
-    "url": "https://bemusednetwork.com/events/detail/1079"
-   }
-  ],
-  "art": [
-   "#3a2a1a",
-   "#f0a83c"
-  ],
-  "_tmdb_matched": false,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "magicland-a-mythological-musical",
-  "title": "Magicland: A Mythological Musical",
-  "year": null,
-  "director": "",
-  "runtime": 90,
-  "country": "",
-  "lang": "",
-  "why": "The Marvel Family, also known as the Shazam Family, are a group of superheroes who originally appeared in American comic books published by Fawcett Comics and were later acquired by DC Comics. Created in 1942 by write…",
-  "poster": "/static/images/icons/enwiki-25.svg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-09-14"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://bemusednetwork.com/events/detail/1078"
-   }
-  ],
-  "art": [
-   "#2a3324",
-   "#d4b26a"
-  ],
-  "_tmdb_matched": false,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "backrooms-everything-must-go-edition",
-  "title": "Backrooms: Everything Must Go Edition",
-  "year": 2026,
-  "director": "Kane Parsons",
-  "runtime": 111,
-  "country": "USA, Canada",
-  "lang": "English",
-  "why": "A strange doorway appears in the basement of a furniture showroom.",
-  "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-  "tags": [
-   "Horror",
-   "Mystery",
-   "Science Fiction"
-  ],
-  "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "12:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=729084568&aud=6&ptime=12:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "15:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=729084568&aud=6&ptime=15:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=729084568&aud=6&ptime=21:30&ptype=G"
-   }
-  ],
-  "art": [
-   "#2b3a2f",
-   "#e0b34d"
-  ],
-  "_tmdb_matched": true,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "run-lola-run",
-  "title": "Run Lola Run",
-  "year": 1998,
-  "director": "Tom Tykwer",
-  "runtime": 80,
-  "country": "Germany",
-  "lang": "German, English",
-  "why": "Lola receives a phone call from her boyfriend Manni. He lost 100,000 DM in a subway train that belongs to a very bad guy. She has 20 minutes to raise this amount and meet Manni. Otherwise, he will rob a store to get t…",
-  "poster": "https://image.tmdb.org/t/p/w500/v0giIi4bTILVhNhJajet3WWY3FA.jpg",
-  "tags": [
-   "Action",
-   "Drama",
-   "Thriller"
-  ],
-  "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "13:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=481777787&aud=1&ptime=13:10&ptype=G"
-   }
-  ],
-  "art": [
-   "#3a2b2b",
-   "#c94f4f"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.86,
-  "rating_count": 269827
- },
- {
-  "id": "solaris",
-  "title": "Solaris",
-  "year": 1972,
-  "director": "Andrei Tarkovsky",
-  "runtime": 167,
-  "country": "Soviet Union",
-  "lang": "Russian",
-  "why": "A psychologist is sent to a space station orbiting a planet called Solaris to investigate the death of a doctor and the mental problems of cosmonauts on the station. He soon discovers that the water on the planet is a…",
-  "poster": "https://image.tmdb.org/t/p/w500/pgqj7QoBPWFLLKtLEpPmFYFRMgB.jpg",
-  "tags": [
-   "Drama",
-   "Science Fiction",
-   "Mystery"
-  ],
-  "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "12:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=938726078&aud=2&ptime=12:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "15:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=938726078&aud=1&ptime=15:30&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "18:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=938726078&aud=2&ptime=18:35&ptype=G"
-   }
-  ],
-  "art": [
-   "#1f2a44",
-   "#f0f0f0"
-  ],
-  "_tmdb_matched": true,
-  "rating": 4.22,
-  "rating_count": 216167
- },
- {
-  "id": "starting-from-where-we-are",
-  "title": "Starting From Where We Are",
-  "year": 2023,
-  "director": "Mahalia Belo",
-  "runtime": 60,
-  "country": "United Kingdom",
-  "lang": "English",
-  "why": "Celebrate dance: made in canada / fait au canada Festival's ongoing commitment to Canadian filmmakers, choreographers, and dancers with stunning new dance–media collisions from across the country. This collection of shor",
-  "poster": "https://omniwebticketing6.com/imaginecinemas/files-circuit/images/posters/2026%20pp%20dmic%20dance%20on%20film%20carleton%20cinema%20image%201400x2100%20v3.png",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=775949514&aud=3&ptime=19:00&ptype=G"
-   }
-  ],
-  "art": [
-   "#3a2440",
-   "#4dd6c4"
-  ],
-  "_tmdb_matched": false,
-  "rating": null,
-  "rating_count": null
  },
  {
   "id": "super-troopers-3",
@@ -6656,42 +6328,6 @@
    "Mystery"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "12:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=502755832&aud=4&ptime=12:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "15:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=502755832&aud=4&ptime=15:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "18:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=502755832&aud=4&ptime=18:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=502755832&aud=4&ptime=21:30&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -6946,8 +6582,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 2.72,
@@ -6969,33 +6605,6 @@
    "Thriller"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "16:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=569933238&aud=2&ptime=16:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "19:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=569933238&aud=1&ptime=19:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "21:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=569933238&aud=1&ptime=21:50&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -7250,63 +6859,12 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.16,
   "rating_count": 13604
- },
- {
-  "id": "the-outer-threat",
-  "title": "The Outer Threat",
-  "year": 2026,
-  "director": "William Woods",
-  "runtime": 94,
-  "country": "Canada",
-  "lang": "English",
-  "why": "After making a groundbreaking extraterrestrial discovery, astrophysicists Daniel and Michelle are forced to flee from home with their family — pursued through the countryside by a relentless and anonymous assailant. A…",
-  "poster": "https://image.tmdb.org/t/p/w500/jspztckSybRKigzz5IFueP8qptV.jpg",
-  "tags": [
-   "Science Fiction",
-   "Thriller"
-  ],
-  "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "12:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=924945106&aud=3&ptime=12:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "15:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=924945106&aud=3&ptime=15:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-08-13"
-    ],
-    "time": "21:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-13&film=924945106&aud=3&ptime=21:40&ptype=G"
-   }
-  ],
-  "art": [
-   "#40183a",
-   "#f24d94"
-  ],
-  "_tmdb_matched": true,
-  "rating": 2.87,
-  "rating_count": 479
  },
  {
   "id": "the-wrong-girls",
@@ -7577,12 +7135,12 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
-  "rating": null,
-  "rating_count": null
+  "rating": 3.3,
+  "rating_count": 1706
  },
  {
   "id": "wet-hot-american-summer",
@@ -7852,8 +7410,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.52,
@@ -8129,8 +7687,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 4.23,
@@ -8180,11 +7738,133 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": null,
   "rating_count": null
+ },
+ {
+  "id": "across-the-universe",
+  "title": "Across the Universe",
+  "year": 2007,
+  "director": "Julie Taymor",
+  "runtime": 133,
+  "country": "USA",
+  "lang": "English",
+  "why": "When young dockworker Jude leaves Liverpool to find his estranged father in the United States, he is swept up by the waves of change that are re-shaping the nation. Jude falls in love with Lucy, who joins the growing …",
+  "poster": "https://image.tmdb.org/t/p/w500/447c8Te3DXC46rQvDEixKGO4dS6.jpg",
+  "tags": [
+   "Drama",
+   "Romance",
+   "Fantasy"
+  ],
+  "screenings": [
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-21"
+    ],
+    "time": "12:30",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-21&film=779480293&aud=1&ptime=12:30&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-21"
+    ],
+    "time": "15:30",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-21&film=779480293&aud=1&ptime=15:30&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-21"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-21&film=779480293&aud=1&ptime=18:30&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-21"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-21&film=779480293&aud=1&ptime=21:30&ptype=G"
+   }
+  ],
+  "art": [
+   "#2a3550",
+   "#e88b6a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.52,
+  "rating_count": 124957
+ },
+ {
+  "id": "castle-in-the-sky",
+  "title": "Castle in the Sky",
+  "year": 1986,
+  "director": "Hayao Miyazaki",
+  "runtime": 125,
+  "country": "Japan",
+  "lang": "Japanese",
+  "why": "A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle.",
+  "poster": "https://image.tmdb.org/t/p/w500/41XxSsJc5OrulP0m7TrrUeO2hoz.jpg",
+  "tags": [
+   "Adventure",
+   "Fantasy",
+   "Animation"
+  ],
+  "screenings": [
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-21"
+    ],
+    "time": "15:40",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-21&film=14426415&aud=2&ptime=15:40&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-21"
+    ],
+    "time": "21:40",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-21&film=14426415&aud=2&ptime=21:40&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-21"
+    ],
+    "time": "12:40",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-21&film=493486002&aud=2&ptime=12:40&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-08-21"
+    ],
+    "time": "18:40",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-08-21&film=493486002&aud=2&ptime=18:40&ptype=G"
+   }
+  ],
+  "art": [
+   "#40183a",
+   "#f24d94"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.08,
+  "rating_count": 608138
  }
 ]
