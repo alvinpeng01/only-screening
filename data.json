@@ -1,5 +1,38 @@
 [
  {
+  "id": "the-lair-of-the-white-worm",
+  "title": "The Lair of the White Worm",
+  "year": 1988,
+  "director": "Ken Russell",
+  "runtime": 93,
+  "country": "United Kingdom",
+  "lang": "English",
+  "why": "When an archaeologist uncovers a strange skull in a foreign land, the residents of a nearby town begin to disappear, leading to further inexplicable occurrences.",
+  "poster": "https://image.tmdb.org/t/p/w500/bhL5Z8srwSXJuosfBqei9Dxv41C.jpg",
+  "tags": [
+   "Horror",
+   "Comedy"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-24"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1033960~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#2b3a2f",
+   "#e0b34d"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.44,
+  "rating_count": 52947
+ },
+ {
   "id": "jigoku",
   "title": "Jigoku",
   "year": 1960,
@@ -26,8 +59,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.62,
@@ -60,8 +93,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.83,
@@ -94,8 +127,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.02,
@@ -128,8 +161,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.18,
@@ -162,8 +195,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.33,
@@ -195,8 +228,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -225,8 +258,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -376,8 +409,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -409,8 +442,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.23,
@@ -443,8 +476,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 2.73,
@@ -476,8 +509,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.23,
@@ -510,8 +543,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.59,
@@ -544,8 +577,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.61,
@@ -577,8 +610,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.78,
@@ -629,15 +662,6 @@
    {
     "theatre": "paradise",
     "dates": [
-     "2026-09-01"
-    ],
-    "time": "18:00",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/629526/"
-   },
-   {
-    "theatre": "paradise",
-    "dates": [
      "2026-09-02"
     ],
     "time": "18:00",
@@ -645,40 +669,13 @@
     "url": "https://paradiseonbloor.com/purchase/629528/"
    },
    {
-    "theatre": "carlton",
+    "theatre": "paradise",
     "dates": [
-     "2026-09-01"
+     "2026-09-08"
     ],
-    "time": "13:10",
+    "time": "20:30",
     "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=55715184&aud=8&ptime=13:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=55715184&aud=8&ptime=16:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=55715184&aud=8&ptime=19:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "21:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=55715184&aud=8&ptime=21:45&ptype=G"
+    "url": "https://paradiseonbloor.com/purchase/640166/"
    },
    {
     "theatre": "carlton",
@@ -736,8 +733,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.33,
@@ -770,8 +767,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -803,8 +800,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.41,
@@ -879,173 +876,11 @@
     "time": "21:45",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-03&film=757047543&aud=5&ptime=21:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-04"
-    ],
-    "time": "12:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-04&film=757047543&aud=5&ptime=12:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-04"
-    ],
-    "time": "15:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-04&film=757047543&aud=4&ptime=15:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-04"
-    ],
-    "time": "18:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-04&film=757047543&aud=5&ptime=18:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-04"
-    ],
-    "time": "21:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-04&film=757047543&aud=4&ptime=21:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-05"
-    ],
-    "time": "12:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-05&film=757047543&aud=5&ptime=12:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-05"
-    ],
-    "time": "15:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-05&film=757047543&aud=4&ptime=15:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-05"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-05&film=757047543&aud=5&ptime=18:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-05"
-    ],
-    "time": "21:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-05&film=757047543&aud=4&ptime=21:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-06"
-    ],
-    "time": "12:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-06&film=757047543&aud=5&ptime=12:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-06"
-    ],
-    "time": "15:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-06&film=757047543&aud=4&ptime=15:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-06"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-06&film=757047543&aud=5&ptime=18:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-06"
-    ],
-    "time": "21:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-06&film=757047543&aud=4&ptime=21:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-07"
-    ],
-    "time": "12:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-07&film=757047543&aud=3&ptime=12:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-07"
-    ],
-    "time": "15:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-07&film=757047543&aud=3&ptime=15:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-07"
-    ],
-    "time": "18:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-07&film=757047543&aud=3&ptime=18:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-07"
-    ],
-    "time": "21:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-07&film=757047543&aud=3&ptime=21:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-08"
-    ],
-    "time": "18:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-08&film=757047543&aud=4&ptime=18:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-08"
-    ],
-    "time": "21:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-08&film=757047543&aud=4&ptime=21:45&ptype=G"
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 4.28,
@@ -1078,8 +913,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -1112,8 +947,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.0,
@@ -1145,8 +980,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.51,
@@ -1179,8 +1014,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 2.93,
@@ -1212,8 +1047,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.5,
@@ -1296,24 +1131,6 @@
     "time": "15:30",
     "format": "",
     "url": "https://revuecinema.ca/films/tony/"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "15:45",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=646167~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=646168~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
    },
    {
     "theatre": "fox",
@@ -1416,8 +1233,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.86,
@@ -1446,8 +1263,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -1496,8 +1313,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -1530,8 +1347,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 2.39,
@@ -1562,8 +1379,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.25,
@@ -1596,8 +1413,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 4.01,
@@ -1628,8 +1445,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 4.33,
@@ -1660,8 +1477,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.51,
@@ -1708,8 +1525,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -1747,8 +1564,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -1790,8 +1607,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 4.07,
@@ -1823,8 +1640,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.43,
@@ -1855,8 +1672,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -1889,8 +1706,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 2.6,
@@ -1923,8 +1740,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.66,
@@ -1957,8 +1774,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.14,
@@ -1987,8 +1804,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -2021,8 +1838,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 2.69,
@@ -2054,8 +1871,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.29,
@@ -2088,8 +1905,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.1,
@@ -2122,8 +1939,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.26,
@@ -2156,8 +1973,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.7,
@@ -2189,8 +2006,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.62,
@@ -2223,8 +2040,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.99,
@@ -2257,46 +2074,12 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
-  ],
-  "_tmdb_matched": true,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "mysterious-skin",
-  "title": "Mysterious Skin",
-  "year": 2005,
-  "director": "Gregg Araki",
-  "runtime": 105,
-  "country": "USA, Netherlands",
-  "lang": "English",
-  "why": "A teenage hustler and a young man obsessed with alien abductions cross paths, together discovering a horrible, liberating truth.",
-  "poster": "https://image.tmdb.org/t/p/w500/wgSwDqhl6Rt3cuSCwt5sNpPna3x.jpg",
-  "tags": [
-   "4K",
-   "Restoration",
-   "Drama"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1026352~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
    "#2b3a2f",
    "#e0b34d"
   ],
   "_tmdb_matched": true,
-  "rating": 4.23,
-  "rating_count": 676647
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "dead-buried",
@@ -2560,42 +2343,6 @@
     "time": "16:00",
     "format": "",
     "url": "https://revuecinema.ca/films/buddy-2026/"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "13:05",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=897313222&aud=2&ptime=13:05&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "16:05",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=897313222&aud=2&ptime=16:05&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "18:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=897313222&aud=2&ptime=18:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "21:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=897313222&aud=2&ptime=21:40&ptype=G"
    },
    {
     "theatre": "carlton",
@@ -2967,7 +2714,7 @@
  {
   "id": "reel-fear-the-evolution-of-found-footage-horror",
   "title": "Reel Fear: The Evolution of Found Footage Horror",
-  "year": 2005,
+  "year": 1987,
   "director": "Various",
   "runtime": 90,
   "country": "Various",
@@ -3159,7 +2906,7 @@
     "dates": [
      "2026-09-05"
     ],
-    "time": "16:00",
+    "time": "15:00",
     "format": "",
     "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1022048~fc639be0-110c-4035-a588-842aceff5ef6&"
    },
@@ -3343,6 +3090,586 @@
   "rating_count": 30581
  },
  {
+  "id": "fallen-angels",
+  "title": "Fallen Angels",
+  "year": 1995,
+  "director": "Wong Kar-Wai",
+  "runtime": 98,
+  "country": "Hong Kong",
+  "lang": "Japanese, Cantonese",
+  "why": "An indifferent hitman, his infatuated business partner and an ex-convict search for love and meaning as their lives cross paths in Hong Kong.",
+  "poster": "https://image.tmdb.org/t/p/w500/yyM9BPdwttK5LKZSLvHae7QPKo1.jpg",
+  "tags": [
+   "Action",
+   "Romance",
+   "Crime"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-08"
+    ],
+    "time": "18:45",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=644527~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-12"
+    ],
+    "time": "21:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=644528~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#3a2440",
+   "#4dd6c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.16,
+  "rating_count": 751113
+ },
+ {
+  "id": "exhibition-on-screen-james-mcneill-whistler",
+  "title": "Exhibition On Screen: James McNeill Whistler",
+  "year": 1997,
+  "director": "Mel Smith",
+  "runtime": 89,
+  "country": "United Kingdom",
+  "lang": "English",
+  "why": "In an era of great change and great beauty emerged the character of James McNeill Whistler. Considered by some to be one of the great innovators of 19th century art, he was a contemporary of the Impressionists, much admired by Van Gogh and Manet. Boldly experimental and famously witty, Whistler disrupted the strict conventions of […]",
+  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/09/762689833_1477289944427760_5609846765389654963_n_thumb.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-27"
+    ],
+    "time": "12:45",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649625~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-29"
+    ],
+    "time": "15:45",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649626~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#123a3a",
+   "#7fd4e0"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "detour-the-wailing",
+  "title": "Detour: The Wailing",
+  "year": null,
+  "director": "",
+  "runtime": null,
+  "country": "",
+  "lang": "",
+  "why": "The arrival of a mysterious stranger (Chun Woo-hee) in an otherwise quiet village coincides with a rash of vicious murders, causing panic and suspicion amongst the villagers. When the daughter of investigating officer Jong-Goo (Kwak Do-won) falls under the same savage spell, he calls for a shaman (Hwang Jung-min) to assist in finding the culprit…",
+  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/09/tmdb-lwe9ih9qgjx8hatybop7fg0nri_thumb.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-09"
+    ],
+    "time": "21:15",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651559~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-12"
+    ],
+    "time": "21:15",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651560~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#2a3550",
+   "#e88b6a"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "the-zone-dark-star",
+  "title": "The Zone:Dark Star",
+  "year": 2023,
+  "director": "Jonathan Glazer",
+  "runtime": 105,
+  "country": "United Kingdom, Poland, USA",
+  "lang": "German, Polish, Yiddish",
+  "why": "Part of our ongoing series “The Zone.” Step into another galaxy with this voyage through the many moods of Sci-Fi. This outrageously unique sci-fi headtrip was the debut feature from genre film emperor John Carpenter (“The Thing,” “Halloween”). The film originally began as a 45-minute student film project by Carpenter and collaborator Dan O’Bannon (“Alien”, […]",
+  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/09/dark_star_tmdb-aiqlbih0iwrog2q78dztt8ad9sp_thumb.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-05"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=644531~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-09"
+    ],
+    "time": "21:15",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=644532~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#40183a",
+   "#f24d94"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "women-talking",
+  "title": "Women Talking",
+  "year": 2022,
+  "director": "Sarah Polley",
+  "runtime": 104,
+  "country": "USA",
+  "lang": "English",
+  "why": "A group of women in an isolated religious colony struggle to reconcile their faith with a series of sexual assaults committed by the colony's men.",
+  "poster": "https://image.tmdb.org/t/p/w500/wcTc9GveMMjAdHSlzdE0FaRCtqi.jpg",
+  "tags": [
+   "Drama"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-08"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=631828~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#24303a",
+   "#9ab0c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.81,
+  "rating_count": 205774
+ },
+ {
+  "id": "birth",
+  "title": "Birth",
+  "year": 2004,
+  "director": "Jonathan Glazer",
+  "runtime": 100,
+  "country": "Germany, United Kingdom",
+  "lang": "English",
+  "why": "It took Anna 10 years to recover from the death of her husband, Sean, but now she's on the verge of marrying her boyfriend, Joseph, and finally moving on. However, on the night of her engagement party, a young boy nam…",
+  "poster": "https://image.tmdb.org/t/p/w500/z70iQ61WqhxETAz8ar2oD8pkIM.jpg",
+  "tags": [
+   "Drama",
+   "Mystery"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-01"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=629274~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#3a3218",
+   "#d9c06a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.71,
+  "rating_count": 98696
+ },
+ {
+  "id": "2026-cat-video-fest",
+  "title": "2026 Cat Video Fest",
+  "year": 2026,
+  "director": "Will Braden",
+  "runtime": 70,
+  "country": "USA",
+  "lang": "English",
+  "why": "Our fuzzy overlords return to the big screen! Each year, CatVideoFest curates a compilation reel of the latest, best cat videos culled from countless hours of unique submissions and sourced animations, music videos, a…",
+  "poster": "https://image.tmdb.org/t/p/w500/wXgqFo84RwEt6cRIe24BCjBPqPS.jpg",
+  "tags": [
+   "Comedy"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-05"
+    ],
+    "time": "13:40",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=647837~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-07"
+    ],
+    "time": "13:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=647838~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-11"
+    ],
+    "time": "16:20",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=647839~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-13"
+    ],
+    "time": "17:50",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=647840~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#101b2a",
+   "#e0562a"
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "you-had-to-be-there-how-the-toronto-godspell-ignited-the-com",
+  "title": "You Had to Be There: How the Toronto Godspell Ignited the Comedy Revolution…",
+  "year": 2026,
+  "director": "Nick Davis",
+  "runtime": 98,
+  "country": "Canada",
+  "lang": "English",
+  "why": "Martin Short, Eugene Levy, Gilda Radner, Victor Garber, Paul Shaffer, and other entertainment icons got their start in a 1972 Toronto production of the musical Godspell. Featuring interviews with the surviving cast me…",
+  "poster": "https://image.tmdb.org/t/p/w500/ww7BKE0TdKYLz0h6Ms8vLpptaiE.jpg",
+  "tags": [
+   "Documentary",
+   "Comedy"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-09"
+    ],
+    "time": "18:45",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649646~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-10"
+    ],
+    "time": "15:40",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649647~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-11"
+    ],
+    "time": "12:15",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649650~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-12"
+    ],
+    "time": "15:45",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649651~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-15"
+    ],
+    "time": "18:45",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649655~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#3a2a1a",
+   "#f0a83c"
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "the-wrong-girls",
+  "title": "The Wrong Girls",
+  "year": 2026,
+  "director": "Dylan Meyer",
+  "runtime": 99,
+  "country": "USA",
+  "lang": "English, Danish",
+  "why": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
+  "poster": "https://image.tmdb.org/t/p/w500/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
+  "tags": [
+   "Comedy",
+   "Crime",
+   "Science Fiction"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-04"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=648350~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-07"
+    ],
+    "time": "21:15",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=648351~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-09-08"
+    ],
+    "time": "18:00",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/640165/"
+   },
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-09-09"
+    ],
+    "time": "21:00",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/640169/"
+   }
+  ],
+  "art": [
+   "#2a3324",
+   "#d4b26a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.33,
+  "rating_count": 17292
+ },
+ {
+  "id": "the-salt-path",
+  "title": "The Salt Path",
+  "year": 2025,
+  "director": "Marianne Elliott",
+  "runtime": 115,
+  "country": "United Kingdom",
+  "lang": "English",
+  "why": "The profound story of husband and wife Raynor and Moth Winn, who embark on a 630-mile trek after being forcibly removed from their home. Hoping that in nature they will find solace and a sense of acceptance, they walk…",
+  "poster": "https://image.tmdb.org/t/p/w500/yBtmFkjzPzd6KvNgoJwwsm1nyXL.jpg",
+  "tags": [
+   "Drama"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-04"
+    ],
+    "time": "18:45",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=647616~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-05"
+    ],
+    "time": "15:50",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=647617~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-06"
+    ],
+    "time": "16:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=647618~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-07"
+    ],
+    "time": "15:40",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=647619~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-08"
+    ],
+    "time": "15:50",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=647620~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-09"
+    ],
+    "time": "15:40",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=647621~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-10"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=647622~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#2b3a2f",
+   "#e0b34d"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.27,
+  "rating_count": 24886
+ },
+ {
+  "id": "the-room",
+  "title": "The Room",
+  "year": 1978,
+  "director": "François Truffaut",
+  "runtime": 95,
+  "country": "France",
+  "lang": "French, Latin",
+  "why": "A widower maintains a memorial room filled with his late wife's belongings. When fire destroys it, he transforms a chapel into a new shrine to preserve her memory.",
+  "poster": "https://image.tmdb.org/t/p/w500/8D2Oty3FpihcNoNowuYbzOaXKsv.jpg",
+  "tags": [
+   "Drama"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-11-12"
+    ],
+    "time": "21:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=646472~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-11-21"
+    ],
+    "time": "21:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=646473~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#3a2b2b",
+   "#c94f4f"
+  ],
+  "_tmdb_matched": true,
+  "rating": 2.58,
+  "rating_count": 278581
+ },
+ {
+  "id": "drawn-in-the-girl-who-leapt-through-time",
+  "title": "Drawn In: The Girl Who Leapt Through Time",
+  "year": 2013,
+  "director": "Isao Takahata",
+  "runtime": 137,
+  "country": "Japan",
+  "lang": "Japanese",
+  "why": "Part of our ongoing series “Drawn In.” Wildly creative, romantic, hilarious, and refreshingly original, The Girl Who Leapt Through Time is irresistibly charming. “The Girl Who Leapt Through Time” is an early gem by Mamoru Hosoda, known for his stunning visuals and heartfelt storytelling. The film follows Makoto, a typical teenage girl who discovers she can […]",
+  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/09/gwltt_keyart_print_comingsoon.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-27"
+    ],
+    "time": "21:15",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=644524~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-29"
+    ],
+    "time": "21:20",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=644525~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#1f2a44",
+   "#f0f0f0"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
   "id": "teenage-sex-and-death-at-camp-miasma",
   "title": "Teenage Sex and Death at Camp Miasma",
   "year": 2026,
@@ -3358,51 +3685,6 @@
    "Horror"
   ],
   "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-05"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1018309~fc639be0-110c-4035-a588-842aceff5ef6&"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-06"
-    ],
-    "time": "12:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/teenage-sex-and-death-at-camp-miasma-first-run-screenings-special-dumpster-raccoon-event/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-09"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/teenage-sex-and-death-at-camp-miasma-first-run-screenings-special-dumpster-raccoon-event/"
-   },
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-10"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://revuecinema.ca/films/teenage-sex-and-death-at-camp-miasma-first-run-screenings-special-dumpster-raccoon-event/"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "21:15",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=646153~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
    {
     "theatre": "fox",
     "dates": [
@@ -3474,6 +3756,470 @@
   "_tmdb_matched": true,
   "rating": 3.88,
   "rating_count": 109828
+ },
+ {
+  "id": "memories-of-murder",
+  "title": "Memories of Murder",
+  "year": 2003,
+  "director": "Bong Joon Ho",
+  "runtime": 131,
+  "country": "South Korea",
+  "lang": "Korean, English",
+  "why": "A sadistic serial rapist and murderer of young women terrorizes a small province in 1980s South Korea. To prevent further crimes, three increasingly desperate detectives with conflicting methods race against time to u…",
+  "poster": "https://image.tmdb.org/t/p/w500/jcgUjx1QcupGzjntTVlnQ15lHqy.jpg",
+  "tags": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-13"
+    ],
+    "time": "20:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=648356~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#123a3a",
+   "#7fd4e0"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.42,
+  "rating_count": 1089834
+ },
+ {
+  "id": "tokyo-drifter",
+  "title": "Tokyo Drifter",
+  "year": 1966,
+  "director": "Seijun Suzuki",
+  "runtime": 83,
+  "country": "Japan",
+  "lang": "English, Japanese",
+  "why": "After yakuza boss Kurata dissolves his own criminal empire, a rival kingpin offers a position to Kurata's top operative, Tetsuya \"Phoenix Tetsu\" Hondo. When the fiercely loyal Tetsu declines, Otsuka taps unstoppable T…",
+  "poster": "https://image.tmdb.org/t/p/w500/dkscSldTB6FGUMMLnInUfKYLfPR.jpg",
+  "tags": [
+   "Thriller",
+   "Crime",
+   "Action"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-03"
+    ],
+    "time": "16:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649630~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-05"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649631~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#2a3550",
+   "#e88b6a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.76,
+  "rating_count": 47026
+ },
+ {
+  "id": "jawbreaker",
+  "title": "Jawbreaker",
+  "year": 1999,
+  "director": "Darren Stein",
+  "runtime": 87,
+  "country": "USA",
+  "lang": "English",
+  "why": "When an exclusive clique of teenage socialites accidentally murder their best friend on the morning of her birthday, the three girls responsible conspire to hide the truth.",
+  "poster": "https://image.tmdb.org/t/p/w500/7YrxXoG25hVCK4nYDHQv9YIk3Ye.jpg",
+  "tags": [
+   "Comedy",
+   "Crime",
+   "Thriller"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-06"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=646333~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#40183a",
+   "#f24d94"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.42,
+  "rating_count": 164452
+ },
+ {
+  "id": "high-school-musical-3-senior-year",
+  "title": "High School Musical 3: Senior Year",
+  "year": 2008,
+  "director": "Kenny Ortega",
+  "runtime": 112,
+  "country": "USA",
+  "lang": "English",
+  "why": "As seniors in high school, Troy and Gabriella struggle with the idea of being separated from one another as college approaches. Along with the rest of the Wildcats, they stage a spring musical to address their experie…",
+  "poster": "https://image.tmdb.org/t/p/w500/aq2o1wT0crBOTxof36O6KTyjpgE.jpg",
+  "tags": [
+   "Sing-Along",
+   "Comedy",
+   "Drama"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-11"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=646337~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#24303a",
+   "#9ab0c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.32,
+  "rating_count": 427324
+ },
+ {
+  "id": "scream-queens",
+  "title": "Scream Queens",
+  "year": 2007,
+  "director": "Charles Hopkins",
+  "runtime": 90,
+  "country": "",
+  "lang": "English",
+  "why": "Amateur home movies of Hollywood scream queens and aspiring horror starlets.",
+  "poster": "https://image.tmdb.org/t/p/w500/lexeKAilri8K17xrQtrOAjKxW2A.jpg",
+  "tags": [
+   "Horror"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-03"
+    ],
+    "time": "21:15",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651547~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-08"
+    ],
+    "time": "21:45",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651548~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#3a3218",
+   "#d9c06a"
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "scream-queens-the-shining",
+  "title": "Scream Queens: The Shining",
+  "year": null,
+  "director": "",
+  "runtime": null,
+  "country": "",
+  "lang": "",
+  "why": "Scream Queens is a tribute to the underestimated women in horror. Those who screamed, ran, fought, and clawed their way into cinematic history, becoming icons in their own right! Academy Award winner Jack Nicholson and Shelley Duvall star in director Stanley Kubrick’s disturbing adaptation of Stephen King’s blockbuster horror novel. When writer Jack Torrance (Nicholson)–who […]",
+  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/09/the_shining_tmdb-uar0awqhql1hqa69udebb2re5wx_thumb.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-10"
+    ],
+    "time": "18:15",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651550~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-11"
+    ],
+    "time": "21:15",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651551~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#101b2a",
+   "#e0562a"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "scream-queens-the-fog",
+  "title": "Scream Queens: The Fog",
+  "year": null,
+  "director": "",
+  "runtime": null,
+  "country": "",
+  "lang": "",
+  "why": "Scream Queens is a tribute to the underestimated women in horror. Those who screamed, ran, fought, and clawed their way into cinematic history, becoming icons in their own right! In a tiny California coastal town, strange things begin to occur as they prepare to commemorate their centenary: inanimate objects spring eerily to life; the local […]",
+  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/09/the_fog_tmdb-12eesborofp3ci4spmmfnnxcbty_thumb.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-24"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651556~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-25"
+    ],
+    "time": "21:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651557~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#3a2a1a",
+   "#f0a83c"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "scream-queens-possession",
+  "title": "Scream Queens: Possession",
+  "year": null,
+  "director": "",
+  "runtime": null,
+  "country": "",
+  "lang": "",
+  "why": "Scream Queens is a tribute to the underestimated women in horror. Those who screamed, ran, fought, and clawed their way into cinematic history, becoming icons in their own right! Polish director Andrej Zulawski’s 1981 ‘Possession’ remains one of the most demented movies of all time, constantly careening from mad creature-feature horror movie to Bergman-esque marital […]",
+  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/09/possession_tmdb-a9bnrn05riokwftvqllka2gl51n_thumb.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-16"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651553~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-22"
+    ],
+    "time": "21:15",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651554~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#2a3324",
+   "#d4b26a"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "the-rocky-horror-picture-show",
+  "title": "The Rocky Horror Picture Show",
+  "year": 1975,
+  "director": "Jim Sharman",
+  "runtime": 99,
+  "country": "United Kingdom, USA",
+  "lang": "English, German",
+  "why": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elabora…",
+  "poster": "https://image.tmdb.org/t/p/w500/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
+  "tags": [
+   "Shadowcast",
+   "Comedy",
+   "Science Fiction"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-23"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649622~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-09-04"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/629546/"
+   }
+  ],
+  "art": [
+   "#2b3a2f",
+   "#e0b34d"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.06,
+  "rating_count": 885066
+ },
+ {
+  "id": "begotten",
+  "title": "Begotten",
+  "year": 1991,
+  "director": "E. Elias Merhige",
+  "runtime": 72,
+  "country": "USA",
+  "lang": "No Language",
+  "why": "Begotten is the creation myth brought to life, the story of no less than the violent death of God and the (re)birth of nature on a barren earth.",
+  "poster": "https://image.tmdb.org/t/p/w500/y8GbJny4bBUimJxUGXqq3l3k4OV.jpg",
+  "tags": [
+   "Restoration",
+   "Fantasy",
+   "Horror"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-04"
+    ],
+    "time": "20:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649639~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-07"
+    ],
+    "time": "21:15",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649640~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#3a2b2b",
+   "#c94f4f"
+  ],
+  "_tmdb_matched": true,
+  "rating": 2.86,
+  "rating_count": 36830
+ },
+ {
+  "id": "bay-of-blood",
+  "title": "Bay of Blood",
+  "year": 1971,
+  "director": "Mario Bava",
+  "runtime": 85,
+  "country": "Italy",
+  "lang": "Italian",
+  "why": "An elderly heiress is killed by her husband who wants control of her fortunes. What ensues is an all-out murder spree as relatives and friends attempt to reduce the inheritance playing field, complicated by some teena…",
+  "poster": "https://image.tmdb.org/t/p/w500/cTqmAcZwaEY609QDCLpgBlwijn9.jpg",
+  "tags": [
+   "Restoration",
+   "Horror",
+   "Thriller"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-02"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649628~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#1f2a44",
+   "#f0f0f0"
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "reading-lolita-in-tehran",
+  "title": "Reading Lolita in Tehran",
+  "year": 2024,
+  "director": "Eran Riklis",
+  "runtime": 107,
+  "country": "Italy, Israel",
+  "lang": "English, Persian",
+  "why": "In 1979, amidst censorship and religious extremism, a revolutionary literature professor in Tehran gathers seven of her most dedicated female students to immerse themselves in banned literary classics.",
+  "poster": "https://image.tmdb.org/t/p/w500/69WQXk3Omh0IKles3Pcmlhvo3En.jpg",
+  "tags": [
+   "Drama"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-12"
+    ],
+    "time": "18:20",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649619~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-13"
+    ],
+    "time": "12:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649620~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#3a2440",
+   "#4dd6c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.29,
+  "rating_count": 9554
  },
  {
   "id": "nosferatu",
@@ -3625,1065 +4371,6 @@
   "rating_count": 521217
  },
  {
-  "id": "fallen-angels",
-  "title": "Fallen Angels",
-  "year": 1995,
-  "director": "Wong Kar-Wai",
-  "runtime": 98,
-  "country": "Hong Kong",
-  "lang": "Japanese, Cantonese",
-  "why": "An indifferent hitman, his infatuated business partner and an ex-convict search for love and meaning as their lives cross paths in Hong Kong.",
-  "poster": "https://image.tmdb.org/t/p/w500/yyM9BPdwttK5LKZSLvHae7QPKo1.jpg",
-  "tags": [
-   "Action",
-   "Romance",
-   "Crime"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-08"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=644527~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-12"
-    ],
-    "time": "21:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=644528~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#3a3218",
-   "#d9c06a"
-  ],
-  "_tmdb_matched": true,
-  "rating": 4.16,
-  "rating_count": 751113
- },
- {
-  "id": "exhibition-on-screen-james-mcneill-whistler",
-  "title": "Exhibition On Screen: James McNeill Whistler",
-  "year": 1997,
-  "director": "Mel Smith",
-  "runtime": 89,
-  "country": "United Kingdom",
-  "lang": "English",
-  "why": "In an era of great change and great beauty emerged the character of James McNeill Whistler. Considered by some to be one of the great innovators of 19th century art, he was a contemporary of the Impressionists, much admired by Van Gogh and Manet. Boldly experimental and famously witty, Whistler disrupted the strict conventions of […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/09/762689833_1477289944427760_5609846765389654963_n_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-27"
-    ],
-    "time": "12:45",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649625~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-29"
-    ],
-    "time": "15:45",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649626~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#101b2a",
-   "#e0562a"
-  ],
-  "_tmdb_matched": false,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "detour-the-wailing",
-  "title": "Detour: The Wailing",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "The arrival of a mysterious stranger (Chun Woo-hee) in an otherwise quiet village coincides with a rash of vicious murders, causing panic and suspicion amongst the villagers. When the daughter of investigating officer Jong-Goo (Kwak Do-won) falls under the same savage spell, he calls for a shaman (Hwang Jung-min) to assist in finding the culprit…",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/09/tmdb-lwe9ih9qgjx8hatybop7fg0nri_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-09"
-    ],
-    "time": "21:15",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651559~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-12"
-    ],
-    "time": "21:15",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651560~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#3a2a1a",
-   "#f0a83c"
-  ],
-  "_tmdb_matched": false,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "the-zone-dark-star",
-  "title": "The Zone:Dark Star",
-  "year": 2023,
-  "director": "Jonathan Glazer",
-  "runtime": 105,
-  "country": "United Kingdom, Poland, USA",
-  "lang": "German, Polish, Yiddish",
-  "why": "Part of our ongoing series “The Zone.” Step into another galaxy with this voyage through the many moods of Sci-Fi. This outrageously unique sci-fi headtrip was the debut feature from genre film emperor John Carpenter (“The Thing,” “Halloween”). The film originally began as a 45-minute student film project by Carpenter and collaborator Dan O’Bannon (“Alien”, […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/09/dark_star_tmdb-aiqlbih0iwrog2q78dztt8ad9sp_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-05"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=644531~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-09"
-    ],
-    "time": "21:15",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=644532~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#2a3324",
-   "#d4b26a"
-  ],
-  "_tmdb_matched": false,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "women-talking",
-  "title": "Women Talking",
-  "year": 2022,
-  "director": "Sarah Polley",
-  "runtime": 104,
-  "country": "USA",
-  "lang": "English",
-  "why": "A group of women in an isolated religious colony struggle to reconcile their faith with a series of sexual assaults committed by the colony's men.",
-  "poster": "https://image.tmdb.org/t/p/w500/wcTc9GveMMjAdHSlzdE0FaRCtqi.jpg",
-  "tags": [
-   "Drama"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-08"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=631828~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#2b3a2f",
-   "#e0b34d"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.81,
-  "rating_count": 205774
- },
- {
-  "id": "birth",
-  "title": "Birth",
-  "year": 2004,
-  "director": "Jonathan Glazer",
-  "runtime": 100,
-  "country": "Germany, United Kingdom",
-  "lang": "English",
-  "why": "It took Anna 10 years to recover from the death of her husband, Sean, but now she's on the verge of marrying her boyfriend, Joseph, and finally moving on. However, on the night of her engagement party, a young boy nam…",
-  "poster": "https://image.tmdb.org/t/p/w500/z70iQ61WqhxETAz8ar2oD8pkIM.jpg",
-  "tags": [
-   "Drama",
-   "Mystery"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-01"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=629274~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#3a2b2b",
-   "#c94f4f"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.71,
-  "rating_count": 98696
- },
- {
-  "id": "2026-cat-video-fest",
-  "title": "2026 Cat Video Fest",
-  "year": 2026,
-  "director": "Will Braden",
-  "runtime": 70,
-  "country": "USA",
-  "lang": "English",
-  "why": "Our fuzzy overlords return to the big screen! Each year, CatVideoFest curates a compilation reel of the latest, best cat videos culled from countless hours of unique submissions and sourced animations, music videos, a…",
-  "poster": "https://image.tmdb.org/t/p/w500/wXgqFo84RwEt6cRIe24BCjBPqPS.jpg",
-  "tags": [
-   "Comedy"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-05"
-    ],
-    "time": "13:40",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=647837~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-07"
-    ],
-    "time": "13:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=647838~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-11"
-    ],
-    "time": "16:20",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=647839~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-13"
-    ],
-    "time": "17:50",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=647840~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#1f2a44",
-   "#f0f0f0"
-  ],
-  "_tmdb_matched": true,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "you-had-to-be-there-how-the-toronto-godspell-ignited-the-com",
-  "title": "You Had to Be There: How the Toronto Godspell Ignited the Comedy Revolution…",
-  "year": 2026,
-  "director": "Nick Davis",
-  "runtime": 98,
-  "country": "Canada",
-  "lang": "English",
-  "why": "Martin Short, Eugene Levy, Gilda Radner, Victor Garber, Paul Shaffer, and other entertainment icons got their start in a 1972 Toronto production of the musical Godspell. Featuring interviews with the surviving cast me…",
-  "poster": "https://image.tmdb.org/t/p/w500/ww7BKE0TdKYLz0h6Ms8vLpptaiE.jpg",
-  "tags": [
-   "Documentary",
-   "Comedy"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-09"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649646~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-10"
-    ],
-    "time": "15:40",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649647~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-11"
-    ],
-    "time": "12:15",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649650~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-12"
-    ],
-    "time": "15:45",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649651~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-15"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649655~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#3a2440",
-   "#4dd6c4"
-  ],
-  "_tmdb_matched": true,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "the-wrong-girls",
-  "title": "The Wrong Girls",
-  "year": 2026,
-  "director": "Dylan Meyer",
-  "runtime": 99,
-  "country": "USA",
-  "lang": "English, Danish",
-  "why": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
-  "poster": "https://image.tmdb.org/t/p/w500/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
-  "tags": [
-   "Comedy",
-   "Crime",
-   "Science Fiction"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-04"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=648350~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-07"
-    ],
-    "time": "21:15",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=648351~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#123a3a",
-   "#7fd4e0"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.33,
-  "rating_count": 17292
- },
- {
-  "id": "the-salt-path",
-  "title": "The Salt Path",
-  "year": 2025,
-  "director": "Marianne Elliott",
-  "runtime": 115,
-  "country": "United Kingdom",
-  "lang": "English",
-  "why": "The profound story of husband and wife Raynor and Moth Winn, who embark on a 630-mile trek after being forcibly removed from their home. Hoping that in nature they will find solace and a sense of acceptance, they walk…",
-  "poster": "https://image.tmdb.org/t/p/w500/yBtmFkjzPzd6KvNgoJwwsm1nyXL.jpg",
-  "tags": [
-   "Drama"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-04"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=647616~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-05"
-    ],
-    "time": "15:50",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=647617~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-06"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=647618~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-07"
-    ],
-    "time": "15:40",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=647619~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-08"
-    ],
-    "time": "15:50",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=647620~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-09"
-    ],
-    "time": "15:40",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=647621~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-10"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=647622~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#2a3550",
-   "#e88b6a"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.27,
-  "rating_count": 24886
- },
- {
-  "id": "the-room",
-  "title": "The Room",
-  "year": 1978,
-  "director": "François Truffaut",
-  "runtime": 95,
-  "country": "France",
-  "lang": "French, Latin",
-  "why": "A widower maintains a memorial room filled with his late wife's belongings. When fire destroys it, he transforms a chapel into a new shrine to preserve her memory.",
-  "poster": "https://image.tmdb.org/t/p/w500/8D2Oty3FpihcNoNowuYbzOaXKsv.jpg",
-  "tags": [
-   "Drama"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-11-12"
-    ],
-    "time": "21:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=646472~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-11-21"
-    ],
-    "time": "21:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=646473~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#40183a",
-   "#f24d94"
-  ],
-  "_tmdb_matched": true,
-  "rating": 2.58,
-  "rating_count": 278581
- },
- {
-  "id": "drawn-in-the-girl-who-leapt-through-time",
-  "title": "Drawn In: The Girl Who Leapt Through Time",
-  "year": 2013,
-  "director": "Isao Takahata",
-  "runtime": 137,
-  "country": "Japan",
-  "lang": "Japanese",
-  "why": "Part of our ongoing series “Drawn In.” Wildly creative, romantic, hilarious, and refreshingly original, The Girl Who Leapt Through Time is irresistibly charming. “The Girl Who Leapt Through Time” is an early gem by Mamoru Hosoda, known for his stunning visuals and heartfelt storytelling. The film follows Makoto, a typical teenage girl who discovers she can […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/09/gwltt_keyart_print_comingsoon.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-27"
-    ],
-    "time": "21:15",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=644524~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-29"
-    ],
-    "time": "21:20",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=644525~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#24303a",
-   "#9ab0c4"
-  ],
-  "_tmdb_matched": false,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "memories-of-murder",
-  "title": "Memories of Murder",
-  "year": 2003,
-  "director": "Bong Joon Ho",
-  "runtime": 131,
-  "country": "South Korea",
-  "lang": "Korean, English",
-  "why": "A sadistic serial rapist and murderer of young women terrorizes a small province in 1980s South Korea. To prevent further crimes, three increasingly desperate detectives with conflicting methods race against time to u…",
-  "poster": "https://image.tmdb.org/t/p/w500/jcgUjx1QcupGzjntTVlnQ15lHqy.jpg",
-  "tags": [
-   "Crime",
-   "Drama",
-   "Thriller"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-13"
-    ],
-    "time": "20:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=648356~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#3a3218",
-   "#d9c06a"
-  ],
-  "_tmdb_matched": true,
-  "rating": 4.42,
-  "rating_count": 1089834
- },
- {
-  "id": "tokyo-drifter",
-  "title": "Tokyo Drifter",
-  "year": 1966,
-  "director": "Seijun Suzuki",
-  "runtime": 83,
-  "country": "Japan",
-  "lang": "English, Japanese",
-  "why": "After yakuza boss Kurata dissolves his own criminal empire, a rival kingpin offers a position to Kurata's top operative, Tetsuya \"Phoenix Tetsu\" Hondo. When the fiercely loyal Tetsu declines, Otsuka taps unstoppable T…",
-  "poster": "https://image.tmdb.org/t/p/w500/dkscSldTB6FGUMMLnInUfKYLfPR.jpg",
-  "tags": [
-   "Thriller",
-   "Crime",
-   "Action"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649630~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-05"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649631~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#101b2a",
-   "#e0562a"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.76,
-  "rating_count": 47026
- },
- {
-  "id": "jawbreaker",
-  "title": "Jawbreaker",
-  "year": 1999,
-  "director": "Darren Stein",
-  "runtime": 87,
-  "country": "USA",
-  "lang": "English",
-  "why": "When an exclusive clique of teenage socialites accidentally murder their best friend on the morning of her birthday, the three girls responsible conspire to hide the truth.",
-  "poster": "https://image.tmdb.org/t/p/w500/7YrxXoG25hVCK4nYDHQv9YIk3Ye.jpg",
-  "tags": [
-   "Comedy",
-   "Crime",
-   "Thriller"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-06"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=646333~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#3a2a1a",
-   "#f0a83c"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.42,
-  "rating_count": 164452
- },
- {
-  "id": "high-school-musical-3-senior-year",
-  "title": "High School Musical 3: Senior Year",
-  "year": 2008,
-  "director": "Kenny Ortega",
-  "runtime": 112,
-  "country": "USA",
-  "lang": "English",
-  "why": "As seniors in high school, Troy and Gabriella struggle with the idea of being separated from one another as college approaches. Along with the rest of the Wildcats, they stage a spring musical to address their experie…",
-  "poster": "https://image.tmdb.org/t/p/w500/aq2o1wT0crBOTxof36O6KTyjpgE.jpg",
-  "tags": [
-   "Sing-Along",
-   "Comedy",
-   "Drama"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-11"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=646337~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#2a3324",
-   "#d4b26a"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.32,
-  "rating_count": 427324
- },
- {
-  "id": "scream-queens",
-  "title": "Scream Queens",
-  "year": 2007,
-  "director": "Charles Hopkins",
-  "runtime": 90,
-  "country": "",
-  "lang": "English",
-  "why": "Amateur home movies of Hollywood scream queens and aspiring horror starlets.",
-  "poster": "https://image.tmdb.org/t/p/w500/lexeKAilri8K17xrQtrOAjKxW2A.jpg",
-  "tags": [
-   "Horror"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "21:15",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651547~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-08"
-    ],
-    "time": "21:45",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651548~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#2b3a2f",
-   "#e0b34d"
-  ],
-  "_tmdb_matched": true,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "scream-queens-the-shining",
-  "title": "Scream Queens: The Shining",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Scream Queens is a tribute to the underestimated women in horror. Those who screamed, ran, fought, and clawed their way into cinematic history, becoming icons in their own right! Academy Award winner Jack Nicholson and Shelley Duvall star in director Stanley Kubrick’s disturbing adaptation of Stephen King’s blockbuster horror novel. When writer Jack Torrance (Nicholson)–who […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/09/the_shining_tmdb-uar0awqhql1hqa69udebb2re5wx_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-10"
-    ],
-    "time": "18:15",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651550~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-11"
-    ],
-    "time": "21:15",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651551~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#3a2b2b",
-   "#c94f4f"
-  ],
-  "_tmdb_matched": false,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "scream-queens-the-fog",
-  "title": "Scream Queens: The Fog",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Scream Queens is a tribute to the underestimated women in horror. Those who screamed, ran, fought, and clawed their way into cinematic history, becoming icons in their own right! In a tiny California coastal town, strange things begin to occur as they prepare to commemorate their centenary: inanimate objects spring eerily to life; the local […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/09/the_fog_tmdb-12eesborofp3ci4spmmfnnxcbty_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-24"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651556~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-25"
-    ],
-    "time": "21:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651557~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#1f2a44",
-   "#f0f0f0"
-  ],
-  "_tmdb_matched": false,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "scream-queens-possession",
-  "title": "Scream Queens: Possession",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Scream Queens is a tribute to the underestimated women in horror. Those who screamed, ran, fought, and clawed their way into cinematic history, becoming icons in their own right! Polish director Andrej Zulawski’s 1981 ‘Possession’ remains one of the most demented movies of all time, constantly careening from mad creature-feature horror movie to Bergman-esque marital […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/09/possession_tmdb-a9bnrn05riokwftvqllka2gl51n_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-16"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651553~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-22"
-    ],
-    "time": "21:15",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651554~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#3a2440",
-   "#4dd6c4"
-  ],
-  "_tmdb_matched": false,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "the-rocky-horror-picture-show",
-  "title": "The Rocky Horror Picture Show",
-  "year": 1975,
-  "director": "Jim Sharman",
-  "runtime": 99,
-  "country": "United Kingdom, USA",
-  "lang": "English, German",
-  "why": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elabora…",
-  "poster": "https://image.tmdb.org/t/p/w500/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
-  "tags": [
-   "Shadowcast",
-   "Comedy",
-   "Science Fiction"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-23"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649622~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-09-04"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/629546/"
-   }
-  ],
-  "art": [
-   "#123a3a",
-   "#7fd4e0"
-  ],
-  "_tmdb_matched": true,
-  "rating": 4.06,
-  "rating_count": 885066
- },
- {
-  "id": "begotten",
-  "title": "Begotten",
-  "year": 1991,
-  "director": "E. Elias Merhige",
-  "runtime": 72,
-  "country": "USA",
-  "lang": "No Language",
-  "why": "Begotten is the creation myth brought to life, the story of no less than the violent death of God and the (re)birth of nature on a barren earth.",
-  "poster": "https://image.tmdb.org/t/p/w500/y8GbJny4bBUimJxUGXqq3l3k4OV.jpg",
-  "tags": [
-   "Restoration",
-   "Fantasy",
-   "Horror"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-04"
-    ],
-    "time": "20:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649639~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-07"
-    ],
-    "time": "21:15",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649640~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#2a3550",
-   "#e88b6a"
-  ],
-  "_tmdb_matched": true,
-  "rating": 2.86,
-  "rating_count": 36830
- },
- {
-  "id": "bay-of-blood",
-  "title": "Bay of Blood",
-  "year": 1971,
-  "director": "Mario Bava",
-  "runtime": 85,
-  "country": "Italy",
-  "lang": "Italian",
-  "why": "An elderly heiress is killed by her husband who wants control of her fortunes. What ensues is an all-out murder spree as relatives and friends attempt to reduce the inheritance playing field, complicated by some teena…",
-  "poster": "https://image.tmdb.org/t/p/w500/cTqmAcZwaEY609QDCLpgBlwijn9.jpg",
-  "tags": [
-   "Restoration",
-   "Horror",
-   "Thriller"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-02"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649628~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#40183a",
-   "#f24d94"
-  ],
-  "_tmdb_matched": true,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "reading-lolita-in-tehran",
-  "title": "Reading Lolita in Tehran",
-  "year": 2024,
-  "director": "Eran Riklis",
-  "runtime": 107,
-  "country": "Italy, Israel",
-  "lang": "English, Persian",
-  "why": "In 1979, amidst censorship and religious extremism, a revolutionary literature professor in Tehran gathers seven of her most dedicated female students to immerse themselves in banned literary classics.",
-  "poster": "https://image.tmdb.org/t/p/w500/69WQXk3Omh0IKles3Pcmlhvo3En.jpg",
-  "tags": [
-   "Drama"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-12"
-    ],
-    "time": "18:20",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649619~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-09-13"
-    ],
-    "time": "12:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649620~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#24303a",
-   "#9ab0c4"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.29,
-  "rating_count": 9554
- },
- {
-  "id": "chunks",
-  "title": "Chunks",
-  "year": 2026,
-  "director": "Nate Fisher, Pierce Campion",
-  "runtime": 80,
-  "country": "USA",
-  "lang": "English",
-  "why": "An anthology film of six unique comedy shorts threaded together with your host, faded Hollywood starlet Ruby, and taking inspiration from the glamourous by-gone era of late nite public access weirdness.  With live act…",
-  "poster": "https://image.tmdb.org/t/p/w500/4joYgcGV2VnNVVANaF2XA7WzNL9.jpg",
-  "tags": [
-   "Premiere",
-   "Comedy"
-  ],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "20:30",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/616251/"
-   }
-  ],
-  "art": [
-   "#3a3218",
-   "#d9c06a"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.36,
-  "rating_count": 259
- },
- {
   "id": "a-night-at-the-opera",
   "title": "A Night at the Opera",
   "year": 1935,
@@ -4709,8 +4396,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.9,
@@ -4750,8 +4437,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 4.17,
@@ -4784,8 +4471,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 4.37,
@@ -4817,8 +4504,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.39,
@@ -4851,8 +4538,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.67,
@@ -4885,8 +4572,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.86,
@@ -4917,8 +4604,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.81,
@@ -4947,8 +4634,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -4977,8 +4664,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5007,8 +4694,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5037,8 +4724,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5067,8 +4754,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5097,8 +4784,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5127,8 +4814,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5157,8 +4844,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5187,8 +4874,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5217,8 +4904,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5247,8 +4934,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5277,8 +4964,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5290,8 +4977,8 @@
   "year": 2026,
   "director": "",
   "runtime": 80,
-  "country": "",
-  "lang": "",
+  "country": "USA",
+  "lang": ".mw-parser-output .plainlist ol,.mw-pars",
   "why": "Destry Allyn Spielberg is an American film director and actress. The daughter of filmmaker Steven Spielberg and actress Kate Capshaw, she began her career with minor acting roles and production work before transitioni…",
   "poster": "/static/images/icons/enwiki-25.svg",
   "tags": [],
@@ -5307,8 +4994,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5337,8 +5024,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5367,8 +5054,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5397,8 +5084,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5427,8 +5114,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5461,8 +5148,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.83,
@@ -5493,8 +5180,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 4.04,
@@ -5525,8 +5212,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -5559,8 +5246,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 1.95,
@@ -5589,8 +5276,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5623,8 +5310,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 4.17,
@@ -5657,8 +5344,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.5,
@@ -5680,51 +5367,6 @@
    "Family"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "12:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=248209173&aud=9&ptime=12:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "15:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=248209173&aud=9&ptime=15:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "18:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=248209173&aud=3&ptime=18:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "18:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=248209173&aud=9&ptime=18:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=248209173&aud=9&ptime=21:30&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -5799,23 +5441,23 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.84,
   "rating_count": 16150
  },
  {
-  "id": "harry-potter-and-the-goblet-of-fire",
-  "title": "Harry Potter and the Goblet of Fire",
-  "year": 2005,
-  "director": "Mike Newell",
-  "runtime": 157,
+  "id": "harry-potter-and-the-half-blood-prince",
+  "title": "Harry Potter and the Half-Blood Prince",
+  "year": 2009,
+  "director": "David Yates",
+  "runtime": 153,
   "country": "United Kingdom, USA",
-  "lang": "English, French",
-  "why": "When his name emerges from the Goblet of Fire, Harry Potter becomes a competitor in a grueling battle for glory among three wizarding schools. Signs of Voldemort's return emerge as Harry's friends help him prepare for…",
-  "poster": "https://image.tmdb.org/t/p/w500/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
+  "lang": "English",
+  "why": "Dumbledore tries to prepare Harry for the final battle with Voldemort while Death Eaters wreak havoc in both Muggle and Wizard worlds.",
+  "poster": "https://image.tmdb.org/t/p/w500/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
   "tags": [
    "Adventure",
    "Fantasy"
@@ -5824,29 +5466,80 @@
    {
     "theatre": "carlton",
     "dates": [
-     "2026-09-01"
+     "2026-09-02"
     ],
     "time": "12:30",
     "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=933649363&aud=5&ptime=12:30&ptype=G"
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-02&film=933711464&aud=5&ptime=12:30&ptype=G"
    },
    {
     "theatre": "carlton",
     "dates": [
-     "2026-09-01"
+     "2026-09-02"
     ],
-    "time": "15:50",
+    "time": "15:45",
     "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=933649363&aud=5&ptime=15:50&ptype=G"
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-02&film=933711464&aud=5&ptime=15:45&ptype=G"
    },
    {
     "theatre": "carlton",
     "dates": [
-     "2026-09-01"
+     "2026-09-02"
     ],
-    "time": "19:10",
+    "time": "19:00",
     "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=933649363&aud=5&ptime=19:10&ptype=G"
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-02&film=933711464&aud=5&ptime=19:00&ptype=G"
+   }
+  ],
+  "art": [
+   "#123a3a",
+   "#7fd4e0"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.75,
+  "rating_count": 2202874
+ },
+ {
+  "id": "harry-potter-and-the-order-of-the-phoenix",
+  "title": "Harry Potter and the Order of the Phoenix",
+  "year": 2007,
+  "director": "David Yates",
+  "runtime": 138,
+  "country": "United Kingdom, USA",
+  "lang": "English",
+  "why": "When a new professor's methods leave Hogwarts unprepared to fight the rising tide of evil, Harry teaches students how to defend against the dark arts.",
+  "poster": "https://image.tmdb.org/t/p/w500/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
+  "tags": [
+   "Adventure",
+   "Fantasy"
+  ],
+  "screenings": [
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-09-02"
+    ],
+    "time": "13:00",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-02&film=801507287&aud=4&ptime=13:00&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-09-02"
+    ],
+    "time": "16:15",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-02&film=801507287&aud=4&ptime=16:15&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-09-02"
+    ],
+    "time": "19:15",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-02&film=801507287&aud=4&ptime=19:15&ptype=G"
    }
   ],
   "art": [
@@ -5854,59 +5547,8 @@
    "#e88b6a"
   ],
   "_tmdb_matched": true,
-  "rating": 3.9,
-  "rating_count": 2621894
- },
- {
-  "id": "harry-potter-and-the-prisoner-of-azkaban",
-  "title": "Harry Potter and the Prisoner of Azkaban",
-  "year": 2004,
-  "director": "Alfonso Cuarón",
-  "runtime": 141,
-  "country": "United Kingdom, USA",
-  "lang": "English",
-  "why": "Harry Potter's life is in danger once more as dangerous wizard Sirius Black has escaped from Azkaban Prison and is heading to Hogwarts.",
-  "poster": "https://image.tmdb.org/t/p/w500/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
-  "tags": [
-   "Adventure",
-   "Fantasy"
-  ],
-  "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "13:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=135443926&aud=4&ptime=13:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "16:15",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=135443926&aud=4&ptime=16:15&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "19:20",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=135443926&aud=4&ptime=19:20&ptype=G"
-   }
-  ],
-  "art": [
-   "#40183a",
-   "#f24d94"
-  ],
-  "_tmdb_matched": true,
-  "rating": 4.15,
-  "rating_count": 3219784
+  "rating": 3.72,
+  "rating_count": 2324988
  },
  {
   "id": "idiots",
@@ -5923,24 +5565,6 @@
    "Crime"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "12:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=420398911&aud=1&ptime=12:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "18:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=420398911&aud=1&ptime=18:40&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -5961,8 +5585,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.12,
@@ -5983,42 +5607,6 @@
    "Thriller"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "12:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=380964874&aud=7&ptime=12:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "15:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=380964874&aud=7&ptime=15:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=380964874&aud=7&ptime=18:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=380964874&aud=7&ptime=21:30&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -6093,8 +5681,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.26,
@@ -6115,15 +5703,6 @@
    "Thriller"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "12:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=422837428&aud=3&ptime=12:35&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -6162,8 +5741,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 2.74,
@@ -6188,24 +5767,6 @@
    {
     "theatre": "carlton",
     "dates": [
-     "2026-09-01"
-    ],
-    "time": "15:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=902061984&aud=1&ptime=15:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "21:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=902061984&aud=1&ptime=21:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
      "2026-09-02"
     ],
     "time": "15:40",
@@ -6223,8 +5784,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 4.22,
@@ -6246,24 +5807,6 @@
    "Thriller"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "15:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=569933238&aud=3&ptime=15:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-01"
-    ],
-    "time": "21:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-01&film=569933238&aud=3&ptime=21:40&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -6302,114 +5845,12 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.16,
   "rating_count": 13604
- },
- {
-  "id": "harry-potter-and-the-half-blood-prince",
-  "title": "Harry Potter and the Half-Blood Prince",
-  "year": 2009,
-  "director": "David Yates",
-  "runtime": 153,
-  "country": "United Kingdom, USA",
-  "lang": "English",
-  "why": "Dumbledore tries to prepare Harry for the final battle with Voldemort while Death Eaters wreak havoc in both Muggle and Wizard worlds.",
-  "poster": "https://image.tmdb.org/t/p/w500/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
-  "tags": [
-   "Adventure",
-   "Fantasy"
-  ],
-  "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-02"
-    ],
-    "time": "12:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-02&film=933711464&aud=5&ptime=12:30&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-02"
-    ],
-    "time": "15:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-02&film=933711464&aud=5&ptime=15:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-02"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-02&film=933711464&aud=5&ptime=19:00&ptype=G"
-   }
-  ],
-  "art": [
-   "#2b3a2f",
-   "#e0b34d"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.75,
-  "rating_count": 2202874
- },
- {
-  "id": "harry-potter-and-the-order-of-the-phoenix",
-  "title": "Harry Potter and the Order of the Phoenix",
-  "year": 2007,
-  "director": "David Yates",
-  "runtime": 138,
-  "country": "United Kingdom, USA",
-  "lang": "English",
-  "why": "When a new professor's methods leave Hogwarts unprepared to fight the rising tide of evil, Harry teaches students how to defend against the dark arts.",
-  "poster": "https://image.tmdb.org/t/p/w500/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
-  "tags": [
-   "Adventure",
-   "Fantasy"
-  ],
-  "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-02"
-    ],
-    "time": "13:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-02&film=801507287&aud=4&ptime=13:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-02"
-    ],
-    "time": "16:15",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-02&film=801507287&aud=4&ptime=16:15&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-02"
-    ],
-    "time": "19:15",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-02&film=801507287&aud=4&ptime=19:15&ptype=G"
-   }
-  ],
-  "art": [
-   "#3a2b2b",
-   "#c94f4f"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.72,
-  "rating_count": 2324988
  },
  {
   "id": "harry-potter-and-the-deathly-hallows-part-1",
@@ -6455,8 +5896,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.75,
@@ -6515,8 +5956,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 4.04,
@@ -6555,38 +5996,11 @@
     "time": "18:45",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-03&film=379868855&aud=3&ptime=18:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-04"
-    ],
-    "time": "12:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-04&film=379868855&aud=4&ptime=12:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-04"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-04&film=379868855&aud=4&ptime=18:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-07"
-    ],
-    "time": "12:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-07&film=379868855&aud=4&ptime=12:35&ptype=G"
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.84,
@@ -6625,593 +6039,14 @@
     "time": "21:40",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-03&film=693519248&aud=7&ptime=21:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-04"
-    ],
-    "time": "15:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-04&film=693519248&aud=5&ptime=15:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-04"
-    ],
-    "time": "21:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-04&film=693519248&aud=5&ptime=21:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-07"
-    ],
-    "time": "15:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-07&film=693519248&aud=5&ptime=15:30&ptype=G"
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.97,
   "rating_count": 2437701
- },
- {
-  "id": "frankenstein",
-  "title": "Frankenstein",
-  "year": 2025,
-  "director": "Guillermo del Toro",
-  "runtime": 150,
-  "country": "USA, Canada",
-  "lang": "Danish, English",
-  "why": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
-  "poster": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
-  "tags": [
-   "Drama",
-   "Fantasy",
-   "Horror"
-  ],
-  "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-04"
-    ],
-    "time": "13:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-04&film=790376672&aud=3&ptime=13:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-04"
-    ],
-    "time": "15:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-04&film=790376672&aud=3&ptime=15:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-04"
-    ],
-    "time": "17:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-04&film=790376672&aud=3&ptime=17:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-04"
-    ],
-    "time": "19:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-04&film=790376672&aud=3&ptime=19:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-04"
-    ],
-    "time": "21:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-04&film=790376672&aud=3&ptime=21:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-05"
-    ],
-    "time": "13:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-05&film=790376672&aud=3&ptime=13:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-05"
-    ],
-    "time": "15:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-05&film=790376672&aud=3&ptime=15:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-05"
-    ],
-    "time": "17:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-05&film=790376672&aud=3&ptime=17:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-05"
-    ],
-    "time": "19:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-05&film=790376672&aud=3&ptime=19:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-05"
-    ],
-    "time": "21:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-05&film=790376672&aud=3&ptime=21:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-06"
-    ],
-    "time": "13:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-06&film=790376672&aud=3&ptime=13:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-06"
-    ],
-    "time": "15:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-06&film=790376672&aud=3&ptime=15:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-06"
-    ],
-    "time": "17:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-06&film=790376672&aud=3&ptime=17:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-06"
-    ],
-    "time": "19:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-06&film=790376672&aud=3&ptime=19:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-06"
-    ],
-    "time": "21:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-06&film=790376672&aud=3&ptime=21:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-07"
-    ],
-    "time": "13:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-07&film=790376672&aud=5&ptime=13:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-07"
-    ],
-    "time": "21:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-07&film=790376672&aud=5&ptime=21:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-08"
-    ],
-    "time": "19:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-08&film=790376672&aud=7&ptime=19:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-08"
-    ],
-    "time": "21:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-08&film=790376672&aud=7&ptime=21:55&ptype=G"
-   }
-  ],
-  "art": [
-   "#40183a",
-   "#f24d94"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.83,
-  "rating_count": 2719440
- },
- {
-  "id": "michael-manns-manhunter-the-final-cut",
-  "title": "Michael Mann's Manhunter: The Final Cut",
-  "year": 1986,
-  "director": "Michael Mann",
-  "runtime": 122,
-  "country": "USA",
-  "lang": "English",
-  "why": "Rewind & Replay...FBI Agent Will Graham, retired after catching notorious cannibal Hannibal Lecter, returns to duty to engage in a risky cat-and-mouse game with Lecter to capture a new killer. Stars William L. Petersen, ",
-  "poster": "https://omniwebticketing6.com/imaginecinemas/files-circuit/images/posters/Manhunter.png",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-04"
-    ],
-    "time": "12:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-04&film=223599596&aud=7&ptime=12:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-04"
-    ],
-    "time": "15:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-04&film=223599596&aud=7&ptime=15:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-04"
-    ],
-    "time": "18:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-04&film=223599596&aud=7&ptime=18:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-04"
-    ],
-    "time": "21:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-04&film=223599596&aud=7&ptime=21:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-05"
-    ],
-    "time": "12:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-05&film=223599596&aud=7&ptime=12:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-05"
-    ],
-    "time": "15:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-05&film=223599596&aud=7&ptime=15:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-05"
-    ],
-    "time": "18:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-05&film=223599596&aud=7&ptime=18:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-05"
-    ],
-    "time": "21:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-05&film=223599596&aud=7&ptime=21:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-06"
-    ],
-    "time": "12:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-06&film=223599596&aud=7&ptime=12:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-06"
-    ],
-    "time": "15:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-06&film=223599596&aud=7&ptime=15:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-06"
-    ],
-    "time": "18:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-06&film=223599596&aud=7&ptime=18:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-06"
-    ],
-    "time": "21:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-06&film=223599596&aud=7&ptime=21:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-07"
-    ],
-    "time": "12:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-07&film=223599596&aud=7&ptime=12:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-07"
-    ],
-    "time": "15:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-07&film=223599596&aud=7&ptime=15:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-07"
-    ],
-    "time": "18:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-07&film=223599596&aud=7&ptime=18:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-07"
-    ],
-    "time": "21:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-07&film=223599596&aud=7&ptime=21:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-08"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-08&film=223599596&aud=5&ptime=18:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-08"
-    ],
-    "time": "21:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-08&film=223599596&aud=5&ptime=21:35&ptype=G"
-   }
-  ],
-  "art": [
-   "#24303a",
-   "#9ab0c4"
-  ],
-  "_tmdb_matched": false,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "the-hunger-games-mockingjay-part-1",
-  "title": "The Hunger Games: Mockingjay - Part 1",
-  "year": 2014,
-  "director": "Francis Lawrence",
-  "runtime": 123,
-  "country": "USA",
-  "lang": "English",
-  "why": "After surviving the Quarter Quell, Katniss finds herself in the hidden stronghold of District 13, where the rebellion against the Capitol is gaining momentum. Struggling with the weight of becoming the symbol of resis…",
-  "poster": "https://image.tmdb.org/t/p/w500/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg",
-  "tags": [
-   "Science Fiction",
-   "Adventure",
-   "Thriller"
-  ],
-  "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-05"
-    ],
-    "time": "13:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-05&film=41298536&aud=4&ptime=13:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-05"
-    ],
-    "time": "18:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-05&film=41298536&aud=4&ptime=18:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-06"
-    ],
-    "time": "13:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-06&film=41298536&aud=4&ptime=13:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-06"
-    ],
-    "time": "18:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-06&film=41298536&aud=4&ptime=18:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-07"
-    ],
-    "time": "16:05",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-07&film=41298536&aud=4&ptime=16:05&ptype=G"
-   }
-  ],
-  "art": [
-   "#3a3218",
-   "#d9c06a"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.41,
-  "rating_count": 1819760
- },
- {
-  "id": "the-hunger-games-mockingjay-part-2",
-  "title": "The Hunger Games: Mockingjay - Part 2",
-  "year": 2015,
-  "director": "Francis Lawrence",
-  "runtime": 137,
-  "country": "Germany, USA",
-  "lang": "English",
-  "why": "As the war between the Capitol and the districts reaches its peak, Katniss Everdeen embarks on a perilous mission to liberate Panem and confront President Snow. Joined by a team of trusted allies, she navigates deadly…",
-  "poster": "https://image.tmdb.org/t/p/w500/lImKHDfExAulp16grYm8zD5eONE.jpg",
-  "tags": [
-   "Action",
-   "Adventure",
-   "Science Fiction"
-  ],
-  "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-05"
-    ],
-    "time": "15:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-05&film=302014220&aud=5&ptime=15:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-05"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-05&film=302014220&aud=5&ptime=21:30&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-06"
-    ],
-    "time": "15:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-06&film=302014220&aud=5&ptime=15:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-06"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-06&film=302014220&aud=5&ptime=21:30&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-07"
-    ],
-    "time": "18:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-07&film=302014220&aud=5&ptime=18:40&ptype=G"
-   }
-  ],
-  "art": [
-   "#101b2a",
-   "#e0562a"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.52,
-  "rating_count": 1668451
- },
- {
-  "id": "hunger-games-ballad-of-songbirds-snakes",
-  "title": "Hunger Games: Ballad of Songbirds & Snakes",
-  "year": 2023,
-  "director": "Francis Lawrence",
-  "runtime": 157,
-  "country": "Germany, USA",
-  "lang": "English",
-  "why": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
-  "poster": "https://image.tmdb.org/t/p/w500/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
-  "tags": [
-   "Science Fiction",
-   "Action"
-  ],
-  "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-07"
-    ],
-    "time": "18:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-07&film=159866389&aud=4&ptime=18:50&ptype=G"
-   }
-  ],
-  "art": [
-   "#3a2a1a",
-   "#f0a83c"
-  ],
-  "_tmdb_matched": true,
-  "rating": null,
-  "rating_count": null
  }
 ]
