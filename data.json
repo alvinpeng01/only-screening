@@ -1,54 +1,58 @@
 [
  {
-  "id": "to-indie-2026-shorts-block-7",
-  "title": "T.O. Indie 2026: Shorts Block 7",
-  "year": 2026,
-  "director": "",
-  "runtime": 80,
-  "country": "USA",
-  "lang": ".mw-parser-output .plainlist ol,.mw-pars",
-  "why": "Destry Allyn Spielberg is an American film director and actress. The daughter of filmmaker Steven Spielberg and actress Kate Capshaw, she began her career with minor acting roles and production work before transitioni…",
-  "poster": "/static/images/icons/enwiki-25.svg",
-  "tags": [],
+  "id": "gozu",
+  "title": "Gozu",
+  "year": 2003,
+  "director": "Takashi Miike",
+  "runtime": 130,
+  "country": "Japan",
+  "lang": "Japanese",
+  "why": "Minami mistakenly kills a gangster associate of his named Brother. Almost as soon as the murder takes place, the body of the deceased man is gone, prompting Minami to conduct a search. While looking, he finds a myster…",
+  "poster": "https://image.tmdb.org/t/p/w500/mo5L0XzMYmLhdsvgA40qlYiHhAF.jpg",
+  "tags": [
+   "Horror",
+   "Comedy",
+   "Crime"
+  ],
   "screenings": [
    {
-    "theatre": "paradise",
+    "theatre": "revue",
     "dates": [
-     "2026-09-19"
+     "2027-01-14"
     ],
-    "time": "14:00",
+    "time": "21:30",
     "format": "",
-    "url": "https://paradiseonbloor.com/purchase/633824/"
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1037242~fc639be0-110c-4035-a588-842aceff5ef6&"
    }
   ],
   "art": [
    "#2b3a2f",
    "#e0b34d"
   ],
-  "_tmdb_matched": false,
-  "rating": null,
-  "rating_count": null
+  "_tmdb_matched": true,
+  "rating": 3.68,
+  "rating_count": 19928
  },
  {
-  "id": "to-indie-2026-shorts-block-8",
-  "title": "T.O. Indie 2026: Shorts Block 8",
-  "year": 2026,
-  "director": "Dave Green",
-  "runtime": 80,
-  "country": "USA",
-  "lang": ".mw-parser-output .plainlist ol,.mw-pars",
-  "why": "Adult Swim is an American adult-oriented television programming block on Cartoon Network which broadcasts during the evening, prime time, and late-night dayparts. The channel features stylistically varied animated and…",
-  "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/250px-Adult_Swim_2003_logo.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail",
+  "id": "extraordinary-women-the-extraordinary-alanis-obomsawin",
+  "title": "Extraordinary Women: The Extraordinary Alanis Obomsawin",
+  "year": 1987,
+  "director": "Alanis Obomsawin",
+  "runtime": 120,
+  "country": "Canada",
+  "lang": "English",
+  "why": "The 38th annual Toronto International Film Festival (TIFF) took place in Toronto, Ontario, Canada between September 5 and 15, 2013. The Fifth Estate was selected as the opening film and Life of Crime was the closing f…",
+  "poster": "https://revuecinema.ca/wp-content/uploads/2026/09/obomsawin-8.5x11-791x1024.png",
   "tags": [],
   "screenings": [
    {
-    "theatre": "paradise",
+    "theatre": "revue",
     "dates": [
-     "2026-09-19"
+     "2026-09-27"
     ],
-    "time": "16:00",
+    "time": "13:00",
     "format": "",
-    "url": "https://paradiseonbloor.com/purchase/633825/"
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1037244~fc639be0-110c-4035-a588-842aceff5ef6&"
    }
   ],
   "art": [
@@ -60,119 +64,145 @@
   "rating_count": null
  },
  {
-  "id": "to-indie-2026-shorts-block-9",
-  "title": "T.O. Indie 2026: Shorts Block 9",
+  "id": "lunar-sway",
+  "title": "Lunar Sway",
   "year": 2026,
-  "director": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inhe",
-  "runtime": 80,
-  "country": "USA",
+  "director": "Nick Butler",
+  "runtime": 98,
+  "country": "Canada",
   "lang": "English",
-  "why": "Jane Austen's Period Drama is a 2024 English-language short comedy film written and directed by Julia Aks and Steve Pinder. The film is a satire on Jane Austen's Pride and Prejudice.",
-  "poster": "https://upload.wikimedia.org/wikipedia/en/2/25/Jane_Austen%27s_Period_Drama_film_poster.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled",
-  "tags": [],
+  "why": "Cliff is struggling with his love life in a desert town when he unexpectedly connects with his estranged birth mother. After learning of his mom’s string of secrets, Cliff is led on a wild misadventure while also spen…",
+  "poster": "https://image.tmdb.org/t/p/w500/shJB0w3AgNBIvZw6uffu2EdnqLN.jpg",
+  "tags": [
+   "Comedy"
+  ],
   "screenings": [
    {
-    "theatre": "paradise",
+    "theatre": "revue",
     "dates": [
-     "2026-09-19"
+     "2026-11-01"
     ],
-    "time": "18:00",
+    "time": "17:30",
     "format": "",
-    "url": "https://paradiseonbloor.com/purchase/633826/"
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1036995~fc639be0-110c-4035-a588-842aceff5ef6&"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-02"
+    ],
+    "time": "18:45",
+    "format": "",
+    "url": "https://revuecinema.ca/films/revue-event-lunar-sway-select-cast-crew-in-attendance/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-03"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://revuecinema.ca/films/revue-event-lunar-sway-select-cast-crew-in-attendance/"
    }
   ],
   "art": [
    "#1f2a44",
    "#f0f0f0"
   ],
-  "_tmdb_matched": false,
-  "rating": null,
-  "rating_count": null
+  "_tmdb_matched": true,
+  "rating": 3.32,
+  "rating_count": 249
  },
  {
-  "id": "to-indie-2026-shorts-block-10",
-  "title": "T.O. Indie 2026: Shorts Block 10",
-  "year": 2026,
-  "director": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inhe",
-  "runtime": 80,
+  "id": "walk-hard-the-dewey-cox-story",
+  "title": "Walk Hard: The Dewey Cox Story",
+  "year": 2007,
+  "director": "Jake Kasdan",
+  "runtime": 96,
   "country": "USA",
-  "lang": ".mw-parser-output .plainlist ol,.mw-pars",
-  "why": "Adult Swim is an American adult-oriented television programming block on Cartoon Network which broadcasts during the evening, prime time, and late-night dayparts. The channel features stylistically varied animated and…",
-  "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/250px-Adult_Swim_2003_logo.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail",
-  "tags": [],
+  "lang": "English",
+  "why": "Following a childhood tragedy, Dewey Cox follows a long and winding road to music stardom. Dewey perseveres through changing musical styles, an addiction to nearly every drug known and bouts of uncontrollable rage.",
+  "poster": "https://image.tmdb.org/t/p/w500/Aa1IQ4Cuin3d7qIahvPheMmR4E5.jpg",
+  "tags": [
+   "Comedy",
+   "Music"
+  ],
   "screenings": [
    {
-    "theatre": "paradise",
+    "theatre": "revue",
     "dates": [
-     "2026-09-19"
+     "2026-11-15"
     ],
-    "time": "20:00",
+    "time": "19:00",
     "format": "",
-    "url": "https://paradiseonbloor.com/purchase/633827/"
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1036968~fc639be0-110c-4035-a588-842aceff5ef6&"
    }
   ],
   "art": [
    "#3a2440",
    "#4dd6c4"
   ],
-  "_tmdb_matched": false,
-  "rating": null,
-  "rating_count": null
+  "_tmdb_matched": true,
+  "rating": 3.74,
+  "rating_count": 134807
  },
  {
-  "id": "to-indie-2026-ding-dong-die",
-  "title": "T.O. Indie 2026: Ding, Dong, Die",
-  "year": 2026,
-  "director": "David Dobkin",
-  "runtime": 108,
-  "country": "USA",
-  "lang": "English",
-  "why": "Eurovision Song Contest: The Story of Fire Saga is a 2020 American musical romantic comedy film directed by David Dobkin, written by Will Ferrell and Harper Steele, and starring Ferrell, Rachel McAdams, Dan Stevens, M…",
-  "poster": "https://upload.wikimedia.org/wikipedia/en/d/da/Eurovision_Song_Contest-_The_Story_of_Fire_Saga_poster.jpg",
-  "tags": [],
+  "id": "the-day-of-the-beast",
+  "title": "The Day of the Beast",
+  "year": 1995,
+  "director": "Álex de la Iglesia",
+  "runtime": 104,
+  "country": "Italy, Spain",
+  "lang": "Spanish, Italian",
+  "why": "When a rogue priest discovers the exact date the Antichrist will be born, he enlists a Death Metal record store clerk and a cheesy TV psychic for an urban spree of gore, sacrilege and twisted humor to prevent the Apoc…",
+  "poster": "https://image.tmdb.org/t/p/w500/yEXhgACPIV4PmTgHT2HS3Ko2oS3.jpg",
+  "tags": [
+   "4K",
+   "Restoration",
+   "Horror"
+  ],
   "screenings": [
    {
-    "theatre": "paradise",
+    "theatre": "revue",
     "dates": [
-     "2026-09-19"
+     "2026-12-17"
     ],
-    "time": "22:00",
+    "time": "21:30",
     "format": "",
-    "url": "https://paradiseonbloor.com/purchase/633828/"
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1036972~fc639be0-110c-4035-a588-842aceff5ef6&"
    }
   ],
   "art": [
    "#123a3a",
    "#7fd4e0"
   ],
-  "_tmdb_matched": false,
-  "rating": null,
-  "rating_count": null
+  "_tmdb_matched": true,
+  "rating": 3.69,
+  "rating_count": 56305
  },
  {
-  "id": "the-tales-of-hoffmann",
-  "title": "The Tales of Hoffmann",
-  "year": 1951,
-  "director": "Michael Powell, Emeric Pressburger",
-  "runtime": 127,
-  "country": "United Kingdom",
+  "id": "heathers",
+  "title": "Heathers",
+  "year": 1989,
+  "director": "Michael Lehmann",
+  "runtime": 103,
+  "country": "USA",
   "lang": "English",
-  "why": "A melancholy poet reflects on three women he loved and lost in the past: a mechanical performing doll, a Venetian courtesan, and the consumptive daughter of a celebrated composer.",
-  "poster": "https://image.tmdb.org/t/p/w500/3rqMnYSLjFa9OYwoLhXLVacwhQ7.jpg",
+  "why": "A girl who halfheartedly tries to be part of the \"in crowd\" of her school meets a rebel who teaches her a more devious way to play social politics: by killing the popular kids.",
+  "poster": "https://image.tmdb.org/t/p/w500/rtzcrwgsuESV2adSDhIuLyQoZmp.jpg",
   "tags": [
-   "Music",
-   "Fantasy",
-   "Romance"
+   "Comedy",
+   "Crime"
   ],
   "screenings": [
    {
-    "theatre": "paradise",
+    "theatre": "revue",
     "dates": [
-     "2026-09-20"
+     "2027-01-08"
     ],
-    "time": "18:30",
+    "time": "21:30",
     "format": "",
-    "url": "https://paradiseonbloor.com/purchase/629541/"
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1036892~fc639be0-110c-4035-a588-842aceff5ef6&"
    }
   ],
   "art": [
@@ -180,93 +210,243 @@
    "#e88b6a"
   ],
   "_tmdb_matched": true,
-  "rating": 3.83,
-  "rating_count": 10687
+  "rating": 3.78,
+  "rating_count": 764296
  },
  {
-  "id": "member-mondays-the-thin-blue-line",
-  "title": "Member Mondays: The Thin Blue Line",
-  "year": 1988,
-  "director": "",
-  "runtime": 103,
-  "country": "",
-  "lang": "",
-  "why": "Paul Anthony Ryder was an English musician. He was a bass player and a founding member of the Manchester band Happy Mondays with his brother Shaun Ryder. His bass playing was credited with bringing funk to the band's …",
-  "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/350/2026/09/07152731/4w4BJk3l8y9gYwPPLRs6uPHOmGL-683x1024.jpg",
-  "tags": [],
+  "id": "the-revenant",
+  "title": "The Revenant",
+  "year": 2015,
+  "director": "Alejandro G. Iñárritu",
+  "runtime": 157,
+  "country": "Canada, Hong Kong",
+  "lang": "English, French",
+  "why": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
+  "poster": "https://image.tmdb.org/t/p/w500/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
+  "tags": [
+   "Western",
+   "Drama",
+   "Adventure"
+  ],
   "screenings": [
    {
-    "theatre": "paradise",
+    "theatre": "revue",
     "dates": [
-     "2026-09-21"
+     "2026-12-09"
     ],
-    "time": "18:15",
+    "time": "21:30",
     "format": "",
-    "url": "https://docs.google.com/forms/d/e/1FAIpQLSe0-N4AKitJKm9H6iMQPyyI1XAgVPhZmTXnvom21P8JNN7gjQ/viewform?usp=sharing&ouid=112739031015502006939"
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1036890~fc639be0-110c-4035-a588-842aceff5ef6&"
    }
   ],
   "art": [
    "#40183a",
    "#f24d94"
   ],
-  "_tmdb_matched": false,
-  "rating": null,
-  "rating_count": null
+  "_tmdb_matched": true,
+  "rating": 3.92,
+  "rating_count": 1507760
  },
  {
-  "id": "judged-before-the-judge",
-  "title": "Judged Before the Judge",
-  "year": 1995,
-  "director": "Danny Cannon",
-  "runtime": 47,
-  "country": "USA",
-  "lang": "English",
-  "why": "Judge Dredd is a 1995 American science fiction action film based on the 2000 AD comics Judge Dredd. It is directed by Danny Cannon and stars Sylvester Stallone as Judge Dredd, a law enforcement officer in the crime-ri…",
-  "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/350/2026/09/09184233/Movie-Poster-9-x-16-in-Asha-Walker-576x1024.png",
-  "tags": [],
+  "id": "the-devils",
+  "title": "The Devils",
+  "year": 1971,
+  "director": "Ken Russell",
+  "runtime": 112,
+  "country": "United Kingdom",
+  "lang": "English, Latin",
+  "why": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​",
+  "poster": "https://image.tmdb.org/t/p/w500/y1k7eiOFc6fzm8XeTa1kNGx6JIs.jpg",
+  "tags": [
+   "4K",
+   "Restoration",
+   "Drama"
+  ],
   "screenings": [
    {
-    "theatre": "paradise",
+    "theatre": "revue",
     "dates": [
-     "2026-09-22"
+     "2026-10-30"
     ],
-    "time": "18:30",
+    "time": "21:30",
     "format": "",
-    "url": "https://www.oabp.org/event-details/judged-before-the-judge-official-premiere"
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1036847~fc639be0-110c-4035-a588-842aceff5ef6&"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-01"
+    ],
+    "time": "20:30",
+    "format": "",
+    "url": "https://revuecinema.ca/films/dumpster-raccoon-x-nightmare-alley-the-devils-1971-new-4k-restoration/"
    }
   ],
   "art": [
    "#24303a",
    "#9ab0c4"
   ],
-  "_tmdb_matched": false,
-  "rating": null,
-  "rating_count": null
+  "_tmdb_matched": true,
+  "rating": 4.23,
+  "rating_count": 84081
  },
  {
-  "id": "strangers-on-a-train",
-  "title": "Strangers on a Train",
-  "year": 1951,
-  "director": "Alfred Hitchcock",
-  "runtime": 101,
+  "id": "ekran",
+  "title": "Ekran",
+  "year": 1988,
+  "director": "Mieczyslaw Vogt",
+  "runtime": 131,
   "country": "USA",
-  "lang": "French, English",
-  "why": "A charming psychopath tries to coerce a tennis star into his theory that two strangers can commit the perfect crime by exchanging murders—each killing the other’s most-hated person.",
-  "poster": "https://image.tmdb.org/t/p/w500/ihC083U7ef56Ui4x0P0dobojrZ1.jpg",
+  "lang": "English",
+  "why": "Uncle Fedya, His Dog, and His Cat is a children's novella written by Eduard Uspensky and first published in 1974. It is the first story in the series set in the fictional village of Milkville created by Uspensky. The …",
+  "poster": "https://revuecinema.ca/wp-content/uploads/2026/09/images_(19).jpg",
   "tags": [
-   "Crime",
-   "Thriller",
-   "Drama"
+   "Documentary"
   ],
   "screenings": [
    {
-    "theatre": "paradise",
+    "theatre": "revue",
     "dates": [
-     "2026-09-23"
+     "2026-11-18"
     ],
-    "time": "19:30",
+    "time": "18:30",
     "format": "",
-    "url": "https://paradiseonbloor.com/purchase/635080/"
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1036762~fc639be0-110c-4035-a588-842aceff5ef6&"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-19"
+    ],
+    "time": "12:00",
+    "format": "",
+    "url": "https://revuecinema.ca/films/ekran-toronto-polish-film-festival/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-19"
+    ],
+    "time": "15:30",
+    "format": "",
+    "url": "https://revuecinema.ca/films/ekran-toronto-polish-film-festival/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-19"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://revuecinema.ca/films/ekran-toronto-polish-film-festival/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-19"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://revuecinema.ca/films/ekran-toronto-polish-film-festival/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-20"
+    ],
+    "time": "12:00",
+    "format": "",
+    "url": "https://revuecinema.ca/films/ekran-toronto-polish-film-festival/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-20"
+    ],
+    "time": "15:30",
+    "format": "",
+    "url": "https://revuecinema.ca/films/ekran-toronto-polish-film-festival/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-20"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://revuecinema.ca/films/ekran-toronto-polish-film-festival/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-20"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://revuecinema.ca/films/ekran-toronto-polish-film-festival/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-21"
+    ],
+    "time": "16:00",
+    "format": "",
+    "url": "https://revuecinema.ca/films/ekran-toronto-polish-film-festival/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-21"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://revuecinema.ca/films/ekran-toronto-polish-film-festival/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-21"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://revuecinema.ca/films/ekran-toronto-polish-film-festival/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-22"
+    ],
+    "time": "12:00",
+    "format": "",
+    "url": "https://revuecinema.ca/films/ekran-toronto-polish-film-festival/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-22"
+    ],
+    "time": "15:30",
+    "format": "",
+    "url": "https://revuecinema.ca/films/ekran-toronto-polish-film-festival/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-22"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://revuecinema.ca/films/ekran-toronto-polish-film-festival/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-22"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://revuecinema.ca/films/ekran-toronto-polish-film-festival/"
    }
   ],
   "art": [
@@ -274,65 +454,72 @@
    "#d9c06a"
   ],
   "_tmdb_matched": true,
-  "rating": 4.07,
-  "rating_count": 184528
+  "rating": null,
+  "rating_count": null
  },
  {
-  "id": "leave-her-to-heaven",
-  "title": "Leave Her to Heaven",
-  "year": 1945,
-  "director": "John M. Stahl",
-  "runtime": 110,
-  "country": "USA",
-  "lang": "English",
-  "why": "A socialite marries a prominent novelist, which spurs a violent, obsessive, and dangerous jealousy in her.",
-  "poster": "https://image.tmdb.org/t/p/w500/aUzQZt2UlaurZ3wlhzVXQb6PQk8.jpg",
-  "tags": [
-   "Drama",
-   "Thriller",
-   "Romance"
-  ],
+  "id": "cocoon-one-summer-of-childhood",
+  "title": "Cocoon: One Summer of Childhood",
+  "year": 2026,
+  "director": "Yukimitsu Ina",
+  "runtime": 85,
+  "country": "Japan",
+  "lang": "Japanese",
+  "why": "The Very Hungry Caterpillar is a 1969 children's picture book by American author and illustrator Eric Carle. The plot follows a very hungry caterpillar that consumes a variety of foods before pupating and becoming a b…",
+  "poster": "https://revuecinema.ca/wp-content/uploads/2026/09/mv5bndjjndi4nzetzjm3ny00m2exltljnwqtzdnknwm4zja2ztk3xkeyxkfqcgc@._v1_.jpg",
+  "tags": [],
   "screenings": [
    {
-    "theatre": "paradise",
+    "theatre": "revue",
     "dates": [
-     "2026-09-27"
+     "2026-11-28"
     ],
-    "time": "15:45",
+    "time": "13:30",
     "format": "",
-    "url": "https://paradiseonbloor.com/purchase/655735/"
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1035870~fc639be0-110c-4035-a588-842aceff5ef6&"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-30"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://revuecinema.ca/films/anime-at-the-revue-cocoon-one-summer-of-childhood/"
    }
   ],
   "art": [
    "#101b2a",
    "#e0562a"
   ],
-  "_tmdb_matched": true,
-  "rating": 3.94,
-  "rating_count": 35110
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
-  "id": "taipei-story",
-  "title": "Taipei Story",
-  "year": 1985,
-  "director": "Edward Yang",
-  "runtime": 120,
-  "country": "Taiwan",
-  "lang": "Mandarin",
-  "why": "A young woman urgently seeks to navigate the maze of contemporary Taipei and find a future. She hopes that her boyfriend Lung is the key to the future, but Lung is stuck in a past that combines baseball and traditiona…",
-  "poster": "https://image.tmdb.org/t/p/w500/veJ93QUnTBX4WXk5qSl1s42Uosj.jpg",
+  "id": "trainspotting",
+  "title": "Trainspotting",
+  "year": 1996,
+  "director": "Danny Boyle",
+  "runtime": 94,
+  "country": "United Kingdom",
+  "lang": "English",
+  "why": "Heroin addict Mark Renton stumbles through bad ideas and sobriety attempts with his unreliable friends --Sick Boy, Begbie, Spud and Tommy. He also has an underage girlfriend, Diane, along for the ride. After cleaning …",
+  "poster": "https://image.tmdb.org/t/p/w500/1jUC02qsqS2NxBMFarbIhcQtazV.jpg",
   "tags": [
+   "4K",
+   "Restoration",
    "Drama"
   ],
   "screenings": [
    {
-    "theatre": "paradise",
+    "theatre": "revue",
     "dates": [
-     "2026-09-29"
+     "2026-11-11"
     ],
-    "time": "18:00",
+    "time": "21:30",
     "format": "",
-    "url": "https://paradiseonbloor.com/purchase/635124/"
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=863338~fc639be0-110c-4035-a588-842aceff5ef6&"
    }
   ],
   "art": [
@@ -340,31 +527,32 @@
    "#f0a83c"
   ],
   "_tmdb_matched": true,
-  "rating": 4.04,
-  "rating_count": 44873
+  "rating": 4.23,
+  "rating_count": 1335211
  },
  {
-  "id": "drinking-and-driving",
-  "title": "Drinking and Driving",
-  "year": 2026,
-  "director": "Jillian Frank, Avalon Fast",
-  "runtime": 105,
-  "country": "Canada",
+  "id": "happiest-season",
+  "title": "Happiest Season",
+  "year": 2020,
+  "director": "Clea DuVall",
+  "runtime": 102,
+  "country": "USA",
   "lang": "English",
-  "why": "Early twenties Iris and Palmer never left their hometown. They work at the same restaurant, share the same bed, and both have a habit of drinking and driving. They run into Levi, a guy they used to know. They spend ti…",
-  "poster": "https://image.tmdb.org/t/p/w500/yHsuEK8MdSRO1MMbJvllYgI8idI.jpg",
+  "why": "A young woman's plans to propose to her girlfriend while at her family's annual holiday party are upended when she discovers her partner hasn't yet come out to her conservative parents.",
+  "poster": "https://image.tmdb.org/t/p/w500/vzec9kkOSE93tygyfOktedkeOQ.jpg",
   "tags": [
-   "Drama"
+   "Romance",
+   "Comedy"
   ],
   "screenings": [
    {
-    "theatre": "paradise",
+    "theatre": "revue",
     "dates": [
-     "2026-09-29"
+     "2026-12-20"
     ],
-    "time": "21:00",
+    "time": "15:00",
     "format": "",
-    "url": "https://paradiseonbloor.com/purchase/632824/"
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1035451~fc639be0-110c-4035-a588-842aceff5ef6&"
    }
   ],
   "art": [
@@ -372,33 +560,448 @@
    "#d4b26a"
   ],
   "_tmdb_matched": true,
-  "rating": 3.62,
-  "rating_count": 211
+  "rating": 3.13,
+  "rating_count": 268407
  },
  {
-  "id": "tales-from-the-crypt-demon-knight",
-  "title": "Tales from the Crypt: Demon Knight",
-  "year": 1995,
-  "director": "Ernest R. Dickerson",
-  "runtime": 93,
+  "id": "the-edge",
+  "title": "The Edge",
+  "year": 1997,
+  "director": "Lee Tamahori",
+  "runtime": 117,
   "country": "USA",
   "lang": "English",
-  "why": "Ex-soldier Frank Brayker is the guardian of an ancient key that can unlock tremendous evil; the sinister Collector is a demon who wants the key so he can initiate the apocalypse. On the run from wicked mercenaries for…",
-  "poster": "https://image.tmdb.org/t/p/w500/5sTFaW66D2l3fhP6qYLJ6gURACz.jpg",
+  "why": "The plane carrying wealthy Charles Morse crashes down in the Alaskan wilderness. Together with the two other passengers, photographer Robert and assistant Stephen, Charles devises a plan to help them reach civilizatio…",
+  "poster": "https://image.tmdb.org/t/p/w500/zplJqfuUyqzW0D4jX3W1afl0d7b.jpg",
   "tags": [
-   "Horror",
-   "Comedy",
-   "Thriller"
+   "35mm",
+   "Action",
+   "Adventure"
   ],
   "screenings": [
    {
-    "theatre": "paradise",
+    "theatre": "revue",
     "dates": [
-     "2026-10-05"
+     "2026-11-23"
     ],
-    "time": "20:30",
+    "time": "21:30",
     "format": "",
-    "url": "https://paradiseonbloor.com/purchase/642353/"
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1035447~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#2b3a2f",
+   "#e0b34d"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.43,
+  "rating_count": 42242
+ },
+ {
+  "id": "the-family-stone",
+  "title": "The Family Stone",
+  "year": 2005,
+  "director": "Thomas Bezucha",
+  "runtime": 103,
+  "country": "USA",
+  "lang": "English",
+  "why": "An uptight, conservative businesswoman accompanies her boyfriend to his eccentric and outgoing family's annual Christmas celebration and finds that she's a fish out of water in their free-spirited way of life.",
+  "poster": "https://image.tmdb.org/t/p/w500/nlqw53HmTP7o3b2NDttYNOtsK4V.jpg",
+  "tags": [
+   "35mm",
+   "Comedy",
+   "Drama"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-12-18"
+    ],
+    "time": "18:45",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1035449~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#3a2b2b",
+   "#c94f4f"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.06,
+  "rating_count": 241380
+ },
+ {
+  "id": "v-for-vendetta",
+  "title": "V for Vendetta",
+  "year": 2006,
+  "director": "James McTeigue",
+  "runtime": 132,
+  "country": "Germany, United Kingdom",
+  "lang": "English",
+  "why": "In a world in which Great Britain has become a fascist state, a masked vigilante known only as “V” conducts guerrilla warfare against the oppressive British government. When V rescues a young woman from the secret pol…",
+  "poster": "https://image.tmdb.org/t/p/w500/piZOwjyk1g51oPHonc7zaQY3WOv.jpg",
+  "tags": [
+   "Action",
+   "Thriller",
+   "Science Fiction"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-05"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=824626~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#1f2a44",
+   "#f0f0f0"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.9,
+  "rating_count": 1015259
+ },
+ {
+  "id": "days-of-being-wild",
+  "title": "Days of Being Wild",
+  "year": 1990,
+  "director": "Wong Kar-Wai",
+  "runtime": 94,
+  "country": "Hong Kong",
+  "lang": "English, Cantonese",
+  "why": "Yuddy, a Hong Kong playboy known for breaking girls' hearts, tries to find solace and truth after discovering the woman who raised him isn't his mother.",
+  "poster": "https://image.tmdb.org/t/p/w500/g0nbZt1eFlL8FqG8r524iXnpoQV.jpg",
+  "tags": [
+   "4K",
+   "Restoration",
+   "Crime"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-14"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1035233~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#3a2440",
+   "#4dd6c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.82,
+  "rating_count": 107090
+ },
+ {
+  "id": "copycat",
+  "title": "Copycat",
+  "year": 1995,
+  "director": "Jon Amiel",
+  "runtime": 124,
+  "country": "USA",
+  "lang": "English, German",
+  "why": "An agoraphobic psychologist and a female detective must work together to take down a serial killer who copies serial killers from the past.",
+  "poster": "https://image.tmdb.org/t/p/w500/oMgwJb016znNZcpDR20eXxZoW8A.jpg",
+  "tags": [
+   "Thriller",
+   "Crime",
+   "Mystery"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-07"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1034472~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#123a3a",
+   "#7fd4e0"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.27,
+  "rating_count": 165871
+ },
+ {
+  "id": "pulse",
+  "title": "Pulse",
+  "year": 2001,
+  "director": "Kiyoshi Kurosawa",
+  "runtime": 119,
+  "country": "Japan",
+  "lang": "Japanese",
+  "why": "In the immense city of Tokyo, the darkness of the afterlife lures some of its inhabitants desperately trying to escape the sadness and isolation of the modern world.",
+  "poster": "https://image.tmdb.org/t/p/w500/c3zEimDraIyMSasPMGDaNOrhnzn.jpg",
+  "tags": [
+   "Horror",
+   "Thriller",
+   "Mystery"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-26"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1034399~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#2a3550",
+   "#e88b6a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.7,
+  "rating_count": 185435
+ },
+ {
+  "id": "fight-club",
+  "title": "Fight Club",
+  "year": 1999,
+  "director": "David Fincher",
+  "runtime": 139,
+  "country": "Germany, USA",
+  "lang": "English",
+  "why": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an e…",
+  "poster": "https://image.tmdb.org/t/p/w500/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+  "tags": [
+   "4K",
+   "Restoration",
+   "Drama"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-25"
+    ],
+    "time": "18:15",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1034401~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#40183a",
+   "#f24d94"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.27,
+  "rating_count": 6081011
+ },
+ {
+  "id": "gilda",
+  "title": "Gilda",
+  "year": 1946,
+  "director": "Charles Vidor",
+  "runtime": 110,
+  "country": "USA",
+  "lang": "English, German",
+  "why": "A gambler discovers an old flame while in Argentina, but she's married to his new boss.",
+  "poster": "https://image.tmdb.org/t/p/w500/46eKPjoWEyNBAQKDoXEcDFBcaUw.jpg",
+  "tags": [
+   "4K",
+   "Restoration",
+   "Romance"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-26"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1034278~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#24303a",
+   "#9ab0c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.77,
+  "rating_count": 65015
+ },
+ {
+  "id": "henry-portrait-of-a-serial-killer",
+  "title": "Henry: Portrait of a Serial Killer",
+  "year": 1986,
+  "director": "John McNaughton",
+  "runtime": 83,
+  "country": "USA",
+  "lang": "English",
+  "why": "Arriving in Chicago, Henry moves in with ex-con acquaintance Otis and starts schooling him in the ways of the serial killer.",
+  "poster": "https://image.tmdb.org/t/p/w500/diVMzTarVLgjc3jyODyhZMadfwD.jpg",
+  "tags": [
+   "35mm",
+   "Premiere",
+   "Crime"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-02"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1034204~fc639be0-110c-4035-a588-842aceff5ef6&"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-04"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://revuecinema.ca/films/revue-event-henry-portrait-of-a-serial-killer-1986-canadian-premiere-of-new-35mm-print/"
+   }
+  ],
+  "art": [
+   "#3a3218",
+   "#d9c06a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.54,
+  "rating_count": 71890
+ },
+ {
+  "id": "manhunter-the-final-cut",
+  "title": "Manhunter: The Final Cut",
+  "year": 1986,
+  "director": "Michael Mann",
+  "runtime": 120,
+  "country": "USA",
+  "lang": "English",
+  "why": "Manhunter is a 1986 American crime thriller film written and directed by Michael Mann. Based on the 1981 novel Red Dragon by Thomas Harris, the film stars William Petersen as FBI profiler Will Graham, Tom Noonan as se…",
+  "poster": "https://revuecinema.ca/wp-content/uploads/2026/09/1080x1595_manhunter-poster-uk-uk-2026-4k-restoration-english-manhunteranniversary-final_web-693x1024.png",
+  "tags": [
+   "4K",
+   "Restoration"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-15"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1034171~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#101b2a",
+   "#e0562a"
+  ],
+  "_tmdb_matched": false,
+  "rating": 3.86,
+  "rating_count": 197681
+ },
+ {
+  "id": "a-breed-apart",
+  "title": "A Breed Apart",
+  "year": 2025,
+  "director": "Nathan Furst, Griff Furst",
+  "runtime": 100,
+  "country": "USA, Monaco",
+  "lang": "English",
+  "why": "When Violet accepts an invitation to a private island with some of the world's most famous social influencers, she expects a weekend of unrivaled viral opportunity. She soon becomes part of her own horrific reality sh…",
+  "poster": "https://image.tmdb.org/t/p/w500/6IiNUUV6H2W1wUc8e1w4GfuQCOE.jpg",
+  "tags": [
+   "Horror",
+   "Mystery",
+   "Action"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-03"
+    ],
+    "time": "15:00",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1034169~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#3a2a1a",
+   "#f0a83c"
+  ],
+  "_tmdb_matched": true,
+  "rating": 1.89,
+  "rating_count": 1121
+ },
+ {
+  "id": "rope",
+  "title": "Rope",
+  "year": 1948,
+  "director": "Alfred Hitchcock",
+  "runtime": 81,
+  "country": "USA",
+  "lang": "English",
+  "why": "Two young men attempt to prove they committed the perfect murder by hosting a dinner party for the family of a classmate they just strangled to death.",
+  "poster": "https://image.tmdb.org/t/p/w500/9ar6rxLDB8kagAnXZKn6h9smscr.jpg",
+  "tags": [
+   "Thriller",
+   "Crime",
+   "Drama"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-18"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1034160~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#2a3324",
+   "#d4b26a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.14,
+  "rating_count": 349202
+ },
+ {
+  "id": "the-lair-of-the-white-worm",
+  "title": "The Lair of the White Worm",
+  "year": 1988,
+  "director": "Ken Russell",
+  "runtime": 93,
+  "country": "United Kingdom",
+  "lang": "English",
+  "why": "When an archaeologist uncovers a strange skull in a foreign land, the residents of a nearby town begin to disappear, leading to further inexplicable occurrences.",
+  "poster": "https://image.tmdb.org/t/p/w500/mHY7MwqrsCJNEAPt6K5PcNXmAfL.jpg",
+  "tags": [
+   "Horror",
+   "Comedy"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-24"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1033960~fc639be0-110c-4035-a588-842aceff5ef6&"
    }
   ],
   "art": [
@@ -407,32 +1010,32 @@
   ],
   "_tmdb_matched": true,
   "rating": 3.44,
-  "rating_count": 33991
+  "rating_count": 53499
  },
  {
-  "id": "cat-people",
-  "title": "Cat People",
-  "year": 1942,
-  "director": "Jacques Tourneur",
-  "runtime": 73,
-  "country": "USA",
-  "lang": "Serbian, English",
-  "why": "A Serbian émigré in Manhattan believes that, because of an ancient curse, any physical intimacy with the man she loves will turn her into a feline predator.",
-  "poster": "https://image.tmdb.org/t/p/w500/xbe5w7MXOdqsu0ZZRiHHAh6oQlc.jpg",
+  "id": "jigoku",
+  "title": "Jigoku",
+  "year": 1960,
+  "director": "Nobuo Nakagawa",
+  "runtime": 99,
+  "country": "Japan",
+  "lang": "Japanese",
+  "why": "A group of sinners involved in interconnected tales of murder, revenge, deceit and adultery all meet at the Gates of Hell.",
+  "poster": "https://image.tmdb.org/t/p/w500/ehiMOuKE7i9WHgvs7dSIZelsHwA.jpg",
   "tags": [
-   "Mystery",
-   "Horror",
-   "Romance"
+   "4K",
+   "Restoration",
+   "Premiere"
   ],
   "screenings": [
    {
-    "theatre": "paradise",
+    "theatre": "revue",
     "dates": [
-     "2026-10-07"
+     "2026-10-21"
     ],
-    "time": "18:15",
+    "time": "21:30",
     "format": "",
-    "url": "https://paradiseonbloor.com/purchase/642361/"
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1033376~fc639be0-110c-4035-a588-842aceff5ef6&"
    }
   ],
   "art": [
@@ -440,33 +1043,33 @@
    "#c94f4f"
   ],
   "_tmdb_matched": true,
-  "rating": 3.67,
-  "rating_count": 90935
+  "rating": 3.62,
+  "rating_count": 19367
  },
  {
-  "id": "cramps-a-period-piece",
-  "title": "Cramps! A Period Piece",
-  "year": 2025,
-  "director": "Brooke H. Cellars",
-  "runtime": 89,
-  "country": "USA",
+  "id": "ghostwatch",
+  "title": "Ghostwatch",
+  "year": 1992,
+  "director": "Lesley Manning",
+  "runtime": 91,
+  "country": "United Kingdom",
   "lang": "English",
-  "why": "Agnes Applewhite, a blossoming young woman caught between her sanctimonious mother and tightly wound sister, defies her family’s expectations by taking a job as a shampoo girl at a lively beauty salon. As she thrives …",
-  "poster": "https://image.tmdb.org/t/p/w500/SWKWLtVDRmeWUWllELMaKPQ8SM.jpg",
+  "why": "For Halloween 1992, the BBC decides to broadcast an investigation into the supernatural, hosted by TV chat-show legend Michael Parkinson. Parky (assisted by Mike Smith, Sarah Greene & Craig Charles) and a camera crew …",
+  "poster": "https://image.tmdb.org/t/p/w500/h5nOIZbO3J7STIOZumW00BxU6DC.jpg",
   "tags": [
    "Horror",
-   "Comedy",
-   "Fantasy"
+   "Mystery",
+   "TV Movie"
   ],
   "screenings": [
    {
-    "theatre": "paradise",
+    "theatre": "revue",
     "dates": [
-     "2026-10-09"
+     "2026-10-18"
     ],
-    "time": "19:00",
+    "time": "16:00",
     "format": "",
-    "url": "https://paradiseonbloor.com/purchase/650884/"
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1032883~fc639be0-110c-4035-a588-842aceff5ef6&"
    }
   ],
   "art": [
@@ -474,33 +1077,33 @@
    "#f0f0f0"
   ],
   "_tmdb_matched": true,
-  "rating": 3.41,
-  "rating_count": 373
+  "rating": 3.83,
+  "rating_count": 52956
  },
  {
-  "id": "the-innocents",
-  "title": "The Innocents",
-  "year": 1961,
-  "director": "Jack Clayton",
-  "runtime": 100,
-  "country": "United Kingdom",
+  "id": "the-fan",
+  "title": "The Fan",
+  "year": 1996,
+  "director": "Tony Scott",
+  "runtime": 116,
+  "country": "United Kingdom, USA",
   "lang": "English",
-  "why": "In a mid-19th century Essex country house, a young governess for two children becomes convinced that the house and grounds are haunted by ghosts and that the children are being possessed.",
-  "poster": "https://image.tmdb.org/t/p/w500/idqvLBmlEHUITMnQ0EJ6Yb5TpVw.jpg",
+  "why": "When the San Francisco Giants pay center-fielder, Bobby Rayburn $40 million to lead their team to the World Series, no one is happier or more supportive than #1 fan, Gil Renard.  When Rayburn becomes mired in the wors…",
+  "poster": "https://image.tmdb.org/t/p/w500/lu7CjP8YES5dJMCFg5O9o9jCkjl.jpg",
   "tags": [
-   "Horror",
-   "Mystery",
-   "Drama"
+   "35mm",
+   "Thriller",
+   "Action"
   ],
   "screenings": [
    {
-    "theatre": "paradise",
+    "theatre": "revue",
     "dates": [
-     "2026-10-13"
+     "2026-10-22"
     ],
-    "time": "20:45",
+    "time": "18:30",
     "format": "",
-    "url": "https://paradiseonbloor.com/purchase/642363/"
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1032850~fc639be0-110c-4035-a588-842aceff5ef6&"
    }
   ],
   "art": [
@@ -508,32 +1111,33 @@
    "#4dd6c4"
   ],
   "_tmdb_matched": true,
-  "rating": 4.12,
-  "rating_count": 69832
+  "rating": 3.02,
+  "rating_count": 35325
  },
  {
-  "id": "hauntedween",
-  "title": "HauntedWeen",
-  "year": 1991,
-  "director": "Doug Robertson",
-  "runtime": 87,
+  "id": "blue-sunshine",
+  "title": "Blue Sunshine",
+  "year": 1977,
+  "director": "Jeff Lieberman",
+  "runtime": 94,
   "country": "USA",
   "lang": "English",
-  "why": "One Halloween night, a little girl visiting the Burber family's \"House of Horrors\" attraction is brutally hacked to pieces by their young son, Eddie. Having fled the scene, Eddie is taken away by his mother to live in…",
-  "poster": "https://image.tmdb.org/t/p/w500/6pu0p7Z2b3Et2GdhHXromgd5Sda.jpg",
+  "why": "At a party, someone goes insane and murders three women. Falsely accused of the brutal killings, Jerry is on the run. More bizarre homicides continue with alarming frequency all over town. Trying to clear his name, Je…",
+  "poster": "https://image.tmdb.org/t/p/w500/kFH2Cug6i9ztE89QZn4XmCki65C.jpg",
   "tags": [
-   "Horror",
-   "Comedy"
+   "4K",
+   "Restoration",
+   "Science Fiction"
   ],
   "screenings": [
    {
-    "theatre": "paradise",
+    "theatre": "revue",
     "dates": [
-     "2026-10-18"
+     "2026-10-14"
     ],
-    "time": "21:15",
+    "time": "21:30",
     "format": "",
-    "url": "https://paradiseonbloor.com/purchase/650886/"
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1032326~fc639be0-110c-4035-a588-842aceff5ef6&"
    }
   ],
   "art": [
@@ -541,33 +1145,33 @@
    "#7fd4e0"
   ],
   "_tmdb_matched": true,
-  "rating": 2.94,
-  "rating_count": 2904
+  "rating": 3.18,
+  "rating_count": 7315
  },
  {
-  "id": "batman-robin",
-  "title": "Batman & Robin",
-  "year": 1997,
-  "director": "Joel Schumacher",
-  "runtime": 125,
-  "country": "USA, United Kingdom",
-  "lang": "English",
-  "why": "Batman and his sidekick Robin attempt to the foil the sinister schemes of a deranged set of new villains, most notably the melancholy Mr. Freeze, who wants to make Gotham City into an arctic region, and the sultry Poi…",
-  "poster": "https://image.tmdb.org/t/p/w500/i7hEUpDuMN2LOrCEifFyGSHZQSY.jpg",
+  "id": "i-love-maria",
+  "title": "I Love Maria",
+  "year": 1988,
+  "director": "David Chung",
+  "runtime": 100,
+  "country": "Hong Kong",
+  "lang": "Cantonese",
+  "why": "A gang of criminals terrorizes Hong Kong with two killer robots, one of which is modelled on the gang's female thug, Maria. When the robot gets damaged during a mission, an inventor working for the police captures and…",
+  "poster": "https://image.tmdb.org/t/p/w500/5qRHuvKnUk4IBk7zH5uDCRhlVft.jpg",
   "tags": [
-   "Action",
-   "Science Fiction",
-   "Adventure"
+   "4K",
+   "Restoration",
+   "Science Fiction"
   ],
   "screenings": [
    {
-    "theatre": "paradise",
+    "theatre": "revue",
     "dates": [
-     "2026-10-28"
+     "2026-10-17"
     ],
-    "time": "19:30",
+    "time": "21:30",
     "format": "",
-    "url": "https://paradiseonbloor.com/purchase/635134/"
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1031580~fc639be0-110c-4035-a588-842aceff5ef6&"
    }
   ],
   "art": [
@@ -575,29 +1179,32 @@
    "#e88b6a"
   ],
   "_tmdb_matched": true,
-  "rating": 1.95,
-  "rating_count": 356967
+  "rating": 3.33,
+  "rating_count": 1834
  },
  {
-  "id": "cannes-dogs-the-woman-who-could-read-the-minds-of-dogs",
-  "title": "Cannes Dogs: The Woman Who Could Read the Minds of Dogs",
-  "year": 2026,
-  "director": "Jean-Luc Godard",
-  "runtime": 78,
-  "country": "France, Switzerland",
-  "lang": "French",
-  "why": "Quentin Jerome Tarantino is an American filmmaker, actor, and author. His films are characterized by graphic violence, extended dialogue often featuring much profanity, and references to popular culture. His work has …",
-  "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/350/2026/08/28163940/2RLPozhnoqC6PgnaGpm43hr2o5a1-683x1024.jpg",
-  "tags": [],
+  "id": "night-of-the-living-dead-4k",
+  "title": "Night of the Living Dead (4K",
+  "year": 1968,
+  "director": "George A. Romero",
+  "runtime": 96,
+  "country": "USA",
+  "lang": "English",
+  "why": "Night of the Living Dead is a 1990 American supernatural horror film directed by Tom Savini in his feature directorial debut, and starring Tony Todd and Patricia Tallman. It is a remake of George A. Romero's 1968 film…",
+  "poster": "https://revuecinema.ca/wp-content/uploads/2026/08/night_of_the_living_dead_tmdb-b6yjxwyaxgqjkndoreqxxbq8og4.jpg",
+  "tags": [
+   "4K",
+   "Restoration"
+  ],
   "screenings": [
    {
-    "theatre": "paradise",
+    "theatre": "revue",
     "dates": [
-     "2026-11-01"
+     "2026-10-14"
     ],
-    "time": "13:30",
+    "time": "18:45",
     "format": "",
-    "url": "https://paradiseonbloor.com/purchase/635225/"
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=822873~fc639be0-110c-4035-a588-842aceff5ef6&"
    }
   ],
   "art": [
@@ -609,63 +1216,176 @@
   "rating_count": null
  },
  {
-  "id": "black-swan",
-  "title": "Black Swan",
-  "year": 2010,
-  "director": "Darren Aronofsky",
-  "runtime": 108,
-  "country": "USA",
-  "lang": "English, French",
-  "why": "A committed dancer struggles to maintain her sanity after winning the lead role in a production of Tchaikovsky's \"Swan Lake.\"",
-  "poster": "https://image.tmdb.org/t/p/w500/viWheBd44bouiLCHgNMvahLThqx.jpg",
-  "tags": [
-   "Drama",
-   "Thriller",
-   "Horror"
-  ],
+  "id": "trailer-trash-undead",
+  "title": "Trailer Trash: Undead",
+  "year": 1999,
+  "director": "Various",
+  "runtime": 100,
+  "country": "Various",
+  "lang": "English",
+  "why": "Trailer Park of Terror is a 2008 American horror film directed by Steven Goldmann and written by Timothy Dolan. It stars Nichole Hiltz, Matthew Del Negro, Trace Adkins, Myk Watford and Jeanette Brox.",
+  "poster": "https://revuecinema.ca/wp-content/uploads/2026/08/548284416_1236794248475003_2525994704307461998_n-1024x428.jpg",
+  "tags": [],
   "screenings": [
    {
-    "theatre": "paradise",
+    "theatre": "revue",
     "dates": [
-     "2026-11-11"
+     "2026-10-08"
     ],
-    "time": "19:30",
+    "time": "21:30",
     "format": "",
-    "url": "https://paradiseonbloor.com/purchase/635136/"
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1031125~fc639be0-110c-4035-a588-842aceff5ef6&"
    }
   ],
   "art": [
    "#24303a",
    "#9ab0c4"
   ],
-  "_tmdb_matched": true,
-  "rating": 4.17,
-  "rating_count": 3331398
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
-  "id": "m-butterfly",
-  "title": "M. Butterfly",
-  "year": 1993,
-  "director": "David Cronenberg",
-  "runtime": 101,
-  "country": "USA",
-  "lang": "Mandarin, English",
-  "why": "In 1960s China, French diplomat Rene Gallimard falls in love with opera singer Song Liling – but Song is not at all who Gallimard thinks.",
-  "poster": "https://image.tmdb.org/t/p/w500/vfutnJ9sgpAtNuPemksd26gd5dC.jpg",
+  "id": "beware-boiuna",
+  "title": "Beware Boiuna",
+  "year": 2026,
+  "director": "Mike P. Nelson",
+  "runtime": 104,
+  "country": "Germany, USA",
+  "lang": "English, Portuguese",
+  "why": "Deep in the Amazon, a medical mission spirals into a fight for survival when Boiúna, a colossal ancient predator, awakens to reclaim her domain. In the jungle where nature holds absolute power, she decides who lives a…",
+  "poster": "https://image.tmdb.org/t/p/w500/tENVMxKvOkslv8kagVNdIEQ13RT.jpg",
   "tags": [
-   "Romance",
-   "Drama",
-   "History"
+   "Adventure",
+   "Horror",
+   "Thriller"
   ],
   "screenings": [
    {
-    "theatre": "paradise",
+    "theatre": "revue",
     "dates": [
-     "2026-11-23"
+     "2026-10-02"
     ],
-    "time": "19:30",
+    "time": "21:30",
     "format": "",
-    "url": "https://paradiseonbloor.com/purchase/635138/"
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1031099~fc639be0-110c-4035-a588-842aceff5ef6&"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-03"
+    ],
+    "time": "12:00",
+    "format": "",
+    "url": "https://revuecinema.ca/films/beware-boiuna/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-04"
+    ],
+    "time": "16:00",
+    "format": "",
+    "url": "https://revuecinema.ca/films/beware-boiuna/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-05"
+    ],
+    "time": "15:30",
+    "format": "",
+    "url": "https://revuecinema.ca/films/beware-boiuna/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-06"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://revuecinema.ca/films/beware-boiuna/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-07"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://revuecinema.ca/films/beware-boiuna/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-08"
+    ],
+    "time": "15:30",
+    "format": "",
+    "url": "https://revuecinema.ca/films/beware-boiuna/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-09"
+    ],
+    "time": "18:45",
+    "format": "",
+    "url": "https://revuecinema.ca/films/beware-boiuna/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-10"
+    ],
+    "time": "12:00",
+    "format": "",
+    "url": "https://revuecinema.ca/films/beware-boiuna/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-11"
+    ],
+    "time": "18:00",
+    "format": "",
+    "url": "https://revuecinema.ca/films/beware-boiuna/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-12"
+    ],
+    "time": "13:00",
+    "format": "",
+    "url": "https://revuecinema.ca/films/beware-boiuna/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-13"
+    ],
+    "time": "16:00",
+    "format": "",
+    "url": "https://revuecinema.ca/films/beware-boiuna/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-14"
+    ],
+    "time": "15:30",
+    "format": "",
+    "url": "https://revuecinema.ca/films/beware-boiuna/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-15"
+    ],
+    "time": "15:30",
+    "format": "",
+    "url": "https://revuecinema.ca/films/beware-boiuna/"
    }
   ],
   "art": [
@@ -673,8 +1393,210 @@
    "#d9c06a"
   ],
   "_tmdb_matched": true,
-  "rating": 3.5,
-  "rating_count": 18120
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "alices-restaurant",
+  "title": "Alice's Restaurant",
+  "year": 1969,
+  "director": "Arthur Penn",
+  "runtime": 111,
+  "country": "USA",
+  "lang": "English",
+  "why": "After getting kicked out of college, Arlo decides to visit his friend Alice for Thanksgiving dinner. After dinner is over, Arlo volunteers to take the trash to the dump but finds it closed for the holiday, so he dumps…",
+  "poster": "https://image.tmdb.org/t/p/w500/m3xifcmDpyuYfrm1tHuACBaLjlZ.jpg",
+  "tags": [
+   "Drama",
+   "Comedy"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-10"
+    ],
+    "time": "15:00",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1031114~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#101b2a",
+   "#e0562a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.23,
+  "rating_count": 3701
+ },
+ {
+  "id": "the-midnight-meat-train",
+  "title": "The Midnight Meat Train",
+  "year": 2008,
+  "director": "Ryuhei Kitamura",
+  "runtime": 103,
+  "country": "USA",
+  "lang": "English",
+  "why": "A photographer's obsessive pursuit of dark subject matter leads him into the path of a serial killer who stalks late night commuters, ultimately butchering them in the most gruesome ways.",
+  "poster": "https://image.tmdb.org/t/p/w500/x5YbfyUA8huK0shr008xwzNVJ5Y.jpg",
+  "tags": [
+   "Horror",
+   "Mystery",
+   "Fantasy"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-19"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1030609~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#3a2a1a",
+   "#f0a83c"
+  ],
+  "_tmdb_matched": true,
+  "rating": 2.73,
+  "rating_count": 59426
+ },
+ {
+  "id": "the-blair-witch-project",
+  "title": "The Blair Witch Project",
+  "year": 1999,
+  "director": "Daniel Myrick, Eduardo Sánchez",
+  "runtime": 81,
+  "country": "USA",
+  "lang": "English",
+  "why": "In October of 1994 three student filmmakers disappeared in the woods near Burkittsville, Maryland, while shooting a documentary. A year later their footage was found.",
+  "poster": "https://image.tmdb.org/t/p/w500/9050VGrYjYrEjpOvDZVAngLbg1f.jpg",
+  "tags": [
+   "Horror",
+   "Mystery"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-29"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1030606~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#2a3324",
+   "#d4b26a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.23,
+  "rating_count": 1127028
+ },
+ {
+  "id": "welcome-ii-the-terrordome",
+  "title": "Welcome Ii the Terrordome",
+  "year": 1995,
+  "director": "Ngozi Onwurah",
+  "runtime": 94,
+  "country": "United Kingdom",
+  "lang": "English",
+  "why": "Spike and his sister Anjela live in the Terrordome, a huge ghetto that all the blacks have been forced to live in. Jodie, Spike's pregnant white girlfriend, ran away from an abusive white boyfriend who, after seeing h…",
+  "poster": "https://image.tmdb.org/t/p/w500/zNuhvBA8c3UhOQjYFDzI3R0ykmc.jpg",
+  "tags": [
+   "Restoration",
+   "Science Fiction",
+   "Drama"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-09-23"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1030480~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#2b3a2f",
+   "#e0b34d"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.59,
+  "rating_count": 2389
+ },
+ {
+  "id": "home-alone-2-lost-in-new-york",
+  "title": "Home Alone 2: Lost in New York",
+  "year": 1992,
+  "director": "Chris Columbus",
+  "runtime": 120,
+  "country": "USA",
+  "lang": "English, French",
+  "why": "Instead of flying to Florida with his folks, Kevin ends up alone in New York, where he gets a hotel room with his dad's credit card—despite problems from a clerk and meddling bellboy. But when Kevin runs into his old …",
+  "poster": "https://image.tmdb.org/t/p/w500/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
+  "tags": [
+   "Comedy",
+   "Family",
+   "Adventure"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-12-13"
+    ],
+    "time": "12:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1030448~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#3a2b2b",
+   "#c94f4f"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.61,
+  "rating_count": 1259143
+ },
+ {
+  "id": "how-we-ended-us",
+  "title": "How We Ended Us",
+  "year": 2025,
+  "director": "Grant Harvey",
+  "runtime": 93,
+  "country": "Canada",
+  "lang": "English",
+  "why": "Facing the end of their relationship, a couple road-trip into the countryside to find the spot they fell for each other. But hopes of rekindling their love turn into a terrifying cycle of abuse and supernatural madness.",
+  "poster": "https://image.tmdb.org/t/p/w500/eI20SkQxrVyhNJWKelnbyqvvuuS.jpg",
+  "tags": [
+   "Premiere",
+   "Thriller",
+   "Horror"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-09-29"
+    ],
+    "time": "18:45",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1030004~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#1f2a44",
+   "#f0f0f0"
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "akira",
@@ -693,40 +1615,13 @@
   ],
   "screenings": [
    {
-    "theatre": "carlton",
+    "theatre": "revue",
     "dates": [
-     "2026-09-19"
+     "2026-09-20"
     ],
-    "time": "12:35",
+    "time": "12:30",
     "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=757047543&aud=5&ptime=12:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "15:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=757047543&aud=5&ptime=15:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "18:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=757047543&aud=5&ptime=18:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "21:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=757047543&aud=5&ptime=21:35&ptype=G"
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1029465~fc639be0-110c-4035-a588-842aceff5ef6&"
    },
    {
     "theatre": "carlton",
@@ -838,12 +1733,1014 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 4.28,
   "rating_count": 897346
+ },
+ {
+  "id": "slash-back",
+  "title": "SLASH/BACK",
+  "year": 2022,
+  "director": "Nyla Innuksuk",
+  "runtime": 87,
+  "country": "Canada",
+  "lang": "English, Spanish",
+  "why": "In a remote Arctic community, a group of Inuit girls fight off an alien invasion, all while trying to make it to the coolest party in town.",
+  "poster": "https://image.tmdb.org/t/p/w500/fmmRFQtsRrNOpmcfoxVIyE1LxxT.jpg",
+  "tags": [
+   "Science Fiction",
+   "Action",
+   "Thriller"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-09-30"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1029397~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#123a3a",
+   "#7fd4e0"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.01,
+  "rating_count": 7695
+ },
+ {
+  "id": "portal-to-hell",
+  "title": "Portal to Hell",
+  "year": 2025,
+  "director": "Woody Bess",
+  "runtime": 93,
+  "country": "USA",
+  "lang": "English",
+  "why": "After a debt-collector finds a portal to hell in a washing machine at his local laundromat, he’s propositioned into feeding it sinners to save his neighbor’s soul, maybe even at the expense of his own.",
+  "poster": "https://image.tmdb.org/t/p/w500/xuXCPJZjmP2FuGG3U16sI1TYEdR.jpg",
+  "tags": [
+   "Comedy",
+   "Horror"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-01"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1029395~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#2a3550",
+   "#e88b6a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.34,
+  "rating_count": 1334
+ },
+ {
+  "id": "eraser",
+  "title": "Eraser",
+  "year": 1996,
+  "director": "Chuck Russell",
+  "runtime": 115,
+  "country": "Canada, USA",
+  "lang": "English",
+  "why": "Eraser, an elite federal marshal who \"erases\" the pasts of jeopardized informers and relocates them into safe anonymity, must protect a moving target who stands to uncover a conspiracy that could shift the balance of …",
+  "poster": "https://image.tmdb.org/t/p/w500/1FUV5ZmEkbxvqwQW0az4tFFOSmo.jpg",
+  "tags": [
+   "35mm",
+   "Action",
+   "Mystery"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-06"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1029372~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#40183a",
+   "#f24d94"
+  ],
+  "_tmdb_matched": true,
+  "rating": 2.93,
+  "rating_count": 45797
+ },
+ {
+  "id": "surreal-films-toronto-based-genre-shorts",
+  "title": "Surreal Films: Toronto-Based Genre Shorts",
+  "year": 2026,
+  "director": "Various",
+  "runtime": 120,
+  "country": "Canada",
+  "lang": "Various",
+  "why": "Backrooms is a 2026 American science fiction psychological horror film directed and co-scored by Kane Parsons, and written by Will Soodik. It is based on Parsons's web series which was inspired by the \"Backrooms\" cree…",
+  "poster": "https://revuecinema.ca/wp-content/uploads/2026/08/image_(1)-1024x576.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-09-25"
+    ],
+    "time": "18:45",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1028595~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#24303a",
+   "#9ab0c4"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "hayden",
+  "title": "Hayden",
+  "year": 1986,
+  "director": "May May Tchao",
+  "runtime": 56,
+  "country": "Canada",
+  "lang": "English",
+  "why": "What drives the Currys to adopt five special-needs children from overseas while having seven biological children already? This film gives an intimate and nuanced look into the adoption journey of the Curry family, mak…",
+  "poster": "https://image.tmdb.org/t/p/w500/qq79q6pgoCkqxBA88uRdie2eiCx.jpg",
+  "tags": [
+   "Documentary"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-09-23"
+    ],
+    "time": "18:00",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1028581~fc639be0-110c-4035-a588-842aceff5ef6&"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-09-30"
+    ],
+    "time": "18:00",
+    "format": "",
+    "url": "https://revuecinema.ca/films/rental-event-hayden-live-at-the-revue-cinema/"
+   }
+  ],
+  "art": [
+   "#3a3218",
+   "#d9c06a"
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "to-all-a-goodnight",
+  "title": "To All a Goodnight",
+  "year": 1980,
+  "director": "David Hess",
+  "runtime": 87,
+  "country": "USA",
+  "lang": "English",
+  "why": "A group of teenagers at a party find themselves being stalked by a maniacal killer in a Santa Claus costume.",
+  "poster": "https://image.tmdb.org/t/p/w500/aAoKKJH5wqyPbogT4FTgP0TQYy.jpg",
+  "tags": [
+   "Horror",
+   "Mystery",
+   "Thriller"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-12-10"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1028504~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#101b2a",
+   "#e0562a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 2.4,
+  "rating_count": 6048
+ },
+ {
+  "id": "retribution",
+  "title": "Retribution",
+  "year": 1987,
+  "director": "Guy Magar",
+  "runtime": 107,
+  "country": "USA",
+  "lang": "English",
+  "why": "After a depressed artist miraculously survives a suicide attempt, a series of horrific murders leads him to realize he may have been possessed by the vengeful spirit of a murdered gangster.",
+  "poster": "https://image.tmdb.org/t/p/w500/5syhJI9wAWjES01c6Dr3tn81eQV.jpg",
+  "tags": [
+   "Horror"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-16"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1028401~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#3a2a1a",
+   "#f0a83c"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.25,
+  "rating_count": 2930
+ },
+ {
+  "id": "hero",
+  "title": "Hero",
+  "year": 2002,
+  "director": "Zhang Yimou",
+  "runtime": 99,
+  "country": "Hong Kong, China",
+  "lang": "Mandarin",
+  "why": "During China's Warring States period, a district prefect arrives at the palace of Qin Shi Huang, claiming to have killed the three assassins who had made an attempt on the king's life three years ago.",
+  "poster": "https://image.tmdb.org/t/p/w500/vxgZto2Cz7ILHAlmRXt50I2brB2.jpg",
+  "tags": [
+   "Drama",
+   "Adventure",
+   "Action"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-03"
+    ],
+    "time": "18:45",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1028398~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#2a3324",
+   "#d4b26a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.01,
+  "rating_count": 128086
+ },
+ {
+  "id": "christine",
+  "title": "Christine",
+  "year": 1983,
+  "director": "John Carpenter",
+  "runtime": 110,
+  "country": "USA",
+  "lang": "English",
+  "why": "Nerdy high schooler Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory. As the car changes, so does Arnie, whose newfound c…",
+  "poster": "https://image.tmdb.org/t/p/w500/mMtUJke2TtIoT6JB9hkvERmsSu8.jpg",
+  "tags": [
+   "Horror"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-12-19"
+    ],
+    "time": "23:59",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1028393~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#2b3a2f",
+   "#e0b34d"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.51,
+  "rating_count": 196162
+ },
+ {
+  "id": "the-great-canadian-horror-film-festival",
+  "title": "The Great Canadian Horror Film Festival",
+  "year": 2026,
+  "director": "Various",
+  "runtime": 120,
+  "country": "Canada",
+  "lang": "Various",
+  "why": "The 2026 Sundance Film Festival took place in Park City and Salt Lake City, Utah from January 22 to February 1, 2026. Film premieres at the festival were held from January 22 to January 27, 2026. The first selection l…",
+  "poster": "https://revuecinema.ca/wp-content/uploads/2026/08/tgchff_logo-02-1920w.png",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-01"
+    ],
+    "time": "18:45",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1028330~fc639be0-110c-4035-a588-842aceff5ef6&"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-02"
+    ],
+    "time": "18:45",
+    "format": "",
+    "url": "https://revuecinema.ca/films/rental-event-the-great-canadian-horror-film-festival/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-03"
+    ],
+    "time": "18:45",
+    "format": "",
+    "url": "https://revuecinema.ca/films/rental-event-the-great-canadian-horror-film-festival/"
+   }
+  ],
+  "art": [
+   "#3a2b2b",
+   "#c94f4f"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "closed-for-technical-upgrades",
+  "title": "Closed for Technical Upgrades",
+  "year": 1994,
+  "director": "Wong Kar-wai",
+  "runtime": 103,
+  "country": "Hong Kong",
+  "lang": "Mandarin",
+  "why": "Royal Air Force Little Rissington or more simply RAF Little Rissington is a Royal Air Force satellite station in Gloucestershire, England. It was once home to the Central Flying School, the Vintage Pair and the Red Ar…",
+  "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Air_Force_Ensign_of_the_United_Kingdom.svg/120px-Air_Force_Ensign_of_the_United_Kingdom.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-09-21"
+    ],
+    "time": "12:00",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1028326~fc639be0-110c-4035-a588-842aceff5ef6&"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-09-22"
+    ],
+    "time": "12:00",
+    "format": "",
+    "url": "https://revuecinema.ca/films/closed-for-technical-upgrades/"
+   }
+  ],
+  "art": [
+   "#1f2a44",
+   "#f0f0f0"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "strangers-on-a-train",
+  "title": "Strangers on a Train",
+  "year": 1951,
+  "director": "Alfred Hitchcock",
+  "runtime": 101,
+  "country": "USA",
+  "lang": "French, English",
+  "why": "A charming psychopath tries to coerce a tennis star into his theory that two strangers can commit the perfect crime by exchanging murders—each killing the other’s most-hated person.",
+  "poster": "https://image.tmdb.org/t/p/w500/ihC083U7ef56Ui4x0P0dobojrZ1.jpg",
+  "tags": [
+   "Crime",
+   "Thriller",
+   "Drama"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-12-08"
+    ],
+    "time": "18:45",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1028298~fc639be0-110c-4035-a588-842aceff5ef6&"
+   },
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-09-23"
+    ],
+    "time": "19:30",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/635080/"
+   }
+  ],
+  "art": [
+   "#3a2440",
+   "#4dd6c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.07,
+  "rating_count": 184528
+ },
+ {
+  "id": "be-kind-rewind",
+  "title": "Be Kind Rewind",
+  "year": 2008,
+  "director": "Michel Gondry",
+  "runtime": 102,
+  "country": "USA, France",
+  "lang": "English",
+  "why": "A man whose brain becomes magnetized unintentionally destroys every tape in his friend's video store. In order to satisfy the store's most loyal renter, an aging woman with signs of dementia, the two men set out to re…",
+  "poster": "https://image.tmdb.org/t/p/w500/f0oX20YrQEiVPDH9InCQ1d3Cm66.jpg",
+  "tags": [
+   "Drama",
+   "Comedy"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-06"
+    ],
+    "time": "18:45",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1028295~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#123a3a",
+   "#7fd4e0"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.43,
+  "rating_count": 86392
+ },
+ {
+  "id": "grease-singalong-and-shadowcast",
+  "title": "Grease Singalong and Shadowcast",
+  "year": 1978,
+  "director": "Randal Kleiser",
+  "runtime": 110,
+  "country": "United Kingdom",
+  "lang": "English",
+  "why": "",
+  "poster": "https://revuecinema.ca/wp-content/uploads/2026/08/grease_tmdb-2rm7fqkpb7cs1iq7ibqub9lfdzj-683x1024.jpg",
+  "tags": [
+   "Shadowcast"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-09-26"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1028063~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#2a3550",
+   "#e88b6a"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "friday-the-13th",
+  "title": "Friday the 13Th",
+  "year": 2009,
+  "director": "Marcus Nispel",
+  "runtime": 97,
+  "country": "USA",
+  "lang": "English",
+  "why": "A group of young adults visit a boarded up campsite named Crystal Lake where they soon encounter the mysterious Jason Voorhees and his deadly intentions.",
+  "poster": "https://image.tmdb.org/t/p/w500/88wlJ4teYlck4hJ2bnlxBrAVh0m.jpg",
+  "tags": [
+   "35mm",
+   "Horror",
+   "Thriller"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-13"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1026947~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#40183a",
+   "#f24d94"
+  ],
+  "_tmdb_matched": true,
+  "rating": 2.61,
+  "rating_count": 221772
+ },
+ {
+  "id": "candyman",
+  "title": "Candyman",
+  "year": 1992,
+  "director": "Bernard Rose",
+  "runtime": 100,
+  "country": "USA",
+  "lang": "English",
+  "why": "The Candyman, a murderous soul with a hook for a hand, is accidentally summoned to reality by a skeptic grad student researching the monster's myth.",
+  "poster": "https://image.tmdb.org/t/p/w500/jQtgkgDZE7egMq532sOt83DnT83.jpg",
+  "tags": [
+   "Restoration",
+   "Drama",
+   "Horror"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-24"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1026804~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#24303a",
+   "#9ab0c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.66,
+  "rating_count": 286743
+ },
+ {
+  "id": "thunder-glove",
+  "title": "Thunder Glove",
+  "year": 1982,
+  "director": "Jack Hill",
+  "runtime": 83,
+  "country": "Mexico",
+  "lang": "English",
+  "why": "Bruce Herbert Glover was an American character actor, who is best known for portraying the assassin Mr. Wint in the James Bond film Diamonds Are Forever (1971). Other notable film appearances include roles in Walking …",
+  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/sorceress_tmdb-fxbcl3j08wviepapdr9hwd7mi4u-683x1024.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-28"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1026767~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#3a3218",
+   "#d9c06a"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "rawhead-rex",
+  "title": "Rawhead Rex",
+  "year": 1986,
+  "director": "George Pavlou",
+  "runtime": 89,
+  "country": "Ireland, United Kingdom",
+  "lang": "English",
+  "why": "Ireland will never be the same after Rawhead Rex, a particularly nasty demon, is released from his underground prison by an unwitting farmer. The film follows Rex's cross country rampage, while a man struggles to stop…",
+  "poster": "https://image.tmdb.org/t/p/w500/vIEaIVlV5XRIUVoaptsymIexaL2.jpg",
+  "tags": [
+   "4K",
+   "Restoration",
+   "Horror"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-16"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1026777~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#101b2a",
+   "#e0562a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 2.69,
+  "rating_count": 13022
+ },
+ {
+  "id": "nightbreed",
+  "title": "Nightbreed",
+  "year": 1990,
+  "director": "Clive Barker",
+  "runtime": 102,
+  "country": "USA",
+  "lang": "English",
+  "why": "A troubled young man is drawn to a mythical place called Midian where a variety of friendly monsters are hiding from humanity. Meanwhile, a sadistic serial killer is looking for a patsy.",
+  "poster": "https://image.tmdb.org/t/p/w500/1ChluYH0BEvJo3gtYoFHnMZI660.jpg",
+  "tags": [
+   "Horror",
+   "Fantasy"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-18"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=864397~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#3a2a1a",
+   "#f0a83c"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.29,
+  "rating_count": 47035
+ },
+ {
+  "id": "lord-of-illusions",
+  "title": "Lord of Illusions",
+  "year": 1995,
+  "director": "Clive Barker",
+  "runtime": 109,
+  "country": "USA",
+  "lang": "English",
+  "why": "During a routine case in L.A., NY private investigator Harry D'Amour stumbles over members of a fanatic cult who are preparing for the resurrection of their leader Nix, a powerful magician who was killed 13 years earl…",
+  "poster": "https://image.tmdb.org/t/p/w500/8MZu8s01psozeTuD6OzstP4vSvM.jpg",
+  "tags": [
+   "Horror",
+   "Fantasy",
+   "Drama"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-22"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1026780~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#2a3324",
+   "#d4b26a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.1,
+  "rating_count": 21117
+ },
+ {
+  "id": "hellbound-hellraiser-ii",
+  "title": "Hellbound: Hellraiser Ii",
+  "year": 1987,
+  "director": "Tony Randel",
+  "runtime": 97,
+  "country": "United Kingdom, USA",
+  "lang": "English",
+  "why": "Now confined to a mental hospital, young Kirsty insists her supposedly dead father is actually stuck in Hell following his wife’s betrayal. Few believe the young woman’s lurid stories aside from the thrill-seeking Dr.…",
+  "poster": "https://image.tmdb.org/t/p/w500/auPOq1wgZuYSaADejOskBKG6fuV.jpg",
+  "tags": [
+   "35mm",
+   "Horror",
+   "Thriller"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-20"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1026794~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#2b3a2f",
+   "#e0b34d"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.26,
+  "rating_count": 125628
+ },
+ {
+  "id": "light-sleeper",
+  "title": "Light Sleeper",
+  "year": 1992,
+  "director": "Paul Schrader",
+  "runtime": 103,
+  "country": "USA",
+  "lang": "Hebrew, German",
+  "why": "John LeTour is a recovering drug user who suffers insomnia and still deals to a high-end New York clientele, even though he’s trying to move on from the business. John’s professional midlife crisis becomes something m…",
+  "poster": "https://image.tmdb.org/t/p/w500/fFSdOYKp80rcK81KuNW3rz7FcLX.jpg",
+  "tags": [
+   "35mm",
+   "Drama",
+   "Crime"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-09-25"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1026738~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#3a2b2b",
+   "#c94f4f"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.7,
+  "rating_count": 38992
+ },
+ {
+  "id": "the-evil-dead",
+  "title": "The Evil Dead",
+  "year": 1981,
+  "director": "Sam Raimi",
+  "runtime": 85,
+  "country": "USA",
+  "lang": "English",
+  "why": "In 1979, a group of college students find a Sumerian Book of the Dead in an old wilderness cabin they've rented for a weekend getaway.",
+  "poster": "https://image.tmdb.org/t/p/w500/54C1qdaiSijIU5NeNb4WsPJdNkG.jpg",
+  "tags": [
+   "35mm",
+   "Horror"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-17"
+    ],
+    "time": "13:00",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1026569~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#1f2a44",
+   "#f0f0f0"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.62,
+  "rating_count": 648719
+ },
+ {
+  "id": "evil-dead-ii",
+  "title": "Evil Dead Ii",
+  "year": 1987,
+  "director": "Sam Raimi",
+  "runtime": 84,
+  "country": "USA",
+  "lang": "English",
+  "why": "Ash Williams and his girlfriend Linda find a log cabin in the woods with a voice recording from an archeologist who had recorded himself reciting ancient chants from \"The Book of the Dead.\" As they play the recording …",
+  "poster": "https://image.tmdb.org/t/p/w500/4zqCKJVHUolGs6C5AZwAZqLWixW.jpg",
+  "tags": [
+   "35mm",
+   "Horror",
+   "Comedy"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-17"
+    ],
+    "time": "15:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1026594~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#3a2440",
+   "#4dd6c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.99,
+  "rating_count": 496064
+ },
+ {
+  "id": "dead-buried",
+  "title": "Dead & Buried",
+  "year": 1981,
+  "director": "Gary Sherman",
+  "runtime": 94,
+  "country": "USA",
+  "lang": "English",
+  "why": "After a series of gory murders commited by mobs of townspeople against visiting tourists, the corpses appear to be coming back to life and living normally as locals in the small town.",
+  "poster": "https://image.tmdb.org/t/p/w500/aMZD57u1M9TQAKf12OYUUcv9hjn.jpg",
+  "tags": [
+   "Horror",
+   "Mystery"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-09-24"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1026367~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#123a3a",
+   "#7fd4e0"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.46,
+  "rating_count": 30034
+ },
+ {
+  "id": "bride-of-re-animator",
+  "title": "Bride of Re-Animator",
+  "year": 1990,
+  "director": "Brian Yuzna",
+  "runtime": 96,
+  "country": "USA",
+  "lang": "English, Italian",
+  "why": "Unperturbed by the disastrous outcome of his previous meddling with the dead, Dr. West continues his research into the phenomenon of re-animation; only this time, he plans to create life – starting with the heart of h…",
+  "poster": "https://image.tmdb.org/t/p/w500/7t9PmI65umna8yq0BPU9YoKn62I.jpg",
+  "tags": [
+   "Horror",
+   "Comedy",
+   "Science Fiction"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-24"
+    ],
+    "time": "16:00",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1026365~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#2a3550",
+   "#e88b6a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.38,
+  "rating_count": 39391
+ },
+ {
+  "id": "the-dead-zone",
+  "title": "The Dead Zone",
+  "year": 1983,
+  "director": "David Cronenberg",
+  "runtime": 103,
+  "country": "USA, Canada",
+  "lang": "English, Russian",
+  "why": "Johnny Smith is a schoolteacher with his whole life ahead of him but, after leaving his fiancee's home one night, is involved in a car crash which leaves him in a coma for 5 years. When he wakes, he discovers he has a…",
+  "poster": "https://image.tmdb.org/t/p/w500/9yTVaeS8eIkOpbwIycVFm7EQrgF.jpg",
+  "tags": [
+   "Thriller",
+   "Horror",
+   "Science Fiction"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-04"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1025565~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#40183a",
+   "#f24d94"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.55,
+  "rating_count": 114643
+ },
+ {
+  "id": "coming-to-america",
+  "title": "Coming to America",
+  "year": 1988,
+  "director": "John Landis",
+  "runtime": 117,
+  "country": "USA",
+  "lang": "English",
+  "why": "An African prince decides it’s time for him to find a princess... and his mission leads him and his most loyal friend to Queens, New York. In disguise as an impoverished immigrant, the pampered prince quickly finds hi…",
+  "poster": "https://image.tmdb.org/t/p/w500/djRAvxyvvN2yqlJKDbT3uy4vOBw.jpg",
+  "tags": [
+   "Restoration",
+   "Comedy",
+   "Romance"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-09-28"
+    ],
+    "time": "18:45",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1025567~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#24303a",
+   "#9ab0c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.58,
+  "rating_count": 277922
+ },
+ {
+  "id": "nick-and-norahs-infinite-playlist",
+  "title": "Nick and Norah's Infinite Playlist",
+  "year": 2008,
+  "director": "Peter Sollett",
+  "runtime": 89,
+  "country": "USA",
+  "lang": "English",
+  "why": "Nick cannot stop obsessing over his ex-girlfriend, Tris, until Tris' friend Norah suddenly shows interest in him at a club. Thus begins an odd night filled with ups and downs as the two keep running into Tris and her …",
+  "poster": "https://image.tmdb.org/t/p/w500/cndxWgZEHnSUtytrMjal97ye34E.jpg",
+  "tags": [
+   "Comedy",
+   "Music",
+   "Romance"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-09-29"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1024132~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#3a3218",
+   "#d9c06a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.18,
+  "rating_count": 104637
  },
  {
   "id": "buddy",
@@ -861,40 +2758,31 @@
   ],
   "screenings": [
    {
-    "theatre": "carlton",
+    "theatre": "revue",
     "dates": [
-     "2026-09-19"
+     "2026-09-20"
     ],
-    "time": "13:05",
+    "time": "15:30",
     "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=897313222&aud=6&ptime=13:05&ptype=G"
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1024122~fc639be0-110c-4035-a588-842aceff5ef6&"
    },
    {
-    "theatre": "carlton",
+    "theatre": "revue",
     "dates": [
-     "2026-09-19"
+     "2026-09-23"
     ],
-    "time": "16:05",
+    "time": "15:15",
     "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=897313222&aud=6&ptime=16:05&ptype=G"
+    "url": "https://revuecinema.ca/films/buddy-2026/"
    },
    {
-    "theatre": "carlton",
+    "theatre": "revue",
     "dates": [
-     "2026-09-19"
+     "2026-09-24"
     ],
-    "time": "19:05",
+    "time": "16:00",
     "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=897313222&aud=6&ptime=19:05&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "21:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=897313222&aud=6&ptime=21:50&ptype=G"
+    "url": "https://revuecinema.ca/films/buddy-2026/"
    },
    {
     "theatre": "carlton",
@@ -1006,12 +2894,2005 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.54,
   "rating_count": 1869
+ },
+ {
+  "id": "house-of-wax",
+  "title": "House of Wax",
+  "year": 2005,
+  "director": "Jaume Collet-Serra",
+  "runtime": 113,
+  "country": "USA",
+  "lang": "English",
+  "why": "A group of unwitting teens are stranded near a strange wax museum and soon must fight to survive and keep from becoming the next exhibit.",
+  "poster": "https://image.tmdb.org/t/p/w500/aCLSgw1DaqkRvosYc3YUttBTtpT.jpg",
+  "tags": [
+   "Horror",
+   "Thriller",
+   "Mystery"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-29"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1023815~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#3a2a1a",
+   "#f0a83c"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.02,
+  "rating_count": 369270
+ },
+ {
+  "id": "trick-r-treat",
+  "title": "Trick 'R Treat",
+  "year": 2007,
+  "director": "Michael Dougherty",
+  "runtime": 82,
+  "country": "USA",
+  "lang": "English",
+  "why": "Four interwoven stories that occur on Halloween: an everyday high school principal has a secret life as a serial killer; a college virgin might have just met the one guy for her; a group of teenagers pull a mean prank…",
+  "poster": "https://image.tmdb.org/t/p/w500/w0nmol4g7n6MFfhfphV7GzHHYjB.jpg",
+  "tags": [
+   "Restoration",
+   "Premiere",
+   "Horror"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-03"
+    ],
+    "time": "23:59",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1023813~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#2a3324",
+   "#d4b26a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.41,
+  "rating_count": 255219
+ },
+ {
+  "id": "butch-cassidy-and-the-sundance-kid",
+  "title": "Butch Cassidy and the Sundance Kid",
+  "year": 1969,
+  "director": "George Roy Hill",
+  "runtime": 111,
+  "country": "USA",
+  "lang": "English, Spanish",
+  "why": "As the west rapidly becomes civilized, a pair of outlaws in 1890s Wyoming find themselves pursued by a posse and decide to flee to South America in hopes of evading the law.",
+  "poster": "https://image.tmdb.org/t/p/w500/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg",
+  "tags": [
+   "Western",
+   "Crime",
+   "Drama"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-09-20"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1023802~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#2b3a2f",
+   "#e0b34d"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.17,
+  "rating_count": 206372
+ },
+ {
+  "id": "an-american-werewolf-in-london",
+  "title": "An American Werewolf in London",
+  "year": 1981,
+  "director": "John Landis",
+  "runtime": 97,
+  "country": "United Kingdom, USA",
+  "lang": "English",
+  "why": "American tourists David and Jack are savagely attacked by an unidentified animal while hiking on the Yorkshire Moors. After retiring to the home of a beautiful nurse to recuperate, David soon begins experiencing distu…",
+  "poster": "https://image.tmdb.org/t/p/w500/hVEqUASJmCQaolkKFEySCHZ8uKG.jpg",
+  "tags": [
+   "35mm",
+   "Comedy",
+   "Horror"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-25"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1023804~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#3a2b2b",
+   "#c94f4f"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.83,
+  "rating_count": 316533
+ },
+ {
+  "id": "trick-or-treat",
+  "title": "Trick or Treat",
+  "year": 1986,
+  "director": "Charles Martin Smith",
+  "runtime": 97,
+  "country": "USA",
+  "lang": "English",
+  "why": "Eddie Weinbauer, a metalhead teen who is bullied at school, looks to his heavy metal superstar idol, Sammi Curr, for guidance. When Curr is killed in a hotel fire, Eddie becomes the recipient of the only copy of his u…",
+  "poster": "https://image.tmdb.org/t/p/w500/ycCrGbfuOEcKSCwxQeKA1VEPs7O.jpg",
+  "tags": [
+   "35mm",
+   "Horror",
+   "Music"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-03"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1023691~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#1f2a44",
+   "#f0f0f0"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.19,
+  "rating_count": 17788
+ },
+ {
+  "id": "phenomena",
+  "title": "Phenomena",
+  "year": 1985,
+  "director": "Dario Argento",
+  "runtime": 115,
+  "country": "Italy",
+  "lang": "German, English",
+  "why": "A young girl, with an amazing ability to communicate with insects, is transferred to an exclusive Swiss boarding school, where her unusual capability might help solve a string of murders.",
+  "poster": "https://image.tmdb.org/t/p/w500/dhk14s8ogQkbf6re3HLKV2UBHjx.jpg",
+  "tags": [
+   "Horror",
+   "Thriller"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-09-28"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1023689~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#3a2440",
+   "#4dd6c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.63,
+  "rating_count": 89895
+ },
+ {
+  "id": "paranormal-activity",
+  "title": "Paranormal Activity",
+  "year": 2007,
+  "director": "Oren Peli",
+  "runtime": 86,
+  "country": "USA",
+  "lang": "English",
+  "why": "After a young, middle-class couple moves into what seems like a typical suburban house, they become increasingly disturbed by a presence that may or may not be demonic, but is certainly the most active in the middle o…",
+  "poster": "https://image.tmdb.org/t/p/w500/tmclkEpjeo4Zu564gf3KrwIOuKw.jpg",
+  "tags": [
+   "35mm",
+   "Horror",
+   "Mystery"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-13"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1023561~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#123a3a",
+   "#7fd4e0"
+  ],
+  "_tmdb_matched": true,
+  "rating": 2.91,
+  "rating_count": 491086
+ },
+ {
+  "id": "reel-fear-the-evolution-of-found-footage-horror",
+  "title": "Reel Fear: The Evolution of Found Footage Horror",
+  "year": 1987,
+  "director": "Various",
+  "runtime": 90,
+  "country": "Various",
+  "lang": "English",
+  "why": "The Thing is a 1982 American science fiction horror film directed by John Carpenter from a screenplay by Bill Lancaster. Based on the 1938 John W. Campbell Jr. novella Who Goes There?, it tells the story of a group of…",
+  "poster": "https://revuecinema.ca/wp-content/uploads/2026/07/images_(9).jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-10-13"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1022839~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#2a3550",
+   "#e88b6a"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "the-crowd",
+  "title": "The Crowd",
+  "year": 1928,
+  "director": "King Vidor",
+  "runtime": 98,
+  "country": "USA",
+  "lang": "No Language",
+  "why": "John, an ambitious but undisciplined New York City office worker, meets and marries Mary. They start a family, struggle to cope with marital stress, financial setbacks, and tragedy, all while lost amid the anonymous, …",
+  "poster": "https://image.tmdb.org/t/p/w500/jftzHLCZLE2DOLQWY0mENOIPjxc.jpg",
+  "tags": [
+   "Premiere",
+   "Drama",
+   "Romance"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-09-27"
+    ],
+    "time": "16:00",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1022807~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#40183a",
+   "#f24d94"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.09,
+  "rating_count": 14363
+ },
+ {
+  "id": "you-had-to-be-there-how-the-toronto-godspell-ignited-the-com",
+  "title": "You Had to Be There: How the Toronto Godspell Ignited the Comedy Revolution…",
+  "year": 2026,
+  "director": "Nick Davis",
+  "runtime": 98,
+  "country": "Canada",
+  "lang": "English",
+  "why": "Martin Short, Eugene Levy, Gilda Radner, Victor Garber, Paul Shaffer, and other entertainment icons got their start in a 1972 Toronto production of the musical Godspell. Featuring interviews with the surviving cast me…",
+  "poster": "https://image.tmdb.org/t/p/w500/ww7BKE0TdKYLz0h6Ms8vLpptaiE.jpg",
+  "tags": [
+   "Documentary",
+   "Comedy"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-09"
+    ],
+    "time": "18:45",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649646~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-10"
+    ],
+    "time": "15:40",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649647~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-11"
+    ],
+    "time": "12:15",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649650~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-12"
+    ],
+    "time": "15:45",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649651~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-15"
+    ],
+    "time": "18:45",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649655~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#24303a",
+   "#9ab0c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "wicker",
+  "title": "Wicker",
+  "year": 2026,
+  "director": "Eleanor Wilson, Alex Huston Fischer",
+  "runtime": 105,
+  "country": "United Kingdom, USA",
+  "lang": "English",
+  "why": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wick…",
+  "poster": "https://image.tmdb.org/t/p/w500/rnoD8w0SUetL3S4Uje8HgSxDXzK.jpg",
+  "tags": [
+   "Romance",
+   "Fantasy",
+   "Comedy"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-23"
+    ],
+    "time": "12:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=656125~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-23"
+    ],
+    "time": "18:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=656126~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-24"
+    ],
+    "time": "12:40",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=656127~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-24"
+    ],
+    "time": "18:45",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=656130~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-25"
+    ],
+    "time": "14:50",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=656131~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-25"
+    ],
+    "time": "20:50",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=656135~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-26"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=656136~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-27"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=656137~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-28"
+    ],
+    "time": "15:20",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=656138~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-28"
+    ],
+    "time": "21:20",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=656139~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-29"
+    ],
+    "time": "18:45",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=656140~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#3a3218",
+   "#d9c06a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.79,
+  "rating_count": 1837
+ },
+ {
+  "id": "days-off",
+  "title": "Days Off",
+  "year": 2018,
+  "director": "David Ctiborsky",
+  "runtime": 91,
+  "country": "Germany",
+  "lang": "English",
+  "why": "This fall, drop in on Warren Miller’s 77th film, Days Off. Follow host Katie Burrell as the world’s best athletes show you what they do on their days off—no agenda, no competition, just pure, unscripted joy. Embark on a global journey from heli-drops in Alaska and high-alpine mountaineering in Chamonix to the legendary powder of […]",
+  "poster": "https://image.tmdb.org/t/p/w500/tEx63I38DJORhWA0Cup9WNjqkzT.jpg",
+  "tags": [
+   "Music"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-11-17"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=656392~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-11-19"
+    ],
+    "time": "21:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=656395~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#101b2a",
+   "#e0562a"
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "the-room",
+  "title": "The Room",
+  "year": 2026,
+  "director": "Kurt Martin",
+  "runtime": 100,
+  "country": "Australia",
+  "lang": "English",
+  "why": "After losing her son to cancer, a grieving mother living with a mysterious creature in her home befriends another boy to replace her dead son. But when a retired detective begins investigating the child's disappearanc…",
+  "poster": "https://image.tmdb.org/t/p/w500/qKDDXjFlWbSJIjSmSH6EzNENSy7.jpg",
+  "tags": [
+   "Horror",
+   "Thriller",
+   "Mystery"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-11-12"
+    ],
+    "time": "21:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=646472~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-11-21"
+    ],
+    "time": "21:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=646473~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#3a2a1a",
+   "#f0a83c"
+  ],
+  "_tmdb_matched": true,
+  "rating": 2.58,
+  "rating_count": 282791
+ },
+ {
+  "id": "sweeney-todd-the-demon-barber-of-fleet-street",
+  "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+  "year": 2007,
+  "director": "Tim Burton",
+  "runtime": 116,
+  "country": "United Kingdom, USA",
+  "lang": "English",
+  "why": "The infamous story of Benjamin Barker, a.k.a Sweeney Todd, who sets up a barber shop down in London which is the basis for a sinister partnership with his fellow tenant, Mrs. Lovett. Based on the hit Broadway musical.",
+  "poster": "https://image.tmdb.org/t/p/w500/gAW4J1bkRjZKmFsJsIiOBASeoAp.jpg",
+  "tags": [
+   "Sing-Along",
+   "Drama",
+   "Horror"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-11"
+    ],
+    "time": "18:15",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=654344~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#2a3324",
+   "#d4b26a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.55,
+  "rating_count": 556900
+ },
+ {
+  "id": "tokyo-drifter",
+  "title": "Tokyo Drifter",
+  "year": 1966,
+  "director": "Seijun Suzuki",
+  "runtime": 83,
+  "country": "Japan",
+  "lang": "English, Japanese",
+  "why": "After yakuza boss Kurata dissolves his own criminal empire, a rival kingpin offers a position to Kurata's top operative, Tetsuya \"Phoenix Tetsu\" Hondo. When the fiercely loyal Tetsu declines, Otsuka taps unstoppable T…",
+  "poster": "https://image.tmdb.org/t/p/w500/dkscSldTB6FGUMMLnInUfKYLfPR.jpg",
+  "tags": [
+   "Thriller",
+   "Crime",
+   "Action"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-03"
+    ],
+    "time": "16:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649630~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-05"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649631~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#2b3a2f",
+   "#e0b34d"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.76,
+  "rating_count": 47433
+ },
+ {
+  "id": "scream-queens",
+  "title": "Scream Queens",
+  "year": 2007,
+  "director": "Charles Hopkins",
+  "runtime": 90,
+  "country": "",
+  "lang": "English",
+  "why": "Amateur home movies of Hollywood scream queens and aspiring horror starlets.",
+  "poster": "https://image.tmdb.org/t/p/w500/lexeKAilri8K17xrQtrOAjKxW2A.jpg",
+  "tags": [
+   "Horror"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-03"
+    ],
+    "time": "21:15",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651547~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-08"
+    ],
+    "time": "21:45",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651548~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#3a2b2b",
+   "#c94f4f"
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "scream-queens-the-shining",
+  "title": "Scream Queens: The Shining",
+  "year": null,
+  "director": "",
+  "runtime": null,
+  "country": "",
+  "lang": "",
+  "why": "Scream Queens is a tribute to the underestimated women in horror. Those who screamed, ran, fought, and clawed their way into cinematic history, becoming icons in their own right! Academy Award winner Jack Nicholson and Shelley Duvall star in director Stanley Kubrick’s disturbing adaptation of Stephen King’s blockbuster horror novel. When writer Jack Torrance (Nicholson)–who […]",
+  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/09/the_shining_tmdb-uar0awqhql1hqa69udebb2re5wx_thumb.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-10"
+    ],
+    "time": "18:15",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651550~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-11"
+    ],
+    "time": "21:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651551~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#1f2a44",
+   "#f0f0f0"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "scream-queens-the-fog",
+  "title": "Scream Queens: The Fog",
+  "year": null,
+  "director": "",
+  "runtime": null,
+  "country": "",
+  "lang": "",
+  "why": "Scream Queens is a tribute to the underestimated women in horror. Those who screamed, ran, fought, and clawed their way into cinematic history, becoming icons in their own right! In a tiny California coastal town, strange things begin to occur as they prepare to commemorate their centenary: inanimate objects spring eerily to life; the local […]",
+  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/09/the_fog_tmdb-12eesborofp3ci4spmmfnnxcbty_thumb.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-24"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651556~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-27"
+    ],
+    "time": "21:15",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=653495~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#3a2440",
+   "#4dd6c4"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "scream-queens-possession",
+  "title": "Scream Queens: Possession",
+  "year": null,
+  "director": "",
+  "runtime": null,
+  "country": "",
+  "lang": "",
+  "why": "Scream Queens is a tribute to the underestimated women in horror. Those who screamed, ran, fought, and clawed their way into cinematic history, becoming icons in their own right! Polish director Andrej Zulawski’s 1981 ‘Possession’ remains one of the most demented movies of all time, constantly careening from mad creature-feature horror movie to Bergman-esque marital […]",
+  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/09/possession_tmdb-a9bnrn05riokwftvqllka2gl51n_thumb.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-16"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651553~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-22"
+    ],
+    "time": "21:15",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651554~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#123a3a",
+   "#7fd4e0"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "samsara",
+  "title": "Samsara",
+  "year": 2011,
+  "director": "Ron Fricke",
+  "runtime": 102,
+  "country": "Brazil, China",
+  "lang": "No Language",
+  "why": "Filmed over nearly five years in twenty-five countries on five continents, and shot on seventy-millimetre film, Samsara transports us to the varied worlds of sacred grounds, disaster zones, industrial complexes, and n…",
+  "poster": "https://image.tmdb.org/t/p/w500/qodkea4k0pNUmNTl5TJO2PdTqgW.jpg",
+  "tags": [
+   "Documentary"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-11-04"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=655329~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#2a3550",
+   "#e88b6a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.23,
+  "rating_count": 41242
+ },
+ {
+  "id": "sold-out",
+  "title": "Sold Out",
+  "year": 2021,
+  "director": "Tim Dahlseid",
+  "runtime": 91,
+  "country": "USA",
+  "lang": "English",
+  "why": "A female talent scout takes a down-on-his-luck construction worker under her wing and helps him rise to his potential as a singer/songwriter.",
+  "poster": "https://image.tmdb.org/t/p/w500/8Svb3W2jEFSyYTVzcoQ02KTbNtD.jpg",
+  "tags": [
+   "Shadowcast",
+   "Drama",
+   "Music"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-23"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649622~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#40183a",
+   "#f24d94"
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "kwaidan",
+  "title": "Kwaidan",
+  "year": 1965,
+  "director": "Masaki Kobayashi",
+  "runtime": 183,
+  "country": "Japan",
+  "lang": "Japanese",
+  "why": "Taking its title from an archaic Japanese word meaning \"ghost story,\" this anthology adapts four folk tales. A penniless samurai marries for money with tragic results. A man stranded in a blizzard is saved by Yuki the…",
+  "poster": "https://image.tmdb.org/t/p/w500/t9UMfViYl47SdZZatKQ1JKjjCgs.jpg",
+  "tags": [
+   "Restoration",
+   "Horror",
+   "Fantasy"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-17"
+    ],
+    "time": "14:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=653286~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-18"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=653287~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#24303a",
+   "#9ab0c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.22,
+  "rating_count": 66946
+ },
+ {
+  "id": "clearcut",
+  "title": "Clearcut",
+  "year": 1991,
+  "director": "Ryszard Bugajski",
+  "runtime": 98,
+  "country": "Canada",
+  "lang": "English",
+  "why": "A white lawyer finds his values shaken when he is paired with an angry Indigenous activist who insists on kidnapping the head of a logging company to teach him the price of his destruction.",
+  "poster": "https://image.tmdb.org/t/p/w500/6r1PkbA2EdOGNaGxNJIZKbk2GQi.jpg",
+  "tags": [
+   "Thriller",
+   "Horror",
+   "Western"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-30"
+    ],
+    "time": "21:20",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=653962~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#3a3218",
+   "#d9c06a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.78,
+  "rating_count": 12564
+ },
+ {
+  "id": "begotten",
+  "title": "Begotten",
+  "year": 1991,
+  "director": "E. Elias Merhige",
+  "runtime": 72,
+  "country": "USA",
+  "lang": "No Language",
+  "why": "Begotten is the creation myth brought to life, the story of no less than the violent death of God and the (re)birth of nature on a barren earth.",
+  "poster": "https://image.tmdb.org/t/p/w500/A9jSnlftEMEYJUbtrn6HzqooYI3.jpg",
+  "tags": [
+   "Restoration",
+   "Fantasy",
+   "Horror"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-04"
+    ],
+    "time": "20:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649639~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-07"
+    ],
+    "time": "21:15",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649640~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#101b2a",
+   "#e0562a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 2.86,
+  "rating_count": 37331
+ },
+ {
+  "id": "bay-of-blood",
+  "title": "Bay of Blood",
+  "year": 1971,
+  "director": "Mario Bava",
+  "runtime": 85,
+  "country": "Italy",
+  "lang": "Italian",
+  "why": "An elderly heiress is killed by her husband who wants control of her fortunes. What ensues is an all-out murder spree as relatives and friends attempt to reduce the inheritance playing field, complicated by some teena…",
+  "poster": "https://image.tmdb.org/t/p/w500/cTqmAcZwaEY609QDCLpgBlwijn9.jpg",
+  "tags": [
+   "Restoration",
+   "Horror",
+   "Thriller"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-02"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649628~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#3a2a1a",
+   "#f0a83c"
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "nosferatu",
+  "title": "Nosferatu",
+  "year": 2024,
+  "director": "Robert Eggers",
+  "runtime": 133,
+  "country": "USA",
+  "lang": "English, German",
+  "why": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+  "poster": "https://image.tmdb.org/t/p/w500/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
+  "tags": [
+   "Horror",
+   "Fantasy"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-21"
+    ],
+    "time": "21:14",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=646535~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#2a3324",
+   "#d4b26a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.66,
+  "rating_count": 2721011
+ },
+ {
+  "id": "scream-queens-nadja",
+  "title": "Scream Queens: Nadja",
+  "year": 1960,
+  "director": "Phil Tucker",
+  "runtime": null,
+  "country": "USA",
+  "lang": "English",
+  "why": "Scream Queens is a tribute to the underestimated women in horror. Those who screamed, ran, fought, and clawed their way into cinematic history, becoming icons in their own right! Merging elements from “Dracula’s Daughter” (1936) with André Breton’s surrealist novel “Nadja” (1928), and fusing shimmering black-and-white 35mm with hallucinatory Pixelvision video, Michael Almereyda’s (“Tesla”, “Experimenter”, […]",
+  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/09/mv5bmwnmzmyzyjatzwvkzc00n2qzltgymzitzda1zduwnjm2zwyxxkeyxkfqcgc@._v1_fmjpg_ux1000__thumb.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-29"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=653290~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#2b3a2f",
+   "#e0b34d"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "meet-cute-love-basketball",
+  "title": "Meet Cute: Love & Basketball",
+  "year": null,
+  "director": "",
+  "runtime": null,
+  "country": "",
+  "lang": "",
+  "why": "Reaching for the same pair of black cashmere gloves? A chance encounter on a train? You never know if love is right around the corner! Introducing our new series “Meet-Cute” highlighting the best in cinema romances. Monica Wright (Sanaa Lathan) and Quincy McCall (Omar Epps) grew up in the same neighbourhood and have known each […]",
+  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/09/love__basketball_tmdb-znzwnx19fz5qyedprvm0ldsxfip_thumb.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-13"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649666~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#3a2b2b",
+   "#c94f4f"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "paranorman",
+  "title": "ParaNorman",
+  "year": 2012,
+  "director": "Sam Fell, Chris Butler",
+  "runtime": 93,
+  "country": "USA",
+  "lang": "English",
+  "why": "In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one other than his eccentric new friend believes his ability is real. One day, Norman's eccentric uncle tells him of a ritual he must perform …",
+  "poster": "https://image.tmdb.org/t/p/w500/9DZPtuYTKYxt6vzHvZ5FLThG4fl.jpg",
+  "tags": [
+   "Family",
+   "Animation",
+   "Adventure"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-10"
+    ],
+    "time": "13:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649643~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-12"
+    ],
+    "time": "13:20",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649644~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#1f2a44",
+   "#f0f0f0"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.74,
+  "rating_count": 361097
+ },
+ {
+  "id": "fjord",
+  "title": "Fjord",
+  "year": 2026,
+  "director": "Cristian Mungiu",
+  "runtime": 146,
+  "country": "Romania, Norway",
+  "lang": "English, Norwegian",
+  "why": "Following the deaths of Mihai's parents, Mihai and Lisbeth Gheorghiu leave their life behind in Romania and move with their children to a remote village in Norway, hoping to rebuild their lives near Lisbeth's family. …",
+  "poster": "https://image.tmdb.org/t/p/w500/3PPPIeSdeivjUn3O9RahGiaJ9b8.jpg",
+  "tags": [
+   "Drama"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-23"
+    ],
+    "time": "14:40",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=656146~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-24"
+    ],
+    "time": "15:20",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=656147~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-25"
+    ],
+    "time": "11:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=656148~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-25"
+    ],
+    "time": "17:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=656149~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-26"
+    ],
+    "time": "15:10",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=656150~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-27"
+    ],
+    "time": "15:10",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=656158~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-28"
+    ],
+    "time": "18:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=656159~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-29"
+    ],
+    "time": "15:20",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=656160~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#3a2440",
+   "#4dd6c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.82,
+  "rating_count": 57593
+ },
+ {
+  "id": "faust",
+  "title": "Faust",
+  "year": 1926,
+  "director": "F. W. Murnau",
+  "runtime": 116,
+  "country": "Germany",
+  "lang": "No Language",
+  "why": "God and Satan wager on the soul of a learned and prayerful alchemist as part of their eternal war over Earth.",
+  "poster": "https://image.tmdb.org/t/p/w500/rN703hMFxmkZfyEzsXvFtuFhkXE.jpg",
+  "tags": [
+   "Fantasy",
+   "Drama",
+   "Horror"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-21"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=646538~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#123a3a",
+   "#7fd4e0"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.13,
+  "rating_count": 40619
+ },
+ {
+  "id": "ever-deadly",
+  "title": "Ever Deadly",
+  "year": 2022,
+  "director": "Chelsea McMullan, Tanya Tagaq",
+  "runtime": 90,
+  "country": "Canada",
+  "lang": "English, Inuktitut",
+  "why": "Ever Deadly weaves concert footage with stunning sequences filmed on location in Nunavut, seamlessly bridging landscapes, stories and songs with pain, anger and triumph—all through the expressions of Tanya Tagaq, one …",
+  "poster": "https://image.tmdb.org/t/p/w500/ijjb6tstrPjTPAxi3HdcfStEtNK.jpg",
+  "tags": [
+   "Documentary",
+   "Music"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-30"
+    ],
+    "time": "16:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=653988~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#2a3550",
+   "#e88b6a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.57,
+  "rating_count": 252
+ },
+ {
+  "id": "detour-the-wailing",
+  "title": "Detour: The Wailing",
+  "year": null,
+  "director": "",
+  "runtime": null,
+  "country": "",
+  "lang": "",
+  "why": "The arrival of a mysterious stranger (Chun Woo-hee) in an otherwise quiet village coincides with a rash of vicious murders, causing panic and suspicion amongst the villagers. When the daughter of investigating officer Jong-Goo (Kwak Do-won) falls under the same savage spell, he calls for a shaman (Hwang Jung-min) to assist in finding the culprit…",
+  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/09/tmdb-lwe9ih9qgjx8hatybop7fg0nri_thumb.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-09"
+    ],
+    "time": "21:15",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651559~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-12"
+    ],
+    "time": "21:15",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651560~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#40183a",
+   "#f24d94"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "the-stranger-and-the-fog",
+  "title": "The Stranger and the Fog",
+  "year": 1975,
+  "director": "Bahram Beyzai",
+  "runtime": 140,
+  "country": "Iran",
+  "lang": "Persian",
+  "why": "In a remote seaside village, its residents' peaceful lives are upended when they spot a mysterious boat drifting toward the shore. Upon pulling it in, they find a weary and wounded stranger named Ayat, who only recall…",
+  "poster": "https://image.tmdb.org/t/p/w500/i35KVrJ5Qujpe1VBDsX3gLOOlI3.jpg",
+  "tags": [
+   "Drama",
+   "Mystery"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-14"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=654720~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#24303a",
+   "#9ab0c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.92,
+  "rating_count": 2225
+ },
+ {
+  "id": "women-talking",
+  "title": "Women Talking",
+  "year": 2022,
+  "director": "Sarah Polley",
+  "runtime": 104,
+  "country": "USA",
+  "lang": "English",
+  "why": "A group of women in an isolated religious colony struggle to reconcile their faith with a series of sexual assaults committed by the colony's men.",
+  "poster": "https://image.tmdb.org/t/p/w500/wcTc9GveMMjAdHSlzdE0FaRCtqi.jpg",
+  "tags": [
+   "Drama"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-08"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=631828~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#3a3218",
+   "#d9c06a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.81,
+  "rating_count": 206775
+ },
+ {
+  "id": "blood-lines",
+  "title": "Blood Lines",
+  "year": 2026,
+  "director": "Gail Maurice",
+  "runtime": 89,
+  "country": "Canada",
+  "lang": "English",
+  "why": "Whilst embarking on a lesbian relationship with the new girl in town, a Métis woman’s life is rocked to the core when her estranged mother returns.",
+  "poster": "https://image.tmdb.org/t/p/w500/sr7pwVE3vfuPEoc4JAjZTA9zrRL.jpg",
+  "tags": [
+   "Drama"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-09-30"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=653979~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#101b2a",
+   "#e0562a"
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "birth",
+  "title": "Birth",
+  "year": 2004,
+  "director": "Jonathan Glazer",
+  "runtime": 100,
+  "country": "Germany, United Kingdom",
+  "lang": "English",
+  "why": "It took Anna 10 years to recover from the death of her husband, Sean, but now she's on the verge of marrying her boyfriend, Joseph, and finally moving on. However, on the night of her engagement party, a young boy nam…",
+  "poster": "https://image.tmdb.org/t/p/w500/z70iQ61WqhxETAz8ar2oD8pkIM.jpg",
+  "tags": [
+   "Drama",
+   "Mystery"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-01"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=629274~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#3a2a1a",
+   "#f0a83c"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.71,
+  "rating_count": 99969
+ },
+ {
+  "id": "the-tales-of-hoffmann",
+  "title": "The Tales of Hoffmann",
+  "year": 1951,
+  "director": "Michael Powell, Emeric Pressburger",
+  "runtime": 127,
+  "country": "United Kingdom",
+  "lang": "English",
+  "why": "A melancholy poet reflects on three women he loved and lost in the past: a mechanical performing doll, a Venetian courtesan, and the consumptive daughter of a celebrated composer.",
+  "poster": "https://image.tmdb.org/t/p/w500/3rqMnYSLjFa9OYwoLhXLVacwhQ7.jpg",
+  "tags": [
+   "Music",
+   "Fantasy",
+   "Romance"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-09-20"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/629541/"
+   }
+  ],
+  "art": [
+   "#2a3324",
+   "#d4b26a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.83,
+  "rating_count": 10687
+ },
+ {
+  "id": "member-mondays-the-thin-blue-line",
+  "title": "Member Mondays: The Thin Blue Line",
+  "year": 1988,
+  "director": "",
+  "runtime": 103,
+  "country": "",
+  "lang": "",
+  "why": "Paul Anthony Ryder was an English musician. He was a bass player and a founding member of the Manchester band Happy Mondays with his brother Shaun Ryder. His bass playing was credited with bringing funk to the band's …",
+  "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/350/2026/09/07152731/4w4BJk3l8y9gYwPPLRs6uPHOmGL-683x1024.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-09-21"
+    ],
+    "time": "18:15",
+    "format": "",
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSe0-N4AKitJKm9H6iMQPyyI1XAgVPhZmTXnvom21P8JNN7gjQ/viewform?usp=sharing&ouid=112739031015502006939"
+   }
+  ],
+  "art": [
+   "#2b3a2f",
+   "#e0b34d"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "judged-before-the-judge",
+  "title": "Judged Before the Judge",
+  "year": 1995,
+  "director": "Danny Cannon",
+  "runtime": 47,
+  "country": "USA",
+  "lang": "English",
+  "why": "Judge Dredd is a 1995 American science fiction action film based on the 2000 AD comics Judge Dredd. It is directed by Danny Cannon and stars Sylvester Stallone as Judge Dredd, a law enforcement officer in the crime-ri…",
+  "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/350/2026/09/09184233/Movie-Poster-9-x-16-in-Asha-Walker-576x1024.png",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-09-22"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://www.oabp.org/event-details/judged-before-the-judge-official-premiere"
+   }
+  ],
+  "art": [
+   "#3a2b2b",
+   "#c94f4f"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "leave-her-to-heaven",
+  "title": "Leave Her to Heaven",
+  "year": 1945,
+  "director": "John M. Stahl",
+  "runtime": 110,
+  "country": "USA",
+  "lang": "English",
+  "why": "A socialite marries a prominent novelist, which spurs a violent, obsessive, and dangerous jealousy in her.",
+  "poster": "https://image.tmdb.org/t/p/w500/aUzQZt2UlaurZ3wlhzVXQb6PQk8.jpg",
+  "tags": [
+   "Drama",
+   "Thriller",
+   "Romance"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-09-27"
+    ],
+    "time": "15:45",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/655735/"
+   }
+  ],
+  "art": [
+   "#1f2a44",
+   "#f0f0f0"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.94,
+  "rating_count": 35110
+ },
+ {
+  "id": "taipei-story",
+  "title": "Taipei Story",
+  "year": 1985,
+  "director": "Edward Yang",
+  "runtime": 120,
+  "country": "Taiwan",
+  "lang": "Mandarin",
+  "why": "A young woman urgently seeks to navigate the maze of contemporary Taipei and find a future. She hopes that her boyfriend Lung is the key to the future, but Lung is stuck in a past that combines baseball and traditiona…",
+  "poster": "https://image.tmdb.org/t/p/w500/veJ93QUnTBX4WXk5qSl1s42Uosj.jpg",
+  "tags": [
+   "Drama"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-09-29"
+    ],
+    "time": "18:00",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/635124/"
+   }
+  ],
+  "art": [
+   "#3a2440",
+   "#4dd6c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.04,
+  "rating_count": 44873
+ },
+ {
+  "id": "drinking-and-driving",
+  "title": "Drinking and Driving",
+  "year": 2026,
+  "director": "Jillian Frank, Avalon Fast",
+  "runtime": 105,
+  "country": "Canada",
+  "lang": "English",
+  "why": "Early twenties Iris and Palmer never left their hometown. They work at the same restaurant, share the same bed, and both have a habit of drinking and driving. They run into Levi, a guy they used to know. They spend ti…",
+  "poster": "https://image.tmdb.org/t/p/w500/yHsuEK8MdSRO1MMbJvllYgI8idI.jpg",
+  "tags": [
+   "Drama"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-09-29"
+    ],
+    "time": "21:00",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/632824/"
+   }
+  ],
+  "art": [
+   "#123a3a",
+   "#7fd4e0"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.62,
+  "rating_count": 211
+ },
+ {
+  "id": "tales-from-the-crypt-demon-knight",
+  "title": "Tales from the Crypt: Demon Knight",
+  "year": 1995,
+  "director": "Ernest R. Dickerson",
+  "runtime": 93,
+  "country": "USA",
+  "lang": "English",
+  "why": "Ex-soldier Frank Brayker is the guardian of an ancient key that can unlock tremendous evil; the sinister Collector is a demon who wants the key so he can initiate the apocalypse. On the run from wicked mercenaries for…",
+  "poster": "https://image.tmdb.org/t/p/w500/5sTFaW66D2l3fhP6qYLJ6gURACz.jpg",
+  "tags": [
+   "Horror",
+   "Comedy",
+   "Thriller"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-10-05"
+    ],
+    "time": "20:30",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/642353/"
+   }
+  ],
+  "art": [
+   "#2a3550",
+   "#e88b6a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.44,
+  "rating_count": 33991
+ },
+ {
+  "id": "cat-people",
+  "title": "Cat People",
+  "year": 1942,
+  "director": "Jacques Tourneur",
+  "runtime": 73,
+  "country": "USA",
+  "lang": "Serbian, English",
+  "why": "A Serbian émigré in Manhattan believes that, because of an ancient curse, any physical intimacy with the man she loves will turn her into a feline predator.",
+  "poster": "https://image.tmdb.org/t/p/w500/xbe5w7MXOdqsu0ZZRiHHAh6oQlc.jpg",
+  "tags": [
+   "Mystery",
+   "Horror",
+   "Romance"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-10-07"
+    ],
+    "time": "18:15",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/642361/"
+   }
+  ],
+  "art": [
+   "#40183a",
+   "#f24d94"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.67,
+  "rating_count": 90935
+ },
+ {
+  "id": "cramps-a-period-piece",
+  "title": "Cramps! A Period Piece",
+  "year": 2025,
+  "director": "Brooke H. Cellars",
+  "runtime": 89,
+  "country": "USA",
+  "lang": "English",
+  "why": "Agnes Applewhite, a blossoming young woman caught between her sanctimonious mother and tightly wound sister, defies her family’s expectations by taking a job as a shampoo girl at a lively beauty salon. As she thrives …",
+  "poster": "https://image.tmdb.org/t/p/w500/SWKWLtVDRmeWUWllELMaKPQ8SM.jpg",
+  "tags": [
+   "Horror",
+   "Comedy",
+   "Fantasy"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-10-09"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/650884/"
+   }
+  ],
+  "art": [
+   "#24303a",
+   "#9ab0c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.41,
+  "rating_count": 373
+ },
+ {
+  "id": "the-innocents",
+  "title": "The Innocents",
+  "year": 1961,
+  "director": "Jack Clayton",
+  "runtime": 100,
+  "country": "United Kingdom",
+  "lang": "English",
+  "why": "In a mid-19th century Essex country house, a young governess for two children becomes convinced that the house and grounds are haunted by ghosts and that the children are being possessed.",
+  "poster": "https://image.tmdb.org/t/p/w500/idqvLBmlEHUITMnQ0EJ6Yb5TpVw.jpg",
+  "tags": [
+   "Horror",
+   "Mystery",
+   "Drama"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-10-13"
+    ],
+    "time": "20:45",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/642363/"
+   }
+  ],
+  "art": [
+   "#3a3218",
+   "#d9c06a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.12,
+  "rating_count": 69832
+ },
+ {
+  "id": "hauntedween",
+  "title": "HauntedWeen",
+  "year": 1991,
+  "director": "Doug Robertson",
+  "runtime": 87,
+  "country": "USA",
+  "lang": "English",
+  "why": "One Halloween night, a little girl visiting the Burber family's \"House of Horrors\" attraction is brutally hacked to pieces by their young son, Eddie. Having fled the scene, Eddie is taken away by his mother to live in…",
+  "poster": "https://image.tmdb.org/t/p/w500/6pu0p7Z2b3Et2GdhHXromgd5Sda.jpg",
+  "tags": [
+   "Horror",
+   "Comedy"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-10-18"
+    ],
+    "time": "21:15",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/650886/"
+   }
+  ],
+  "art": [
+   "#101b2a",
+   "#e0562a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 2.94,
+  "rating_count": 2904
+ },
+ {
+  "id": "batman-robin",
+  "title": "Batman & Robin",
+  "year": 1997,
+  "director": "Joel Schumacher",
+  "runtime": 125,
+  "country": "USA, United Kingdom",
+  "lang": "English",
+  "why": "Batman and his sidekick Robin attempt to the foil the sinister schemes of a deranged set of new villains, most notably the melancholy Mr. Freeze, who wants to make Gotham City into an arctic region, and the sultry Poi…",
+  "poster": "https://image.tmdb.org/t/p/w500/i7hEUpDuMN2LOrCEifFyGSHZQSY.jpg",
+  "tags": [
+   "Action",
+   "Science Fiction",
+   "Adventure"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-10-28"
+    ],
+    "time": "19:30",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/635134/"
+   }
+  ],
+  "art": [
+   "#3a2a1a",
+   "#f0a83c"
+  ],
+  "_tmdb_matched": true,
+  "rating": 1.95,
+  "rating_count": 356967
+ },
+ {
+  "id": "cannes-dogs-the-woman-who-could-read-the-minds-of-dogs",
+  "title": "Cannes Dogs: The Woman Who Could Read the Minds of Dogs",
+  "year": 2026,
+  "director": "Jean-Luc Godard",
+  "runtime": 78,
+  "country": "France, Switzerland",
+  "lang": "French",
+  "why": "Quentin Jerome Tarantino is an American filmmaker, actor, and author. His films are characterized by graphic violence, extended dialogue often featuring much profanity, and references to popular culture. His work has …",
+  "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/350/2026/08/28163940/2RLPozhnoqC6PgnaGpm43hr2o5a1-683x1024.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-11-01"
+    ],
+    "time": "13:30",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/635225/"
+   }
+  ],
+  "art": [
+   "#2a3324",
+   "#d4b26a"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "black-swan",
+  "title": "Black Swan",
+  "year": 2010,
+  "director": "Darren Aronofsky",
+  "runtime": 108,
+  "country": "USA",
+  "lang": "English, French",
+  "why": "A committed dancer struggles to maintain her sanity after winning the lead role in a production of Tchaikovsky's \"Swan Lake.\"",
+  "poster": "https://image.tmdb.org/t/p/w500/viWheBd44bouiLCHgNMvahLThqx.jpg",
+  "tags": [
+   "Drama",
+   "Thriller",
+   "Horror"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-11-11"
+    ],
+    "time": "19:30",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/635136/"
+   }
+  ],
+  "art": [
+   "#2b3a2f",
+   "#e0b34d"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.17,
+  "rating_count": 3331398
+ },
+ {
+  "id": "m-butterfly",
+  "title": "M. Butterfly",
+  "year": 1993,
+  "director": "David Cronenberg",
+  "runtime": 101,
+  "country": "USA",
+  "lang": "Mandarin, English",
+  "why": "In 1960s China, French diplomat Rene Gallimard falls in love with opera singer Song Liling – but Song is not at all who Gallimard thinks.",
+  "poster": "https://image.tmdb.org/t/p/w500/vfutnJ9sgpAtNuPemksd26gd5dC.jpg",
+  "tags": [
+   "Romance",
+   "Drama",
+   "History"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-11-23"
+    ],
+    "time": "19:30",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/635138/"
+   }
+  ],
+  "art": [
+   "#3a2b2b",
+   "#c94f4f"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.5,
+  "rating_count": 18120
  },
  {
   "id": "coyote-vs-acme",
@@ -1029,42 +4910,6 @@
    "Family"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "12:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=248209173&aud=8&ptime=12:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "15:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=248209173&aud=8&ptime=15:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "18:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=248209173&aud=8&ptime=18:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "21:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=248209173&aud=8&ptime=21:45&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -1175,8 +5020,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.84,
@@ -1198,42 +5043,6 @@
    "Action"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "12:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=116090535&aud=4&ptime=12:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "15:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=116090535&aud=4&ptime=15:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "18:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=116090535&aud=4&ptime=18:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "21:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=116090535&aud=4&ptime=21:40&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -1344,8 +5153,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 2.64,
@@ -1367,42 +5176,6 @@
    "Comedy"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "12:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=455467126&aud=3&ptime=12:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "15:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=455467126&aud=3&ptime=15:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "18:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=455467126&aud=3&ptime=18:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=455467126&aud=3&ptime=21:30&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -1513,8 +5286,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.29,
@@ -1535,33 +5308,6 @@
    "Drama"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "12:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=309956684&aud=2&ptime=12:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "15:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=309956684&aud=2&ptime=15:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "21:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=309956684&aud=2&ptime=21:40&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -1663,8 +5409,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 4.1,
@@ -1686,42 +5432,6 @@
    "Romance"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "13:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=944957608&aud=9&ptime=13:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=944957608&aud=9&ptime=16:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=944957608&aud=2&ptime=19:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "21:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=944957608&aud=9&ptime=21:50&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -1832,8 +5542,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -1854,42 +5564,6 @@
    "Science Fiction"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "12:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=502660342&aud=1&ptime=12:30&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "15:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=502660342&aud=1&ptime=15:30&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=502660342&aud=1&ptime=18:30&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=502660342&aud=1&ptime=21:30&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -2000,8 +5674,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 4.18,
@@ -2022,51 +5696,6 @@
    "Drama"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "13:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=105475848&aud=7&ptime=13:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "15:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=105475848&aud=7&ptime=15:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "17:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=105475848&aud=7&ptime=17:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "19:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=105475848&aud=7&ptime=19:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "21:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=105475848&aud=7&ptime=21:55&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -2186,45 +5815,12 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.51,
   "rating_count": 72486
- },
- {
-  "id": "we-will-be-together",
-  "title": "We Will Be Together",
-  "year": 2026,
-  "director": "Alireza Jhomson, Angelo Agostino",
-  "runtime": 60,
-  "country": "USA",
-  "lang": "English",
-  "why": "A lonely customer service representative receives an advanced AI companion from his company as part of a trial program. Tasked with testing the technology and reporting any issues before returning it within five days,…",
-  "poster": "https://image.tmdb.org/t/p/w500/xnFoRKn8n5Q4XSDW9tW7gL5lYQy.jpg",
-  "tags": [
-   "Science Fiction",
-   "Drama"
-  ],
-  "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-19"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-19&film=91999787&aud=9&ptime=19:00&ptype=G"
-   }
-  ],
-  "art": [
-   "#40183a",
-   "#f24d94"
-  ],
-  "_tmdb_matched": true,
-  "rating": null,
-  "rating_count": null
  },
  {
   "id": "a-clockwork-orange",
@@ -2294,11 +5890,47 @@
     "time": "21:30",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-26&film=991912571&aud=1&ptime=21:30&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-09-27"
+    ],
+    "time": "12:30",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-27&film=991912571&aud=1&ptime=12:30&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-09-27"
+    ],
+    "time": "15:30",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-27&film=991912571&aud=1&ptime=15:30&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-09-27"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-27&film=991912571&aud=1&ptime=18:30&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-09-27"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-27&film=991912571&aud=1&ptime=21:30&ptype=G"
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 4.09,
@@ -2382,11 +6014,56 @@
     "time": "21:55",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-26&film=23125075&aud=7&ptime=21:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-09-27"
+    ],
+    "time": "13:10",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-27&film=23125075&aud=7&ptime=13:10&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-09-27"
+    ],
+    "time": "15:10",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-27&film=23125075&aud=7&ptime=15:10&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-09-27"
+    ],
+    "time": "17:10",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-27&film=23125075&aud=7&ptime=17:10&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-09-27"
+    ],
+    "time": "19:10",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-27&film=23125075&aud=7&ptime=19:10&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-09-27"
+    ],
+    "time": "21:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-27&film=23125075&aud=7&ptime=21:55&ptype=G"
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.53,
@@ -2438,6 +6115,24 @@
    {
     "theatre": "carlton",
     "dates": [
+     "2026-09-27"
+    ],
+    "time": "15:45",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-27&film=7785094&aud=4&ptime=15:45&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-09-27"
+    ],
+    "time": "21:45",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-27&film=7785094&aud=4&ptime=21:45&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
      "2026-09-25"
     ],
     "time": "18:45",
@@ -2461,11 +6156,29 @@
     "time": "18:45",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-26&film=190201683&aud=4&ptime=18:45&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-09-27"
+    ],
+    "time": "12:45",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-27&film=190201683&aud=4&ptime=12:45&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-09-27"
+    ],
+    "time": "18:45",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-27&film=190201683&aud=4&ptime=18:45&ptype=G"
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 4.15,
