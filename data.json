@@ -1,5 +1,39 @@
 [
  {
+  "id": "dirty-pretty-things",
+  "title": "Dirty Pretty Things",
+  "year": 2002,
+  "director": "Stephen Frears",
+  "runtime": 97,
+  "country": "United Kingdom, USA",
+  "lang": "French, Somali",
+  "why": "An undocumented immigrant finds a human heart in one of the toilets of the west London hotel where he works with other undocumented immigrants.",
+  "poster": "https://image.tmdb.org/t/p/w500/nWpXOqB1STDq8ji3rQawcg1fGS9.jpg",
+  "tags": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-12-13"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1038626~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#2b3a2f",
+   "#e0b34d"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.58,
+  "rating_count": 16901
+ },
+ {
   "id": "reality-bites",
   "title": "Reality Bites",
   "year": 1994,
@@ -26,8 +60,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.46,
@@ -60,8 +94,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -92,8 +126,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 2.82,
@@ -135,8 +169,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 2.84,
@@ -169,8 +203,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.63,
@@ -201,8 +235,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 4.24,
@@ -234,8 +268,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -268,8 +302,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 2.47,
@@ -329,8 +363,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -359,8 +393,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -393,8 +427,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.68,
@@ -423,8 +457,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -473,8 +507,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.32,
@@ -506,8 +540,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.74,
@@ -540,8 +574,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.69,
@@ -573,8 +607,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.78,
@@ -607,8 +641,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.92,
@@ -668,8 +702,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 4.23,
@@ -835,8 +869,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -874,8 +908,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -908,8 +942,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 4.23,
@@ -941,8 +975,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.13,
@@ -975,8 +1009,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.43,
@@ -1009,8 +1043,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.06,
@@ -1043,8 +1077,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.9,
@@ -1077,8 +1111,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.82,
@@ -1111,8 +1145,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.27,
@@ -1145,8 +1179,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.7,
@@ -1179,8 +1213,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 4.27,
@@ -1213,8 +1247,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.77,
@@ -1256,8 +1290,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.54,
@@ -1289,8 +1323,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": false,
   "rating": 3.86,
@@ -1323,8 +1357,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 1.89,
@@ -1357,8 +1391,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 4.14,
@@ -1390,8 +1424,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.44,
@@ -1424,8 +1458,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.62,
@@ -1458,8 +1492,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.83,
@@ -1492,8 +1526,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.02,
@@ -1526,8 +1560,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.18,
@@ -1560,8 +1594,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.33,
@@ -1593,8 +1627,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -1623,8 +1657,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -1774,8 +1808,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -1807,8 +1841,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.23,
@@ -1841,8 +1875,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 2.73,
@@ -1883,8 +1917,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.23,
@@ -1917,8 +1951,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.61,
@@ -1951,8 +1985,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -1985,8 +2019,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.01,
@@ -2018,8 +2052,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.34,
@@ -2052,42 +2086,12 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 2.93,
   "rating_count": 45797
- },
- {
-  "id": "surreal-films-toronto-based-genre-shorts",
-  "title": "Surreal Films: Toronto-Based Genre Shorts",
-  "year": 2026,
-  "director": "Various",
-  "runtime": 120,
-  "country": "Canada",
-  "lang": "Various",
-  "why": "Backrooms is a 2026 American science fiction psychological horror film directed and co-scored by Kane Parsons, and written by Will Soodik. It is based on Parsons's web series which was inspired by the \"Backrooms\" cree…",
-  "poster": "https://revuecinema.ca/wp-content/uploads/2026/08/image_(1)-1024x576.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-25"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1028595~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a2440",
-   "#4dd6c4"
-  ],
-  "_tmdb_matched": false,
-  "rating": null,
-  "rating_count": null
  },
  {
   "id": "hayden",
@@ -2256,7 +2260,7 @@
  {
   "id": "the-great-canadian-horror-film-festival",
   "title": "The Great Canadian Horror Film Festival",
-  "year": 2026,
+  "year": 1994,
   "director": "Various",
   "runtime": 120,
   "country": "Canada",
@@ -2634,40 +2638,6 @@
   "rating_count": 125628
  },
  {
-  "id": "light-sleeper",
-  "title": "Light Sleeper",
-  "year": 1992,
-  "director": "Paul Schrader",
-  "runtime": 103,
-  "country": "USA",
-  "lang": "Hebrew, German",
-  "why": "John LeTour is a recovering drug user who suffers insomnia and still deals to a high-end New York clientele, even though he’s trying to move on from the business. John’s professional midlife crisis becomes something m…",
-  "poster": "https://image.tmdb.org/t/p/w500/fFSdOYKp80rcK81KuNW3rz7FcLX.jpg",
-  "tags": [
-   "35mm",
-   "Drama",
-   "Crime"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-09-25"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1026738~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a3218",
-   "#d9c06a"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.7,
-  "rating_count": 38992
- },
- {
   "id": "the-evil-dead",
   "title": "The Evil Dead",
   "year": 1981,
@@ -2693,8 +2663,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.62,
@@ -2727,8 +2697,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.99,
@@ -2761,8 +2731,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.38,
@@ -2795,8 +2765,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.55,
@@ -2829,8 +2799,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.58,
@@ -2863,8 +2833,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.18,
@@ -2897,8 +2867,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.02,
@@ -2931,8 +2901,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.41,
@@ -2965,8 +2935,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.83,
@@ -3034,8 +3004,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -3158,8 +3128,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.79,
@@ -3199,8 +3169,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -3229,8 +3199,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -3281,8 +3251,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 2.58,
@@ -3315,8 +3285,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.55,
@@ -3358,8 +3328,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.76,
@@ -3399,8 +3369,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -3438,8 +3408,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -3477,8 +3447,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -3516,8 +3486,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -3548,8 +3518,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 4.23,
@@ -3582,8 +3552,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -3625,8 +3595,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 4.22,
@@ -3659,8 +3629,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.78,
@@ -3702,8 +3672,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 2.86,
@@ -3736,8 +3706,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -3788,8 +3758,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 4.28,
@@ -3821,8 +3791,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.66,
@@ -3851,38 +3821,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
-  ],
-  "_tmdb_matched": false,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "meet-cute-love-basketball",
-  "title": "Meet Cute: Love & Basketball",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Reaching for the same pair of black cashmere gloves? A chance encounter on a train? You never know if love is right around the corner! Introducing our new series “Meet-Cute” highlighting the best in cinema romances. Monica Wright (Sanaa Lathan) and Quincy McCall (Omar Epps) grew up in the same neighbourhood and have known each […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/09/love__basketball_tmdb-znzwnx19fz5qyedprvm0ldsxfip_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-13"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649666~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -3914,10 +3854,40 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "meet-cute-love-basketball",
+  "title": "Meet Cute: Love & Basketball",
+  "year": null,
+  "director": "",
+  "runtime": null,
+  "country": "",
+  "lang": "",
+  "why": "Reaching for the same pair of black cashmere gloves? A chance encounter on a train? You never know if love is right around the corner! Introducing our new series “Meet-Cute” highlighting the best in cinema romances. Monica Wright (Sanaa Lathan) and Quincy McCall (Omar Epps) grew up in the same neighbourhood and have known each […]",
+  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/09/love__basketball_tmdb-znzwnx19fz5qyedprvm0ldsxfip_thumb.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-13"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649666~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#1f2a44",
+   "#f0f0f0"
+  ],
+  "_tmdb_matched": false,
   "rating": null,
   "rating_count": null
  },
@@ -3957,8 +3927,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.74,
@@ -3987,8 +3957,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -4082,8 +4052,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.82,
@@ -4116,8 +4086,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 4.13,
@@ -4149,8 +4119,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.57,
@@ -4188,8 +4158,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -4221,8 +4191,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.92,
@@ -4253,8 +4223,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.81,
@@ -4285,8 +4255,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -4318,8 +4288,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.71,
@@ -4348,8 +4318,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -4382,8 +4352,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.94,
@@ -4414,8 +4384,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 4.04,
@@ -4446,8 +4416,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.62,
@@ -4486,24 +4456,6 @@
     "time": "17:45",
     "format": "",
     "url": "https://paradiseonbloor.com/purchase/669251/"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-25"
-    ],
-    "time": "18:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-25&film=440901&aud=3&ptime=18:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-25"
-    ],
-    "time": "21:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-25&film=440901&aud=7&ptime=21:40&ptype=G"
    },
    {
     "theatre": "carlton",
@@ -4651,8 +4603,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.75,
@@ -4684,8 +4636,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 4.0,
@@ -4716,8 +4668,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.85,
@@ -4750,8 +4702,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.44,
@@ -4784,8 +4736,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.57,
@@ -4817,8 +4769,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.88,
@@ -4851,8 +4803,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.67,
@@ -4885,12 +4837,54 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.41,
   "rating_count": 373
+ },
+ {
+  "id": "the-history-of-concrete",
+  "title": "The History of Concrete",
+  "year": 2026,
+  "director": "John Wilson",
+  "runtime": 101,
+  "country": "USA",
+  "lang": "English",
+  "why": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete.",
+  "poster": "https://image.tmdb.org/t/p/w500/2GWR1g1VdUNnNpLh6XfAQ6LVfyd.jpg",
+  "tags": [
+   "Documentary",
+   "Comedy"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-10-10"
+    ],
+    "time": "17:00",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/669922/"
+   },
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-10-12"
+    ],
+    "time": "16:00",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/669924/"
+   }
+  ],
+  "art": [
+   "#3a2b2b",
+   "#c94f4f"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.98,
+  "rating_count": 8378
  },
  {
   "id": "the-witches-of-eastwick",
@@ -4970,7 +4964,9 @@
   "lang": "English",
   "why": "Salome is a 1953 American drama Biblical film directed by William Dieterle and produced by Buddy Adler from a screenplay by Harry Kleiner and Jesse Lasky Jr. The music score was by George Duning, the dance music by Da…",
   "poster": "https://image.tmdb.org/t/p/w500/sFEMKZX8S2BYrulePxgoRLgZcus.jpg",
-  "tags": [],
+  "tags": [
+   "Premiere"
+  ],
   "screenings": [
    {
     "theatre": "paradise",
@@ -5058,6 +5054,39 @@
   "rating_count": 356967
  },
  {
+  "id": "the-texas-chainsaw-massacre-part-2",
+  "title": "The Texas Chainsaw Massacre Part 2",
+  "year": 1986,
+  "director": "Tobe Hooper",
+  "runtime": 100,
+  "country": "USA",
+  "lang": "English",
+  "why": "A radio host is victimised by the notorious cannibal family while a former Texas Marshal hunts them.",
+  "poster": "https://image.tmdb.org/t/p/w500/cO1Dvg7k87lHSPOdumn3ddJEKdX.jpg",
+  "tags": [
+   "Horror",
+   "Comedy"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-10-29"
+    ],
+    "time": "21:00",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/669920/"
+   }
+  ],
+  "art": [
+   "#24303a",
+   "#9ab0c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
+ },
+ {
   "id": "black-sunday",
   "title": "Black Sunday",
   "year": 1960,
@@ -5076,18 +5105,51 @@
     "dates": [
      "2026-10-30"
     ],
-    "time": "18:00",
+    "time": "18:30",
     "format": "",
     "url": "https://paradiseonbloor.com/purchase/669331/"
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.68,
   "rating_count": 53031
+ },
+ {
+  "id": "the-omen",
+  "title": "The Omen",
+  "year": 1976,
+  "director": "Richard Donner",
+  "runtime": 111,
+  "country": "United Kingdom, USA",
+  "lang": "English",
+  "why": "Immediately after their miscarriage, the US diplomat Robert Thorn adopts the newborn Damien without the knowledge of his wife. Yet what he doesn’t know is that their new son is the son of the devil.",
+  "poster": "https://image.tmdb.org/t/p/w500/mDcjjEu1fMNmsXi4l4D8IftlTix.jpg",
+  "tags": [
+   "Horror",
+   "Thriller"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-10-30"
+    ],
+    "time": "21:00",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/669918/"
+   }
+  ],
+  "art": [
+   "#101b2a",
+   "#e0562a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.63,
+  "rating_count": 222163
  },
  {
   "id": "the-witches",
@@ -5116,8 +5178,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.43,
@@ -5132,7 +5194,7 @@
   "country": "United Kingdom, USA",
   "lang": "English",
   "why": "The Devils is a 1971 historical psychological horror-drama film written, produced and directed by Ken Russell, and starring Vanessa Redgrave and Oliver Reed. A dramatised historical account of the fall of Urbain Grand…",
-  "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/350/2026/09/22183345/y1k7eiOFc6fzm8XeTa1kNGx6JIs-683x1024.jpg",
+  "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/350/2026/09/25130722/thedevils-683x1024.png",
   "tags": [
    "4K",
    "Restoration"
@@ -5149,8 +5211,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5181,8 +5243,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.92,
@@ -5211,8 +5273,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5245,12 +5307,46 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 4.17,
   "rating_count": 3331398
+ },
+ {
+  "id": "phantom-of-the-paradise",
+  "title": "Phantom of the Paradise",
+  "year": 1974,
+  "director": "Brian De Palma",
+  "runtime": 92,
+  "country": "USA",
+  "lang": "English",
+  "why": "Singer-songwriter Winslow Leach seeks revenge on the nefarious music producer Swan, who steals both Winslow's music and his favorite singer for the grand opening of Swan's new rock palace, the Paradise.",
+  "poster": "https://image.tmdb.org/t/p/w500/qDOtGWeSQNwB3dG7Amt1K0JW0az.jpg",
+  "tags": [
+   "Comedy",
+   "Drama",
+   "Horror"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-11-13"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/669926/"
+   }
+  ],
+  "art": [
+   "#3a2440",
+   "#4dd6c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.15,
+  "rating_count": 181474
  },
  {
   "id": "m-butterfly",
@@ -5279,12 +5375,192 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.5,
   "rating_count": 18120
+ },
+ {
+  "id": "bleeding-edge-fest-castration-movie-chapter-iiiii-junior-gho",
+  "title": "Bleeding Edge Fest: Castration Movie Chapter iii.ii Junior Ghosts—Premorphic Drift; a fragmentary passage",
+  "year": 2026,
+  "director": "",
+  "runtime": 127,
+  "country": "",
+  "lang": "",
+  "why": "",
+  "poster": "",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-11-26"
+    ],
+    "time": "18:00",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/670075/"
+   }
+  ],
+  "art": [
+   "#2a3550",
+   "#e88b6a"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "bleeding-edge-fest-crocodile-dose",
+  "title": "Bleeding Edge Fest: Crocodile Dose",
+  "year": 2026,
+  "director": "",
+  "runtime": 70,
+  "country": "",
+  "lang": "",
+  "why": "James Newell Osterberg Jr., known professionally as Iggy Pop, is an American singer, songwriter, musician, and actor who was the lead vocalist of the proto-punk band the Stooges. Regarded as the \"Godfather of Punk\", h…",
+  "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/350/2026/09/25173759/2fLUCNV3UxL3qUwpsVvXjBJ2hQT-683x1024.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-11-26"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/670080/"
+   }
+  ],
+  "art": [
+   "#40183a",
+   "#f24d94"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "bleeding-edge-fest-the-water-is-always-warm",
+  "title": "Bleeding Edge Fest: The Water Is Always Warm",
+  "year": 2026,
+  "director": "Sean Baker",
+  "runtime": 95,
+  "country": "USA",
+  "lang": "English, Russian, Armenian",
+  "why": "Anora is a 2024 American romantic comedy-drama film written, directed, produced, and edited by Sean Baker. It stars Mikey Madison as Anora \"Ani\" Mikheeva, a lap dancer from New York who marries the wealthy son of a Ru…",
+  "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/350/2026/09/25184358/WIAW_2_POSTER-576x1024.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-11-27"
+    ],
+    "time": "18:00",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/670084/"
+   }
+  ],
+  "art": [
+   "#24303a",
+   "#9ab0c4"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "bleeding-edge-fest-fellas-the-making-of-the-pee-pee-poo-poo-",
+  "title": "Bleeding Edge Fest: Fellas + The Making of the Pee Pee Poo Poo Man",
+  "year": 2026,
+  "director": "",
+  "runtime": 68,
+  "country": "",
+  "lang": "",
+  "why": "",
+  "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/350/2026/09/25175429/7nprNIjC1JdEmwXgosCRVA0A2vz-683x1024.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-11-27"
+    ],
+    "time": "21:00",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/670086/"
+   }
+  ],
+  "art": [
+   "#3a3218",
+   "#d9c06a"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "bleeding-edge-fest-fast",
+  "title": "Bleeding Edge Fest: Fast",
+  "year": 2026,
+  "director": "",
+  "runtime": 96,
+  "country": "",
+  "lang": "",
+  "why": "Vanity is the fourth full-length studio album, and seventh overall release, by American metalcore band Eighteen Visions. It was their first album to feature a music video, which was for \"You Broke Like Glass\". It was …",
+  "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/350/2026/09/25181437/9GA7gpSrT1tqZ9KvE9GvqM8EGQG.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-11-28"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/670090/"
+   }
+  ],
+  "art": [
+   "#101b2a",
+   "#e0562a"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "bleeding-edge-fest-pocket-mirror",
+  "title": "Bleeding Edge Fest: Pocket Mirror",
+  "year": 2026,
+  "director": "Coralie Fargeat",
+  "runtime": 88,
+  "country": "France, United Kingdom, USA",
+  "lang": "English",
+  "why": "The Substance is a 2024 body horror film written and directed by Coralie Fargeat. It follows a fading celebrity who is fired by her producer due to her age and uses a black market drug that creates a younger woman wit…",
+  "poster": "https://thumb.wikimedia.org/wikipedia/en/f/ff/The_Substance_poster.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-11-28"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/670091/"
+   }
+  ],
+  "art": [
+   "#3a2a1a",
+   "#f0a83c"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "a-clockwork-orange",
@@ -5301,24 +5577,6 @@
    "Crime"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-25"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-25&film=991912571&aud=1&ptime=18:30&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-25"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-25&film=991912571&aud=1&ptime=21:30&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -5465,12 +5723,82 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 4.09,
   "rating_count": 1557108
+ },
+ {
+  "id": "coyote-vs-acme",
+  "title": "Coyote vs. Acme",
+  "year": 2026,
+  "director": "Dave Green",
+  "runtime": 103,
+  "country": "USA",
+  "lang": "English",
+  "why": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+  "poster": "https://image.tmdb.org/t/p/w500/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+  "tags": [
+   "Comedy",
+   "Adventure",
+   "Family"
+  ],
+  "screenings": [
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-09-26"
+    ],
+    "time": "18:35",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-26&film=248209173&aud=3&ptime=18:35&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-09-27"
+    ],
+    "time": "18:35",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-27&film=248209173&aud=3&ptime=18:35&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-09-28"
+    ],
+    "time": "18:35",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-28&film=248209173&aud=3&ptime=18:35&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-09-29"
+    ],
+    "time": "18:35",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-29&film=248209173&aud=3&ptime=18:35&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-09-30"
+    ],
+    "time": "18:35",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-30&film=248209173&aud=3&ptime=18:35&ptype=G"
+   }
+  ],
+  "art": [
+   "#2b3a2f",
+   "#e0b34d"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.84,
+  "rating_count": 16150
  },
  {
   "id": "creature-from-the-black-lagoon",
@@ -5488,24 +5816,6 @@
    "Science Fiction"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-25"
-    ],
-    "time": "19:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-25&film=23125075&aud=7&ptime=19:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-25"
-    ],
-    "time": "21:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-25&film=23125075&aud=8&ptime=21:55&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -5670,8 +5980,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.53,
@@ -5693,24 +6003,6 @@
    "Fantasy"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-25"
-    ],
-    "time": "18:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-25&film=190457138&aud=2&ptime=18:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-25"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-25&film=190457138&aud=2&ptime=21:30&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -5857,8 +6149,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.81,
@@ -5880,24 +6172,6 @@
    "Action"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-25"
-    ],
-    "time": "19:05",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-25&film=116090535&aud=6&ptime=19:05&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-25"
-    ],
-    "time": "21:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-25&film=116090535&aud=6&ptime=21:50&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -6008,8 +6282,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 2.64,
@@ -6031,15 +6305,6 @@
    "Fantasy"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-25"
-    ],
-    "time": "21:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-25&film=7785094&aud=4&ptime=21:45&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -6115,15 +6380,6 @@
    {
     "theatre": "carlton",
     "dates": [
-     "2026-09-25"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-25&film=190201683&aud=4&ptime=18:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
      "2026-09-26"
     ],
     "time": "12:45",
@@ -6195,8 +6451,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 4.15,
@@ -6218,24 +6474,6 @@
    "Romance"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-25"
-    ],
-    "time": "18:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-25&film=944957608&aud=5&ptime=18:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-25"
-    ],
-    "time": "21:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-25&film=944957608&aud=5&ptime=21:50&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -6382,81 +6620,12 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": null,
   "rating_count": null
- },
- {
-  "id": "the-matrix",
-  "title": "The Matrix",
-  "year": 1999,
-  "director": "Lana Wachowski, Lilly Wachowski",
-  "runtime": 136,
-  "country": "USA",
-  "lang": "English",
-  "why": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
-  "poster": "https://image.tmdb.org/t/p/w500/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg",
-  "tags": [
-   "Action",
-   "Science Fiction"
-  ],
-  "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-25"
-    ],
-    "time": "21:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-25&film=502660342&aud=3&ptime=21:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-27"
-    ],
-    "time": "21:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-27&film=502660342&aud=3&ptime=21:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-28"
-    ],
-    "time": "21:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-28&film=502660342&aud=3&ptime=21:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-29"
-    ],
-    "time": "21:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-29&film=502660342&aud=3&ptime=21:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-30"
-    ],
-    "time": "21:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-30&film=502660342&aud=3&ptime=21:35&ptype=G"
-   }
-  ],
-  "art": [
-   "#3a3218",
-   "#d9c06a"
-  ],
-  "_tmdb_matched": true,
-  "rating": 4.18,
-  "rating_count": 3078420
  },
  {
   "id": "the-stunt-driver",
@@ -6474,24 +6643,6 @@
    "Drama"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-25"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-25&film=324133094&aud=9&ptime=19:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-09-25"
-    ],
-    "time": "21:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-25&film=324133094&aud=9&ptime=21:40&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -6638,82 +6789,72 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.43,
   "rating_count": 414
  },
  {
-  "id": "coyote-vs-acme",
-  "title": "Coyote vs. Acme",
-  "year": 2026,
-  "director": "Dave Green",
-  "runtime": 103,
+  "id": "the-matrix",
+  "title": "The Matrix",
+  "year": 1999,
+  "director": "Lana Wachowski, Lilly Wachowski",
+  "runtime": 136,
   "country": "USA",
   "lang": "English",
-  "why": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-  "poster": "https://image.tmdb.org/t/p/w500/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+  "why": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+  "poster": "https://image.tmdb.org/t/p/w500/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg",
   "tags": [
-   "Comedy",
-   "Adventure",
-   "Family"
+   "Action",
+   "Science Fiction"
   ],
   "screenings": [
    {
     "theatre": "carlton",
     "dates": [
-     "2026-09-26"
-    ],
-    "time": "18:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-26&film=248209173&aud=3&ptime=18:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
      "2026-09-27"
     ],
-    "time": "18:35",
+    "time": "21:35",
     "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-27&film=248209173&aud=3&ptime=18:35&ptype=G"
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-27&film=502660342&aud=3&ptime=21:35&ptype=G"
    },
    {
     "theatre": "carlton",
     "dates": [
      "2026-09-28"
     ],
-    "time": "18:35",
+    "time": "21:35",
     "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-28&film=248209173&aud=3&ptime=18:35&ptype=G"
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-28&film=502660342&aud=3&ptime=21:35&ptype=G"
    },
    {
     "theatre": "carlton",
     "dates": [
      "2026-09-29"
     ],
-    "time": "18:35",
+    "time": "21:35",
     "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-29&film=248209173&aud=3&ptime=18:35&ptype=G"
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-29&film=502660342&aud=3&ptime=21:35&ptype=G"
    },
    {
     "theatre": "carlton",
     "dates": [
      "2026-09-30"
     ],
-    "time": "18:35",
+    "time": "21:35",
     "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-30&film=248209173&aud=3&ptime=18:35&ptype=G"
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-09-30&film=502660342&aud=3&ptime=21:35&ptype=G"
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
-  "rating": 3.84,
-  "rating_count": 16150
+  "rating": 4.18,
+  "rating_count": 3078420
  },
  {
   "id": "digger",
@@ -6765,11 +6906,47 @@
     "time": "21:40",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-02&film=16456597&aud=9&ptime=21:40&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-03"
+    ],
+    "time": "12:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=16456597&aud=2&ptime=12:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-03"
+    ],
+    "time": "15:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=16456597&aud=2&ptime=15:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-03"
+    ],
+    "time": "18:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=16456597&aud=2&ptime=18:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-03"
+    ],
+    "time": "21:40",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=16456597&aud=2&ptime=21:40&ptype=G"
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -6808,11 +6985,56 @@
     "time": "21:30",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-02&film=7236805&aud=6&ptime=21:30&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-03"
+    ],
+    "time": "13:10",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=7236805&aud=6&ptime=13:10&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-03"
+    ],
+    "time": "15:10",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=7236805&aud=6&ptime=15:10&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-03"
+    ],
+    "time": "17:10",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=7236805&aud=6&ptime=17:10&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-03"
+    ],
+    "time": "19:10",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=7236805&aud=6&ptime=19:10&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-03"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=7236805&aud=6&ptime=21:30&ptype=G"
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.92,
@@ -6851,11 +7073,47 @@
     "time": "21:45",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-02&film=972443811&aud=4&ptime=21:45&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-03"
+    ],
+    "time": "12:45",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=972443811&aud=4&ptime=12:45&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-03"
+    ],
+    "time": "15:45",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=972443811&aud=4&ptime=15:45&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-03"
+    ],
+    "time": "18:45",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=972443811&aud=4&ptime=18:45&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-03"
+    ],
+    "time": "21:45",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=972443811&aud=4&ptime=21:45&ptype=G"
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.78,
@@ -6892,11 +7150,47 @@
     "time": "21:40",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-02&film=567279998&aud=5&ptime=21:40&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-03"
+    ],
+    "time": "12:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=567279998&aud=5&ptime=12:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-03"
+    ],
+    "time": "15:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=567279998&aud=5&ptime=15:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-03"
+    ],
+    "time": "18:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=567279998&aud=5&ptime=18:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-03"
+    ],
+    "time": "21:40",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=567279998&aud=5&ptime=21:40&ptype=G"
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.94,
