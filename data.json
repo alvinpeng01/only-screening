@@ -1729,6 +1729,24 @@
     "time": "21:35",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-10&film=750707392&aud=8&ptime=21:35&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-11"
+    ],
+    "time": "18:40",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-11&film=750707392&aud=8&ptime=18:40&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-11"
+    ],
+    "time": "21:35",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-11&film=750707392&aud=8&ptime=21:35&ptype=G"
    }
   ],
   "art": [
@@ -3179,15 +3197,6 @@
    {
     "theatre": "fox",
     "dates": [
-     "2026-10-03"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=660003~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
      "2026-10-04"
     ],
     "time": "14:50",
@@ -3211,15 +3220,6 @@
     "time": "16:00",
     "format": "",
     "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=660006~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "15:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=324133094&aud=3&ptime=15:30&ptype=G"
    },
    {
     "theatre": "carlton",
@@ -3559,15 +3559,6 @@
    {
     "theatre": "fox",
     "dates": [
-     "2026-10-03"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649630~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
      "2026-10-05"
     ],
     "time": "19:00",
@@ -3597,15 +3588,6 @@
    "Horror"
   ],
   "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "21:15",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=651547~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
    {
     "theatre": "fox",
     "dates": [
@@ -4152,6 +4134,36 @@
   "rating_count": null
  },
  {
+  "id": "meet-cute-love-basketball",
+  "title": "Meet Cute: Love & Basketball",
+  "year": null,
+  "director": "",
+  "runtime": null,
+  "country": "",
+  "lang": "",
+  "why": "Reaching for the same pair of black cashmere gloves? A chance encounter on a train? You never know if love is right around the corner! Introducing our new series “Meet-Cute” highlighting the best in cinema romances. Monica Wright (Sanaa Lathan) and Quincy McCall (Omar Epps) grew up in the same neighbourhood and have known each […]",
+  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/10/love__basketball_tmdb-znzwnx19fz5qyedprvm0ldsxfip_thumb.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-10-13"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649666~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#123a3a",
+   "#7fd4e0"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
   "id": "magicland",
   "title": "MagicLand",
   "year": 1990,
@@ -4177,40 +4189,10 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
-  ],
-  "_tmdb_matched": true,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "meet-cute-love-basketball",
-  "title": "Meet Cute: Love & Basketball",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
-  "lang": "",
-  "why": "Reaching for the same pair of black cashmere gloves? A chance encounter on a train? You never know if love is right around the corner! Introducing our new series “Meet-Cute” highlighting the best in cinema romances. Monica Wright (Sanaa Lathan) and Quincy McCall (Omar Epps) grew up in the same neighbourhood and have known each […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/10/love__basketball_tmdb-znzwnx19fz5qyedprvm0ldsxfip_thumb.jpg",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-13"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=649666~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
    "#2a3550",
    "#e88b6a"
   ],
-  "_tmdb_matched": false,
+  "_tmdb_matched": true,
   "rating": null,
   "rating_count": null
  },
@@ -4329,15 +4311,6 @@
     "time": "17:45",
     "format": "",
     "url": "https://paradiseonbloor.com/purchase/669251/"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "12:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=440901&aud=3&ptime=12:30&ptype=G"
    },
    {
     "theatre": "carlton",
@@ -4610,15 +4583,6 @@
    "Family"
   ],
   "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "13:20",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=660001~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
    {
     "theatre": "fox",
     "dates": [
@@ -5873,51 +5837,6 @@
    {
     "theatre": "carlton",
     "dates": [
-     "2026-10-03"
-    ],
-    "time": "13:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=7236805&aud=6&ptime=13:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "15:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=7236805&aud=6&ptime=15:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "17:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=7236805&aud=6&ptime=17:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "19:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=7236805&aud=6&ptime=19:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=7236805&aud=6&ptime=21:30&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
      "2026-10-04"
     ],
     "time": "13:10",
@@ -6060,42 +5979,6 @@
    {
     "theatre": "carlton",
     "dates": [
-     "2026-10-03"
-    ],
-    "time": "12:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=972443811&aud=4&ptime=12:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "15:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=972443811&aud=4&ptime=15:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=972443811&aud=4&ptime=18:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "21:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=972443811&aud=4&ptime=21:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
      "2026-10-04"
     ],
     "time": "12:45",
@@ -6225,42 +6108,6 @@
    "Comedy"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "12:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=16456597&aud=2&ptime=12:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "15:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=16456597&aud=2&ptime=15:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "18:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=16456597&aud=2&ptime=18:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "21:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=16456597&aud=2&ptime=21:40&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -6397,42 +6244,6 @@
    {
     "theatre": "carlton",
     "dates": [
-     "2026-10-03"
-    ],
-    "time": "12:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=190457138&aud=9&ptime=12:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "15:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=190457138&aud=9&ptime=15:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "18:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=190457138&aud=3&ptime=18:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "21:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=190457138&aud=3&ptime=21:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
      "2026-10-04"
     ],
     "time": "12:40",
@@ -6565,24 +6376,6 @@
    {
     "theatre": "carlton",
     "dates": [
-     "2026-10-03"
-    ],
-    "time": "12:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=29115390&aud=7&ptime=12:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "16:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=29115390&aud=7&ptime=16:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
      "2026-10-04"
     ],
     "time": "12:35",
@@ -6712,42 +6505,6 @@
    "Thriller"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "13:05",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=490941245&aud=1&ptime=13:05&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "16:05",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=490941245&aud=1&ptime=16:05&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "19:05",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=490941245&aud=1&ptime=19:05&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "21:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=490941245&aud=1&ptime=21:50&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -6884,42 +6641,6 @@
    {
     "theatre": "carlton",
     "dates": [
-     "2026-10-03"
-    ],
-    "time": "13:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=944957608&aud=8&ptime=13:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "16:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=944957608&aud=8&ptime=16:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=944957608&aud=7&ptime=19:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "21:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=944957608&aud=7&ptime=21:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
      "2026-10-04"
     ],
     "time": "13:00",
@@ -7048,42 +6769,6 @@
    "Horror"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "12:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=567279998&aud=5&ptime=12:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "15:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=567279998&aud=5&ptime=15:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "18:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=567279998&aud=5&ptime=18:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-10-03"
-    ],
-    "time": "21:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-03&film=567279998&aud=5&ptime=21:40&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -7282,6 +6967,24 @@
     "time": "21:45",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-10&film=919220635&aud=5&ptime=21:45&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-11"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-11&film=919220635&aud=5&ptime=19:00&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-11"
+    ],
+    "time": "21:45",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-11&film=919220635&aud=5&ptime=21:45&ptype=G"
    }
   ],
   "art": [
@@ -7350,6 +7053,42 @@
     "time": "21:30",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-10&film=130503220&aud=9&ptime=21:30&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-11"
+    ],
+    "time": "12:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-11&film=130503220&aud=9&ptime=12:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-11"
+    ],
+    "time": "15:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-11&film=130503220&aud=9&ptime=15:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-11"
+    ],
+    "time": "18:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-11&film=130503220&aud=9&ptime=18:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-11"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-11&film=130503220&aud=9&ptime=21:30&ptype=G"
    }
   ],
   "art": [
@@ -7428,6 +7167,42 @@
     "time": "21:50",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-10&film=660509280&aud=4&ptime=21:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-11"
+    ],
+    "time": "13:05",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-11&film=660509280&aud=4&ptime=13:05&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-11"
+    ],
+    "time": "16:05",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-11&film=660509280&aud=4&ptime=16:05&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-11"
+    ],
+    "time": "19:05",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-11&film=660509280&aud=4&ptime=19:05&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-11"
+    ],
+    "time": "21:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-11&film=660509280&aud=4&ptime=21:50&ptype=G"
    }
   ],
   "art": [
@@ -7516,6 +7291,51 @@
     "time": "21:30",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-10&film=410633414&aud=1&ptime=21:30&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-11"
+    ],
+    "time": "13:10",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-11&film=410633414&aud=1&ptime=13:10&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-11"
+    ],
+    "time": "15:10",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-11&film=410633414&aud=1&ptime=15:10&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-11"
+    ],
+    "time": "17:10",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-11&film=410633414&aud=1&ptime=17:10&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-11"
+    ],
+    "time": "19:10",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-11&film=410633414&aud=1&ptime=19:10&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-10-11"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-10-11&film=410633414&aud=1&ptime=21:30&ptype=G"
    }
   ],
   "art": [
