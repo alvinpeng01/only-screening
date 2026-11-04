@@ -1490,24 +1490,6 @@
    {
     "theatre": "carlton",
     "dates": [
-     "2026-11-03"
-    ],
-    "time": "18:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-03&film=203775931&aud=5&ptime=18:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-03"
-    ],
-    "time": "21:25",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-03&film=203775931&aud=3&ptime=21:25&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
      "2026-11-04"
     ],
     "time": "18:40",
@@ -2744,92 +2726,6 @@
   "rating_count": 20116
  },
  {
-  "id": "lunar-sway",
-  "title": "Lunar Sway",
-  "year": 2026,
-  "director": "Nick Butler",
-  "runtime": 98,
-  "country": "Canada",
-  "lang": "English",
-  "why": "Cliff is struggling with his love life in a desert town when he unexpectedly connects with his estranged birth mother. After learning of his mom’s string of secrets, Cliff is led on a wild misadventure while also spen…",
-  "poster": "https://image.tmdb.org/t/p/w500/shJB0w3AgNBIvZw6uffu2EdnqLN.jpg",
-  "tags": [
-   "Comedy"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-11-03"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1036995~fc639be0-110c-4035-a588-842aceff5ef6&"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-03"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-03&film=99889755&aud=7&ptime=19:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-03"
-    ],
-    "time": "21:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-03&film=99889755&aud=7&ptime=21:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-04"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-04&film=99889755&aud=8&ptime=19:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-04"
-    ],
-    "time": "21:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-04&film=99889755&aud=8&ptime=21:40&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-05"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-05&film=99889755&aud=8&ptime=19:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-05"
-    ],
-    "time": "21:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-05&film=99889755&aud=8&ptime=21:40&ptype=G"
-   }
-  ],
-  "art": [
-   "#1f2a44",
-   "#f0f0f0"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.33,
-  "rating_count": 282
- },
- {
   "id": "walk-hard-the-dewey-cox-story",
   "title": "Walk Hard: The Dewey Cox Story",
   "year": 2007,
@@ -2855,8 +2751,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.74,
@@ -2889,8 +2785,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.69,
@@ -2922,8 +2818,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.78,
@@ -2956,8 +2852,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.92,
@@ -2990,8 +2886,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.78,
@@ -3024,8 +2920,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 4.23,
@@ -3057,8 +2953,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.13,
@@ -3091,8 +2987,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.43,
@@ -3125,8 +3021,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.06,
@@ -3159,8 +3055,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.9,
@@ -3193,8 +3089,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.82,
@@ -3227,8 +3123,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.69,
@@ -3261,8 +3157,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 4.27,
@@ -3295,12 +3191,42 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.77,
   "rating_count": 65475
+ },
+ {
+  "id": "golden-age-the-big-sleep",
+  "title": "Golden Age: The Big Sleep",
+  "year": null,
+  "director": "",
+  "runtime": null,
+  "country": "",
+  "lang": "English",
+  "why": "“You’re not very tall, are you?” “Well, I try to be” Howard Hawks’ noir masterpiece is the first film version of a Raymond Chandler novel and boasts a screenplay co-written by none other than William Faulkner. A story of murder, blackmail, double crosses and, possibly love, the movie stars Humphrey Bogart as famed private detective […]",
+  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/11/big_sleep_poster_thumb.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-11-29"
+    ],
+    "time": "12:45",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=663674~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#123a3a",
+   "#7fd4e0"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
  },
  {
   "id": "sense-and-sensibility",
@@ -3441,6 +3367,39 @@
   "rating_count": 41922
  },
  {
+  "id": "rex-a-dinosaurs-story",
+  "title": "Rex: A Dinosaur's Story",
+  "year": 1993,
+  "director": "Haruki Kadokawa",
+  "runtime": 106,
+  "country": "Japan",
+  "lang": "Japanese",
+  "why": "A young girl befriends an infant T-rex after her paleontologist father nurtures a lair of lost dinosaur eggs.",
+  "poster": "https://image.tmdb.org/t/p/w500/f7EsJ9YCIslx2pf4AGOGe8GfqgJ.jpg",
+  "tags": [
+   "Family",
+   "Adventure"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-12-17"
+    ],
+    "time": "21:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=667553~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#24303a",
+   "#9ab0c4"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.58,
+  "rating_count": 1298
+ },
+ {
   "id": "the-piano",
   "title": "The Piano",
   "year": 1993,
@@ -3476,8 +3435,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.85,
@@ -3502,15 +3461,6 @@
    {
     "theatre": "fox",
     "dates": [
-     "2026-11-03"
-    ],
-    "time": "21:00",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=658560~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
      "2026-11-04"
     ],
     "time": "21:15",
@@ -3528,8 +3478,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 4.23,
@@ -3562,8 +3512,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 4.23,
@@ -3640,44 +3590,12 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.66,
-  "rating_count": 767560
- },
- {
-  "id": "once-upon-a-time-in-harlem",
-  "title": "Once Upon a Time in Harlem",
-  "year": 2026,
-  "director": "William Greaves, David Greaves",
-  "runtime": 100,
-  "country": "USA",
-  "lang": "English",
-  "why": "A decade after his death, genre-defying filmmaker William Greaves has one last trick up his sleeve with what he considered the most important event he captured on film: a 1972 party he engineered with the living lumin…",
-  "poster": "https://image.tmdb.org/t/p/w500/9eukk5gby8NZCwraiC7mloZmasP.jpg",
-  "tags": [
-   "Documentary"
-  ],
-  "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-11-03"
-    ],
-    "time": "15:45",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=661294~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   }
-  ],
-  "art": [
    "#2a3324",
    "#d4b26a"
   ],
   "_tmdb_matched": true,
-  "rating": 3.99,
-  "rating_count": 4252
+  "rating": 3.66,
+  "rating_count": 767560
  },
  {
   "id": "naza",
@@ -4292,6 +4210,49 @@
   "rating_count": 543
  },
  {
+  "id": "your-mother-your-mother-your-mother",
+  "title": "Your Mother Your Mother Your Mother",
+  "year": 2026,
+  "director": "Bassam Tariq",
+  "runtime": 112,
+  "country": "USA, United Kingdom",
+  "lang": "English",
+  "why": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in arou…",
+  "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
+  "tags": [
+   "Drama",
+   "Crime",
+   "Thriller"
+  ],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-12-01"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=667560~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   },
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-12-03"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=667561~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#2b3a2f",
+   "#e0b34d"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.95,
+  "rating_count": 55790
+ },
+ {
   "id": "you-can-see-everything",
   "title": "You Can See Everything",
   "year": 2026,
@@ -4424,8 +4385,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 4.6,
@@ -4467,8 +4428,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.93,
@@ -4493,15 +4454,6 @@
    {
     "theatre": "fox",
     "dates": [
-     "2026-11-03"
-    ],
-    "time": "18:20",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=661249~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
-   {
-    "theatre": "fox",
-    "dates": [
      "2026-11-04"
     ],
     "time": "15:00",
@@ -4519,8 +4471,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.68,
@@ -4561,8 +4513,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.24,
@@ -4593,8 +4545,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.55,
@@ -4623,8 +4575,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -4674,8 +4626,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 2.58,
@@ -4735,8 +4687,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.46,
@@ -4765,8 +4717,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -4798,42 +4750,104 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.82,
   "rating_count": 3688640
  },
  {
-  "id": "golden-age-the-big-sleep",
-  "title": "Golden Age: The Big Sleep",
-  "year": null,
-  "director": "",
-  "runtime": null,
-  "country": "",
+  "id": "for-the-sake-of-water",
+  "title": "For the Sake of Water",
+  "year": 1982,
+  "director": "Martin Rosen",
+  "runtime": 103,
+  "country": "United Kingdom, USA",
   "lang": "English",
-  "why": "“You’re not very tall, are you?” “Well, I try to be” Howard Hawks’ noir masterpiece is the first film version of a Raymond Chandler novel and boasts a screenplay co-written by none other than William Faulkner. A story of murder, blackmail, double crosses and, possibly love, the movie stars Humphrey Bogart as famed private detective […]",
-  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/11/big_sleep_poster_thumb.jpg",
+  "why": "This summer we crossed Algonquin Park west to east – canoeing 125km of lakes and rivers, traversing 35km of portages, and having fun while doing it. We’re excited to relive the adventure with you, through the lens of Oliver Prowse – a man with a keen eye, taste for adventure, and an incredible talent for […]",
+  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/11/image.jpg",
   "tags": [],
   "screenings": [
    {
     "theatre": "fox",
     "dates": [
-     "2026-11-29"
+     "2026-11-14"
     ],
-    "time": "12:45",
+    "time": "15:00",
     "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=663674~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+    "url": "https://art.mframe.ca/events/for-the-sake-of-water?utm_source=fox"
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": false,
   "rating": null,
   "rating_count": null
+ },
+ {
+  "id": "dr-cliff-worldwide-vet-far-and-wild-book-launch",
+  "title": "Dr. Cliff Worldwide Vet + Far and Wild Book Launch",
+  "year": 2018,
+  "director": "J. A. Bayona",
+  "runtime": 120,
+  "country": "USA",
+  "lang": "English",
+  "why": "Bruce Frederick Joseph Springsteen is an American singer, songwriter, and musician. Nicknamed \"the Boss\", Springsteen has released 21 studio albums spanning six decades; most feature the E Street Band, his backing ban…",
+  "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/350/2026/09/29143702/FAR-AND-WILD-Paradise-11-x-17-in-663x1024.png",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-11-04"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/673605/"
+   }
+  ],
+  "art": [
+   "#2b3a2f",
+   "#e0b34d"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "making-marie-antoinette",
+  "title": "Making Marie Antoinette",
+  "year": 2026,
+  "director": "Eleanor Coppola",
+  "runtime": 86,
+  "country": "Italy, France",
+  "lang": "English",
+  "why": "Eleanor Coppola's behind-the-scenes documentation of her daughter Sofia Coppola directing the 2006 film Marie Antoinette, capturing the craftsmanship and challenges of being a young female director.",
+  "poster": "https://image.tmdb.org/t/p/w500/glTiN6Mv5mObFnEHvdSOQ6l9oTx.jpg",
+  "tags": [
+   "Documentary"
+  ],
+  "screenings": [
+   {
+    "theatre": "paradise",
+    "dates": [
+     "2026-11-05"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://paradiseonbloor.com/purchase/689746/"
+   }
+  ],
+  "art": [
+   "#3a2b2b",
+   "#c94f4f"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.8,
+  "rating_count": 760
  },
  {
   "id": "gentle-monster",
@@ -4852,38 +4866,11 @@
    {
     "theatre": "paradise",
     "dates": [
-     "2026-11-03"
-    ],
-    "time": "18:00",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/698559/"
-   },
-   {
-    "theatre": "paradise",
-    "dates": [
      "2026-11-05"
     ],
     "time": "21:30",
     "format": "",
     "url": "https://paradiseonbloor.com/purchase/698561/"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-03"
-    ],
-    "time": "18:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-03&film=295747277&aud=2&ptime=18:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-03"
-    ],
-    "time": "21:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-03&film=295747277&aud=2&ptime=21:40&ptype=G"
    },
    {
     "theatre": "carlton",
@@ -4923,108 +4910,12 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.35,
-  "rating_count": 8201
- },
- {
-  "id": "chronovisor",
-  "title": "Chronovisor",
-  "year": 2026,
-  "director": "Kevin Walker, Jack Auen",
-  "runtime": 99,
-  "country": "USA",
-  "lang": "German, Italian",
-  "why": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks.",
-  "poster": "https://image.tmdb.org/t/p/w500/AngfVgLk5EngnbuFpISjvFJkYBz.jpg",
-  "tags": [
-   "Mystery",
-   "Science Fiction",
-   "Thriller"
-  ],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-11-03"
-    ],
-    "time": "21:00",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/705610/"
-   }
-  ],
-  "art": [
-   "#2b3a2f",
-   "#e0b34d"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.81,
-  "rating_count": 5184
- },
- {
-  "id": "dr-cliff-worldwide-vet-far-and-wild-book-launch",
-  "title": "Dr. Cliff Worldwide Vet + Far and Wild Book Launch",
-  "year": 2018,
-  "director": "J. A. Bayona",
-  "runtime": 120,
-  "country": "USA",
-  "lang": "English",
-  "why": "Bruce Frederick Joseph Springsteen is an American singer, songwriter, and musician. Nicknamed \"the Boss\", Springsteen has released 21 studio albums spanning six decades; most feature the E Street Band, his backing ban…",
-  "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/350/2026/09/29143702/FAR-AND-WILD-Paradise-11-x-17-in-663x1024.png",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-11-04"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/673605/"
-   }
-  ],
-  "art": [
-   "#3a2b2b",
-   "#c94f4f"
-  ],
-  "_tmdb_matched": false,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "making-marie-antoinette",
-  "title": "Making Marie Antoinette",
-  "year": 2026,
-  "director": "Eleanor Coppola",
-  "runtime": 86,
-  "country": "Italy, France",
-  "lang": "English",
-  "why": "Eleanor Coppola's behind-the-scenes documentation of her daughter Sofia Coppola directing the 2006 film Marie Antoinette, capturing the craftsmanship and challenges of being a young female director.",
-  "poster": "https://image.tmdb.org/t/p/w500/glTiN6Mv5mObFnEHvdSOQ6l9oTx.jpg",
-  "tags": [
-   "Documentary"
-  ],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-11-05"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://paradiseonbloor.com/purchase/689746/"
-   }
-  ],
-  "art": [
    "#1f2a44",
    "#f0f0f0"
   ],
   "_tmdb_matched": true,
-  "rating": 3.8,
-  "rating_count": 760
+  "rating": 3.35,
+  "rating_count": 8201
  },
  {
   "id": "percocet-jesus-the-cult-screening",
@@ -5255,6 +5146,15 @@
    {
     "theatre": "carlton",
     "dates": [
+     "2026-11-06"
+    ],
+    "time": "19:10",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-06&film=14734562&aud=5&ptime=19:10&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
      "2026-11-07"
     ],
     "time": "12:30",
@@ -5293,9 +5193,27 @@
     "dates": [
      "2026-11-08"
     ],
+    "time": "13:20",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-08&film=14734562&aud=2&ptime=13:20&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-08"
+    ],
     "time": "15:30",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-08&film=14734562&aud=5&ptime=15:30&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-08"
+    ],
+    "time": "16:40",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-08&film=14734562&aud=2&ptime=16:40&ptype=G"
    },
    {
     "theatre": "carlton",
@@ -5309,6 +5227,15 @@
    {
     "theatre": "carlton",
     "dates": [
+     "2026-11-08"
+    ],
+    "time": "20:00",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-08&film=14734562&aud=2&ptime=20:00&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
      "2026-11-09"
     ],
     "time": "18:30",
@@ -5318,11 +5245,38 @@
    {
     "theatre": "carlton",
     "dates": [
+     "2026-11-09"
+    ],
+    "time": "19:10",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-09&film=14734562&aud=5&ptime=19:10&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
      "2026-11-10"
     ],
     "time": "18:30",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-10&film=14734562&aud=2&ptime=18:30&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-10"
+    ],
+    "time": "19:10",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-10&film=14734562&aud=5&ptime=19:10&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-11"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-11&film=14734562&aud=2&ptime=18:30&ptype=G"
    }
   ],
   "art": [
@@ -6351,15 +6305,6 @@
    {
     "theatre": "carlton",
     "dates": [
-     "2026-11-03"
-    ],
-    "time": "21:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-03&film=895399313&aud=5&ptime=21:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
      "2026-11-04"
     ],
     "time": "21:50",
@@ -6391,24 +6336,6 @@
    "Science Fiction"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-03"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-03&film=687523055&aud=8&ptime=18:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-03"
-    ],
-    "time": "21:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-03&film=687523055&aud=8&ptime=21:50&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -6444,6 +6371,132 @@
     "time": "21:50",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-05&film=687523055&aud=4&ptime=21:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-06"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-06&film=687523055&aud=4&ptime=19:00&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-06"
+    ],
+    "time": "21:45",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-06&film=687523055&aud=4&ptime=21:45&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-07"
+    ],
+    "time": "13:00",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-07&film=687523055&aud=8&ptime=13:00&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-07"
+    ],
+    "time": "16:00",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-07&film=687523055&aud=8&ptime=16:00&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-07"
+    ],
+    "time": "21:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-07&film=687523055&aud=4&ptime=21:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-08"
+    ],
+    "time": "13:00",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-08&film=687523055&aud=8&ptime=13:00&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-08"
+    ],
+    "time": "16:00",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-08&film=687523055&aud=8&ptime=16:00&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-08"
+    ],
+    "time": "21:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-08&film=687523055&aud=4&ptime=21:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-09"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-09&film=687523055&aud=4&ptime=19:00&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-09"
+    ],
+    "time": "21:45",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-09&film=687523055&aud=4&ptime=21:45&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-10"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-10&film=687523055&aud=4&ptime=19:00&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-10"
+    ],
+    "time": "21:45",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-10&film=687523055&aud=4&ptime=21:45&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-11"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-11&film=687523055&aud=4&ptime=19:00&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-11"
+    ],
+    "time": "21:45",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-11&film=687523055&aud=4&ptime=21:45&ptype=G"
    }
   ],
   "art": [
@@ -6469,24 +6522,6 @@
    "Thriller"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-03"
-    ],
-    "time": "19:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-03&film=999668221&aud=1&ptime=19:10&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-03"
-    ],
-    "time": "21:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-03&film=999668221&aud=1&ptime=21:55&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -6547,24 +6582,6 @@
    "Comedy"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-03"
-    ],
-    "time": "18:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-03&film=16456597&aud=6&ptime=18:35&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-03"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-03&film=16456597&aud=6&ptime=21:30&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -6629,15 +6646,6 @@
    {
     "theatre": "carlton",
     "dates": [
-     "2026-11-03"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-03&film=951257739&aud=3&ptime=18:30&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
      "2026-11-04"
     ],
     "time": "18:30",
@@ -6654,6 +6662,65 @@
   "rating_count": 1450
  },
  {
+  "id": "lunar-sway",
+  "title": "Lunar Sway",
+  "year": 2026,
+  "director": "Nick Butler",
+  "runtime": 98,
+  "country": "Canada",
+  "lang": "English",
+  "why": "Cliff is struggling with his love life in a desert town when he unexpectedly connects with his estranged birth mother. After learning of his mom’s string of secrets, Cliff is led on a wild misadventure while also spen…",
+  "poster": "https://image.tmdb.org/t/p/w500/shJB0w3AgNBIvZw6uffu2EdnqLN.jpg",
+  "tags": [
+   "Comedy"
+  ],
+  "screenings": [
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-04"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-04&film=99889755&aud=8&ptime=19:00&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-04"
+    ],
+    "time": "21:40",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-04&film=99889755&aud=8&ptime=21:40&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-05"
+    ],
+    "time": "19:00",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-05&film=99889755&aud=8&ptime=19:00&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-05"
+    ],
+    "time": "21:40",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-05&film=99889755&aud=8&ptime=21:40&ptype=G"
+   }
+  ],
+  "art": [
+   "#40183a",
+   "#f24d94"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.33,
+  "rating_count": 282
+ },
+ {
   "id": "street-fighter",
   "title": "Street Fighter",
   "year": 2026,
@@ -6668,24 +6735,6 @@
    "Fantasy"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-03"
-    ],
-    "time": "19:05",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-03&film=547891060&aud=4&ptime=19:05&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-03"
-    ],
-    "time": "21:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-03&film=547891060&aud=4&ptime=21:45&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -6724,8 +6773,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 2.2,
@@ -6747,24 +6796,6 @@
    "Romance"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-03"
-    ],
-    "time": "18:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-03&film=302621572&aud=9&ptime=18:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-03"
-    ],
-    "time": "21:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-03&film=302621572&aud=9&ptime=21:35&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -6803,8 +6834,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.11,
@@ -6843,15 +6874,587 @@
     "time": "21:50",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-05&film=148917211&aud=5&ptime=21:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-06"
+    ],
+    "time": "18:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-06&film=148917211&aud=1&ptime=18:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-06"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-06&film=148917211&aud=1&ptime=21:30&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-07"
+    ],
+    "time": "12:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-07&film=148917211&aud=5&ptime=12:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-07"
+    ],
+    "time": "15:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-07&film=148917211&aud=4&ptime=15:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-07"
+    ],
+    "time": "18:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-07&film=148917211&aud=5&ptime=18:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-07"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-07&film=148917211&aud=5&ptime=21:30&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-08"
+    ],
+    "time": "12:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-08&film=148917211&aud=5&ptime=12:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-08"
+    ],
+    "time": "15:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-08&film=148917211&aud=4&ptime=15:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-08"
+    ],
+    "time": "18:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-08&film=148917211&aud=5&ptime=18:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-08"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-08&film=148917211&aud=5&ptime=21:30&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-09"
+    ],
+    "time": "18:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-09&film=148917211&aud=1&ptime=18:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-09"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-09&film=148917211&aud=1&ptime=21:30&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-10"
+    ],
+    "time": "18:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-10&film=148917211&aud=1&ptime=18:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-10"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-10&film=148917211&aud=1&ptime=21:30&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-11"
+    ],
+    "time": "18:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-11&film=148917211&aud=1&ptime=18:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-11"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-11&film=148917211&aud=1&ptime=21:30&ptype=G"
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 2.84,
   "rating_count": 475580
+ },
+ {
+  "id": "heated-rivalry-episodes-1-2",
+  "title": "Heated Rivalry - Episodes 1 & 2",
+  "year": null,
+  "director": "Jacob Tierney",
+  "runtime": 97,
+  "country": "",
+  "lang": "English, Russian",
+  "why": "Episode 1 - \"ROOKIES\" & Episode 2 - \"OLYMPIANS\"",
+  "poster": "https://omniwebticketing6.com/imaginecinemas/files-circuit/images/posters/Heated%20Rivalry.png",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-06"
+    ],
+    "time": "18:00",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-06&film=260839173&aud=3&ptime=18:00&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-07"
+    ],
+    "time": "12:00",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-07&film=260839173&aud=3&ptime=12:00&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-07"
+    ],
+    "time": "18:00",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-07&film=260839173&aud=3&ptime=18:00&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-08"
+    ],
+    "time": "12:00",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-08&film=260839173&aud=3&ptime=12:00&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-08"
+    ],
+    "time": "18:00",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-08&film=260839173&aud=3&ptime=18:00&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-09"
+    ],
+    "time": "18:00",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-09&film=260839173&aud=3&ptime=18:00&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-10"
+    ],
+    "time": "18:00",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-10&film=260839173&aud=3&ptime=18:00&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-11"
+    ],
+    "time": "18:00",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-11&film=260839173&aud=3&ptime=18:00&ptype=G"
+   }
+  ],
+  "art": [
+   "#3a2a1a",
+   "#f0a83c"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "heated-rivalry-episodes-3-4",
+  "title": "Heated Rivalry - Episodes 3 & 4",
+  "year": null,
+  "director": "Jacob Tierney",
+  "runtime": 93,
+  "country": "",
+  "lang": "English, Russian",
+  "why": "Episode 3 - \"HUNTER\" & Episode 4 - \"ROSE\"",
+  "poster": "https://omniwebticketing6.com/imaginecinemas/files-circuit/images/posters/Heated%20Rivalry%202.png",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-06"
+    ],
+    "time": "19:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-06&film=260839174&aud=7&ptime=19:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-07"
+    ],
+    "time": "13:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-07&film=260839174&aud=7&ptime=13:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-07"
+    ],
+    "time": "19:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-07&film=260839174&aud=7&ptime=19:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-08"
+    ],
+    "time": "13:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-08&film=260839174&aud=7&ptime=13:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-08"
+    ],
+    "time": "19:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-08&film=260839174&aud=7&ptime=19:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-09"
+    ],
+    "time": "19:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-09&film=260839174&aud=7&ptime=19:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-10"
+    ],
+    "time": "19:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-10&film=260839174&aud=7&ptime=19:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-11"
+    ],
+    "time": "19:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-11&film=260839174&aud=7&ptime=19:50&ptype=G"
+   }
+  ],
+  "art": [
+   "#2a3324",
+   "#d4b26a"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "heated-rivalry-episodes-5-6",
+  "title": "Heated Rivalry - Episodes 5 & 6",
+  "year": null,
+  "director": "Jacob Tierney",
+  "runtime": 107,
+  "country": "",
+  "lang": "English, Russian",
+  "why": "Episode 5 - \"I'LL BELIEVE IN ANYTHING\" & Episode 6 - \"THE COTTAGE\"",
+  "poster": "https://omniwebticketing6.com/imaginecinemas/files-circuit/images/posters/Heated%20Rivalry.png",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-06"
+    ],
+    "time": "21:35",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-06&film=260839175&aud=3&ptime=21:35&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-07"
+    ],
+    "time": "15:35",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-07&film=260839175&aud=3&ptime=15:35&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-07"
+    ],
+    "time": "21:35",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-07&film=260839175&aud=3&ptime=21:35&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-08"
+    ],
+    "time": "15:35",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-08&film=260839175&aud=3&ptime=15:35&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-08"
+    ],
+    "time": "21:35",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-08&film=260839175&aud=3&ptime=21:35&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-09"
+    ],
+    "time": "21:35",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-09&film=260839175&aud=3&ptime=21:35&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-10"
+    ],
+    "time": "21:35",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-10&film=260839175&aud=3&ptime=21:35&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-11"
+    ],
+    "time": "21:35",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-11&film=260839175&aud=3&ptime=21:35&ptype=G"
+   }
+  ],
+  "art": [
+   "#2b3a2f",
+   "#e0b34d"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "rocky",
+  "title": "Rocky",
+  "year": 1976,
+  "director": "John G. Avildsen",
+  "runtime": 120,
+  "country": "USA",
+  "lang": "English, Italian",
+  "why": "Rocky Balboa is a Philadelphia club fighter who seems to be going nowhere. But when a stroke of fate puts him in the ring with a world heavyweight champion, Rocky knows that it's his one shot at the big time — a once-…",
+  "poster": "https://image.tmdb.org/t/p/w500/raayaQ9WTUGolsYHPWc2bGonu58.jpg",
+  "tags": [
+   "Drama"
+  ],
+  "screenings": [
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-06"
+    ],
+    "time": "18:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-06&film=174498750&aud=8&ptime=18:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-06"
+    ],
+    "time": "21:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-06&film=174498750&aud=8&ptime=21:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-07"
+    ],
+    "time": "12:35",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-07&film=174498750&aud=9&ptime=12:35&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-07"
+    ],
+    "time": "15:40",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-07&film=174498750&aud=9&ptime=15:40&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-08"
+    ],
+    "time": "12:35",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-08&film=174498750&aud=1&ptime=12:35&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-08"
+    ],
+    "time": "15:40",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-08&film=174498750&aud=1&ptime=15:40&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-08"
+    ],
+    "time": "18:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-08&film=174498750&aud=1&ptime=18:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-08"
+    ],
+    "time": "21:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-08&film=174498750&aud=1&ptime=21:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-09"
+    ],
+    "time": "18:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-09&film=174498750&aud=8&ptime=18:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-09"
+    ],
+    "time": "21:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-09&film=174498750&aud=8&ptime=21:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-10"
+    ],
+    "time": "18:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-10&film=174498750&aud=8&ptime=18:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-10"
+    ],
+    "time": "21:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-10&film=174498750&aud=8&ptime=21:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-11"
+    ],
+    "time": "18:55",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-11&film=174498750&aud=5&ptime=18:55&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-11"
+    ],
+    "time": "21:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-11&film=174498750&aud=5&ptime=21:50&ptype=G"
+   }
+  ],
+  "art": [
+   "#3a2b2b",
+   "#c94f4f"
+  ],
+  "_tmdb_matched": true,
+  "rating": 4.12,
+  "rating_count": 1126690
  },
  {
   "id": "twilight-new-moon",
@@ -6994,11 +7597,29 @@
     "time": "21:40",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-10&film=32172530&aud=6&ptime=21:40&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-11"
+    ],
+    "time": "18:45",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-11&film=32172530&aud=6&ptime=18:45&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-11"
+    ],
+    "time": "21:40",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-11&film=32172530&aud=6&ptime=21:40&ptype=G"
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -7029,8 +7650,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -7059,11 +7680,54 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": false,
   "rating": null,
   "rating_count": null
+ },
+ {
+  "id": "the-mosquito-bowl",
+  "title": "The Mosquito Bowl",
+  "year": 2026,
+  "director": "Peter Berg",
+  "runtime": 128,
+  "country": "USA",
+  "lang": "English",
+  "why": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
+  "poster": "https://image.tmdb.org/t/p/w500/zbT4sxoCEeFWlQG4SC5X9Q8v6PC.jpg",
+  "tags": [
+   "History",
+   "Drama",
+   "War"
+  ],
+  "screenings": [
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-11"
+    ],
+    "time": "18:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-11&film=555990213&aud=8&ptime=18:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-11"
+    ],
+    "time": "21:40",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-11&film=555990213&aud=8&ptime=21:40&ptype=G"
+   }
+  ],
+  "art": [
+   "#2a3550",
+   "#e88b6a"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.21,
+  "rating_count": 1822
  }
 ]
