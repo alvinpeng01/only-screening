@@ -1,5 +1,80 @@
 [
  {
+  "id": "starship-troopers",
+  "title": "Starship Troopers",
+  "year": 1997,
+  "director": "Paul Verhoeven",
+  "runtime": 129,
+  "country": "USA",
+  "lang": "English",
+  "why": "Set in the future, the story follows a young soldier named Johnny Rico and his exploits in the Mobile Infantry. Rico's military career progresses from recruit to non-commissioned officer and finally to officer against…",
+  "poster": "https://image.tmdb.org/t/p/w500/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
+  "tags": [
+   "35mm",
+   "Adventure",
+   "Action"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2027-02-05"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=839347~fc639be0-110c-4035-a588-842aceff5ef6&"
+   }
+  ],
+  "art": [
+   "#2b3a2f",
+   "#e0b34d"
+  ],
+  "_tmdb_matched": true,
+  "rating": 3.85,
+  "rating_count": 361190
+ },
+ {
+  "id": "george-michael-the-faith-tour",
+  "title": "George Michael: The Faith Tour",
+  "year": 2026,
+  "director": "Andy Morahan, David Austin",
+  "runtime": 113,
+  "country": "United Kingdom",
+  "lang": "English",
+  "why": "A stunning delve into George Michael's 1988 Faith Tour, as shot live at the famous Palais Omnisports de Paris-Bercy. This exclusive footage, assembled from a 14-camera shoot captured on 35mm over two nights (30–31 May…",
+  "poster": "https://image.tmdb.org/t/p/w500/LXqHnaJ4ffkcx5YCuJN1noxkhr.jpg",
+  "tags": [
+   "Music"
+  ],
+  "screenings": [
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-12-29"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1046292~fc639be0-110c-4035-a588-842aceff5ef6&"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2027-01-01"
+    ],
+    "time": "21:30",
+    "format": "",
+    "url": "https://revuecinema.ca/films/george-michael-the-faith-tour/"
+   }
+  ],
+  "art": [
+   "#3a2b2b",
+   "#c94f4f"
+  ],
+  "_tmdb_matched": true,
+  "rating": null,
+  "rating_count": null
+ },
+ {
   "id": "goldfinger",
   "title": "Goldfinger",
   "year": 1964,
@@ -26,8 +101,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.76,
@@ -60,8 +135,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.59,
@@ -94,8 +169,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.4,
@@ -146,8 +221,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 4.24,
@@ -180,8 +255,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.3,
@@ -210,8 +285,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -244,8 +319,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.07,
@@ -278,8 +353,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.68,
@@ -312,8 +387,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 4.36,
@@ -355,8 +430,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 4.15,
@@ -461,8 +536,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 4.41,
@@ -494,8 +569,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -527,8 +602,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -559,8 +634,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.45,
@@ -593,8 +668,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.19,
@@ -627,8 +702,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.83,
@@ -660,8 +735,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.6,
@@ -693,42 +768,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
-  ],
-  "_tmdb_matched": true,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "psoty",
-  "title": "Psoty",
-  "year": 2026,
-  "director": "Kacper Lisowski",
-  "runtime": 99,
-  "country": "Poland, Slovakia",
-  "lang": "Polish",
-  "why": "Fragments of Uniforms is the debut full-length album by English post-metal/post-rock band Pet Slimmers of the Year. It was originally released by Anchor Music on compact disc on 31 October 2013; it was later re-issued…",
-  "poster": "https://image.tmdb.org/t/p/w500/fddlkJGlz3W9QE1s5BcFUbPKbns.jpg",
-  "tags": [
-   "Family",
-   "Adventure",
-   "Comedy"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-11-22"
-    ],
-    "time": "12:00",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1043483~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#40183a",
-   "#f24d94"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -760,8 +801,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.58,
@@ -793,8 +834,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.33,
@@ -826,8 +867,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.64,
@@ -860,8 +901,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.41,
@@ -899,11 +940,20 @@
     "time": "18:30",
     "format": "",
     "url": "https://revuecinema.ca/films/ekran-toronto-polish-film-festival-lalka/"
+   },
+   {
+    "theatre": "revue",
+    "dates": [
+     "2026-11-22"
+    ],
+    "time": "12:00",
+    "format": "",
+    "url": "https://revuecinema.ca/films/ekran-toronto-polish-film-festival-lalka/"
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -936,8 +986,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -970,8 +1020,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 2.18,
@@ -1000,8 +1050,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -1032,8 +1082,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -1066,8 +1116,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.42,
@@ -1100,8 +1150,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.33,
@@ -1134,8 +1184,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.53,
@@ -1168,8 +1218,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 4.12,
@@ -1237,8 +1287,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.65,
@@ -1270,8 +1320,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 4.24,
@@ -1303,8 +1353,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.98,
@@ -1335,8 +1385,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -1368,8 +1418,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.81,
@@ -1400,8 +1450,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.74,
@@ -1434,8 +1484,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.12,
@@ -1468,8 +1518,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.56,
@@ -1502,8 +1552,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.45,
@@ -1536,8 +1586,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 2.86,
@@ -1579,8 +1629,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 4.3,
@@ -1609,8 +1659,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -1643,8 +1693,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 4.04,
@@ -1677,8 +1727,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 4.09,
@@ -1707,8 +1757,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -1741,8 +1791,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.39,
@@ -1775,8 +1825,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.83,
@@ -1817,8 +1867,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -1851,8 +1901,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.7,
@@ -1885,8 +1935,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 2.86,
@@ -1917,8 +1967,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -1960,8 +2010,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 4.36,
@@ -1992,8 +2042,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 4.44,
@@ -2053,8 +2103,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.89,
@@ -2086,8 +2136,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.48,
@@ -2120,8 +2170,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.08,
@@ -2154,8 +2204,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.54,
@@ -2187,8 +2237,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.52,
@@ -2220,8 +2270,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 2.71,
@@ -2253,8 +2303,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.74,
@@ -2286,8 +2336,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.69,
@@ -2325,8 +2375,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -2359,8 +2409,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.34,
@@ -2392,8 +2442,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 2.99,
@@ -2426,8 +2476,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.58,
@@ -2460,46 +2510,12 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.46,
-  "rating_count": 117415
- },
- {
-  "id": "behind-every-door",
-  "title": "Behind Every Door",
-  "year": 1987,
-  "director": "Saeed Marzouk",
-  "runtime": 120,
-  "country": "Egypt",
-  "lang": "Arabic",
-  "why": "(A tale behind every door) A television movie consisting of four short films, written by the great writer Tawfiq Al-Hakim and writer Katia Thabet, in each film a different problem is presented, and the four films star…",
-  "poster": "https://image.tmdb.org/t/p/w500/2jMdkqu40f3M7WeiYsFGazkkp4i.jpg",
-  "tags": [
-   "Family",
-   "Fantasy",
-   "Mystery"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-11-06"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1038511~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
    "#3a3218",
    "#d9c06a"
   ],
   "_tmdb_matched": true,
-  "rating": null,
-  "rating_count": null
+  "rating": 3.46,
+  "rating_count": 117415
  },
  {
   "id": "ninja-terminator",
@@ -3113,74 +3129,6 @@
   "rating_count": 244068
  },
  {
-  "id": "v-for-vendetta",
-  "title": "V for Vendetta",
-  "year": 2006,
-  "director": "James McTeigue",
-  "runtime": 132,
-  "country": "Germany, United Kingdom",
-  "lang": "English",
-  "why": "In a world in which Great Britain has become a fascist state, a masked vigilante known only as “V” conducts guerrilla warfare against the oppressive British government. When V rescues a young woman from the secret pol…",
-  "poster": "https://image.tmdb.org/t/p/w500/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg",
-  "tags": [
-   "Action",
-   "Thriller",
-   "Science Fiction"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-11-05"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=824626~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#1f2a44",
-   "#f0f0f0"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.9,
-  "rating_count": 1024811
- },
- {
-  "id": "days-of-being-wild",
-  "title": "Days of Being Wild",
-  "year": 1990,
-  "director": "Wong Kar-Wai",
-  "runtime": 94,
-  "country": "Hong Kong",
-  "lang": "English, Cantonese",
-  "why": "Yuddy, a Hong Kong playboy known for breaking girls' hearts, tries to find solace and truth after discovering the woman who raised him isn't his mother.",
-  "poster": "https://image.tmdb.org/t/p/w500/g0nbZt1eFlL8FqG8r524iXnpoQV.jpg",
-  "tags": [
-   "4K",
-   "Restoration",
-   "Crime"
-  ],
-  "screenings": [
-   {
-    "theatre": "revue",
-    "dates": [
-     "2026-11-14"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://prod3.agileticketing.net/websales/pages/info.aspx?evtinfo=1035233~fc639be0-110c-4035-a588-842aceff5ef6&"
-   }
-  ],
-  "art": [
-   "#3a2440",
-   "#4dd6c4"
-  ],
-  "_tmdb_matched": true,
-  "rating": 3.82,
-  "rating_count": 108234
- },
- {
   "id": "your-mother-your-mother-your-mother",
   "title": "Your Mother Your Mother Your Mother",
   "year": 2026,
@@ -3216,8 +3164,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.95,
@@ -3237,15 +3185,6 @@
    "Documentary"
   ],
   "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-11-06"
-    ],
-    "time": "20:45",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=661825~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
    {
     "theatre": "fox",
     "dates": [
@@ -3356,8 +3295,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 4.6,
@@ -3399,8 +3338,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.93,
@@ -3441,8 +3380,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.24,
@@ -3473,8 +3412,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.55,
@@ -3503,8 +3442,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -3554,8 +3493,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 2.58,
@@ -3597,8 +3536,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.85,
@@ -3658,8 +3597,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 3.46,
@@ -3688,8 +3627,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -3722,8 +3661,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 4.23,
@@ -3755,8 +3694,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.82,
@@ -3785,8 +3724,38 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#1f2a44",
+   "#f0f0f0"
+  ],
+  "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "ten-short-films-festival",
+  "title": "Ten Short Films Festival",
+  "year": 2026,
+  "director": "Paweł Pawlikowski",
+  "runtime": 82,
+  "country": "Poland, Germany, Italy, France",
+  "lang": "German, English, French, Russian",
+  "why": "Line-up:Anita Louise & the Wild Women (12:36) | Forget Me Not (7:00) | Cartouche (15:00) | Les Enfant La ont Peur (14:10) | November (7:00) | Tea Cup (17:15) | Mise En Place (6:24) | Cocoon (5:00) | Stitches (12:00) | Good Nose (6:30)With Filmmaker Q&A",
+  "poster": "https://www.foxtheatre.ca/wp-content/uploads/2026/11/tenshortfilmsfoxlist2026.jpg",
+  "tags": [],
+  "screenings": [
+   {
+    "theatre": "fox",
+    "dates": [
+     "2026-11-22"
+    ],
+    "time": "12:00",
+    "format": "",
+    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=667748~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
+   }
+  ],
+  "art": [
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -3900,8 +3869,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.99,
@@ -3933,8 +3902,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.58,
@@ -3967,8 +3936,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 4.23,
@@ -4045,8 +4014,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.66,
@@ -4067,15 +4036,6 @@
    "War"
   ],
   "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-11-06"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=663539~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
    {
     "theatre": "fox",
     "dates": [
@@ -4132,8 +4092,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 4.55,
@@ -4166,8 +4126,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.82,
@@ -4199,8 +4159,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -4229,8 +4189,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -4271,8 +4231,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 4.06,
@@ -4323,8 +4283,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.72,
@@ -4437,8 +4397,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 4.33,
@@ -4470,8 +4430,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.71,
@@ -4531,8 +4491,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.22,
@@ -4564,8 +4524,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.89,
@@ -4585,15 +4545,6 @@
    "Drama"
   ],
   "screenings": [
-   {
-    "theatre": "fox",
-    "dates": [
-     "2026-11-06"
-    ],
-    "time": "15:45",
-    "format": "",
-    "url": "https://tickets.foxtheatre.ca/websales/pages/ticketsearchcriteria.aspx?evtinfo=663572~3cc021f8-1c84-4d3e-b58d-8be52cd73055&"
-   },
    {
     "theatre": "fox",
     "dates": [
@@ -4623,8 +4574,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.45,
@@ -4653,38 +4604,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
-  ],
-  "_tmdb_matched": false,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "percocet-jesus-the-cult-screening",
-  "title": "Percocet Jesus: The Cult Screening",
-  "year": null,
-  "director": "",
-  "runtime": 30,
-  "country": "",
-  "lang": "",
-  "why": "",
-  "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/350/2026/10/28163953/PJ-movie-poster-size-Matthew-Simser-691x1024.png",
-  "tags": [],
-  "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-11-06"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://www.zeffy.com/en-CA/ticketing/percocet-jesus-the-cult-screening?utm_source=ig&utm_medium=social&utm_content=link_in_bio"
-   }
-  ],
-  "art": [
-   "#101b2a",
-   "#e0562a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -4702,15 +4623,6 @@
   "poster": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/350/2025/10/28161235/Paradise_TIMVF2026Poster-9x16_v2-576x1024.jpg",
   "tags": [],
   "screenings": [
-   {
-    "theatre": "paradise",
-    "dates": [
-     "2026-11-07"
-    ],
-    "time": "11:00",
-    "format": "",
-    "url": "https://filmfreeway.com/timvf/tickets"
-   },
    {
     "theatre": "paradise",
     "dates": [
@@ -4785,8 +4697,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -4819,8 +4731,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 4.17,
@@ -4876,24 +4788,6 @@
     "time": "14:00",
     "format": "",
     "url": "https://paradiseonbloor.com/purchase/698581/"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-06"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-06&film=14734562&aud=2&ptime=18:30&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-06"
-    ],
-    "time": "19:10",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-06&film=14734562&aud=8&ptime=19:10&ptype=G"
    },
    {
     "theatre": "carlton",
@@ -5032,8 +4926,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 4.41,
@@ -5066,8 +4960,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 4.15,
@@ -5099,8 +4993,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 3.91,
@@ -5129,8 +5023,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5163,8 +5057,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.17,
@@ -5196,8 +5090,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.93,
@@ -5230,8 +5124,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 3.42,
@@ -5263,8 +5157,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.77,
@@ -5296,8 +5190,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": true,
   "rating": 3.82,
@@ -5330,8 +5224,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": true,
   "rating": 4.07,
@@ -5362,8 +5256,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": true,
   "rating": 3.38,
@@ -5413,8 +5307,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 3.49,
@@ -5446,8 +5340,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 4.01,
@@ -5480,8 +5374,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 3.5,
@@ -5514,8 +5408,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": 4.07,
@@ -5557,8 +5451,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.0,
@@ -5590,8 +5484,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 4.26,
@@ -5620,8 +5514,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5650,8 +5544,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5680,8 +5574,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5710,8 +5604,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5740,8 +5634,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5770,8 +5664,8 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5804,8 +5698,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#101b2a",
+   "#e0562a"
   ],
   "_tmdb_matched": true,
   "rating": 4.03,
@@ -5838,8 +5732,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 4.06,
@@ -5868,8 +5762,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": false,
   "rating": 3.24,
@@ -5901,8 +5795,8 @@
    }
   ],
   "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -5933,8 +5827,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": true,
   "rating": 3.96,
@@ -5966,8 +5860,8 @@
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.81,
@@ -5998,8 +5892,8 @@
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": 3.6,
@@ -6031,8 +5925,8 @@
    }
   ],
   "art": [
-   "#40183a",
-   "#f24d94"
+   "#123a3a",
+   "#7fd4e0"
   ],
   "_tmdb_matched": true,
   "rating": 2.68,
@@ -6054,24 +5948,6 @@
    "Science Fiction"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-06"
-    ],
-    "time": "19:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-06&film=687523055&aud=4&ptime=19:00&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-06"
-    ],
-    "time": "21:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-06&film=687523055&aud=4&ptime=21:45&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -6200,8 +6076,8 @@
    }
   ],
   "art": [
-   "#24303a",
-   "#9ab0c4"
+   "#2a3550",
+   "#e88b6a"
   ],
   "_tmdb_matched": true,
   "rating": 3.7,
@@ -6219,15 +6095,6 @@
   "poster": "https://omniwebticketing6.com/imaginecinemas/files-circuit/images/posters/Heated%20Rivalry.png",
   "tags": [],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-06"
-    ],
-    "time": "18:00",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-06&film=260839173&aud=3&ptime=18:00&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -6302,8 +6169,8 @@
    }
   ],
   "art": [
-   "#3a3218",
-   "#d9c06a"
+   "#40183a",
+   "#f24d94"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -6321,15 +6188,6 @@
   "poster": "https://omniwebticketing6.com/imaginecinemas/files-circuit/images/posters/Heated%20Rivalry%202.png",
   "tags": [],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-06"
-    ],
-    "time": "19:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-06&film=260839174&aud=7&ptime=19:50&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -6404,8 +6262,8 @@
    }
   ],
   "art": [
-   "#101b2a",
-   "#e0562a"
+   "#24303a",
+   "#9ab0c4"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -6423,15 +6281,6 @@
   "poster": "https://omniwebticketing6.com/imaginecinemas/files-circuit/images/posters/Heated%20Rivalry.png",
   "tags": [],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-06"
-    ],
-    "time": "21:35",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-06&film=260839175&aud=3&ptime=21:35&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -6506,10 +6355,42 @@
    }
   ],
   "art": [
-   "#3a2a1a",
-   "#f0a83c"
+   "#3a3218",
+   "#d9c06a"
   ],
   "_tmdb_matched": false,
+  "rating": null,
+  "rating_count": null
+ },
+ {
+  "id": "j-double-o",
+  "title": "J Double O",
+  "year": null,
+  "director": "Hubert Boorder",
+  "runtime": 51,
+  "country": "Canada",
+  "lang": "English",
+  "why": "J Double O's Epic Quest: JOO isn't your average wrestling hero. Sure, he's strong and ready to fight, but his true strength lies in his determination. Winning the belt isn't just for glory-it's about saving his people…",
+  "poster": "https://image.tmdb.org/t/p/w500/335KCydpokQJ8nMn6zUJydOqCUn.jpg",
+  "tags": [
+   "Action"
+  ],
+  "screenings": [
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-07"
+    ],
+    "time": "18:30",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-07&film=998666640&aud=8&ptime=18:30&ptype=G"
+   }
+  ],
+  "art": [
+   "#101b2a",
+   "#e0562a"
+  ],
+  "_tmdb_matched": true,
   "rating": null,
   "rating_count": null
  },
@@ -6527,24 +6408,6 @@
    "Drama"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-06"
-    ],
-    "time": "18:55",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-06&film=174498750&aud=5&ptime=18:55&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-06"
-    ],
-    "time": "21:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-06&film=174498750&aud=5&ptime=21:50&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -6673,8 +6536,8 @@
    }
   ],
   "art": [
-   "#2a3324",
-   "#d4b26a"
+   "#3a2a1a",
+   "#f0a83c"
   ],
   "_tmdb_matched": true,
   "rating": 4.12,
@@ -6696,24 +6559,6 @@
    "Family"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-06"
-    ],
-    "time": "18:50",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-06&film=148917211&aud=1&ptime=18:50&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-06"
-    ],
-    "time": "21:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-06&film=148917211&aud=1&ptime=21:30&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -6860,8 +6705,8 @@
    }
   ],
   "art": [
-   "#2b3a2f",
-   "#e0b34d"
+   "#2a3324",
+   "#d4b26a"
   ],
   "_tmdb_matched": true,
   "rating": 2.84,
@@ -6883,24 +6728,6 @@
    "Drama"
   ],
   "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-06"
-    ],
-    "time": "18:45",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-06&film=32172530&aud=6&ptime=18:45&ptype=G"
-   },
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-06"
-    ],
-    "time": "21:40",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-06&film=32172530&aud=6&ptime=21:40&ptype=G"
-   },
    {
     "theatre": "carlton",
     "dates": [
@@ -7047,40 +6874,8 @@
    }
   ],
   "art": [
-   "#3a2b2b",
-   "#c94f4f"
-  ],
-  "_tmdb_matched": true,
-  "rating": null,
-  "rating_count": null
- },
- {
-  "id": "j-double-o",
-  "title": "J Double O",
-  "year": null,
-  "director": "Hubert Boorder",
-  "runtime": 51,
-  "country": "Canada",
-  "lang": "English",
-  "why": "J Double O's Epic Quest: JOO isn't your average wrestling hero. Sure, he's strong and ready to fight, but his true strength lies in his determination. Winning the belt isn't just for glory-it's about saving his people…",
-  "poster": "https://image.tmdb.org/t/p/w500/335KCydpokQJ8nMn6zUJydOqCUn.jpg",
-  "tags": [
-   "Action"
-  ],
-  "screenings": [
-   {
-    "theatre": "carlton",
-    "dates": [
-     "2026-11-07"
-    ],
-    "time": "18:30",
-    "format": "",
-    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-07&film=998666640&aud=8&ptime=18:30&ptype=G"
-   }
-  ],
-  "art": [
-   "#1f2a44",
-   "#f0f0f0"
+   "#2b3a2f",
+   "#e0b34d"
   ],
   "_tmdb_matched": true,
   "rating": null,
@@ -7109,8 +6904,8 @@
    }
   ],
   "art": [
-   "#3a2440",
-   "#4dd6c4"
+   "#3a2b2b",
+   "#c94f4f"
   ],
   "_tmdb_matched": false,
   "rating": null,
@@ -7185,11 +6980,47 @@
     "time": "21:40",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-13&film=555990213&aud=5&ptime=21:40&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-14"
+    ],
+    "time": "12:45",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-14&film=555990213&aud=5&ptime=12:45&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-14"
+    ],
+    "time": "15:45",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-14&film=555990213&aud=5&ptime=15:45&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-14"
+    ],
+    "time": "18:45",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-14&film=555990213&aud=5&ptime=18:45&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-14"
+    ],
+    "time": "21:40",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-14&film=555990213&aud=5&ptime=21:40&ptype=G"
    }
   ],
   "art": [
-   "#123a3a",
-   "#7fd4e0"
+   "#1f2a44",
+   "#f0f0f0"
   ],
   "_tmdb_matched": true,
   "rating": 3.21,
@@ -7228,11 +7059,47 @@
     "time": "21:35",
     "format": "",
     "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-13&film=998069663&aud=6&ptime=21:35&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-14"
+    ],
+    "time": "12:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-14&film=998069663&aud=6&ptime=12:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-14"
+    ],
+    "time": "15:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-14&film=998069663&aud=6&ptime=15:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-14"
+    ],
+    "time": "18:50",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-14&film=998069663&aud=6&ptime=18:50&ptype=G"
+   },
+   {
+    "theatre": "carlton",
+    "dates": [
+     "2026-11-14"
+    ],
+    "time": "21:35",
+    "format": "",
+    "url": "https://omniwebticketing6.com/imaginecinemas/carlton?schdate=2026-11-14&film=998069663&aud=6&ptime=21:35&ptype=G"
    }
   ],
   "art": [
-   "#2a3550",
-   "#e88b6a"
+   "#3a2440",
+   "#4dd6c4"
   ],
   "_tmdb_matched": true,
   "rating": null,
