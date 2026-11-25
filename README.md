@@ -1,21 +1,22 @@
 # Only Screening
 
-A small web app that shows the films actually playing at Toronto rep / arthouse
-cinemas — with real posters, live showtimes, and clickable "buy tickets" links.
+Only Screening brings showtimes from five Toronto cinemas into one searchable calendar. Pick a film to see when and where it plays and follow the cinema’s own ticket link.
 
-`data.js` is generated from live theatre listings by `update.py` (see below); it
-is not hand-authored. `data.curated-backup.js` is the earlier hand-curated demo,
-kept only as a reference — delete it whenever.
+Five Python adapters read the venues’ different feeds, including WordPress listings, JSON APIs and schedules embedded in HTML. The updater normalizes the screenings, groups them by film and exports the same records to `data.json` and `data.js`. The JavaScript interface reads the saved data, so you can explore a complete example without credentials or a live scrape.
 
-## Run it
+**Example from the saved listings.** *Orlando* (1992), directed by Sally Potter, appears at Revue Cinema on February 21, 2027 at 18:30. The film record carries the runtime (94 minutes), and the screening carries the venue, date, time and ticket URL.
 
+## Run locally
+
+With Git and Python 3 installed, run:
+
+```sh
+git clone https://github.com/alvinpeng01/only-screening.git
+cd only-screening
+python3 -m http.server 8777 --bind 127.0.0.1
 ```
-cd unique-movies
-python3 -m http.server 8777
-# open http://localhost:8777
-```
 
-Or just double-click `index.html`.
+On Windows, use `py -m http.server 8777 --bind 127.0.0.1` for the last command. Open [the local app](http://127.0.0.1:8777), search for a film, then select a showtime. You can also open `index.html` directly.
 
 ## Files
 
@@ -25,7 +26,7 @@ Or just double-click `index.html`.
 | `data.js` | **Generated** by `update.py` from live listings. Don't edit by hand. |
 | `update.py` | Scrapes each theatre and regenerates `data.js` (see below). |
 | `com.onlyscreening.update.plist` | macOS schedule to run the updater daily. |
-| `data.curated-backup.js` | The old hand-curated demo, kept for reference only. |
+| `data.json` | Generated film and screening records for use outside the web interface. |
 
 ## Updating the listings
 
@@ -122,7 +123,7 @@ Runs `update.py --all` every day at 06:15; output goes to `update.log`.
 On Linux the equivalent cron line is:
 
 ```
-15 6 * * *  cd /path/to/unique-movies && /usr/bin/python3 update.py --all >> update.log 2>&1
+15 6 * * *  cd /path/to/only-screening && /usr/bin/python3 update.py --all >> update.log 2>&1
 ```
 
 ## Notes
